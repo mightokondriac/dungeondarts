@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-12T11:14:07-04:00
+
+====== 2.Cleric ======
+Created Thursday 12 October 2023
+@classes @cleric
+
+**Starting Stats**
+Hit Points: 90
+Armor Class: 4
+Base Darts: 3
+**Natural Abilities:**(by level achived)
+(1st) Combat Medic: Sacrifice 1 Base Dart. Darts sacrificed this way can be used in the damage phase to heal any other player by the amount thrown.
+(2nd) Smite: Additional x1mod on any Attack Dart that hits a black section.
+(4th) Divine Aura: Heal 5hp at Regroup phase each round.
+(6th) Divine Presense: All players get +1 to attack on all Base Darts.
+
+**Special Abilities:**
+(1st) Bless: Prevent all damage to all players for 2 rounds.
+(5th) Celestial Fire: Skip one turn. The next regroup phase, sacrifice a Base Dart. A Dart sacrificed in this way has a x10mod in the damage phase and cannot be used again for the rest of the encounter.

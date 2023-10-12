@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-12T11:12:36-04:00
+
+====== 2.Classes ======
+Created Thursday 12 October 2023
+@classes @index
+
+[[+1.Fighter|1.Fighter]]
+[[+2.Cleric|2.Cleric]]
+[[+3.Ranger|3.Ranger]]
+[[+4.Thief|4.Thief]]
+[[+5.Sorcerer|5.Sorcerer]]

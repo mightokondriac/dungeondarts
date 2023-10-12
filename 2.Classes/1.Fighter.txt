@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-12T11:15:00-04:00
+
+====== 1.Fighter ======
+Created Thursday 12 October 2023
+@classes @fighter
+
+**Starting Stats**
+Hit Points: 100
+Armor Class: 5
+Base Darts: 3
+**Natural Abilities:**(by level achived)
+(1st) Skilled Strike: Add x1mod to any single Damage Dart. Must be declared before throw.
+(2nd) Intimidation: On a successful Bullseye Damage Dart, prevent all damage to you from that opponent for 1 round.
+(4th) Battle Prowess: Your Base Darts increases by 1 Dart.
+(6th) Battle Insight: Your Attack Darts gain +1 to attack.
+
+**Special Abilities**:
+(1st) Flurry Attack: Throw 6 Damage Darts. Ignore Attack Dart results(no xmods from Attack Darts).
+(5th) Shield Bearer: For each Attack Dart sacrificed, throw a Damage Dart. Damage Darts gained in this way can be used to prevent damage, equal to the total of the throw, to any player. Lasts 1 Round.

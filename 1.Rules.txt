@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-12T02:27:37-04:00
+
+====== 1.Rules ======
+Created Thursday 12 October 2023
+@rules @index
+
+This is some rules. this rules.
+	[[+Safety Warnings]]
+	[[+Setup and Technical]]
+	[[+Alternate Rules]]
+	[[+Homebrew Advice]]

@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-12T02:26:58-04:00
+
+====== 0.Home ======
+Created Thursday 12 October 2023
+@home @index
+
+<<< [[+NOTES|NOTES]] >>>
+
+[[World]]
+	Maps
+	Historical
+[[1.Rules]]
+	[[1.Rules:Safety Warnings]]
+	[[1.Rules:Setup and Technical|Setup and Technical]]
+	[[1.Rules:Alternate Rules|Alternate Rules]]
+	[[1.Rules:Homebrew Advice|Homebrew Advice]]
+[[2.Classes]]
+	[[2.Classes:1.Fighter|1.Fighter]]
+	[[2.Classes:2.Cleric|2.Cleric]]
+	[[2.Classes:3.Ranger|3.Ranger]] (may be moved to first expansion)
+	[[2.Classes:4.Thief|4.Thief]]
+	[[2.Classes:5.Sorcerer|5.Sorcerer]]
+[[3.Towns]]
+	Merchants
+[[4.Adventures]]
+	Side Quests
+	Encounters
+[[z.Lists|Lists]]
+	All Enemies
+	All Activities
+	All Encounters
+	All Class Abilities
+	All Enemy Abilities
+	All Terminology

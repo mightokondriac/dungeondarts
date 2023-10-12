@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-12T08:48:29-04:00
+
+====== Safety Warnings ======
+Created Thursday 12 October 2023
+@rules @safety
+
+follow all Darts rules 

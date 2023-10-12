@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-12T11:14:10-04:00
+
+====== 5.Sorcerer ======
+Created Thursday 12 October 2023
+@classes @sorcerer
+
+**Starting Stats**
+Hit Points: 60
+Armor Class: 1
+Base Darts: 2
+**Natural Abilities:**(by level achived)
+(1st) Ghost Strike: Move one Attack Dart over 1 wire(No Bullseye Types).
+	Redirected Approach: Forfiet an Attack Dart and gain a Damage Dart(0xmod). Damage delt this way is dealt instead by a player of your choice. 
+(2nd) Piercing Shot: Move the Damage Dart over 1 wire for any Attack Dart that hits a Bullseye Type.
+(4th) Aura of Power: All players gain +2 to AC
+(6th) Ghost Strike: Move one Attack Dart over 2 wires(no Double Bull).
+
+**Special Abilities:**
+(1st) Ravens Eye Strike: All players may move 1 Attack Dart over 1 wire(No Bullseye Types).
+(5th) Ball Lightning: Every first of 2 Damage Darts does an additional 30hp of damage/round for 3 rounds.

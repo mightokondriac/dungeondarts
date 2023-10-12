@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-12T11:14:12-04:00
+
+====== 4.Thief ======
+Created Thursday 12 October 2023
+@classes @thief @rogue
+
+**Starting Stats**
+Hit Points: 70
+Armor Class: 2
+Base Darts: 4
+**Natural Abilities:**(by level achived)
+(1st) Deft Strike: Rethrow any missed Attack Dart.
+	Deft Save: Rethrow any Bounced Dart(1/round).
+(2nd) Parry: Redirect 5 damage/round.
+(4th) Barrage: Forfiet all Attack Darts. Gain 3 Damage Darts that have x2mod.
+(6th) Posted: Forfiet any amount of Base Darts. Give any number of these Forfieted Darts to any number of players. Heal 10hp for the first dart, 20hp for the second dart and 30hp for the third dart(totalling 60hp if 3 are forfieted). Darts forfieted this way are not Recoverd for 1 round/dart forfieted(2 forfieted = both darts are not Recovered for 2 rounds).
+
+Special Abilities:
+(1st) Critical Opening: One of your Damage Darts gains x10mod until next Regroup Stage.
+(5th) Slip Through: Enemy Status Effects that reduce or prevent damage or force you to miss are ignored(3 rounds).
