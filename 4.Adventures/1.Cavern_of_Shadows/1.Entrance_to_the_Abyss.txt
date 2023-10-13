@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2023-10-12T22:44:02-04:00
 
-====== Entrance to the Abyss ======
+====== 1.Entrance to the Abyss ======
 Created Thursday 12 October 2023
 @encounter @cavern_of_shadows @ac16
 

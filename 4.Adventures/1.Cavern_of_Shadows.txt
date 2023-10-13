@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-12T11:37:18-04:00
+
+====== 1.Cavern of Shadows ======
+Created Thursday 12 October 2023
+@adventure @adventureindex @cavern_of_shadows
+Encounters
+	[[+1.Entrance to the Abyss|1.Entrance to the Abyss]]
+	[[+2.Whispering Depths|2.Whispering Depths]]
+	[[+3.Luminious Fungal Grove|3.Luminious Fungal Grove]]
+	[[+4.Abyssal Nexus|4.Abyssal Nexus]]
+	[[+5.Veil of Darkness|5.Veil of Darkness]]

@@ -6,7 +6,7 @@ Creation-Date: 2023-10-12T11:35:01-04:00
 Created Thursday 12 October 2023
 @adventure @index @cavern_of_shadows
 
-[[+Cavern of Shadows|Cavern of Shadows]]
+[[+1.Cavern of Shadows|1.Cavern of Shadows]]
 	Entrance to the Abyss
 	Whispering Depths
 	Luminious Fungal Grove

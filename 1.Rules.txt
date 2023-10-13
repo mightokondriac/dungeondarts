@@ -11,27 +11,28 @@ Created Thursday 12 October 2023
 	[[+3.Alternate Rules|Alternate Rules]]
 	[[+4.Homebrew Advice|Homebrew Advice]]
 
-Primary Rules
+**Primary Rules**
 
-	Game Involvement
-		First Steps
-		Reading The Cards
-		Activities
-		Merchants
-		Portals
-		Adventures
-		Encounters
+	[[+Game Involvement|Game Involvement]]
+		First Steps (How to start the game.)
+		Reading The Cards (Lets play the game!)
+		Activities (Non-Encounter Dart challenges)
+		Merchants (Buy goods and services)
+		Portals (Integral to travel)
+		Adventures (A collection of Encounters)
+		Encounters (Sets of Activities and Enemies to gain levels)
 		
 	Game Progression
-		Turns
-		Rounds
-		Stages
+		Regroup (the moment before anyones turn)
+		Turns (your turn)
+		Rounds (all of the turns)
+		Stages (components of turns and rounds)
 		
-	Dart Types
-		Base
-		Attack
-		Damage
-	
+	[[1.Rules:Dart Types|Dart Types]]
+		Base (iteractive vectors)
+		Attack (a base dart becomes an attack dart in the Attack Stage)
+		Damage (successful attack dart becomes damage dart)
+
 	Abilities
 		Natural
 		Special
