@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-12T22:44:02-04:00
+
+====== Entrance to the Abyss ======
+Created Thursday 12 October 2023
+@encounter @cavern_of_the_abyss @ac16
+
+First encounter
+
+**Initial Challenge:** The doorway to the Cavern of Shadows is sealed by a complex set of locks on the door. Only the most skilled adventurers are able to decipher its riddle. (This must be solved to continue)
+Unsolved until you hit: 16, 17, 18, 19, 20 (All Players)
+
+**Clear the way**: The cavern appears to be collapsed after the entrance and must be cleared to continue. Take caution, as the ceiling seems weakened.
+Unresolved until you hit: Bullseye (All Players)
+
+**Enemy(Primary):**
+Shimmersnake
+AC: 16
+HP: 20
+BD: 10
+Its scales seem to change color with every heartbeat, a mesmerizing dance of hues that conceal its true nature. The snake's eyes fix on you, glinting with an otherworldly intelligence, and it slithers forward with an unnerving grace. As it draws closer, the room seems to grow colder, and a sense of foreboding settles over you like a heavy shroud.
+
+**@ 1/2 HP**
+**Mezmerising Dance**: Every first successful Attack Dart, flip a coin. Attack Dart misses on fail.
+	**Treasure**: Shimmering Scale(S)(C) - Deflect 5 Damage per round.
+
+

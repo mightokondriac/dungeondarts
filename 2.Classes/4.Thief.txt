@@ -17,6 +17,6 @@ Base Darts: 4
 (4th) Barrage: Forfiet all Attack Darts. Gain 3 Damage Darts that have x2mod.
 (6th) Posted: Forfiet any amount of Base Darts. Give any number of these Forfieted Darts to any number of players. Heal 10hp for the first dart, 20hp for the second dart and 30hp for the third dart(totalling 60hp if 3 are forfieted). Darts forfieted this way are not Recoverd for 1 round/dart forfieted(2 forfieted = both darts are not Recovered for 2 rounds).
 
-Special Abilities:
+**Special Abilities:**
 (1st) Critical Opening: One of your Damage Darts gains x10mod until next Regroup Stage.
 (5th) Slip Through: Enemy Status Effects that reduce or prevent damage or force you to miss are ignored(3 rounds).

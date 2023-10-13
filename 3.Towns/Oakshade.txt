@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-12T22:35:22-04:00
+
+====== Oakshade ======
+Created Thursday 12 October 2023
+@town
+
+The first town the players encounter.
+Relevelent for level 1 - 16
+
+Description
+
+History
+
+Merchants
+	Elric - Alchemist
+	Thalia Arcsmith - Artificer
+	Grom Ironhide - Innkeeper of the Thunderclash Tavern
+Activities
+	Playing the Locals
+		Kearson's Pub
+		Behind Benny's Bar
+		1201 Deacon St.
+		Lasker Park
+		
+
