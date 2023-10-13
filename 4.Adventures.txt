@@ -4,6 +4,7 @@ Creation-Date: 2023-10-12T11:35:01-04:00
 
 ====== 4.Adventures ======
 Created Thursday 12 October 2023
+@adventure @index @cavern_of_shadows
 
 [[+Cavern of Shadows|Cavern of Shadows]]
 	Entrance to the Abyss

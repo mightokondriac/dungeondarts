@@ -11,14 +11,14 @@ Hit Points: 90
 Armor Class: 4
 Base Darts: 3
 **Natural Abilities:**(by level achived)
-(1st) Combat Medic: Sacrifice 1 Base Dart. Darts sacrificed this way can be used in the damage phase to heal any other player by the amount thrown.
-(2nd) Smite: Additional x1mod on any Attack Dart that hits a black section.
-(4th) Divine Aura: Heal 5hp at Regroup phase each round.
-(6th) Divine Presense: All players get +1 to attack on all Base Darts.
+	(1st) Combat Medic: Sacrifice 1 Base Dart. Darts sacrificed this way can be used in the damage phase to heal any other player by the amount thrown.
+	(2nd) Smite: Additional x1mod on any Attack Dart that hits a black section.
+	(4th) Divine Aura: Heal 5hp at Regroup phase each round.
+	(6th) Divine Presense: All players get +1 to attack on all Base Darts.
 
 **Special Abilities:**
-(1st) Bless: Prevent all damage to all players for 2 rounds.
-(5th) Celestial Fire: Skip one turn. The next regroup phase, sacrifice a Base Dart. A Dart sacrificed in this way has a x10mod in the damage phase and cannot be used again for the rest of the encounter.
+	(1st) Bless: Prevent all damage to all players for 2 rounds.
+	(5th) Celestial Fire: Skip one turn. The next regroup phase, sacrifice a Base Dart. A Dart sacrificed in this way has a x10mod in the damage phase and cannot be used again for the rest of the encounter.
 
 **Description:**
 The Cleric is a divine conduit, an emissary chosen to wield the sacred powers granted by the deities of the world. They serve as healers, spiritual guides, and protectors of the faith. With a strong connection to the divine, Clerics channel this energy to mend wounds, purify spirits, and, in dire situations, smite their enemies with righteous fury. Their versatile abilities can turn the tide of battle, bestowing blessings on their comrades to enhance their resilience, or calling down divine retribution on those who threaten the balance of the world. It is the calling of the Cleric to tend to the spiritual and physical needs of their party, whether through powerful healing magic, fortifying wards, or leading their group with unwavering faith.

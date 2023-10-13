@@ -6,8 +6,46 @@ Creation-Date: 2023-10-12T02:27:37-04:00
 Created Thursday 12 October 2023
 @rules @index
 
-This is some rules. this rules.
-	[[+Safety Warnings]]
-	[[+Setup and Technical]]
-	[[+Alternate Rules]]
-	[[+Homebrew Advice]]
+	[[+1.Safety Warnings|Safety Warnings]]
+	[[+2.Setup and Technical|Setup and Technical]]
+	[[+3.Alternate Rules|Alternate Rules]]
+	[[+4.Homebrew Advice|Homebrew Advice]]
+
+Primary Rules
+
+	Game Involvement
+		First Steps
+		Reading The Cards
+		Activities
+		Merchants
+		Portals
+		Adventures
+		Encounters
+		
+	Game Progression
+		Turns
+		Rounds
+		Stages
+		
+	Dart Types
+		Base
+		Attack
+		Damage
+	
+	Abilities
+		Natural
+		Special
+		
+	Special States
+		Bounced Dart
+		Multi-Hit
+		
+	xMods
+	
+	Status Effects
+		Chance
+		Forced
+	Enemies
+	
+		
+

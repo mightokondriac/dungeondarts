@@ -4,7 +4,7 @@ Creation-Date: 2023-10-12T22:44:02-04:00
 
 ====== Entrance to the Abyss ======
 Created Thursday 12 October 2023
-@encounter @cavern_of_the_abyss @ac16
+@encounter @cavern_of_shadows @ac16
 
 First encounter
 
