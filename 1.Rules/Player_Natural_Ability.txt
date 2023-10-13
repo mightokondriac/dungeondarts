@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-13T13:14:17-04:00
+
+====== Player Natural Ability ======
+Created Friday 13 October 2023
+@rules @abilities @player
+
+==== Advanced ====
+	abbrev: na.p
+	activation: always active
+	restrict: player only
+	se.targetable: yes
+
+* The moment a player gains a level and activates a new Natural Ability, that ability becomes active and stays active for the duration of the Campaign.
+
+* Players can not gain abilities that are Enemy type.
+
+* Status Effects can target Player Natural Abilities

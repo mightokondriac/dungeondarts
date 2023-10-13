@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-13T13:32:56-04:00
+
+====== Player Special Ability ======
+Created Friday 13 October 2023
+@rules @abilities @player
+
+==== Advanced ====
+	abbrev: sa.p
+	activation: intentional
+	restrict: player only
+	se.targetable: yes
+	
+* Special Abilities that target only Self(including Darts) can be activated at any time.
+* Special Abilities that target all other Players must be activated with the use of a Special Ability Point, at the Regroup Stage.
+* Special Abilities that target Enemies with a Status Effect must activate it at the Regroup Stage.
+* Special Abilities that target Enemies with Direct Damge can be activated at any time.
+
+* Players can not gain abilities that are Enemy type.
+
+* Status Effects can target Player Special Abilities
+

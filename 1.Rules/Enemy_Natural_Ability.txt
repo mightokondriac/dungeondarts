@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-13T13:27:01-04:00
+
+====== Enemy Natural Ability ======
+Created Friday 13 October 2023
+@rules @abilities @enemy
+
+==== Advanced ====
+	abbrev: na.e
+	activation: always active
+	restrict: enemy only
+	se.targetable: yes
+
+* The moment you start a battle with an Enemy, their abilities, that are not marked with a HP-Trigger amount, are Natural Abilities that become active.
+
+* Status Effects can target Enemy Natural Abilities

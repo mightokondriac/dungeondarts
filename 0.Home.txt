@@ -8,14 +8,13 @@ Created Thursday 12 October 2023
 
 <<< [[+NOTES|NOTES]] >>>
 
-[[World]]
-	Maps
-	Historical
-[[1.Rules]]
-	[[1.Rules:1.Safety Warnings|1.Safety Warnings]]
+[[1.Rules|Rules]]
+	Game Involvement
+	[[1.Rules:1.Safety Warnings|Safety Warnings]]
 	[[1.Rules:2.Setup and Technical|2.Setup and Technical]]
 	[[1.Rules:3.Alternate Rules|3.Alternate Rules]]
 	[[1.Rules:4.Homebrew Advice|4.Homebrew Advice]]
+	
 [[2.Classes]]
 	[[2.Classes:1.Fighter|1.Fighter]]
 	[[2.Classes:2.Cleric|2.Cleric]]
@@ -27,6 +26,9 @@ Created Thursday 12 October 2023
 [[4.Adventures]]
 	Side Quests
 	Encounters
+[[World]]
+	Maps (on hold)
+	Historical
 [[z.Lists|Lists]]
 	All Enemies
 	All Activities

@@ -11,42 +11,55 @@ Created Thursday 12 October 2023
 	[[+3.Alternate Rules|Alternate Rules]]
 	[[+4.Homebrew Advice|Homebrew Advice]]
 
-**Primary Rules**
+===== **Primary Rules** =====
 
-	[[+Game Involvement|Game Involvement]]
-		First Steps (How to start the game.)
-		Reading The Cards (Lets play the game!)
-		Activities (Non-Encounter Dart challenges)
-		Merchants (Buy goods and services)
-		Portals (Integral to travel)
-		Adventures (A collection of Encounters)
-		Encounters (Sets of Activities and Enemies to gain levels)
+==== Game Involvement ====
+		[[+First Steps|First Steps]] (How to start the game.)
+		[[+Reading The Cards|Reading The Cards]] (Lets play the game!)
+		[[+Activities|Activities]] (Non-Encounter Dart challenges)
+		[[+Merchants|Merchants]] (Buy goods and services)
+		[[+Portals|Portals]] (Integral to travel)
+		[[+Adventures|Adventures]] (A collection of Encounters)
+		[[+Encounters|Encounters]] (Sets of Activities and Enemies to gain levels)
 		
-	Game Progression
-		Regroup (the moment before anyones turn)
-		Turns (your turn)
-		Rounds (all of the turns)
-		Stages (components of turns and rounds)
+==== Game Progression ====
+		[[+Regroup|Regroup]] (the moment before anyones turn)
+		[[+Turns|Turns]] (your turn)
+		[[+Rounds|Rounds]] (all of the turns)
+		[[+Stages|Stages]] (components of turns and rounds)
+		[[+Leveling|Leveling]] (how your player advances)
+		[[+Traveling|Traveling]] (when and how you can travel)
+		[[+Tracking Progress|Tracking Progress]] (how to keep track of the changes to your character)
 		
-	[[1.Rules:Dart Types|Dart Types]]
-		Base (iteractive vectors)
-		Attack (a base dart becomes an attack dart in the Attack Stage)
-		Damage (successful attack dart becomes damage dart)
+		
+==== Dart Types ====
+		[[+Base Darts|Base Darts]] (iteractive vectors)
+		[[+Attack Darts|Attack Darts]] (a base dart becomes an attack dart in the Attack Stage)
+		[[+Damage Darts|Damage Darts]] (successful attack dart becomes damage dart)
 
-	Abilities
-		Natural
-		Special
+==== Abilities ====
+		[[+Player Natural Ability|Player Natural Ability]]
+		[[+Player Special Ability|Player Special Ability]]
+		[[+Enemy Natural Ability|Enemy Natural Ability]]
+		[[+Enemy Triggered Ability|Enemy Triggered Ability]]
 		
-	Special States
-		Bounced Dart
-		Multi-Hit
+==== Special States ====
+		[[+Bounced Dart|Bounced Dart]]
+		[[+Multi-Hit|Multi-Hit]]
 		
-	xMods
-	
-	Status Effects
-		Chance
-		Forced
-	Enemies
+==== xMods ====
+		[[+xMod Expressions|xMod Expressions]]
+		
+==== Status Effects ====
+		[[+Interpreting Status Effects|Interpreting Status Effects]]
+		[[+Chance Status Effect Type|Chance Status Effect Type]](se.c)
+		[[+Forced Status Effect Type|Forced Status Effect Type]](se.f)
+		
+==== Enemies ====
+		[[+Interpreting Enemies|Interpreting Enemies]]
+		[[+Treasure|Treasure]]
+
+		
 	
 		
 
