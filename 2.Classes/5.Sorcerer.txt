@@ -20,3 +20,6 @@ Base Darts: 2
 **Special Abilities:**
 (1st) Ravens Eye Strike: All players may move 1 Attack Dart over 1 wire(No Bullseye Types).
 (5th) Ball Lightning: Every first of 2 Damage Darts does an additional 30hp of damage/round for 3 rounds.
+
+**Description:**
+The Sorcerer harnesses the raw, untamed power of arcane energies, channeling them through sheer force of will. These magic users are born with a rare gift, an innate connection to the mystical energies that flow through the world. Unlike the methodical wizards who study spells and incantations, Sorcerers rely on their intuition, their emotions, and their inherent talents to wield magic. They can command the elements, summon mystical allies, and cast devastating spells with a mere thought. Sorcerers often exhibit a deep, intrinsic connection to their chosen element, allowing them to perform incredible feats of destruction, healing, and transformation. Their powers are a double-edged sword, as the same magic that brings life to the world can also bring destruction. Masters of the unpredictable, Sorcerers are forces to be reckoned with, capable of unleashing both catastrophe and salvation with a single incantation.

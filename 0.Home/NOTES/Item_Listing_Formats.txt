@@ -1,0 +1,55 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-12T22:51:17-04:00
+
+====== Item Listing Formats ======
+Created Thursday 12 October 2023
+@items @bodyslots @triggertypes @itemtypes @displayformats
+
+
+**Item Listing format:**
+name(body slot)(activation type)
+
+**body slots:**
+	(H)ead
+	(F)ace
+	(N)eck
+	(S)houlders
+	(T)orso
+	(B)ack
+	(A)rms
+	(W)rists
+	han(D)s
+	fin(G)ers
+	(L)egs
+	fe(E)t
+
+**Activation Types:**
+	(C)onstant
+		Trigger Types(Constant Sub Types):
+		(CtH)Trigger-Hit Points
+		(CtD)Trigger-Damage Delt
+		(CtE)Trigger-Elemental
+		(CtM)Trigger-Minion
+		(CtP)Trigger-Player Death
+		(CtS)Trigger-Status Effect Change
+		(CtR)Trigger-Rounds
+		(CtT)Trigger-Turns
+
+	(A)ctivated
+		Involvement Types(Activated Sub Types):
+		(AiS)Involve-Single Use
+		(AiM)Involve-Multi Use
+		(AiC)Involve-Constant Concentration
+		(AiU)Involve-Unusable/Broken
+
+**Item Types:**
+	(C)ommon - normal item
+	(M)agical - magically enhanced
+	(A)rcane - technologically enhanced
+	(E)lemental - elementally enhanced
+	(P)olarity - light/good or dark/bad enhanced
+
+**Merchant display of items:**
+(gem cost) "Name"(level)(body slot)(activation type/s)(damage type/s) - "Description"
+(600) Jackle's Wolf Mantle(16)(S)(CtP)(P) - "On the turn a player dies, Raise that player to 10hp. That player gains immunity to Shadow based damage thier next turn. Skip your next turn once for each player raised this way."

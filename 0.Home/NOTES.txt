@@ -8,3 +8,5 @@ Created Thursday 12 October 2023
 change all instances of Attack/Damge Round or Phase to "Attack/Damage Stage"
 
 change all instance of "Sacrifice" to "Forfiet"
+
+[[+Item Listing Formats|Item Listing Formats]]
