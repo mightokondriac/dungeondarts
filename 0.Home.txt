@@ -5,7 +5,10 @@ Creation-Date: 2023-10-14T17:02:07-04:00
 ====== Home ======
 Created Thursday 12 October 2023
 @home @index
-''<a href="https://www.imagebam.com/view/MEPHLGO" target="_blank"><img src="https://thumbs4.imagebam.com/b5/dd/c4/MEPHLGO_t.jpg" alt="a-map-of-a-large-medieval-villagedetail-roads-and-points-of-interestdetail-fantasy-epic-expansive-three-quarter-view_vfwc2rx1_upscaled.jpg"/></a>''
+{{{code: id="homeimage" lang="html" linenumbers="True"
+<a href="https://www.imagebam.com/view/MEPHLGO" target="_blank"><img src="https://thumbs4.imagebam.com/b5/dd/c4/MEPHLGO_t.jpg" alt="a-map-of-a-large-medieval-villagedetail-roads-and-points-of-interestdetail-fantasy-epic-expansive-three-quarter-view_vfwc2rx1_upscaled.jpg"/></a>
+}}}
+
 <<< [[index:NOTES|NOTES]] >>>
 ....
 ==== [[1.Rules|Rules]] ====
