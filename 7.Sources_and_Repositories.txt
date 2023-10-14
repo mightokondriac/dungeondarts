@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-14T17:46:40-04:00
+
+====== 7.Sources and Repositories ======
+Created Saturday 14 October 2023
+@sources @gallery @links @repository @git @tools
+
+**Github** (versioning and interface)
+https://github.com/mightokondriac
+
+**Chat GPT** (content assistance)
+https://chat.openai.com/
+
+**Stable Diffusion** (image creation)
+https://openart.ai/create
+
+**imagebam** (image hosting)
+https://www.imagebam.com/
+
+**World Anvil** (world building)
+https://www.worldanvil.com/dashboard/
+
+**Murf** ($ Text to Speech)
+https://murf.ai/studio/
+
+**Soundcloud** ($ audio hosting)
+https://soundcloud.com/upload
+
+**Lightsail** ($ App Development)
+https://lightsail.aws.amazon.com/ls/webapp/home/instances
+
+**Shuffled Ink** ($ Card Printers)
+https://shuffledink.com/custom-tarot-cards/
+	Skylar Destifino (She/Her) | Project Manager
+	SHUFFLED INK
+	(407) 298-3579

@@ -7,31 +7,32 @@ Created Thursday 12 October 2023
 @home @index
 <<< [[index:NOTES|NOTES]] >>>
 ....
-[[1.Rules|Rules]]
+==== [[1.Rules|Rules]] ====
 	[[1.Rules|Game Involvement]]
 	[[1.Rules:1.Safety Warnings|Safety Warnings]]
-	[[1.Rules:2.Setup and Technical|2.Setup and Technical]]
-	[[1.Rules:3.Alternate Rules|3.Alternate Rules]]
-	[[1.Rules:4.Homebrew Advice|4.Homebrew Advice]]
+	[[1.Rules:2.Setup and Technical|Setup and Technical]]
+	[[1.Rules:3.Alternate Rules|Alternate Rules]]
+	[[1.Rules:4.Homebrew Advice|Homebrew Advice]]
 	
-[[2.Classes]]
+==== [[2.Classes|Classes]] ====
 	[[2.Classes:1.Fighter|1.Fighter]]
 	[[2.Classes:2.Cleric|2.Cleric]]
 	[[2.Classes:3.Ranger|3.Ranger]] (may be moved to first expansion)
 	[[2.Classes:4.Thief|4.Thief]]
 	[[2.Classes:5.Sorcerer|5.Sorcerer]]
-[[3.Towns]]
+==== [[3.Towns|Towns]] ====
 	Merchants
-[[4.Adventures]]
+==== [[4.Adventures|Adventures]] ====
 	Side Quests
 	Encounters
-[[5.World]]
+==== [[5.World|World]] ====
 	Maps (on hold)
 	Historical
-[[6.Lists|Lists]]
+==== [[6.Lists|Lists]] ====
 	All Enemies
 	All Activities
 	All Encounters
 	All Class Abilities
 	All Enemy Abilities
 	All Terminology
+[[7.Sources and Repositories|Sources and Repositories]]
