@@ -15,10 +15,16 @@ Base Darts: 3
 	(2nd) Smite: Additional x1mod on any Attack Dart that hits a black section.
 	(4th) Divine Aura: Heal 5hp at Regroup phase each round.
 	(6th) Divine Presense: All players get +1 to attack on all Base Darts.
+	(8th) Ancient Rites: +2 to each Damage Dart. +1 Base Darts
+	(10th) Divine Aura: Heal 15hp at Regroup stage each round.
+	(12th) unknown
+	(14th) Great Shield: if you take over 50 damage in a single round, reduce the remainder by half(rounded up).
+	(16th) +1 to Direct Hits, additional x3mod to all Damage Darts that hit a black section.
 
 **Special Abilities:**
 	(1st) Bless: Prevent all damage to all players for 2 rounds.
 	(5th) Celestial Fire: Skip one turn. The next regroup phase, sacrifice a Base Dart. A Dart sacrificed in this way has a x10mod in the damage phase and cannot be used again for the rest of the encounter.
+	(10th) Recall: Instantly transport the whole party to the last town you were in. Heal all players to full Hit Points. (1/Day)
 
 **Description:**
 The Cleric is a divine conduit, an emissary chosen to wield the sacred powers granted by the deities of the world. They serve as healers, spiritual guides, and protectors of the faith. With a strong connection to the divine, Clerics channel this energy to mend wounds, purify spirits, and, in dire situations, smite their enemies with righteous fury. Their versatile abilities can turn the tide of battle, bestowing blessings on their comrades to enhance their resilience, or calling down divine retribution on those who threaten the balance of the world. It is the calling of the Cleric to tend to the spiritual and physical needs of their party, whether through powerful healing magic, fortifying wards, or leading their group with unwavering faith.

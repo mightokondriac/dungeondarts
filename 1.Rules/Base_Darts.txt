@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-13T22:59:07-04:00
+
+====== Base Darts ======
+Created Friday 13 October 2023
+
+Base Darts is a reference to the amount of darts your character has to apply to the Attack and Damage stages. Other Status Effects and Abilities can change this number permentently or temporarily.
+If you have 3 Base Darts, you use 3 darts in your Attack Step. However if you have an ability that gives you an additional Base Dart, you use 4 darts in the Attack step.

@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-13T23:11:32-04:00
+
+====== First Steps ======
+Created Friday 13 October 2023
+@rules @involvement
+
+Each Player must have at least 3 darts.
+Pick a class
+draw Oakshade card
+do merchants and activities
+draw adventure(Cavern of Shadows)
+draw first encounter(Entrance to the Abyss)
+do activities
+fight first enemy
+get gems and treasure
+

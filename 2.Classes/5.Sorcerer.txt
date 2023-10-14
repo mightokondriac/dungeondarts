@@ -16,6 +16,8 @@ Base Darts: 2
 (2nd) Piercing Shot: Move the Damage Dart over 1 wire for any Attack Dart that hits a Bullseye Type.
 (4th) Aura of Power: All players gain +2 to AC
 (6th) Ghost Strike: Move one Attack Dart over 2 wires(no Double Bull).
+(8th) 
+(16th) Polarity Shift: All Enemies that have a Status Effect that grants Resistance or Immunity are now Vulnerable to that effect instead.
 
 **Special Abilities:**
 (1st) Ravens Eye Strike: All players may move 1 Attack Dart over 1 wire(No Bullseye Types).

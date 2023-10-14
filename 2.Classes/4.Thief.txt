@@ -16,10 +16,16 @@ Base Darts: 4
 	(2nd) Parry: Redirect 5 damage/round.
 	(4th) Barrage: Forfiet all Attack Darts. Gain 3 Damage Darts that have x2mod.
 	(6th) Posted: Forfiet any amount of Base Darts. Give any number of these Forfieted Darts to any number of players. Heal 10hp for the first dart, 20hp for the second dart and 30hp for the third dart(totalling 60hp if 3 are forfieted). Darts forfieted this way are not Recoverd for 1 round/dart forfieted(2 forfieted = both darts are not Recovered for 2 rounds).
+	(8th) Tuned Blades: If you score a x2 or x3 on an Attack Dart, add 20 damage to the total of that Damage Dart.
+	(10th) Shadow Walk: Increase the duration of any Evasive Status Effect on you by x2. Evasive Status Effects on you are not canceled because of dealing damage.
+	(12th) Weakening Strike: Whenevener you hit a Bullseye type with an Attack Dart, All Players gain +10 AC and +2 to Attack(1 round).
+	(14th) Dusted: Whenever you deal over 50 damage with a Damage Dart, that Enemy is Stunned(1 round).
+	(16th) Sealed Fate: In your attack stage, if all of your Base Darts hit Successfully on an Enemy that has a Status Effect of Stunned, reduce that Enemies HP by half. Then apply the damage you would deal.
 
 **Special Abilities:**
 	(1st) Critical Opening: One of your Damage Darts gains x10mod until next Regroup Stage.
 	(5th) Slip Through: Enemy Status Effects that reduce or prevent damage or force you to miss are ignored(3 rounds).
+	(10th) 
 
 **Description:**
 The Rogue, often shrouded in darkness and cloaked in mystery, is a master of stealth, guile, and opportunism. Renowned for their cunning wit and nimble agility, they navigate treacherous paths and unforgiving terrain with remarkable dexterity. Rogues are experts in the art of subterfuge, specializing in thievery, traps, and lock-picking. They are not limited to mere pilfering, though; Rogues excel in hand-to-hand combat, utilizing precision and finesse to strike at their adversaries' weakest points. Adept at infiltration and surprise, they can vanish into the shadows in a heartbeat, reappearing to strike with deadly accuracy. With a versatile set of skills and an innate sense for exploiting vulnerabilities, Rogues are invaluable members of any adventuring party, contributing both in subtle, behind-the-scenes operations and open, face-to-face combat.
