@@ -6,15 +6,15 @@ Creation-Date: 2023-10-14T17:02:07-04:00
 Created Thursday 12 October 2023
 @home @index
 {{.\hom.jpg}}
-<<< [[index:NOTES|NOTES]] >>>
-....
+<<< [[index:NOTES|Click here for Project Notes]] >>>
+
 ==== [[1.Rules|Rules]] ====
 	[[1.Rules|Game Involvement]]
 	[[1.Rules:1.Safety Warnings|Safety Warnings]]
 	[[1.Rules:2.Setup and Technical|Setup and Technical]]
 	[[1.Rules:3.Alternate Rules|Alternate Rules]]
 	[[1.Rules:4.Homebrew Advice|Homebrew Advice]]
-	
+
 ==== [[2.Classes|Classes]] ====
 	[[2.Classes:1.Fighter|Fighter]]
 	[[2.Classes:2.Cleric|Cleric]]
@@ -23,12 +23,16 @@ Created Thursday 12 October 2023
 	[[2.Classes:5.Sorcerer|Sorcerer]]
 ==== [[3.Towns|Towns]] ====
 	Merchants
+	Activities
+	
 ==== [[4.Adventures|Adventures]] ====
 	Side Quests
 	Encounters
+	
 ==== [[5.World|World]] ====
 	Maps (on hold)
 	Historical
+	
 ==== [[6.Lists|Lists]] ====
 	All Enemies
 	All Activities
@@ -36,4 +40,5 @@ Created Thursday 12 October 2023
 	All Class Abilities
 	All Enemy Abilities
 	All Terminology
-[[7.Sources and Repositories|Sources and Repositories]]
+	
+==== [[7.Sources and Repositories|Sources and Repositories]] ====

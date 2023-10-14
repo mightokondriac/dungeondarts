@@ -2,12 +2,17 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2023-10-12T11:12:36-04:00
 
-====== 2.Classes ======
+====== Classes ======
 Created Thursday 12 October 2023
 @classes @index
 
-[[+1.Fighter|1.Fighter]]
-[[+2.Cleric|2.Cleric]]
-[[+3.Ranger|3.Ranger]]
-[[+4.Thief|4.Thief]]
-[[+5.Sorcerer|5.Sorcerer]]
+[[+1.Fighter|Fighter]]
+	The primary tank of the game. Deals lots of damage and shields others.
+[[+2.Cleric|Cleric]]
+	Secondary tank. The healer and shield guard of the group. 
+[[+3.Ranger|Ranger]]
+	Versitile. Deals decent damage and provides group support.
+[[+4.Thief|Thief]]
+	Tactical. Disabling status effects and evasion, lots of hits.
+[[+5.Sorcerer|Sorcerer]]
+	Strategic. Dealing high yield damage, exploiting vulnerabilities.

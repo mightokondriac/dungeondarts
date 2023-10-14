@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2023-10-12T11:15:00-04:00
 
-====== 1.Fighter ======
+====== Fighter ======
 Created Thursday 12 October 2023
 @classes @fighter
 
@@ -11,20 +11,20 @@ Hit Points: 100
 Armor Class: 5
 Base Darts: 3
 **Natural Abilities:**(by level achived)
-	(1st) Skilled Strike: Add x1mod to any single Damage Dart. Must be declared before throw.
-	(2nd) Intimidation: On a successful Bullseye Damage Dart, prevent all damage to you from that opponent for 1 round.
-	(4th) Battle Prowess: Your Base Darts increases by 1 Dart.
-	(6th) Battle Insight: Your Attack Darts gain +1 to attack.
-	(8th) Battle Prowess: Your Base Darts increases by 1 Dart.
-	(10th) Tempering: +10 AC against Polarity and Elemental Damage.
-	(12th) unknown
-	(14th) Raw Fury: If another player dies, you may take half of the damage they just recieved. If that player would still be at 0hp or less, that player is restored to 1hp.
-	(16th) Dance of Bones: Gain 1 extra Special Ability Point whenever you would normally get one.
+	(**1st**) Skilled Strike: Add x1mod to any single Damage Dart. Must be declared before throw.
+	(**2nd**) Intimidation: On a successful Bullseye Damage Dart, prevent all damage to you from that opponent for 1 round.
+	(**4th**) Battle Prowess: Your Base Darts increases by 1 Dart.
+	(**6th**) Battle Insight: Your Attack Darts gain +1 to attack.
+	(**8th**) Battle Prowess: Your Base Darts increases by 1 Dart.
+	(**10th**) Tempering: +10 AC against Polarity and Elemental Damage.
+	(**12th**) unknown
+	(**14th**) Raw Fury: If another player dies, you may take half of the damage they just recieved. If that player would still be at 0hp or less, that player is restored to 1hp.
+	(**16th**) Dance of Bones: Gain 1 extra Special Ability Point whenever you would normally get one.
 
 **Special Abilities**:
-	(1st) Flurry Attack: Throw 6 Damage Darts. Ignore Attack Dart results(no xmods from Attack Darts).
-	(5th) Shield Bearer: For each Attack Dart sacrificed, throw a Damage Dart. Damage Darts gained in this way can be used to prevent damage, equal to the total of the throw, to any player. Lasts 1 Round.
-	(10th) Battle Champion: Ignore all Enemy Status Effects that would grant: resistance, immunity, or untargetable(2 rounds).
+	(**1st**) Flurry Attack: Throw 6 Damage Darts. Ignore Attack Dart results(no xmods from Attack Darts).
+	(**5th**) Shield Bearer: For each Attack Dart sacrificed, throw a Damage Dart. Damage Darts gained in this way can be used to prevent damage, equal to the total of the throw, to any player. Lasts 1 Round.
+	(**10th**) Battle Champion: Ignore all Enemy Status Effects that would grant: resistance, immunity, or untargetable(2 rounds).
 
 **Description:**
 The Fighter is a stalwart and skilled combatant, honed through disciplined training and combat experience. They excel in melee combat, demonstrating exceptional weapon proficiency and the ability to wear the heaviest of armor without sacrificing mobility. Fighters are known for their unwavering courage and their innate ability to protect their allies by drawing the attention of foes in battle. Their combat techniques range from powerful strikes that can cleave through multiple adversaries to tactical defenses that make them an indomitable presence on the battlefield. Masters of martial prowess, Fighters embody the principles of strength, valor, and unyielding resolve, making them the front-line protectors and formidable champions of their party.

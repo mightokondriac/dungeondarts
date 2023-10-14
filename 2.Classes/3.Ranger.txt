@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2023-10-12T11:14:09-04:00
 
-====== 3.Ranger ======
+====== Ranger ======
 Created Thursday 12 October 2023
 @classes @ranger
 
