@@ -1,12 +1,11 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
-Creation-Date: 2023-10-12T02:26:58-04:00
+Creation-Date: 2023-10-14T17:02:07-04:00
 
 ====== index ======
 Created Thursday 12 October 2023
 @home @index
-[[0.Home]]
-<<< [[+NOTES|NOTES]] >>>
+<<< [[index:NOTES|NOTES]] >>>
 .
 [[1.Rules|Rules]]
 	[[1.Rules|Game Involvement]]
