@@ -6,7 +6,7 @@ Creation-Date: 2023-10-14T17:02:07-04:00
 Created Thursday 12 October 2023
 @home @index
 <<< [[index:NOTES|NOTES]] >>>
-.
+....
 [[1.Rules|Rules]]
 	[[1.Rules|Game Involvement]]
 	[[1.Rules:1.Safety Warnings|Safety Warnings]]
