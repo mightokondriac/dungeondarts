@@ -26,6 +26,3 @@ Base Darts: 4
 	(**1st**) Critical Opening: One of your Damage Darts gains x10mod until next Regroup Stage.
 	(**5th**) Slip Through: Enemy Status Effects that reduce or prevent damage that you would deal, or force you to miss, are ignored(3 rounds).
 	(**10th**) 
-
-**Description:**
-The Rogue, often shrouded in darkness and cloaked in mystery, is a master of stealth, guile, and opportunism. Renowned for their cunning wit and nimble agility, they navigate treacherous paths and unforgiving terrain with remarkable dexterity. Rogues are experts in the art of subterfuge, specializing in thievery, traps, and lock-picking. They are not limited to mere pilfering, though; Rogues excel in hand-to-hand combat, utilizing precision and finesse to strike at their adversaries' weakest points. Adept at infiltration and surprise, they can vanish into the shadows in a heartbeat, reappearing to strike with deadly accuracy. With a versatile set of skills and an innate sense for exploiting vulnerabilities, Rogues are invaluable members of any adventuring party, contributing both in subtle, behind-the-scenes operations and open, face-to-face combat.
