@@ -5,7 +5,7 @@ Creation-Date: 2023-10-12T02:26:58-04:00
 ====== 0.Home ======
 Created Thursday 12 October 2023
 @home @index
-
+<a href="https://www.imagebam.com/view/MEPHDJS" target="_blank"><img src="https://thumbs4.imagebam.com/54/32/d5/MEPHDJS_t.jpg" alt="a-map-of-a-large-medieval-villagedetail-roads-and-points-of-interestdetail-fantasy-epic-expansive-three-quarter-view_vfwc2rx1_upscaled.jpg"/></a>
 <<< [[+NOTES|NOTES]] >>>
 
 [[1.Rules|Rules]]

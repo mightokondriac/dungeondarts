@@ -24,7 +24,7 @@ Base Darts: 4
 
 **Special Abilities:**
 	(1st) Critical Opening: One of your Damage Darts gains x10mod until next Regroup Stage.
-	(5th) Slip Through: Enemy Status Effects that reduce or prevent damage or force you to miss are ignored(3 rounds).
+	(5th) Slip Through: Enemy Status Effects that reduce or prevent damage that you would deal, or force you to miss, are ignored(3 rounds).
 	(10th) 
 
 **Description:**
