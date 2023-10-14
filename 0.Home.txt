@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2023-10-14T17:02:07-04:00
 
-====== index ======
+====== Home ======
 Created Thursday 12 October 2023
 @home @index
 <<< [[index:NOTES|NOTES]] >>>
@@ -25,10 +25,10 @@ Created Thursday 12 October 2023
 [[4.Adventures]]
 	Side Quests
 	Encounters
-[[World]]
+[[5.World]]
 	Maps (on hold)
 	Historical
-[[z.Lists|Lists]]
+[[6.Lists|Lists]]
 	All Enemies
 	All Activities
 	All Encounters
