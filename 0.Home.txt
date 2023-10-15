@@ -5,8 +5,14 @@ Creation-Date: 2023-10-14T17:02:07-04:00
 ====== Home ======
 Created Thursday 12 October 2023
 @home @index
-{{.\hom.jpg}}
-<<< [[index:NOTES|Click here for Project Notes]] >>>
+
+Enter the immersive world of Dungeon Darts, an adventure that fuses the strategic thrill of darts with a rich, fantastical setting. In Dungeon Darts, you and your seasoned companions select your character classes, setting out on an epic odyssey. As you progress through the game, you'll encounter intricate puzzles and ever more challenging adversaries. Your ultimate test awaits: facing off against a colossal boss in the climactic fifth showdown.
+
+In this grand adventure, cooperation is paramount. You'll need to harness your unique class abilities and wield your carefully acquired treasures judiciously. The distinguished merchants in each town stand ready to equip and assist you, offering invaluable gear and services to augment your quest.
+
+Dungeon Darters, the realm teeters on the precipice of darkness, yearning for heroes of your mettle. Will you accept the call to vanquish the encroaching malevolence that looms over the land? Your epic journey beckons!
+
+<<< [[index:NOTES|Project Notes]] | [[index:Contributions|Contributions]] | [[index:Goals|Goals]] | [[index:Journal|Dailys]] >> 
 
 ==== [[1.Rules|Rules]] ====
 	[[1.Rules|Game Involvement]]
