@@ -7,3 +7,16 @@ Created Friday 13 October 2023
 @rules @steps @damage_darts
 
 In the Damage Step, use the amount of Damage Darts your character has available to attempt to hit the highest possible number. Double and Triple rings are not calculated for Damage Darts(if you hit a Triple 20 with a Damage Dart, it is still only 20 damage. If you hit a Triple on the required AC, then the corresponding Damage Dart would be 20x3, dealing 60 damage to the enemy.
+
+==== Damage Darts Explanation: ====
+
+In the game, "Damage Darts" represent the resource you use to determine the amount of damage your character inflicts on the enemy during the Damage Step. Understanding how Damage Darts work is crucial for effectively measuring and dealing damage in combat.
+
+**Here's how Damage Darts operate**:
+
+	1. __Damage Step__: During the Damage Step, you'll use the combined number of Damage Darts at your disposal. These darts determine the extent of damage you can deliver to your opponent.
+	2. __Highest Possible Number__: Unlike Attack Darts, where you aim for specific sections of the target, with Damage Darts, your goal is to hit the highest possible number on the dartboard. The value you hit represents the amount of damage you inflict.
+	3. __Double and Triple Rings__: Notably, double and triple rings on the dartboard are not calculated for Damage Darts. For example, if you hit a Triple 20 with a Damage Dart, it's still considered 20 damage, without any multiplication. However, it's important to distinguish between Attack Darts and Damage Darts:
+		a. If you previously hit a Triple on the required AC with an Attack Dart (refer to Attack Darts), and then you hit a 20 with the corresponding Damage Dart, it would result in 20x3 damage, dealing a significant 60 damage to the enemy. This multiplication is specific to the Attack Darts step.
+
+Understanding Damage Darts is essential for determining your character's damage output during combat. Aim for high numbers to maximize your damage potential and strategically use Damage Darts to defeat your opponents effectively.

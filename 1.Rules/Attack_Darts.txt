@@ -8,3 +8,21 @@ Created Friday 13 October 2023
 
 In the Attack Step, use the amount of Attack Darts your character has available to attempt to hit the AC of the Enemy you are battling.
 Attack Darts are "Successful" if they hit the AC(or higher) of the Enemy you are battling, however the exact AC slice is called a "Direct Hit". Direct Hits are the only Success that adds xMods to the resulting Damage Dart.
+
+==== Attack Darts Explanation: ====
+
+In the game, "Attack Darts" are your primary resource for engaging in combat and attempting to strike your enemy. These darts are used during the Attack Step, where you try to hit the Armor Class (AC) of the enemy you are battling.
+
+**Here's how Attack Darts work**:
+
+	1. __Attack Step__: During the Attack Step, you'll use the combined number of Attack Darts at your disposal, which includes your Base Darts plus any bonus Attack Darts from various sources. These darts are crucial for determining the success of your offensive actions.
+	2. __Hitting the AC__: Attack Darts are considered "Successful" when they hit the AC of the enemy you are battling or exceed it. Successfully hitting the AC is your primary goal during combat.
+	3. __Direct Hits__: Within the category of Successful Attack Darts, there's a special level of success known as a "Direct Hit." A Direct Hit occurs when your dart lands precisely on a specific section of the target, such as the bullseye or another designated area.
+	4. __xMods for Direct Hits__: Direct Hits are the only type of success that allows you to apply special modifiers (xMods) to the resulting Damage Dart. The specific xMods include:
+		a. Double Ring: x2 damage.
+		b. Triple: x3 damage.
+		c. Bullseye: x4 damage.
+		d. Double Bullseye: x5 damage.
+	//Note that Bullseye types are always considered Direct Hits.//
+
+Understanding Attack Darts and the concept of Direct Hits is vital for combat effectiveness in the game. The better you are at achieving Direct Hits, the more damage you can deal to your enemies. Plan your attacks carefully and use your Attack Darts strategically to maximize your damage output and increase your chances of victory in battles.

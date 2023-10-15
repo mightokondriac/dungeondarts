@@ -7,7 +7,7 @@ Created Friday 13 October 2023
 @rules @abilities @player
 
 ==== Advanced ====
-	abbrev: na.p
+	abbreviation: na.p
 	activation: always active
 	restrict: player only
 	se.targetable: yes
@@ -17,3 +17,13 @@ Created Friday 13 October 2023
 * Players can not gain abilities that are Enemy type.
 
 * Status Effects can target Player Natural Abilities
+
+==== Natural Abilities Explanation: ====
+
+In the game, "Natural Abilities" are inherent powers or skills possessed by the player character. These abilities are always active and persist throughout the entire campaign, enhancing your character's capabilities as they level up. Here's a detailed breakdown of Natural Abilities:
+
+	1. __Activation and Duration__: When a player gains a level and unlocks a new Natural Ability, that ability immediately becomes active. Unlike other game abilities that may need to be triggered, Natural Abilities are "always active." They remain in effect for the entire duration of the campaign, providing a consistent enhancement to your character's abilities.
+	2. __Exclusion of Enemy Abilities__: Players are restricted from acquiring abilities categorized as "Enemy type." This means you can only acquire and activate Natural Abilities that benefit the player character. Enemy-type abilities are typically reserved for non-playable entities within the game.
+	3. __Status Effects__: Importantly, status effects, which are in-game conditions or alterations, can target Player Natural Abilities. This means that during the course of the game, various effects, buffs, or debuffs can impact or interact with your Natural Abilities, potentially enhancing or modifying their effects based on the situation.
+
+Understanding Natural Abilities is critical for players, as these abilities serve as a fundamental and continuous source of enhancement and strategic advantage throughout the campaign. Players must consider how these abilities interact with status effects and manage their characters accordingly.

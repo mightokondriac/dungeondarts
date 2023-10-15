@@ -21,3 +21,15 @@ Created Friday 13 October 2023
 
 * Status Effects can target Player Special Abilities
 
+==== Special Abilities Explanation: ====
+
+In the game, "Special Abilities" are unique powers or skills that can significantly impact the course of gameplay. Understanding how these abilities are activated and when they can be used is crucial. Here's a detailed explanation:
+
+	1. __Self-Targeted Special Abilities__: Special Abilities that target only the player using them, including those that affect darts, can be activated at any time. These abilities can be triggered whenever the player deems it strategically advantageous.
+	2. __Player-Targeted Special Abilities__: Special Abilities that target all other players in the game require the expenditure of a "Special Ability Point." This activation takes place during the Regroup Stage, a designated phase of the game where players come together to make collective decisions and activate special abilities that affect other players.
+	3. __Special Abilities Targeting Enemies with Status Effects__: Special Abilities that target enemies afflicted with a status effect must also be activated during the Regroup Stage. This ensures coordinated and strategic use of these abilities against affected foes.
+	4. __Special Abilities Targeting Enemies with Direct Damage__: Special Abilities that focus on causing direct damage to enemies can be activated at any time. These abilities provide players with flexibility in choosing the right moment to unleash their offensive potential.
+	5. __Exclusion of Enemy Abilities__: Players cannot gain abilities classified as "Enemy type." This restriction ensures that players have access only to abilities that benefit them, rather than those typically reserved for non-playable entities within the game.
+	6. __Interaction with Status Effects__: It's important to note that status effects, which are in-game conditions or alterations, can also target Player Special Abilities. These effects may modify or enhance the outcomes of special abilities, adding an extra layer of strategy and complexity to the game.
+
+Understanding Special Abilities is vital for players, as they can greatly influence the outcome of the game. Knowing when and how to activate these abilities, and how they interact with status effects, is key to developing effective strategies and gaining an advantage in the gameplay.

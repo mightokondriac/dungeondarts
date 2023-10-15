@@ -7,3 +7,16 @@ Created Saturday 14 October 2023
 @rules @specialstates
 
 When a Dart fully bounces out of the dartboard(not Stick and Fall) from hitting a wire, that dart is not Recoverable until the Regroup stage on the Round after next. 
+
+==== Bounced Darts Explanation: ====
+
+In the game, "Bounced Darts" represent darts that do not hit the dartboard properly and fully bounce out after striking a wire or other obstruction. These darts are temporarily unrecoverable until the "Regroup" stage, which occurs during the round that follows the next round. Think of it as akin to rolling a 1 on a six-sided die in Dungeons and Dragons, where a critical failure has occurred.
+
+**Here's a breakdown of Bounced Darts and their impact**:
+
+1. __Dart Inaccuracy__: When you throw a dart and it hits a wire on the dartboard, it may not stick to the board as intended. Instead, it bounces out of the board, indicating an inaccurate throw.
+2. __Recovery Delay__: Bounced Darts cannot be retrieved immediately. They remain out of play until the "Regroup" stage, which occurs during the round that comes after the next full round of play. This delay reflects the time it takes to find, retrieve, or replace the darts.
+3. __Gameplay Impact__: The delay in recovering Bounced Darts affects your dart resources. You'll need to carefully manage your remaining darts, especially if Bounced Darts accumulate, to ensure you have enough for future throws.
+4. __Critical Failures__: Similar to rolling a 1 in Dungeons and Dragons, Bounced Darts represent an unfortunate and unintended outcome in the game. These critical failures can disrupt your strategy, adding an element of unpredictability to the game.
+
+Understanding Bounced Darts is important for players to adapt to the occasional setbacks they bring. Plan your throws carefully, consider the risk of hitting wires, and manage your dart resources to maximize your chances of success in the game.

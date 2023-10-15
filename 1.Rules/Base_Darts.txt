@@ -7,3 +7,18 @@ Created Friday 13 October 2023
 
 Base Darts is a reference to the amount of darts your character has to apply to the Attack and Damage stages. Other Status Effects and Abilities can change this number permentently or temporarily.
 If you have 3 Base Darts, you use 3 darts in your Attack Step. However if you have an ability that gives you an additional Base Dart, you use 4 darts in the Attack step.
+
+
+==== **Base Darts Explanation:** ====
+
+In the game, "Base Darts" serve as the fundamental unit for assessing and calculating various aspects of gameplay. These darts represent your foundational resource and determine your ability to perform actions, engage in combat, and make decisions throughout the game.
+
+**Here's how Base Darts work**:
+
+1. __Dart Allocation__: At the start of each turn or encounter, players are allocated a specific number of Base Darts. This allocation is often influenced by your character's class, abilities, and equipment. These darts serve as the pool from which you draw resources for your actions.
+2. __Resource Management__: You'll need to strategically manage your Base Darts during your turn or when making choices in the game. Different actions and decisions may require varying numbers of darts, so it's crucial to use them wisely to achieve your objectives.
+3. __Influence on Abilities__: Base Darts can also impact your character's abilities and the success of your actions. The more Base Darts you allocate to a specific action, the higher your chances of success. It's a balance between conserving darts and using them to your advantage.
+4. __Combat and Challenges__: In combat situations or when facing challenges, you'll typically use Base Darts to determine the outcome. The number of darts allocated can affect the damage you deal, your defense against enemy attacks, and your overall performance in these situations.
+5. __Dart Upgrades__: As you progress in the game and level up, you may acquire upgrades or abilities that allow you to modify the number of Base Darts you receive or how they can be used. These enhancements can significantly impact your gameplay.
+
+Understanding the role of Base Darts is essential to strategic decision-making and success in the game. Make sure to manage them effectively, adapt to different situations, and explore ways to enhance your Base Dart allocation as you progress in your adventure.
