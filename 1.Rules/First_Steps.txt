@@ -6,13 +6,21 @@ Creation-Date: 2023-10-13T23:11:32-04:00
 Created Friday 13 October 2023
 @rules @involvement
 
-all playerers do the following:
-Pick a class(fighter, cleric, thief, sorcerer)
-learn the advantages and vulnerabilities of your chosen class
-draw first adventure(Cavern of Shadows): this card explains the different encounters and the level ranges of each encounter.
-draw first encounter(Entrance to the Abyss): this card details the activities that the players need to complete in order to "enter the room" where the main enemy is.
-then the players fight the first enemy
-after defeating the enemy, each player recieves an amount of gems(designated on the card). the player that did the "Killing Blow" 
-get gems and treasure
-draw Oakshade card
-do merchants and activities
+	1. **Choose Your Class**: Select one from the four available classes: Fighter, Cleric, Thief, or Sorcerer.
+	2. **Understand Your Class**: Learn the strengths and weaknesses of your chosen class.
+	3. **Draw the first Adventure Card** (Cavern of Shadows) to learn about encounters and their level ranges.
+	4. **Draw the first Encounter Card** (Entrance to the Abyss) for details on what you need to do to confront the main enemy.
+	5. **Engage in Battle**: Fight the first enemy.
+	6. **Discover Treasures**: After defeating the enemy, discover gems and various treasures.
+	7. **Advance and Grow**: As you defeat each enemy, level up and gain new abilities.
+	8. **Complete the Adventure**: Repeat steps 3 to 6 for all five encounters in the Adventure.
+	9. **Draw a new Town Card:** Transport your party to a new town.
+	10. **Interact with merchants** who may offer activities and side quests.
+	11. When you are ready, **Draw the next Adventure Card**, **portal back to Oakshade**, or **replay the same Adventure** at a higher level for greater challenges and rewards.
+
+
+
+
+
+
+

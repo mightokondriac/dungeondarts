@@ -6,11 +6,11 @@ Creation-Date: 2023-10-12T02:27:37-04:00
 Created Thursday 12 October 2023
 @rules @index
 
-!!IMPORTANT!!
+**!!IMPORTANT!!**
 	[[+1.Safety Warnings|Safety Warnings]]
 	[[+2.Setup and Technical|Setup and Technical]]
 	
-!!MORE FUN!!
+**!!MORE FUN!!**
 	[[+3.Alternate Rules|Alternate Rules]]
 	[[+4.Homebrew Advice|Homebrew Advice]]
 
