@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-15T01:39:14-04:00
+
+====== Static Treasures ======
+Created Sunday 15 October 2023
+@adventure @cos @treasure @enemies
+
+All the items in this adventure that are static and come directly from defeating an enemy. These items will not be found on treasure cards.
+

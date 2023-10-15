@@ -12,3 +12,6 @@ Created Thursday 12 October 2023
 	[[+3.Luminious Fungal Grove|3.Luminious Fungal Grove]]
 	[[+4.Abyssal Nexus|4.Abyssal Nexus]]
 	[[+5.Veil of Darkness|5.Veil of Darkness]]
+==== Treasures ====
+	[[+Static Treasures|Static Treasures]]
+	[[+Treasure Card|Treasure Card]]
