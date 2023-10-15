@@ -6,10 +6,11 @@ Creation-Date: 2023-10-12T11:35:01-04:00
 Created Thursday 12 October 2023
 @adventure @index @cavern_of_shadows
 
-[[+1.Cavern of Shadows|Cavern of Shadows]]
+[[+1.Cavern of Shadows|Cavern of Shadows]] - [[+Treasures|Available Treasures]]
 	[[+1.Cavern of Shadows:1.Entrance to the Abyss|Entrance to the Abyss]]
 	[[+1.Cavern of Shadows:2.Whispering Depths|Whispering Depths]]
 	[[+1.Cavern of Shadows:3.Luminious Fungal Grove|Luminious Fungal Grove]]
 	[[+1.Cavern of Shadows:4.Abyssal Nexus|Abyssal Nexus]]
 	[[+1.Cavern of Shadows:5.Veil of Darkness|Veil of Darkness]]
-	
+
+Treasure list for Cavern of Shadows

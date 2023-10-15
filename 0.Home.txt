@@ -34,6 +34,7 @@ Dungeon Darters, the realm teeters on the precipice of darkness, yearning for he
 ==== [[4.Adventures|Adventures]] ====
 	Side Quests
 	Encounters
+	Treasures
 	
 ==== [[5.World|World]] ====
 	Maps (on hold)

@@ -1,0 +1,114 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-15T00:11:55-04:00
+
+====== All Items ======
+Created Sunday 15 October 2023
+@items @equipment @potions @vials @index @lists
+
+==== Equipment ====
+1. Aegis of the Archmage: +3 Spell Attack and casts a random wizard spell on a double bullseye. (Cost: 6 Gems)
+2. Amulet of the Cyclone: +1 Damage (Cost: 2 Gems)
+3. Arcanum Crystal Orb: +2 Spell Attack and allows casting one additional cantrip per day. (Cost: 4 Gems)
+4. Assassin's Gloves: +2 Slices and grants proficiency in Stealth. (Cost: 4 Gems)
+5. Astral Crystal Orb: +2 Spell Attack and allows casting one additional non-attack spell per day. (Cost: 4 Gems)
+6. Blitz Boots: +2 Initiative and allows two additional dart throws per round. (Cost: 5 Gems)
+7. Bullseye Seeker Quiver: +2 Critical Range and allows a bonus dart throw on a bullseye and 2 bonus darts on a double bull. (Cost: 5 Gems)
+8. Celestial Scepter: +2 Spell Damage and summons a celestial ally once per day. (Cost: 7 Gems)
+9. Cloak of Shadows: +2 Armor and grants invisibility in dim light. (Cost: 4 Gems)
+10. Deadeye Quiver: Doubles the critical hit range for ranged attacks. (Cost: 5 Gems)
+11. Deft Hands Gloves: +2 Slices and grants proficiency in Sleight of Hand on a bullseye. (Cost: 4 Gems)
+12. Divine Bullseye Scepter: +4 Spell Damage and invokes a celestial's wrath on a double bullseye. (Cost: 10 Gems)
+13. Dragonfire Blade: +2 Attack and deals additional fire damage. (Cost: 4 Gems)
+14. Eagle Eye Quiver: Triples the critical hit range for ranged attacks. (Cost: 5 Gems)
+15. Eagle's Crest Amulet: +1 Initiative and allows a bonus dart throw on a bullseye. (Cost: 3 Gems)
+16. Flameforged Blade: +1 Attack (Cost: 2 Gems)
+17. Fleetmaster Boots: +2 Initiative. (Cost: 5 Gems)
+18. Guardian's Aegis: +2 Armor and reflects 75% of damage back to the attacker after 3 direct hits. (Cost: 4 Gems)
+19. Guardian's Ring: +2 Armor and reflects 25% of damage back to the attacker. (Cost: 4 Gems)
+20. Orb of the Arcane: +1 Spell Attack (Cost: 3 Gems)
+21. Phantom Cloak: +2 Armor and grants invisibility in darkness. (Cost: 4 Gems)
+22. Potion of Renewal: Restores 60 HP and clears all negative status effects on a double bullseye. (Cost: 3 Gems)
+23. Quiver of Precision: +1 Critical Range (Cost: 3 Gems)
+24. Radiant Scepter: +2 Spell Damage and emits a radiant aura, damaging nearby enemies. (Cost: 4 Gems)
+25. Ring of Warding: +1 Armor, resist 5hp damage each round (Cost: 2 Gems)
+26. Rogue's Gloves: +1 Slice (Cost: 3 Gems)
+27. Scepter of Light: +1 Spell Damage (Cost: 2 Gems)
+28. Searing Bullseye Blade: +1 Attack +1 Critical Range. Deals double damage on a bullseye(Single Bull x 2 = +8xmod, Double Bull x 2 = +10xmod). (Cost: 8 Gems)
+29. Serpentstrike Gloves: +2 Slices and adds poison damage to successful hits. (Cost: 4 Gems)
+30. Shadowcloak: +1 Armor (Cost: 2 Gems)
+31. Shroud of the Shadows: +1 Armor and grants invisibility on a double bullseye. (Cost: 2 Gems)
+32. Stormforged Blade: +2 Attack and deals additional lightning damage. (Cost: 4 Gems)
+33. Swiftfoot Boots: +1 Initiative (Cost: 3 Gems)
+34. Tempest Amulet: +2 Damage and grants resistance to cold damage. (Cost: 4 Gems)
+35. Thunderstruck Amulet: +1 Damage and creates a shockwave on a bullseye, damaging nearby foes. (Cost: 2 Gems)
+36. Titanium Shield: +2 Armor and reflects 50% of damage back to the attacker. (Cost: 4 Gems)
+37. Venomous Amulet: +2 Damage and poisons the target on a critical hit. (Cost: 4 Gems)
+
+==== POTIONS ====
+Potions are single use items that affect the player that uses them only. Potions can be taken at any time and their effect is triggered instantly.
+
+1. Potion of Agility (Cost: 3 Gems): In a flask with a swiftness motif, it increases initiative by +3 for 3 rounds.
+2. Potion of Arcane Ascendancy (Cost: 6 Gems): In a flask pulsating with magical energy, it allows casting two additional spells per round for 4 rounds.
+3. Potion of Arcane Enhancement (Cost: 4 Gems): In a flask adorned with arcane symbols, it grants a +2 bonus to spell attacks for 3 rounds.
+4. Potion of Arcane Mastery (Cost: 5 Gems): In a flask adorned with ancient runes, it allows casting one additional spell per round for 3 rounds.
+5. Potion of Elemental Annihilation (Cost: 5 Gems): Sealed in an opulent, jewel-encrusted flask, it adds devastating elemental damage (fire, cold, etc.) to each dart thrown for 4 rounds.
+6. Potion of Elemental Burst (Cost: 4 Gems): Sealed in an ornate, gem-encrusted flask, it adds potent elemental damage (fire, cold, etc.) to each dart thrown for 3 rounds.
+7. Potion of Elemental Cataclysm (Cost: 6 Gems): Sealed in a flask adorned with swirling elemental patterns, it adds cataclysmic elemental damage (fire, cold, etc.) to each dart thrown for 4 rounds.
+8. Potion of Elemental Fury (Cost: 2 Gems): Sealed in an ornate flask, it adds elemental damage (fire, cold, etc.) to each dart thrown for 2 rounds.
+9. Potion of Elemental Mastery (Cost: 3 Gems): Sealed in an intricately designed flask, it adds powerful elemental damage (fire, cold, etc.) to each dart thrown for 3 rounds.
+10. Potion of Elemental Ward (Cost: 1 Gem): This potion is sealed in a flask with elemental markings. It grants resistance to a specific damage type (fire, cold, etc.) for 1 round.
+11. Potion of Evasion (Cost: 2 Gems): This potion, contained in a swirling, green liquid, grants a +2 bonus to AC for 2 rounds.
+12. **Potion of Greater Healing (Cost: 3 Gems): This potion, in a larger vial, restores 40 HP when consumed.**
+13. Potion of Invincibility (Cost: 6 Gems): In an ornate flask with intricate protective engravings, it grants invincibility for 1 round, making the player immune to all damage.
+14. Potion of Invisibility (Cost: 3 Gems): This potion is contained in a shimmering, emerald vial. It renders the player invisible for 3 rounds, making them immune to monster attacks.
+15. Potion of Lightning Reflexes (Cost: 6 Gems): Stored in a flask charged with lightning, it grants a +3 bonus to initiative and the ability to reposition once per round for 4 rounds.
+16. Potion of Luck (Cost: 1 Gem): This potion is stored in a small, golden vial. It provides advantage for 1 round.
+17. **Potion of Major Healing (Cost: 4 Gems): This potion, in a substantial crystal vial, restores 50 HP when consumed**.
+18. **Potion of Minor Healing (Cost: 1 Gem): This basic potion is stored in a small vial. It restores 10 HP when consumed.**
+19. Potion of Minor Restoration (Cost: 2 Gems): This potion, in a plain glass vial, restores 20 HP when consumed.
+20. Potion of Nimbleness (Cost: 2 Gems): In a flask with an agile design, it increases initiative by +2 for 2 rounds.
+21. Potion of Precision (Cost: 1 Gem): This potion is in a slender flask with a translucent, silver liquid. It increases accuracy, granting +1 to attack for 2 rounds.
+22. Potion of Reflection (Cost: 4 Gems): In a flask with intricate reflective patterns, it reflects 25% of damage taken back to the attacker for 2 rounds.
+23. Potion of Resilience (Cost: 5 Gems): Stored in a resilient steel vial, it provides resistance to all damage types for 2 rounds.
+24. Potion of Resistance (Cost: 2 Gems): Stored in a sturdy glass bottle, it reduces damage taken by 25% for 2 rounds.
+25. Potion of Shadowstep (Cost: 4 Gems): Stored in a dark, obsidian vial, it allows the player to reposition once per round for 3 rounds.
+26. Potion of Supreme Healing (Cost: 5 Gems): This potion, in an exquisite crystal vial, restores 60 HP when consumed.
+27. Potion of Swift Recovery (Cost: 1 Gem): This potion is contained in a simple glass bottle. It grants a +1 bonus to initiative for 2 rounds.
+28. Potion of Time Warp (Cost: 5 Gems): In a flask with mysterious hourglass markings, it grants an extra dart throw and repositioning once per round for 3 rounds.
+29. Potion of Ultimate Healing (Cost: 6 Gems): This potion, in a radiant, gem-encrusted vial, restores 70 HP when consumed.
+30. Potion of Warding (Cost: 3 Gems): Stored in an ornate, engraved bottle, it provides resistance to a specific damage type (fire, cold, etc.) for 2 rounds and increases AC by +1 for 2 rounds.
+
+==== Vials ====
+Vials are single use items that are weapons that are thrown at the enemy. Vials are automatic hits that deal 1 damage and then the specific effect the vial has is activated. Even if damage is prevented, the effect is still activated.
+
+1. Vial of Minor Weakening (Cost: 1 Gem): This basic Vial is stored in a small vial. It weakens the monster's attacks, reducing their damage by 25% for 1 round.
+2. Vial of Disorientation (Cost: 1 Gem): This Vial is contained in a simple glass bottle. It confuses the monster, causing it to miss its next attack within 1 round.
+3. Vial of Silence (Cost: 1 Gem): Sealed in a plain flask, it silences the monster, preventing it from using any special abilities for 1 round.
+4. Vial of Blurring (Cost: 1 Gem): In a flask with a distorted pattern, it grants the monster disadvantage on its next attack roll within 1 round.
+5. Vial of Vulnerability (Cost: 1 Gem): Stored in a clear vial, it makes the monster vulnerable to a specific damage type (fire, cold, etc.) for 1 round.
+6. Vial of Minor Paralysis (Cost: 2 Gems): This Vial, in a plain glass vial, paralyzes the monster, preventing any action for 1 round.
+7. Vial of Minor Confusion (Cost: 2 Gems): Sealed in a flask with swirling patterns, it causes the monster to attack randomly, including itself, for 1 round.
+8. Vial of Dimming (Cost: 2 Gems): In a flask with a dark aura, it decreases the monster's vision, imposing disadvantage on its next attack roll within 1 round.
+9. Vial of Elemental Distortion (Cost: 2 Gems): Stored in a flask adorned with elemental symbols, it temporarily distorts the monster's resistance to a specific damage type (fire, cold, etc.) for 1 round.
+10. Vial of Anticipation (Cost: 2 Gems): This Vial is in a slender, crystal vial. It enhances the player's anticipation, providing advantage on the next attack roll within 1 round.
+11. Vial of Paralysis (Cost: 3 Gems): This Vial is stored in an intricate, amber glass container. It paralyzes the monster, preventing any action for 2 rounds.
+12. Vial of Confusion (Cost: 3 Gems): Sealed in a twisted, black bottle, it causes the monster to attack randomly, including itself, for 2 rounds.
+13. Vial of Slowing (Cost: 3 Gems): In a flask with a molasses-like motif, it reduces the monster's movement speed by half for 2 rounds.
+14. Vial of Fear (Cost: 3 Gems): Stored in a flask with a chilling design, it makes the monster flee in fear for 1 round, skipping its turn.
+15. Vial of Elemental Weakness (Cost: 3 Gems): This Vial is sealed in a flask adorned with elemental symbols. It makes the monster vulnerable to a specific damage type (fire, cold, etc.) for 2 rounds.
+16. Vial of Extended Paralysis (Cost: 4 Gems): This Vial, in an ornate, amber glass container, paralyzes the monster for 3 rounds, preventing any action.
+17. Vial of Drowsiness (Cost: 4 Gems): In a flask with a swirling, hypnotic design, it reduces the monster's initiative by 2 for 2 rounds.
+18. Vial of Silence (Cost: 4 Gems): Stored in a silver flask, it prevents the monster from using any special abilities for 2 rounds.
+19. Vial of Confounding Shadows (Cost: 4 Gems): Sealed in a dark, obsidian bottle, it causes the monster to have disadvantage on attacks for 2 rounds.
+20. Vial of Elemental Vulnerability (Cost: 4 Gems): This Vial is sealed in a flask adorned with pulsating elemental symbols. It makes the monster highly vulnerable to a specific damage type (fire, cold, etc.) for 2 rounds.
+21. Vial of Extended Confusion (Cost: 5 Gems): Sealed in a twisted, black bottle, it causes the monster to attack randomly, including itself, for 3 rounds.
+22. Vial of Time Distortion (Cost: 5 Gems): In a flask with mysterious hourglass markings, it grants the player the ability to reposition once per round for 3 rounds.
+23. Vial of Elemental Suppression (Cost: 5 Gems): This Vial is stored in a flask adorned with elemental symbols. It suppresses the monster's resistance to a specific damage type (fire, cold, etc.) for 2 rounds.
+24. Vial of Fearful Aura (Cost: 5 Gems): Stored in a flask with an eerie aura, it makes the monster flee in fear for 2 rounds, skipping its turn.
+25. Vial of Cursed Vision (Cost: 5 Gems): This Vial is sealed in a flask with dark, haunting engravings. It causes the monster to have disadvantage on all rolls for 2 rounds.
+26. Vial of Extended Silence (Cost: 6 Gems): Stored in a silver flask, it prevents the monster from using any special abilities for 3 rounds.
+27. Vial of Mind Control (Cost: 6 Gems): In a flask with mesmerizing patterns, it allows the player to control the monster's actions for 1 round.
+28. Vial of Elemental Disruption (Cost: 6 Gems): This Vial is sealed in a flask adorned with chaotic elemental symbols. It disrupts the monster's resistance to a specific damage type (fire, cold, etc.) for 3 rounds.
+29. Vial of Terrifying Presence (Cost: 6 Gems): Stored in a flask with an intimidating aura, it causes the monster to flee in fear for 3 rounds, skipping its turn.
+30. Vial of Mind's Eye (Cost: 6 Gems): In a flask etched with intricate runes, it grants the player the ability to predict the monster's movements, providing advantage on all rolls for 3 rounds.

@@ -20,7 +20,7 @@ Base Darts: 4
 	(**10th**) __Shadow Walk__: Increase the duration of any Evasive Status Effect on you by x2. Evasive Status Effects on you are not canceled because of dealing damage.
 	(**12th**) __Parry__: Redirect 15 damage from one enemy each round.
 	//(**12th**) __Weakening Strike__: Whenevener you hit a Bullseye type with an Attack Dart, All Players gain +10 AC and +2 to Attack(1 round).//
-	(**14th**) __Dusted__: Whenever you deal over 50 damage with a Damage Dart, that Enemy is Stunned(1 round).
+	(**14th**) __Dusted__: Whenever you deal over 100 damage with a Damage Dart, that Enemy is Stunned(1 round for each Damage Dart that achives this).
 	(**16th**) __Sealed Fate__: In your attack stage, if all of your Base Darts hit Successfully on an Enemy that has a Status Effect of Stunned, reduce that Enemies HP by half. Then apply the damage you would deal.
 
 **Special Abilities:**

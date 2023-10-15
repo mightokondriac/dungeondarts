@@ -14,9 +14,9 @@ Base Darts: 2
 	(**1st**) __Ghost Strike__: Move one Attack Dart over 1 wire(No Bullseye Types).
 		Redirected Approach: Forfiet an Attack Dart and gain a Damage Dart(0xmod). Damage delt this way is dealt instead by a player of your choice. 
 	(**2nd**) __Piercing Shot__: Move the Damage Dart over 1 wire for any Attack Dart that hits a Bullseye Type.
-	(**4th**) __Aura of Power__: All players gain +2 to AC
+	(**4th**) __Aura of Power__: All players gain +1 to AC
 	(**6th**) __Ghost Strike__: Move one Attack Dart over 2 wires(no Double Bull).
-	(**8th**) unknown
+	(**8th**) Hidden Guardian: Whenever an enemy's last HP-Trigger Ability activates, you summon a "Guardian Golem". This Golem counts as a Player, has 120hp, deals 10 damage each round and redirects targeting to itself you are targeted by an enemy. 
 	(**10th**) unknown
 	(**12th**) unknown
 	(**16th**) __Polarity Shift__: All Enemies that have a Status Effect that grants Resistance or Immunity are now Vulnerable to that effect instead.
