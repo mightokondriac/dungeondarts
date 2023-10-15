@@ -3,4 +3,7 @@ Wiki-Format: zim 0.6
 Creation-Date: 2023-10-14T21:55:28-04:00
 
 ====== Saturday 14 Oct 2023 ======
-test
+Got all the hosting and formatting and crap done. now i can go full ham and push the main bulk of the content for this game.
+
+Gotta get back into programming though.
+LEARN KOTLIN - https://developer.android.com/courses/android-basics-kotlin/course

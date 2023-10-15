@@ -11,17 +11,17 @@ Hit Points: 90
 Armor Class: 4
 Base Darts: 3
 **Natural Abilities:**(by level achived)
-	(**1st**) Combat Medic: Sacrifice 1 Base Dart. Darts sacrificed this way can be used in the damage phase to heal any other player by the amount thrown.
-	(**2nd**) Smite: Additional x1mod on any Attack Dart that hits a black section.
-	(**4th**) Divine Aura: Heal 5hp at Regroup phase each round.
-	(**6th**) Divine Presense: All players get +1 to attack on all Base Darts.
-	(**8th**) Ancient Rites: +2 to each Damage Dart. +1 Base Darts
-	(**10th**) Divine Aura: Heal 15hp at Regroup stage each round.
-	(**12th**) unknown
-	(**14th**) Great Shield: if you take over 50 damage in a single round, reduce the remainder by half(rounded up).
-	(**16th**) +1 to Direct Hits, additional x3mod to all Damage Darts that hit a black section.
+	(**1st**) __Combat Medic__: Sacrifice 1 Base Dart. Darts sacrificed this way can be used in the damage phase to heal any other player by the amount thrown.
+	(**2nd**) __Smite__: Additional x1mod on any Attack Dart that hits a black section.
+	(**4th**) __Divine Aura__: Heal 5hp at Regroup phase each round.
+	(**6th**) __Divine Presense__: All players get +1 to attack on all Base Darts.
+	(**8th**) __Ancient Rites__: +2 to each Damage Dart. +1 Base Darts
+	(**10th**) __Divine Aura__: Heal all players 10hp at the Regroup stage each round.
+	(**12th**) If you take more than 150hp damage during an encounter, all Enemies immediatly take 15 polarity damage and are Stunned for one round. If an enemy has Vulerability to polarity damage, they are Paralized for one round. (1/encounter)
+	(**14th**) __Great Shield__: if you take over 50 damage in a single round, reduce the remainder by half(rounded up).
+	(**16th**) __name unknown__: +1 to Direct Hits, additional x3mod to all Damage Darts that hit a black section.
 
 **Special Abilities:**
-	(**1st**) Bless: Prevent all damage to all players for 2 rounds.
-	(**5th**) Celestial Fire: Skip one turn. The next regroup phase, sacrifice a Base Dart. A Dart sacrificed in this way has a x10mod in the damage phase and cannot be used again for the rest of the encounter.
-	(**10th**) Recall: Instantly transport the whole party to the last town you were in. Heal all players to full Hit Points. (1/Day)
+	(**1st**) __Bless__: Prevent all damage to all players for 2 rounds.
+	(**5th**) __Celestial Fire__: Skip one turn. The next regroup phase, sacrifice a Base Dart. A Dart sacrificed in this way has a x10mod in the damage phase and cannot be used again for the rest of the encounter.
+	(**10th**) __Recall__: Instantly transport the whole party to the last town you were in. Heal all players to full Hit Points. (1/Day)

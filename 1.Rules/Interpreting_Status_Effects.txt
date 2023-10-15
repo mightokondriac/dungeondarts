@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-14T22:26:19-04:00
+
+====== Interpreting Status Effects ======
+Created Saturday 14 October 2023
+
+Understanding how to read status effects
+All other Players get +1 to AC if you deal damage this turn.
+ability that triggers when damage has been delt, effects all but the owner.
+
+gah i dont know how they are hard to read. help... 

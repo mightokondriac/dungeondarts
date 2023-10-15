@@ -11,16 +11,16 @@ Hit Points: 80
 Armor Class: 3
 Base Darts: 3
 **Natural Abilities:**(by level achived)
-	(**1st**) 
-	(**2nd**) 
-	(**4th**) 
-	(**6th**) 
-	(**8th**) 
-	(**10th**) 
-	(**12th**) 
-	(**14th**) 
-	(**16th**) 
+	(**1st**) __unknown__
+	(**2nd**) __unknown__
+	(**4th**) __unknown__
+	(**6th**) __unknown__
+	(**8th**) __unknown__
+	(**10th**) __unknown__
+	(**12th**) __unknown__
+	(**14th**) __unknown__
+	(**16th**) __unknown__
 **Special Abilities:**
-	(**1st**) 
-	(**5th**) 
-	(**10th**) 
+	(**1st**) __unknown__
+	(**5th**) __unknown__
+	(**10th**) __unknown__

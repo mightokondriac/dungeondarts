@@ -6,8 +6,11 @@ Creation-Date: 2023-10-12T02:27:37-04:00
 Created Thursday 12 October 2023
 @rules @index
 
+!!IMPORTANT!!
 	[[+1.Safety Warnings|Safety Warnings]]
 	[[+2.Setup and Technical|Setup and Technical]]
+	
+!!MORE FUN!!
 	[[+3.Alternate Rules|Alternate Rules]]
 	[[+4.Homebrew Advice|Homebrew Advice]]
 
@@ -45,7 +48,8 @@ Created Thursday 12 October 2023
 		
 ==== Special States ====
 		[[+Bounced Dart|Bounced Dart]]
-		[[+Multi-Hit|Multi-Hit]]
+		[[+Stick and Fall|Stick and Fall]]
+		[[+Off Board|Off Board]]
 		
 ==== xMods ====
 		[[+xMod Expressions|xMod Expressions]]
