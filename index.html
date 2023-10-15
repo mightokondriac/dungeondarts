@@ -8,23 +8,33 @@
   :root {
     --primary-color: #4CAF50; /* Main green color */
     --accent-color: #689F38; /* Accent green color */
+    --background-image: url('https://cdn.openart.ai/published/tvYF8LekmZG0ZLtCRahs/3pJaPZwv_fi4W_1024.webp'); /* Background image URL */
+  }
+
+  body {
+    background-color: var(--background-color);
+    background-image: var(--background-image); /* Set the background image */
+    background-size: cover; /* Cover the entire viewport */
+    background-attachment: fixed; /* Make the background image static */
+    opacity: 0.25; /* Reduce the opacity to 25% */
+    margin: 0 15%; /* Add margins to either side of 15% */
   }
 
   div {
-    font-size: 14px; /* Added 'px' unit */
+    font-size: 14px;
   }
 
   a {
     text-decoration: none;
-    color: var(--primary-color); /* Use primary color for links */
-    border-radius: 5px; /* Rounded edges for links */
+    color: var(--primary-color);
+    border-radius: 5px;
     transition: background-color 0.3s, color 0.3s;
   }
 
   a:hover, a:active {
     text-decoration: underline;
-    background-color: var(--accent-color); /* Use accent color on hover */
-    color: white; /* Text color on hover */
+    background-color: var(--accent-color);
+    color: white;
   }
 
   strike {
@@ -49,12 +59,12 @@
 
   h1 {
     text-decoration: underline;
-    color: var(--primary-color); /* Use primary color for headings */
+    color: var(--primary-color);
     margin: 0;
   }
 
   h2, h3, h4, h5 {
-    color: var(--primary-color); /* Use primary color for headings */
+    color: var(--primary-color);
     margin: 0;
   }
 
@@ -75,6 +85,7 @@
     list-style-image: none;
   }
 </style>
+
 
 </head>
 <body>
