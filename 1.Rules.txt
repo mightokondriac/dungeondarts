@@ -29,16 +29,16 @@ Created Thursday 12 October 2023
 		**[[+Activities|Activities]]**: Conquer non-encounter dart challenges that test your skills and strategic thinking.
 		**[[+Merchants|Merchants]]**: Acquire goods and services from various vendors to enhance your character's abilities and resources.
 		**[[+Portals|Portals]]**: Discover the integral role of portals in your travel and campaign progress, enabling you to move between different locations and challenges seamlessly.
-			
-==== Game Progression ====
-		[[+Regroup|Regroup]] (the moment before anyones turn)
-		[[+Turns|Turns]] (your turn)
-		[[+Rounds|Rounds]] (all of the turns)
-		[[+Stages|Stages]] (components of turns and rounds)
-		[[+Leveling|Leveling]] (how your player advances)
-		[[+Traveling|Traveling]] (when and how you can travel)
-		[[+Tracking Progress|Tracking Progress]] (how to keep track of the changes to your character)
-		
+	
+==== Game Progression: ====
+
+		[[+Regroup|Regroup]]: Understand the stage that occurs before anyone's turn, where essential decisions and preparations are made.
+		[[+Turns|Turns]]: Explore the mechanics of the complete Turn, which collectively form the building blocks of the game.
+		[[+Rounds|Rounds]]: Dive into the concept of rounds, that are all brought together to make turns, shaping the overall flow of gameplay.
+		[[+Stages|Stages]]: Learn about the key components of turns and rounds. //__including the player round (Regroup, Attack, and Damage) and the enemy round (Minion Damage and Enemy Damage).__//
+		[[+Leveling|Leveling]]: Discover how your character advances through the game. After defeating each Primary Enemy, your player increases one level and has the potential to gain additional hit points, abilities, and treasure.
+		[[+Traveling|Traveling]]: Explore when and how you can navigate the world of Astralor using Portals and Tunnels, allowing for strategic movement.
+		[[+Tracking Progress|Tracking Progress]]: Learn how to effectively keep track of the changes and developments in your character as you progress through the game. This menu provides a comprehensive and structured approach to understanding the various stages and mechanics of game progression.
 		
 ==== Dart Types ====
 		[[+Base Darts|Base Darts]] (iteractive vectors)
