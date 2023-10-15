@@ -10,8 +10,10 @@ Created Thursday 12 October 2023
 	Currency and Mods
 	Equipment
 All Enemies
+[[+All Merchants|All Merchants]]
 All Activities
 All Encounters
+All Side Quests
 All Class Abilities
 All Enemy Abilities
 All Terminology

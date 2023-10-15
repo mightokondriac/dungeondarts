@@ -28,7 +28,7 @@ Dungeon Darters, the realm teeters on the precipice of darkness, yearning for he
 	[[2.Classes:4.Thief|Thief]]
 	[[2.Classes:5.Sorcerer|Sorcerer]]
 ==== [[3.Towns|Towns]] ====
-	Merchants
+	[[6.Lists:All Merchants|Merchants]]
 	Activities
 	
 ==== [[4.Adventures|Adventures]] ====
@@ -41,9 +41,14 @@ Dungeon Darters, the realm teeters on the precipice of darkness, yearning for he
 	Historical
 	
 ==== [[6.Lists|Lists]] ====
+	[[6.Lists:All Items|All Items]]
+		Currency and Mods
+		Equipment
 	All Enemies
+	[[6.Lists:All Merchants|All Merchants]]
 	All Activities
 	All Encounters
+	All Side Quests
 	All Class Abilities
 	All Enemy Abilities
 	All Terminology
