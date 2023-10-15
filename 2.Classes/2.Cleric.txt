@@ -17,9 +17,9 @@ Base Darts: 3
 	(**6th**) __Divine Presense__: All players get +1 to attack on all Base Darts.
 	(**8th**) __Ancient Rites__: +2 to each Damage Dart. +1 Base Darts
 	(**10th**) __Divine Aura__: Heal all players 10hp at the Regroup stage each round.
-	(**12th**) If you take more than 150hp damage during an encounter, all Enemies immediatly take 15 polarity damage and are Stunned for one round. If an enemy has Vulerability to polarity damage, they are Paralized for one round. (1/encounter)
+	(**12th**) __Burst of Light__: If you take more than 150hp damage during an encounter, all Enemies immediatly take 15 polarity damage and are Stunned on their next turn. If an enemy has Vulerability to polarity damage, they are Paralized on their next turn. (1/encounter)
 	(**14th**) __Great Shield__: if you take over 50 damage in a single round, reduce the remainder by half(rounded up).
-	(**16th**) __name unknown__: +1 to Direct Hits, additional x3mod to all Damage Darts that hit a black section.
+	(**16th**) __Great Mace__: +1 to Direct Hits, additional x2mod to all Damage Darts that hit a black section. All damage you do from Damage Darts is now all Polarity Damage.
 
 **Special Abilities:**
 	(**1st**) __Bless__: Prevent all damage to all players for 2 rounds.

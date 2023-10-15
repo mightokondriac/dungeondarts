@@ -18,11 +18,12 @@ Base Darts: 4
 	(**6th**) __Posted__: Forfiet any amount of Base Darts. Give any number of these Forfieted Darts to any number of players. Heal 10hp for the first dart, 20hp for the second dart and 30hp for the third dart(totalling 60hp if 3 are forfieted). Darts forfieted this way are not Recoverd for 1 round/dart forfieted(2 forfieted = both darts are not Recovered for 2 rounds).
 	(**8th**) __Tuned Blades__: If you score a x2 or x3 on an Attack Dart, add 20 damage to the total of that Damage Dart.
 	(**10th**) __Shadow Walk__: Increase the duration of any Evasive Status Effect on you by x2. Evasive Status Effects on you are not canceled because of dealing damage.
-	(**12th**) __Weakening Strike__: Whenevener you hit a Bullseye type with an Attack Dart, All Players gain +10 AC and +2 to Attack(1 round).
+	(**12th**) __Parry__: Redirect 15 damage from one enemy each round.
+	//(**12th**) __Weakening Strike__: Whenevener you hit a Bullseye type with an Attack Dart, All Players gain +10 AC and +2 to Attack(1 round).//
 	(**14th**) __Dusted__: Whenever you deal over 50 damage with a Damage Dart, that Enemy is Stunned(1 round).
 	(**16th**) __Sealed Fate__: In your attack stage, if all of your Base Darts hit Successfully on an Enemy that has a Status Effect of Stunned, reduce that Enemies HP by half. Then apply the damage you would deal.
 
 **Special Abilities:**
 	(**1st**) __Critical Opening__: One of your Damage Darts gains x10mod until next Regroup Stage.
 	(**5th**) __Slip Through__: Enemy Status Effects that reduce or prevent damage that you would deal, or force you to miss, are ignored(3 rounds).
-	(**10th**) unknown
+	(**10th**) __Disolve__: You become Untargetable. Gain an additional Damage Dart for each of your Base Darts. Each of these additional Damage Darts does 5 damage plus the result of the throw(2 rounds). 
