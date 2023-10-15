@@ -31,25 +31,29 @@ Created Thursday 12 October 2023
 		**[[+Portals|Portals]]**: Discover the integral role of portals in your travel and campaign progress, enabling you to move between different locations and challenges seamlessly.
 	
 ==== Game Progression: ====
-
-		[[+Regroup|Regroup]]: Understand the stage that occurs before anyone's turn, where essential decisions and preparations are made.
-		[[+Turns|Turns]]: Explore the mechanics of the complete Turn, which collectively form the building blocks of the game.
-		[[+Rounds|Rounds]]: Dive into the concept of rounds, that are all brought together to make turns, shaping the overall flow of gameplay.
-		[[+Stages|Stages]]: Learn about the key components of turns and rounds. //__including the player round (Regroup, Attack, and Damage) and the enemy round (Minion Damage and Enemy Damage).__//
-		[[+Leveling|Leveling]]: Discover how your character advances through the game. After defeating each Primary Enemy, your player increases one level and has the potential to gain additional hit points, abilities, and treasure.
-		[[+Traveling|Traveling]]: Explore when and how you can navigate the world of Astralor using Portals and Tunnels, allowing for strategic movement.
-		[[+Tracking Progress|Tracking Progress]]: Learn how to effectively keep track of the changes and developments in your character as you progress through the game. This menu provides a comprehensive and structured approach to understanding the various stages and mechanics of game progression.
+		**[[+Regroup|Regroup]]**: Understand the stage that occurs before anyone's turn, where essential decisions and preparations are made.
+		**[[+Turns|Turns]]**: Explore the mechanics of the complete Turn, which collectively form the building blocks of the game.
+		**[[+Rounds|Rounds]]**: Dive into the concept of rounds, that are all brought together to make turns, shaping the overall flow of gameplay.
+		**[[+Stages|Stages]]**: Learn about the key components of turns and rounds. //__including the player round (Regroup, Attack, and Damage) and the enemy round (Minion Damage and Enemy Damage).__//
+		**[[+Leveling|Leveling]]**: Discover how your character advances through the game. After defeating each Primary Enemy, your player increases one level and has the potential to gain additional hit points, abilities, and treasure.
+		**[[+Traveling|Traveling]]**: Explore when and how you can navigate the world of Astralor using Portals and Tunnels, allowing for strategic movement.
+		**[[+Tracking Progress|Tracking Progress]]**: Learn how to effectively keep track of the changes and developments in your character as you progress through the game. This menu provides a comprehensive and structured approach to understanding the various stages and mechanics of game progression.
 		
 ==== Dart Types ====
-		[[+Base Darts|Base Darts]] (iteractive vectors)
-		[[+Attack Darts|Attack Darts]] (a base dart becomes an attack dart in the Attack Stage)
-		[[+Damage Darts|Damage Darts]] (successful attack dart becomes damage dart)
-
+		**[[1.Rules:Base Darts|Base Darts]]** (Resource for Strategy): Discover the fundamental currency of your gameplay - the Base Darts. These darts determine your starting resources and are recovered during the Regroup Stage, allowing you to carefully plan and strategize your every move.
+		
+		**[[1.Rules:Attack Darts|Attack Darts]]** (Unleash Your Offense): Witness the transformation of a Base Dart into a mighty Attack Dart during the Attack Stage. These darts are your weapon of choice as you unleash your offensive prowess and aim to overcome enemies and challenges.
+		
+		**[[1.Rules:Damage Darts|Damage Darts]]** (Turn Success into Impact): When an Attack Dart successfully hits its target, it metamorphoses into a Damage Dart, transforming your successful hits into potent blows. These darts amplify your impact, dealing substantial damage to your adversaries and paving the way to victory.
+		
 ==== Abilities ====
-		[[+Player Natural Ability|Player Natural Ability]]
-		[[+Player Special Ability|Player Special Ability]]
-		[[+Enemy Natural Ability|Enemy Natural Ability]]
-		[[+Enemy Triggered Ability|Enemy Triggered Ability]]
+		[[1.Rules:Player Natural Ability|Player Natural Ability]] (Innate Power): Unearth the unique innate powers possessed by player characters. These natural abilities are always at your disposal, enhancing your character's capabilities and allowing you to leave your mark on the world of Astralor.
+
+		[[1.Rules:Player Special Ability|Player Special Ability]] (Unique Techniques): Explore the realm of unique and specialized techniques available to players. These special abilities enable you to perform extraordinary feats, shaping your strategy and providing a distinct advantage in critical moments.
+
+		[[1.Rules:Enemy Natural Ability|Enemy Natural Ability]] (Inherent Strengths): Delve into the world of formidable foes and their inherent strengths. Enemy Natural Abilities challenge players and add depth to encounters, ensuring that every battle in Astralor presents a unique and engaging test of your skills.
+
+		[[1.Rules:Enemy Triggered Ability|Enemy Triggered Ability]] (Adaptive Threats): Face adaptive and cunning adversaries with Triggered Abilities. These enemies respond to specific conditions or events, presenting an ever-evolving challenge and requiring players to stay on their toes to emerge victorious.
 		
 ==== Special States ====
 		[[+Bounced Dart|Bounced Dart]]
