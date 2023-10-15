@@ -6,13 +6,13 @@ Creation-Date: 2023-10-13T23:11:32-04:00
 Created Friday 13 October 2023
 @rules @involvement
 
-Each Player must have at least 3 darts.
-Pick a class
+all playerers do the following:
+Pick a class(fighter, cleric, thief, sorcerer)
+learn the advantages and vulnerabilities of your chosen class
+draw first adventure(Cavern of Shadows): this card explains the different encounters and the level ranges of each encounter.
+draw first encounter(Entrance to the Abyss): this card details the activities that the players need to complete in order to "enter the room" where the main enemy is.
+then the players fight the first enemy
+after defeating the enemy, each player recieves an amount of gems(designated on the card). the player that did the "Killing Blow" 
+get gems and treasure
 draw Oakshade card
 do merchants and activities
-draw adventure(Cavern of Shadows)
-draw first encounter(Entrance to the Abyss)
-do activities
-fight first enemy
-get gems and treasure
-
