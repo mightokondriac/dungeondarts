@@ -4,7 +4,7 @@ Creation-Date: 2023-10-12T11:14:09-04:00
 
 ====== Ranger ======
 Created Thursday 12 October 2023
-@classes @ranger @versitile @tactical
+@classes @ranger @versitile
 
 **Starting Stats**
 Hit Points: 80
