@@ -4,6 +4,23 @@ Creation-Date: 2023-10-12T11:14:09-04:00
 
 ====== Ranger ======
 Created Thursday 12 October 2023
-@classes @ranger
+@classes @ranger @versitile @tactical
 
-sdf
+**Starting Stats**
+Hit Points: 80
+Armor Class: 3
+Base Darts: 3
+**Natural Abilities:**(by level achived)
+	(**1st**) 
+	(**2nd**) 
+	(**4th**) 
+	(**6th**) 
+	(**8th**) 
+	(**10th**) 
+	(**12th**) 
+	(**14th**) 
+	(**16th**) 
+**Special Abilities:**
+	(**1st**) 
+	(**5th**) 
+	(**10th**) 
