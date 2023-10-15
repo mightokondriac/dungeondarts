@@ -5,7 +5,6 @@ Creation-Date: 2023-10-14T22:02:46-04:00
 ====== Year 2023 ======
 https://en.wikipedia.org/wiki/2023
 
-'''
 2023 (MMXXIII) is the current year, and is a common year starting on Sunday of the Gregorian calendar, the 2023rd year of the Common Era (CE) and Anno Domini (AD) designations, the 23rd year of the 3rd millennium and the 21st century, and the 4th year of the 2020s decade.
 
 The year has seen the decline in severity of the COVID-19 pandemic, with the WHO ending its global health emergency status in May. The Russian invasion of Ukraine, which began in 2022 continued, and a series of coups, an armed conflict, and political crises broke out in numerous African nations. In October, Israel declared a state of war against the Gaza Strip following an attack by Hamas. Catastrophic natural disasters included the fifth-deadliest earthquake of the 21st century striking Turkey and Syria, leaving nearly 60,000 people dead, Cyclone Freddy – the longest-lasting recorded tropical cyclone in history – leading to over 1,400 deaths in Malawi and Mozambique, Storm Daniel, which became the deadliest cyclone worldwide since Cyclone Nargis after killing at least 11,000 people in Libya, a major 6.8 magnitude earthquake striking western Morocco, killing 2,960 people, and a 6.3 magnitude triplet earthquake striking western Afghanistan, killing over 1,000 people.
@@ -217,4 +216,3 @@ October 7
 Hamas launches Operation Al-Aqsa Flood, a large-scale attack from the Gaza Strip, infiltrating southern Israel, prompting a full military response from the Israel Defense Forces.[218] Israel launches numerous air strikes on Lebanon and Syria, after rockets are fired by Hezbollah and attempts are made to penetrate Israel. Israel's Security Cabinet formally declares war for the first time since the Yom Kippur War in 1973.[219][220]
 A series of earthquakes occur in Herat Province in Afghanistan, killing over 1,000 people and injuring nearly 2,000, with tremors felt in Iran and Turkmenistan. The earthquakes are the deadliest in the country since 1998.[221]
 October 14 – 2023 New Zealand general election: The Labour Party suffers the worst result for an incumbent ruling party in modern New Zealand history while the National Party wins a plurality of seats under leader Christopher Luxon.[222]
-'''
