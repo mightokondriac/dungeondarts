@@ -12,7 +12,10 @@ change all instance of "**Sacrifice**" to "**Forfiet**"
 [[+Item Listing Formats|Item Listing Formats]]
 
 Ability Construction
+	types: simple, trigger, activated
 	operator: -, +, x
 	numbers: 1-150
 	player stats: hp, ac, base darts, attack darts, damage darts, to attack per attack dart, to damage per damage dart, to attack(1 dart), to damage(1 dart)
-	unique: whenever,
+	unique(trigger): whenever,  
+	unique(activated)
+	unique(simple)
