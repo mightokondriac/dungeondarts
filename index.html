@@ -12,16 +12,18 @@
   }
 
   body {
-    background-color: var(--background-color);
+    background-color: transparent; /* Set the page background color to transparent */
     background-image: var(--background-image); /* Set the background image */
     background-size: cover; /* Cover the entire viewport */
     background-attachment: fixed; /* Make the background image static */
-    opacity: 1; /* Reduce the opacity to 25% */
+    opacity: 0.25; /* Reduce the opacity of the background image to 25% */
     margin: 0 15%; /* Add margins to either side of 15% */
   }
 
   div {
     font-size: 14px;
+    background-color: rgba(255, 255, 255, 0.75); /* Set the background color of div elements to 75% opacity white */
+    border-radius: 10px; /* Add rounded corners to div elements */
   }
 
   a {
@@ -85,6 +87,7 @@
     list-style-image: none;
   }
 </style>
+
 
 
 </head>
