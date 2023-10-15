@@ -6,9 +6,8 @@ Creation-Date: 2023-10-12T11:32:02-04:00
 Created Thursday 12 October 2023
 @towns @index
 
-
-==== [[+Oakshade|Oakshade (level 1-16)]] ====
-
-
-==== [[+Stormhaven|Stormhaven (level 6-11)]] ====
+==== Towns of region Astralor (level 1-21) ====
+//a region is another name for "Expansion"//
+	* [[+Oakshade|Oakshade (level 1-16)]]
+	* [[+Stormhaven|Stormhaven (level 6-11)]]
 
