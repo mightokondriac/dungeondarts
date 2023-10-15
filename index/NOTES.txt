@@ -5,17 +5,25 @@ Creation-Date: 2023-10-12T14:03:20-04:00
 ====== NOTES ======
 Created Thursday 12 October 2023
 
-change all instances of Attack/Damge **Round or Phase** to "Attack/Damage **Stage**"
+* change all instances of Attack/Damge **Round or Phase** to "Attack/Damage **Stage**"
 
-change all instance of "**Sacrifice**" to "**Forfiet**"
+* change all instance of "**Sacrifice**" to "**Forfiet**"
+* 
 
 [[+Item Listing Formats|Item Listing Formats]]
 
-Ability Construction
+**Ability Construction**
 	types: simple, trigger, activated
 	operator: -, +, x
 	numbers: 1-150
-	player stats: hp, ac, base darts, attack darts, damage darts, to attack per attack dart, to damage per damage dart, to attack(1 dart), to damage(1 dart)
-	unique(trigger): whenever,  
-	unique(activated)
-	unique(simple)
+	player stats: hp, ac, base darts, attack darts, damage darts, to attack per attack dart, to damage per damage dart, to attack[1 dart], to damage[1 dart]
+	trigger: whenever(you, a player, another player, an enemy, all enemies),  the (first, second, third) time(you, a player, an enemy)
+	trigger-condition(you): 
+	trigger-condition(a player): 
+	trigger-condition(another player): 
+	trigger-condition(an enemy):
+	trigger-condition(all enemies):
+  
+Ability demo: rand_build = r_sel(simple, unique)|
+
+	
