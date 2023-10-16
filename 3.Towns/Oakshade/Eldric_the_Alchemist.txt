@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-16T01:18:00-04:00
+
+====== Eldric the Alchemist ======
+Created Monday 16 October 2023
+
+A wizened figure with a long, silver beard, Eldric's shop brims with shimmering vials and bubbling cauldrons. Adventurers flock to his establishment seeking legendary potions and elixirs rumored to heal the gravest wounds, boost their abilities to supernatural levels, or unlock hidden potential.
