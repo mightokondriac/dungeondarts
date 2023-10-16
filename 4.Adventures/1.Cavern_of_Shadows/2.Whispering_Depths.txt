@@ -4,5 +4,28 @@ Creation-Date: 2023-10-13T01:53:18-04:00
 
 ====== 2.Whispering Depths ======
 Created Friday 13 October 2023
+@encounter @cos @card_detail
+
+* Armor Class 17 Encounter
+* Milestone Encounter 2 of [[1.Cavern of Shadows|Cavern of Shadows]]
+
+==== **Pre-encounter Activities** ====
+
+	* __Staying Sane__: The whispering and distant sounds seem like they are coming from nowhere and everywhere at the same time. Push through the maddening test of mental fortitude. Players use thier Base Darts to hit 17 at least one time.
+		* __If a player fails__: That player loses all Direct Hit bonuses, that an item or ability would give, for the rest of this Encounter.
+**Unresolved until you hit: 17 (Each Player)**
+
+==== Primary Enemy ====
+
+**Arcane Whisperspirit**
+	Armor Class: __17__
+	Hit Points: __300__
+	Base Damage: __15__
+//The chamber's atmosphere grows tense as you step further into the room. Amidst the eerie, ghostly glow of your torchlight, a spectral figure takes shape before you. Its form appears as an intricate lattice of silvery blue mist, woven with arcane symbols.//
+**@ 1/2 hp**
+	Mist Form: In this ethereal state, players can only deal damage to it through Direct Hits. Five successful Direct Hits will cancel this ability, returning the Whisperspirit to its physical form.
+**@ 100 hp**
+	Arcane Armor: Every third successful Hit with an Attack Dart from each player misses automatically unless it is a Bullseye type.
+**Treasure**: Shimmering Scale - Deflect 5 Damage per round.
 
 ..

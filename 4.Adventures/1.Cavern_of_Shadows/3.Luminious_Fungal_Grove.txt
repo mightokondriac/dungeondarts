@@ -4,5 +4,38 @@ Creation-Date: 2023-10-13T01:52:46-04:00
 
 ====== 3.Luminious Fungal Grove ======
 Created Thursday 12 October 2023
+@encounter @cos @card_detail
 
-..
+* Armor Class 18 Encounter
+* Milestone Encounter 3 of [[1.Cavern of Shadows|Cavern of Shadows]]
+
+==== **Pre-encounter Activities** ====
+* __The Illuminated Pools__: It is said that the underground pools that come from the great Drun River are blessed with fish that have poweful healing and protective properties. Each participating player uses their Base Darts to hit a black section. Each dart must be at least 1 wire away from another dart.
+	* __On success__: Collect a "Drun Trout" item for each dart used in this way.
+	* __Drun Trout__: Eat one to heal yourself 5hp and prevent next 5hp damage. This item counts as 1 item slot in inventory for every 5 duplicates.
+
+==== Primary Enemy ====
+
+**Bioluminous Mycoid**
+	Armor Class: __18__
+	Hit Points: __400__
+	Base Damage: __20__
+The Luminous Fungal Behemoth is a colossal, luminescent creature that thrives in the underground chamber filled with glowing mushrooms and bioluminescent life. Its immense body is covered in thick, phosphorescent fungi that pulse with eerie light, making it blend seamlessly with its surroundings.
+
+	__Bioluminescent Flare__: Every round, players must flip a coin. On a heads, they are temporarily blinded by the sudden burst of light and have a 50% chance to miss their first and second Attack Dart throw. On a tails, they navigate the terrain successfully and face no penalty.
+**@ 100 hp**
+	__Fungal Eruption__: This eruption releases a burst of spores that create small, aggressive mushroom minions to aid the behemoth in battle. These minions attack players by clinging to them, dealing 10 damage to each player per round until the Bioluminous Mycoid is defeated.
+**Treasure**: x4 gems, 1 Luminous Gel - A highly prized component used by artificers.
+
+==== Starting at level 8, the Lumifungus Infester joins the battle! ====
+
+Lumifungus Infester
+	Armor Class: __18__
+	Hit Points: __420__
+	Base Damage: __15__
+
+	Bioluminescent Aura: The Lumifungus Infester emits a radiant aura that bathes the chamber in a soft, eerie glow. All players' get a -2 to Hit on all Attack Darts. This effect is active throughout the encounter.
+@ 1/2 hp
+	Mycoid Burst: This burst creates a temporary field of luminescent fungi, increasing its AC to 22 for 3 rounds. Heals Bioluminous Mycoid 120hp, or back up to 101hp if already defeated.
+**Treasure**: x1 gem, 4 Luminous Gel, 1 Lumifungus Eye
+
