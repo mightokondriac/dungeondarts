@@ -4,7 +4,7 @@ Creation-Date: 2023-10-14T22:19:09-04:00
 
 ====== Bounced Dart ======
 Created Saturday 14 October 2023
-@rules @specialstates
+@rules @specialstates @help
 
 When a Dart fully bounces out of the dartboard(not Stick and Fall) from hitting a wire, that dart is not Recoverable until the Regroup stage on the Round after next. 
 

@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-16T10:46:18-04:00
+
+====== Merchants ======
+Created Monday 16 October 2023
+@merchants @help @rules @cardtype
+
+==== Discovering the World of Merchants: ====
+	Merchants hold the keys to your character's progression in the fantastical realm of Astralor. As you traverse through each Town, you'll encounter these crucial figures who offer a treasure trove of goods to aid you on your quest. Merchants are more than just shopkeepers; they often present you with unique Activities that you can engage in once a day. By completing these Activities, you have the opportunity to earn valuable gems or specialized currencies specific to their trade, whether they be Alchemists, Blacksmiths, Innkeepers, and more. These currencies can be employed for exclusive transactions and upgrades. Additionally, keep an eye out for the occasional Side Quests that Merchants may offer once your party reaches a high enough level. So, dive into the world of Merchants, for they are your allies in enhancing your character's capabilities and discovering hidden quests in the vibrant world of Astralor.
+
+See List: [[6.Lists:All Merchants|All Merchants]]

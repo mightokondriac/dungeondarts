@@ -12,7 +12,7 @@ Created Monday 16 October 2023
 	1. Recover Base Darts
 	2. Special Abilities that apply to multiple player or are Status Effects that target enemies(as apposed to targeting one of your darts).
 	3. apply and/or continue Status Effects 
-2. **{player position}**
+2. **{player position} Round**
 	1. Base Dart Allocation Stage
 	2. Attack Stage
 		a. Attack Dart Allocation
@@ -20,17 +20,20 @@ Created Monday 16 October 2023
 	3. Damage Stage
 		a. Damage Dart Allocation
 		b. Damage Dart Evaluation
-	4. Player {pos} End Stage
+	4. Player {pos} Round End Stage
 3. **Party Turn End Stage**
-4. **{minion position}**
+4. **{minion position} Round**
 	1. Minion Action
 	2. Minion Total Damage
-5. **{primary enemy}**
+	3. Minion {pos} Round End Stage
+5. P**rimary Enemy Round**
 	1. Primary Enemy Action
 	2. Primary Enemy Total Damage
-6. **{secondary enemy position}**
+	3. Pimary Enemy Round End Stage
+6. **{secondary enemy position} Round**
 	1. Secondary Enemy Action
 	2. Secondary Enemy Total Damage
+	3. Secondary Enemy {pos} Round End Stage
 7. **Enemy Turn End Stage**
 8. **Complete Turn End Stage**
-	a. Clean up Status Effects that end at "End of turn".
+	a. Clean up Status Effects that end at "End of Complete Turn".

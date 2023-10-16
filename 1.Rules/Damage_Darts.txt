@@ -4,7 +4,7 @@ Creation-Date: 2023-10-13T23:07:40-04:00
 
 ====== Damage Darts ======
 Created Friday 13 October 2023
-@rules @steps @damage_darts
+@rules @steps @damage_darts @help
 
 In the Damage Step, use the amount of Damage Darts your character has available to attempt to hit the highest possible number. Double and Triple rings are not calculated for Damage Darts(if you hit a Triple 20 with a Damage Dart, it is still only 20 damage. If you hit a Triple on the required AC, then the corresponding Damage Dart would be 20x3, dealing 60 damage to the enemy.
 

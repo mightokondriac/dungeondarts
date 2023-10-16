@@ -5,6 +5,11 @@ Creation-Date: 2023-10-12T11:12:36-04:00
 ====== Classes ======
 Created Thursday 12 October 2023
 @classes @index
+{{.\_Cleric_325.png}}
+==== Interpereting Class Cards ====
+Class Title | Levels Displayed on this card
+Starting Hit Points | Starting Base Darts
+List of Abilities | Class Gameplay Tips
 
 ==== [[+1.Fighter|Fighter]] ====
 	//__The primary tank of the game. Deals lots of damage and shields others.__//
