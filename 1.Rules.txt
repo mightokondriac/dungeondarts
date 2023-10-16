@@ -56,7 +56,8 @@ Created Thursday 12 October 2023
 ==== Special States ====
 		**[[1.Rules:Bounced Dart|Bounced Dart]]** (Erratic Rebound): Witness the unpredictability as your dart strikes a wire and then bounces to the ground, akin to the unpredictability of rolling a 1 in some scenarios. It's an unexpected twist that keeps the game exciting and challenges your strategic thinking.
 		**[[1.Rules:Stick and Fall|Stick and Fall]]** (Fleeting Victory, Frustrating Defeat): Experience a moment of triumph as your dart makes contact with the dartboard, only to stick for a mere instant before tumbling to the ground. While it technically hits, it doesn't always count, creating scenarios where success can be fleeting and frustration may creep in.
-		**[[1.Rules:Off Board|Off Board]]** (Aim Astray, Catastrophe Looms): Feel the tension as your dart misses the dartboard entirely. Off Board throws can spell disaster in certain circumstances, reminding you that precision is paramount and that sometimes, the cost of missing can be high in the game. These unique states add layers of complexity and excitement to your darts' journey.
+		**[[1.Rules:Off Board|Off Board]]** (Aim Astray, Catastrophe Looms): Feel the tension as your dart misses the dartboard entirely. Off Board throws can spell disaster in certain circumstances, reminding you that precision is paramount and that sometimes, the cost of missing can be high in the game. 
+		
 ==== xMods ====
 		[[+xMod Expressions|xMod Expressions]]
 		
