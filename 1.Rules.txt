@@ -26,6 +26,7 @@ Created Thursday 12 October 2023
 		**[[+Encounters|Encounters]]**: Immerse yourself in sets of activities and face formidable enemies to gain experience and level up.
 		
 === Advancing the Campaign: ===
+		**[[+Towns|Towns]]**: Explore dynamic hubs that house crucial services and opportunities. Engage with characters, access vendors, and embark on hidden quests to evolve your character and acquire resources. Towns also serve as gateways to seamless portal travel, ensuring a dynamic campaign.
 		**[[+Activities|Activities]]**: Conquer non-encounter dart challenges that test your skills and strategic thinking.
 		**[[+Merchants|Merchants]]**: Acquire goods and services from various vendors to enhance your character's abilities and resources.
 		**[[+Portals|Portals]]**: Discover the integral role of portals in your travel and campaign progress, enabling you to move between different locations and challenges seamlessly.
