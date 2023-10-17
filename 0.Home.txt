@@ -21,7 +21,7 @@ We relish in creating adventures that you'd want to replay with your friends aga
 <<< [[index:NOTES|Project Notes]] | [[+Contributions|Contributions]] | [[+Goals|Goals]] | [[index:Journal|Dailys]] >> 
 
 
-==== -----=====[[1.Rules|Rules=====-----]] ====
+==== [[1.Rules|-----=====Rules=====-----]] ====
 
 ==== [[2.Classes|Classes]] ====
 ==== [[1.Rules:Towns|Towns]] ====
