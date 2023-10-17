@@ -19,8 +19,21 @@ Basically this game started with the dart game Cricket and how to turn it into a
 
 **Ability Construction**
 	TYPES:
-	Passive(examples: +1 to ac, +10 to hp, +1 base darts, +3 to attack per dart, +23 to damage[1 dart], etc...)
-	Trigger(examples: whenever a player deals over 100 damage, whenever you take damge, whenever an enemy uses an Evasive Status Effect, the first time a use a Special Ability Point this Encounter, the second time you flip a coin this round, etc...)
+	Passive(examples:
+	+{1 to 150, select randomly) to ac,
+	+{10 to 1500}, increments of 10, select randomly) to hp,
+	+{1 to 3, select randomly} base darts,
+	+{1 to 50 select randomly} to attack per dart,
+	+{5 to 100, increments of 5, select randomly} to total damage({1 to 3 or All, select randomly) Damage Dart),
+	)
+	Trigger(examples:
+	whenever a player deals over 100 damage,
+	whenever you take damge,
+	whenever an enemy uses an Evasive Status Effect,
+	the first time you use a Special Ability Point this Encounter,
+	the second time you flip a coin this round,
+	whenever 
+	etc...)
 	Activated(examples: forfeit a Base Dart, forfeit all Attack Darts,  
 	operator: -, +, x
 	numbers: 1-150
