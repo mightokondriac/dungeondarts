@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-17T17:44:15-04:00
+
+====== Understanding Leveling ======
+Created Tuesday 17 October 2023
+
+after every primary enemy kill

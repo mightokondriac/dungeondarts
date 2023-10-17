@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2023-10-16T11:20:42-04:00
 
-====== Encounters ======
+====== Understanding Encounters ======
 Created Monday 16 October 2023
 @rules @help @encounters @cardtype
 
@@ -11,6 +11,6 @@ Created Monday 16 October 2023
 	
 	Surviving these encounters is your ticket to rich rewards. As you emerge victorious, your party is rewarded with a trove of gems, the quantity of which varies depending on the strength of the defeated Enemy. The player who strikes the final blow is awarded a Unique Treasure, a rare and coveted item unattainable in any shop.
 	
-	Once the encounter concludes, consult your [[Adventures|Adventure Card]] to smoothly transition to the next thrilling Encounter. The culmination of your adventures is marked by the 5th encounter, where you confront the formidable end boss. Upon emerging victorious, it's time to unveil the [[Treasure|Treasure Card]] for this Adventure, allowing players to test their luck and vie for the best available treasures.
+	Once the encounter concludes, consult your [[Understanding Adventures|Adventure Card]] to smoothly transition to the next thrilling Encounter. The culmination of your adventures is marked by the 5th encounter, where you confront the formidable end boss. Upon emerging victorious, it's time to unveil the [[Treasure|Treasure Card]] for this Adventure, allowing players to test their luck and vie for the best available treasures.
 	
 	Following the steps outlined on the Adventure Card, your party then ventures through a portal to a New Town, accompanied by the anticipation of a fresh start. Draw a new [[3.Towns|Town Card]], and resume your quest to extinguish the evil that threatens to engulf Astralor. Your journey is one of adventure, strategy, and heroic battles against a spreading malevolence, promising endless excitement and opportunities for victory.

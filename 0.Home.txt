@@ -24,7 +24,7 @@ We relish in creating adventures that you'd want to replay with your friends aga
 ==== [[1.Rules|-----=====Rules=====-----]] ====
 
 ==== [[2.Classes|Classes]] ====
-==== [[1.Rules:Towns|Towns]] ====
+==== [[1.Rules:Understanding Towns|Understanding Towns]] ====
 ==== [[4.Adventures|Adventures]] ====
 ==== [[5.World|World]] ====
 ==== [[6.Lists|Lists]] ====

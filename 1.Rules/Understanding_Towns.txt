@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-17T05:26:59-04:00
+
+====== Understanding Towns ======
+Created Monday 16 October 2023
+
+	[[Understanding Merchants]]: Immerse yourself in the bustling marketplaces of Astralor's towns, where skilled merchants offer a wide array of goods and services. Explore the treasures they have to offer, enhancing your character's capabilities and acquiring unique items to aid you on your journey.
+	[[Understanding Activities]]: Delve into the vibrant life of Astralor's towns, where non-encounter dart challenges await. These activities are your chance to test your skills, strategies, and decision-making outside of combat. Conquer these challenges to gain valuable rewards and hone your character's abilities.

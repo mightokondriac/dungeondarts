@@ -7,16 +7,16 @@ Created Friday 13 October 2023
 @rules @involvement
 
 	1. **Choose Your Class**: Select one from the four available classes: [[2.Classes:1.Fighter|Fighter]], [[2.Classes:2.Cleric|Cleric]], [[2.Classes:4.Thief|Thief]], or [[2.Classes:5.Sorcerer|Sorcerer]].
-	2. **Understand Your Class**: Learn the strengths and weaknesses of your chosen class: [[Interpereting Classes]]
-	3. **Draw the first Adventure Card** ([[4.Adventures:1.Cavern of Shadows|Cavern of Shadows]]) to learn about encounters and their level ranges (also see [[Interpereting Adventures]]).
-	4. **Draw the first Encounter Card** ([[4.Adventures:1.Cavern of Shadows:1.Entrance to the Abyss|Entrance to the Abyss]]) for details on what you need to do to confront the main enemy(also see [[Interpereting Encounters]]).
+	2. **Understand Your Class**: Learn the strengths and weaknesses of your chosen class(see [[Understanding Classes]], [[Interpereting Classes]])
+	3. **Draw the first Adventure Card** ([[4.Adventures:1.Cavern of Shadows|Cavern of Shadows]]) to learn about encounters and their level ranges (also see [[Understanding Adventures]], [[Interpereting Adventures]]).
+	4. **Draw the first Encounter Card** ([[4.Adventures:1.Cavern of Shadows:1.Entrance to the Abyss|Entrance to the Abyss]]) for details on what you need to do to confront the main enemy(also see [[Understanding Encounters]], [[Interpereting Encounters]]).
 	5. **Engage in Battle**: Fight the first enemy(on the Encounter Card).
-	6. **Discover Treasures**: After defeating the enemy, discover gems and various treasures(see.
-	7. **Advance and Grow**: As you defeat each enemy, level up and gain new abilities.
+	6. **Discover Treasures**: After defeating the enemy, discover gems and various treasures(see [[Understanding Treasures]], [[Interpereting Treasures]]).
+	7. **Advance and Grow**: As you defeat each enemy, level up and gain new abilities(see Leveling).
 	8. **Complete the Adventure**: Repeat steps 3 to 6 for all five encounters in the Adventure.
-	9. **Draw a new Town Card:** Transport your party to a new town.
-	10. **Interact with merchants** who may offer activities and side quests.
-	11. When you are ready, **Draw the next Adventure Card**, **portal back to Oakshade**, or **replay the same Adventure** at a higher level for greater challenges and rewards.
+	9. **Draw a new Town Card:** Transport your party to a new town(see [[Understanding Towns]], [[Interpereting Towns]]).
+	10. **Interact with merchants** who may offer activities and side quests(see [[Understanding Merchants]], [[Understanding Side Quests]]).
+	11. When you are ready, **Draw the next Adventure Card**, [[Understanding Portals|portal]] **back to [[3.Towns:Oakshade|Oakshade]]**, or **replay the same Adventure** at a higher level for greater challenges and rewards.
 
 
 

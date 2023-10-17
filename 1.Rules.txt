@@ -22,14 +22,14 @@ Created Thursday 12 October 2023
 		**[[+Reading The Cards|Reading The Cards]]**: Dive into the details of card interactions and gameplay mechanics as you embark on your adventure.
 		
 === The Adventure Begins: ===
-		**[[+Adventures|Adventures]]**: Explore a collection of interconnected encounters that make up your character's epic journey.
-		**[[+Encounters|Encounters]]**: Immerse yourself in sets of activities and face formidable enemies to gain experience and level up.
+		**[[+Understanding Adventures|Understanding Adventures]]**: Explore a collection of interconnected encounters that make up your character's epic journey.
+		**[[+Understanding Encounters|Understanding Encounters]]**: Immerse yourself in sets of activities and face formidable enemies to gain experience and level up.
 		
 === Advancing the Campaign: ===
-		**[[+Towns|Towns]]**: Explore dynamic hubs that house crucial services and opportunities. Engage with characters, access vendors, and embark on hidden quests to evolve your character and acquire resources. Towns also serve as gateways to seamless portal travel, ensuring a dynamic campaign.
-		**[[+Activities|Activities]]**: Conquer non-encounter dart challenges that test your skills and strategic thinking.
-		**[[+Merchants|Merchants]]**: Acquire goods and services from various vendors to enhance your character's abilities and resources.
-		**[[+Portals|Portals]]**: Discover the integral role of portals in your travel and campaign progress, enabling you to move between different locations and challenges seamlessly.
+		**[[+Understanding Towns|Understanding Towns]]**: Explore dynamic hubs that house crucial services and opportunities. Engage with characters, access vendors, and embark on hidden quests to evolve your character and acquire resources. Towns also serve as gateways to seamless portal travel, ensuring a dynamic campaign.
+		**[[+Understanding Activities|Understanding Activities]]**: Conquer non-encounter dart challenges that test your skills and strategic thinking.
+		**[[+Understanding Merchants|Understanding Merchants]]**: Acquire goods and services from various vendors to enhance your character's abilities and resources.
+		**[[+Understanding Portals|Understanding Portals]]**: Discover the integral role of portals in your travel and campaign progress, enabling you to move between different locations and challenges seamlessly.
 	
 ==== Game Progression: ====
 
@@ -39,8 +39,8 @@ Created Thursday 12 October 2023
 		**Rounds**: Dive into the concept of rounds, that are all brought together to make turns, shaping the overall flow of gameplay.
 		**Stages**: Learn about the key components of turns and rounds. //__including the player round (Regroup, Attack, and Damage) and the enemy round (Minion Damage and Enemy Damage).__//
 		
-		**[[+Leveling|Leveling]]**: Discover how your character advances through the game. After defeating each Primary Enemy, your player increases one level and has the potential to gain additional hit points, abilities, and treasure.
-		**[[+Traveling|Traveling]]**: Explore when and how you can navigate the world of Astralor using Portals and Tunnels, allowing for strategic movement.
+		**[[+Understanding Leveling|Understanding Leveling]]**: Discover how your character advances through the game. After defeating each Primary Enemy, your player increases one level and has the potential to gain additional hit points, abilities, and treasure.
+		**[[+Understanding Traveling|Understanding Traveling]]**: Explore when and how you can navigate the world of Astralor using Portals and Tunnels, allowing for strategic movement.
 		**[[+Tracking Progress|Tracking Progress]]**: Learn how to effectively keep track of the changes and developments in your character as you progress through the game. This menu provides a comprehensive and structured approach to understanding the various stages and mechanics of game progression.
 		
 ==== Dart Types ====
@@ -63,11 +63,7 @@ Created Thursday 12 October 2023
 		[[+xMod Expressions|xMod Expressions]]
 		
 ==== Status Effects ====
-		[[+Interpreting Status Effects|Interpreting Status Effects]]
-		
-==== Enemies ====
-		[[+Interpreting Enemies|Interpreting Enemies]]
-		[[+Treasure|Treasure]]
+		[[+Status Effects|Status Effects]]
 
 		
 	
