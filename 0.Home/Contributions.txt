@@ -5,4 +5,10 @@ Creation-Date: 2023-10-14T21:57:16-04:00
 ====== Contributions ======
 Created Saturday 14 October 2023
 
+josh:
+nearby slices as attack regions(depreciated for Numerical model, developing for PVP)
+new armor class model for players
+
+
+
 ...

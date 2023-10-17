@@ -18,7 +18,10 @@ Our journey didn't stop at combat. We all love a good treasure hunt, and thus, w
 
 We relish in creating adventures that you'd want to replay with your friends again and again. It's the joy of building these intricate worlds, featuring awe-inspiring monsters and enthralling narratives that can span years. Join us on a quest filled with powerful magical items, legendary beasts to battle, and stories to partake in. Our journey has only just begun, and we invite you to become a part of it.
 
-<<< [[index:NOTES|Project Notes]] | [[index:Contributions|Contributions]] | [[index:Goals|Goals]] | [[index:Journal|Dailys]] >> 
+<<< [[index:NOTES|Project Notes]] | [[+Contributions|Contributions]] | [[+Goals|Goals]] | [[index:Journal|Dailys]] >> 
+
+
+
 
 ==== [[1.Rules|Rules]] ====
 	[[1.Rules|Game Involvement]]: Unveil the heart of the game, where you'll embark on an epic journey, engage in strategic battles, and uncover treasures in a rich and immersive fantasy world.
