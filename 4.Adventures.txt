@@ -6,5 +6,9 @@ Creation-Date: 2023-10-12T11:35:01-04:00
 Created Thursday 12 October 2023
 @adventure @index @cavern_of_shadows
 
+	[[+Encounters|Encounters]] (Activities and Enemies): Embark on thrilling encounters within the Adventures of Astralor, where you'll face a mix of engaging activities and formidable foes. Your choices and strategies will shape your journey as you advance through these exciting challenges.
+	[[+Treasures|Treasures]] (Unique Treasures and Gems): Explore the world of Astralor in search of unique treasures and valuable gems. These treasures can provide significant enhancements to your character, including augment gems that offer specialized benefits. The quest for riches and power awaits!
+	[[+Side Quests|Side Quests]] (Hidden Opportunities): Uncover the hidden opportunities in Astralor's towns as you dive into side quests offered by select merchants and locations. These quests provide a delightful diversion between your grand adventures, offering additional rewards and new avenues to explore the world of Astralor.
+	
 ==== [[+1.Cavern of Shadows|Cavern of Shadows]] ====
 

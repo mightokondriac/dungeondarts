@@ -3,4 +3,5 @@ Wiki-Format: zim 0.6
 Creation-Date: 2023-10-17T05:17:35-04:00
 
 ====== Tuesday 17 Oct 2023 ======
-Separating the interface of "information about a thing" vs "the content of this card" - how to display it is starting to make more sense. I want to start including as many technical advantages to this game as possible. qr to voice, responding to events within the card prompted by the player. "heyyy i jio
+Separating the interface of "information about a thing" vs "the content of this card" - how to display it is starting to make more sense. I want to start including as many technical advantages to this game as possible. qr to voice, responding to events within the card prompted by the player. "heyyy i just got a triple 16" and the app asks "did you just hit a 16(x3)" ... yes.. bang it calculates, you shout, "a 6 and a 12" ... you hit well with your first strike, but on your second and final strike you draw you weapon down through your enemy, doing 36 damage for a total of ____.
+and so on. $$$ 

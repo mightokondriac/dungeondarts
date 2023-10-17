@@ -21,40 +21,14 @@ We relish in creating adventures that you'd want to replay with your friends aga
 <<< [[index:NOTES|Project Notes]] | [[+Contributions|Contributions]] | [[+Goals|Goals]] | [[index:Journal|Dailys]] >> 
 
 
-
-
-==== [[1.Rules|Rules]] ====
-	[[1.Rules|Game Involvement]]: Unveil the heart of the game, where you'll embark on an epic journey, engage in strategic battles, and uncover treasures in a rich and immersive fantasy world.
-	[[1.Rules:1.Safety Warnings|Safety Warnings]]: Prioritize your well-being as you delve into the game with essential safety tips, ensuring an enjoyable and risk-free experience.
-	[[1.Rules:2.Setup and Technical|Setup and Technical]]: Master the game's setup and technical aspects, so you can dive into the action smoothly, armed with the right knowledge.
-	[[1.Rules:3.Alternate Rules|Alternate Rules]]: Explore exciting variations and additional rules to add depth and excitement to your gaming sessions, enhancing your overall experience.
-	[[1.Rules:4.Homebrew Advice|Homebrew Advice]]: Get creative with valuable advice on crafting your own unique game elements, making your adventures in the world of Astralor truly one-of-a-kind.
+==== -----=====[[1.Rules|Rules=====-----]] ====
 
 ==== [[2.Classes|Classes]] ====
-	[[2.Classes:1.Fighter|Fighter]]: Embrace the role of the primary tank in the game, known for dealing devastating damage and protecting your allies with powerful shields.
-	[[2.Classes:2.Cleric|Cleric]]: Become the secondary tank, serving as the healer and the unyielding shield guard of your group, ensuring your companions' survival in the most dire situations.
-	[[2.Classes:4.Thief|Thief]]: Master the art of tactics as you specialize in disabling status effects and evasion. With lightning reflexes, unleash a flurry of precision strikes on your foes.
-	[[2.Classes:5.Sorcerer|Sorcerer]]: Take on the role of a strategic mastermind, wielding the power to deal high-impact damage and exploit the vulnerabilities of your adversaries with calculated precision. Unleash the forces of magic to shape the outcome of battles in your favor.
-	
-	//[[2.Classes:3.Ranger|Ranger]] (may be moved to first expansion)//
-	
 ==== [[1.Rules:Towns|Towns]] ====
-	[[1.Rules:Merchants|Merchants]]: Immerse yourself in the bustling marketplaces of Astralor's towns, where skilled merchants offer a wide array of goods and services. Explore the treasures they have to offer, enhancing your character's capabilities and acquiring unique items to aid you on your journey.
-	[[1.Rules:Activities|Activities]]: Delve into the vibrant life of Astralor's towns, where non-encounter dart challenges await. These activities are your chance to test your skills, strategies, and decision-making outside of combat. Conquer these challenges to gain valuable rewards and hone your character's abilities.
-	
 ==== [[4.Adventures|Adventures]] ====
-	[[4.Adventures:Encounters|Encounters]] (Activities and Enemies): Embark on thrilling encounters within the Adventures of Astralor, where you'll face a mix of engaging activities and formidable foes. Your choices and strategies will shape your journey as you advance through these exciting challenges.
-	[[4.Adventures:Treasures|Treasures]] (Unique Treasures and Gems): Explore the world of Astralor in search of unique treasures and valuable gems. These treasures can provide significant enhancements to your character, including augment gems that offer specialized benefits. The quest for riches and power awaits!
-	[[4.Adventures:Side Quests|Side Quests]] (Hidden Opportunities): Uncover the hidden opportunities in Astralor's towns as you dive into side quests offered by select merchants and locations. These quests provide a delightful diversion between your grand adventures, offering additional rewards and new avenues to explore the world of Astralor.
-	
 ==== [[5.World|World]] ====
-	Maps (on hold)
-	Historical
-	
 ==== [[6.Lists|Lists]] ====
 	[[6.Lists:All Items|All Items]]
-		Currency and Mods
-		Equipment
 	All Enemies
 	[[6.Lists:All Merchants|All Merchants]]
 	All Activities
@@ -63,5 +37,4 @@ We relish in creating adventures that you'd want to replay with your friends aga
 	All Class Abilities
 	All Enemy Abilities
 	All Terminology
-	
 ==== [[7.Sources and Repositories|Sources and Repositories]] ====
