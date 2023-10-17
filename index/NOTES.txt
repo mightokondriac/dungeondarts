@@ -14,6 +14,9 @@ Basically this game started with the dart game Cricket and how to turn it into a
 
 [[+Item Listing Formats|Item Listing Formats]]
 
+[[+content prompt ideas|content prompt ideas]]
+
+
 **Ability Construction**
 	TYPES:
 	Passive(examples: +1 to ac, +10 to hp, +1 base darts, +3 to attack per dart, +23 to damage[1 dart], etc...)
