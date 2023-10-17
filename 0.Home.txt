@@ -6,11 +6,17 @@ Creation-Date: 2023-10-14T17:02:07-04:00
 Created Thursday 12 October 2023
 @home @index
 
-Enter the immersive world of Dungeon Darts, an adventure that fuses the strategic thrill of darts with a rich, fantastical setting. In Dungeon Darts, you and your seasoned companions select your character classes, setting out on an epic odyssey. As you progress through the game, you'll encounter intricate puzzles and ever more challenging adversaries. Your ultimate test awaits: facing off against a colossal boss in the climactic fifth showdown.
+**Our Epic Journey: Crafting a Unique Game**
 
-In this grand adventure, cooperation is paramount. You'll need to harness your unique class abilities and wield your carefully acquired treasures judiciously. The distinguished merchants in each town stand ready to equip and assist you, offering invaluable gear and services to augment your quest.
+This incredible adventure began with just "two guys and a dartboard." We set out to transform the traditional dart game Cricket into a collaborative and imaginative version, infusing it with the spirit of Dungeons and Dragons. The core idea was simple yet groundbreaking: instead of competing individually, we made it collaborative, turning every number into an epic battle with its own hit points.
 
-Dungeon Darters, the realm teeters on the precipice of darkness, yearning for heroes of your mettle. Will you accept the call to vanquish the encroaching malevolence that looms over the land? Your epic journey beckons!
+In this new version, the players collectively focus on a single number, aiming to "deplete" its hit points. Picture it like this: you're facing an enemy with Armor Class 16 (akin to hitting a 16 on the board), and your success in this hit can vary from x1 (hitting the number) to x2 (hitting the double) or x3 (triple) and even x4 (single bullseye) and x5 (double bullseye). Then, we introduced the concept of dealing damage to these foes.
+
+	//For instance, with your 3 base darts, you might throw a 16, a 4, and then a single bullseye. These are followed by damage darts that deal varying amounts of damage. Let's say you throw a 7 (x1) and then a 16 (x4). The result? A whopping 71 points of damage inflicted on that enemy.//
+
+Our journey didn't stop at combat. We all love a good treasure hunt, and thus, we introduced treasures into the game, each one waiting to be uncovered and claimed. And here we stand today, deeply immersed in crafting powerful items and weaving captivating stories behind them.
+
+We relish in creating adventures that you'd want to replay with your friends again and again. It's the joy of building these intricate worlds, featuring awe-inspiring monsters and enthralling narratives that can span years. Join us on a quest filled with powerful magical items, legendary beasts to battle, and stories to partake in. Our journey has only just begun, and we invite you to become a part of it.
 
 <<< [[index:NOTES|Project Notes]] | [[index:Contributions|Contributions]] | [[index:Goals|Goals]] | [[index:Journal|Dailys]] >> 
 

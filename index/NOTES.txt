@@ -8,7 +8,9 @@ Created Thursday 12 October 2023
 * change all instances of Attack/Damge **Round or Phase** to "Attack/Damage **Stage**"
 
 * change all instance of "**Sacrifice**" to "**Forfiet**"
-* 
+
+
+Basically this game started with the dart game Cricket and how to turn it into a dungeons and dragons version of this game of dart. Simply put we made it collaborative instead of competitive, and each number had hitpoints. meaning that instead of each player having to hit a number individually and closing them out or making points on those numbers, the players focus on a single number and try to "deplete" its hitpoints. for instance, in this version we are trying to hit Armor Class 16(hitting a 16 on the board) and the varying degree of the success of this hit (x1(hitting the number), x2(hitting the double on that number), x3(triple on that number), x4(single bullseye), x5(double bullseye)). Then we were doing damage finally to these enemies. Lets say, with my 3 base darts, i throw a 16, a 4, and then a single bullseye. I then have damage darts that are x1, (missed), x4. I throw a 7(x1) and then a 16(x4) dealing 71 points of damage to that enemy. We then wanted treasure (who doesn't?), so we made treasures you could get. and then here we are. we love making crazy powerful items and stories for and why they are what they are. we love making adventures that you would want to play with your friends over and over again. join our adventure of crazy powerful magical items and badass monsters to fight, and a story to take part in that will last for years. The quest that gives years, not take them.
 
 [[+Item Listing Formats|Item Listing Formats]]
 
