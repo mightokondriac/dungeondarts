@@ -22,11 +22,48 @@ We relish in creating adventures that you'd want to replay with your friends aga
 
 
 ==== [[1.Rules|-----=====Rules=====-----]] ====
+==== Understanding the Game ====
+* **[[1.Rules:Understanding Classes|Classes]]**
+	* Abilities
+		* [[1.Rules:Player Natural Ability|Player Natural Abilities]]
+		* [[1.Rules:Player Special Ability|Player Special Abilities]]
+	* [[1.Rules:Understanding Leveling|Leveling]]
+* **[[1.Rules:Understanding Adventures|Adventures]]**
+	* Milestones
+		* **[[1.Rules:Understanding Encounters|Encounters]]**
+			* [[1.Rules:Understanding Activities|Activities]]
+			* Enemies
+				* [[1.Rules:Enemy Natural Ability|Enemy Natural Abilities]]
+				* [[1.Rules:Enemy Triggered Ability|Enemy Triggered Abilities]]
+				* [[1.Rules:Complete Turn Breakdown|Complete Turns]]
+					* Special Dart States
+					* Status Effects
+			* [[1.Rules:Understanding Portals|Portals]]
+			* [[1.Rules:Understanding Treasures|Treasures]]
+* **[[1.Rules:Understanding Towns|Towns]]**
+	* [[1.Rules:Understanding Activities|Activities]]
+	* **[[1.Rules:Understanding Merchants|Merchants]]**
+		* [[1.Rules:Understanding Activities|Activities]]
+		* [[1.Rules:Understanding Side Quests|Side Quests]]
+	* [[1.Rules:Understanding Traveling|Traveling]]
+		* [[1.Rules:Understanding Portals|Portals]]
+		* [[1.Rules:Understanding Tunnels|Tunnels]]
 
-==== [[2.Classes|Classes]] ====
-==== [[1.Rules:Understanding Towns|Understanding Towns]] ====
-==== [[4.Adventures|Adventures]] ====
-==== [[5.World|World]] ====
+==== Interpereting the Cards ====
+	[[1.Rules:Interpereting Classes|Classes]]
+	Adventures
+	Encounters
+	Treasures
+	Towns
+
+==== Initial Release Card Data ====
+[[2.Classes|Classes]]
+[[3.Towns|Towns]]
+[[4.Adventures|Adventures]]
+[[4.Adventures:Encounters|Encounters]]
+[[4.Adventures:Treasures|Treasures]]
+[[5.World|World]]
+
 ==== [[6.Lists|Lists]] ====
 	[[6.Lists:All Items|All Items]]
 	All Enemies
@@ -37,4 +74,5 @@ We relish in creating adventures that you'd want to replay with your friends aga
 	All Class Abilities
 	All Enemy Abilities
 	All Terminology
+
 ==== [[7.Sources and Repositories|Sources and Repositories]] ====
