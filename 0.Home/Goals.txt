@@ -5,10 +5,16 @@ Creation-Date: 2023-10-14T21:57:21-04:00
 ====== Goals ======
 Created Saturday 14 October 2023
 
-* Flesh out all Encounters for first adventure!
-* Then work out the towns.
-* then COMPLETE RULES OVERVIEW
-* Chop ranger or not?
-* 
-* LEARN KOTLIN - https://developer.android.com/courses/android-basics-kotlin/course
-* 
+==== Major Milestones ====
+
+
+1. Complete First Adventure
+	a. Complete Towns
+	b. Complete Encounters
+	c. Complete Treasures
+2. Complete Handbook
+	a. Complete Understanding
+	b. Complete Interpreting
+3. Complete Rule Base
+	a. Complete Step by Step
+	b. Complete Advanced Rules
