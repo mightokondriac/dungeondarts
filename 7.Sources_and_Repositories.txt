@@ -25,6 +25,9 @@ https://www.worldanvil.com/dashboard/
 **Murf** ($ Text to Speech)
 https://murf.ai/studio/
 
+**QR Tiger** ($ QR Code to Audio Deployment)
+https://www.qrcode-tiger.com/
+
 **Soundcloud** ($ audio hosting)
 https://soundcloud.com/upload
 
