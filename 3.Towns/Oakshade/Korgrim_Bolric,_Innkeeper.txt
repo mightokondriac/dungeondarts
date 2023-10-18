@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2023-10-16T01:18:38-04:00
 
-====== Grom Ironhide the Innkeeper of the Thunderclash Tavern ======
+====== Korgrim Bolric, Innkeeper ======
 Created Monday 16 October 2023
 
 Grom is a hulking figure, known for his hearty laughter and booming voice. His inn is a sanctuary for battle-hardened adventurers, offering comfortable lodgings and nourishing food. However, the real draw is his expansive training ground, where warriors spar, test their mettle, and seek to improve their combat skills.

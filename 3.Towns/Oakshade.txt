@@ -4,7 +4,7 @@ Creation-Date: 2023-10-12T22:35:22-04:00
 
 ====== Oakshade ======
 Created Thursday 12 October 2023
-@town @oakshade
+@town @oakshade @card
 
 	//Oakshade, nestled deep within the ancient forest of Astralor, is a tranquil and magical haven known for its lush canopy and captivating landscapes. The town is brimming with enchanting alchemical shops, crafting centers, and a bustling market square where adventurers gather to rest and resupply. Oakshade is renowned for its mysteries and challenges, often attracting those who seek to unlock the secrets hidden within the forest's emerald embrace. The town's innkeeper, Korgrim Bolrik, offers travelers not only a place to rest their weary heads but also a vast treasure trove of knowledge, fostering an atmosphere of learning and camaraderie that welcomes any adventurer willing to face the perils of Astralor.//
 
@@ -13,24 +13,24 @@ Created Thursday 12 October 2023
 ==== Merchants ====
 	* [[+Eldric the Alchemist|Eldric the Alchemist]](Available at level 6)
 	* [[+Thalia Stonesmith the Master Artificer|Thalia Stonesmith the Master Artificer]](Available at level 8)
-	* [[+Grom Ironhide the Innkeeper of the Thunderclash Tavern|Grom Ironhide the Innkeeper of the Thunderclash Tavern]]
+	* [[+Korgrim Bolric, Innkeeper|Korgrim Bolric, Innkeeper]]
 	
 ==== Activities ====
-	Playing the Locals(once each/player/day): Many of the local inhabitants in Oakshade enjoy a game or two to pass the time on any given day. Find the local haunts and test your skills.
+	**Playing the Locals**(once each/player/day): Many of the local inhabitants in Oakshade enjoy a game or two to pass the time on any given day. Find the local haunts and test your skills.
 	**Kearson's Pub:**
-		Play a game of 20 Down.
-		1st place: 3 gems, 1 ingot
-		2nd place: 2 gems
-		3rd place: 1 gem
+		__Play a game of 20 Down.__
+			1st place: 3 gems, 1 ingot
+			2nd place: 2 gems
+			3rd place: 1 gem
 	**Behind Benny's Bakery:**
-		Play a game of Cricket.
-		1st place: 3 gems, 1 ingot
-		2nd place: 2 gems
-		3rd place: 1 gem
+		__Play a game of Cricket.__
+			1st place: 3 gems, 1 ingot
+			2nd place: 2 gems
+			3rd place: 1 gem
 	**1201 Deacon St.:**
-		Play a game of Night Dice(See Gameplay card) with Thalia. She wins automatically on round 15.
-		Winner: 10 gems, 2 ingots
+		__Play a game of Night Dice__(See Gameplay card) with //Thalia//. She wins automatically on round 15.
+			**Winner**: 10 gems, 1 Arcane Blueprint(lvl 6)
 	**Lasker Park:**
-		Play a game of Fifteen Dominoes(See Gameplay card) with Aubrem Fellkind, the local grandmaster. He wins automatically on round 15.
-		Winner: 3 ingots, 1 Combat/Spell Training Pass
+		__Play a game of Fifteen Tiles__(See Gameplay card) with //Aubrem Fellkind//, the local grandmaster. He wins automatically on round 15.
+			**Winner**: 3 ingots, 1 Combat Training Pass(lvl 6)
 

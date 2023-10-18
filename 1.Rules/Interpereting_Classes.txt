@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-18T14:15:39-04:00
+
+====== Interpereting Classes ======
+Created Wednesday 18 October 2023
+
+{{.\_Cleric_325.png}}
+==== Interpereting Class Cards ====
+Class Title | Levels Displayed on this card
+Starting Hit Points | Starting Base Darts
+List of Abilities | Class Gameplay Tips

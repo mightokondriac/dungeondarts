@@ -1,31 +1,30 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
-Creation-Date: 2023-10-12T11:12:36-04:00
+Creation-Date: 2023-10-18T14:17:37-04:00
 
-====== Classes ======
-Created Thursday 12 October 2023
-@classes @index
-
-==== [[+1.Fighter|Fighter]] ====
+====== Understanding Classes ======
+Created Wednesday 18 October 2023
+[ [[Interpereting Classes|Interpreting Classes]] | Understanding Classes | Classes Card Data(1.3alpha) ]
+==== [[2.Classes:1.Fighter|Fighter]] ====
 	//__The primary tank of the game. Deals lots of damage and shields others.__//
 	**Description:**
 	The Fighter is a stalwart and skilled combatant, honed through disciplined training and combat experience. They excel in melee combat, demonstrating exceptional weapon proficiency and the ability to wear the heaviest of armor without sacrificing mobility. Fighters are known for their unwavering courage and their innate ability to protect their allies by drawing the attention of foes in battle. Their combat techniques range from powerful strikes that can cleave through multiple adversaries to tactical defenses that make them an indomitable presence on the battlefield. Masters of martial prowess, Fighters embody the principles of strength, valor, and unyielding resolve, making them the front-line protectors and formidable champions of their party.
 	
-==== [[+2.Cleric|Cleric]] ====
+==== [[2.Classes:2.Cleric|Cleric]] ====
 	//__Secondary tank. The healer and shield guard of the group.__// 
 	**Description:**
 	The Cleric is a divine conduit, an emissary chosen to wield the sacred powers granted by the deities of the world. They serve as healers, spiritual guides, and protectors of the faith. With a strong connection to the divine, Clerics channel this energy to mend wounds, purify spirits, and, in dire situations, smite their enemies with righteous fury. Their versatile abilities can turn the tide of battle, bestowing blessings on their comrades to enhance their resilience, or calling down divine retribution on those who threaten the balance of the world. It is the calling of the Cleric to tend to the spiritual and physical needs of their party, whether through powerful healing magic, fortifying wards, or leading their group with unwavering faith.
 	
-==== [[+3.Ranger|Ranger]] ====
+==== [[2.Classes:3.Ranger|Ranger]] ====
 	//__Versitile. Deals decent damage and provides group support.__//
 	(this class is undeveloped as of yet)
 	
-==== [[+4.Thief|Thief]] ====
+==== [[2.Classes:4.Thief|Thief]] ====
 	//__Tactical. Disabling status effects and evasion, lots of hits.__//
 	**Description:**
 	The Rogue, often shrouded in darkness and cloaked in mystery, is a master of stealth, guile, and opportunism. Renowned for their cunning wit and nimble agility, they navigate treacherous paths and unforgiving terrain with remarkable dexterity. Rogues are experts in the art of subterfuge, specializing in thievery, traps, and lock-picking. They are not limited to mere pilfering, though; Rogues excel in hand-to-hand combat, utilizing precision and finesse to strike at their adversaries' weakest points. Adept at infiltration and surprise, they can vanish into the shadows in a heartbeat, reappearing to strike with deadly accuracy. With a versatile set of skills and an innate sense for exploiting vulnerabilities, Rogues are invaluable members of any adventuring party, contributing both in subtle, behind-the-scenes operations and open, face-to-face combat.
 	
-==== [[+5.Sorcerer|Sorcerer]] ====
+==== [[2.Classes:5.Sorcerer|Sorcerer]] ====
 	//__Strategic. Dealing high yield damage, exploiting vulnerabilities.__//
 	**Description:**
 	The Sorcerer harnesses the raw, untamed power of arcane energies, channeling them through sheer force of will. These magic users are born with a rare gift, an innate connection to the mystical energies that flow through the world. Unlike the methodical wizards who study spells and incantations, Sorcerers rely on their intuition, their emotions, and their inherent talents to wield magic. They can command the elements, summon mystical allies, and cast devastating spells with a mere thought. Sorcerers often exhibit a deep, intrinsic connection to their chosen element, allowing them to perform incredible feats of destruction, healing, and transformation. Their powers are a double-edged sword, as the same magic that brings life to the world can also bring destruction. Masters of the unpredictable, Sorcerers are forces to be reckoned with, capable of unleashing both catastrophe and salvation with a single incantation.
