@@ -51,18 +51,19 @@ We relish in creating adventures that you'd want to replay with your friends aga
 
 ==== Interpereting the Cards ====
 	[[1.Rules:Interpereting Classes|Classes]]
-	Adventures
-	Encounters
-	Treasures
-	Towns
+	[[1.Rules:Interpereting Adventures|Adventures]]
+	[[1.Rules:Interpereting Encounters|Encounters]]
+	[[1.Rules:Interpereting Treasures|Treasures]]
+	[[1.Rules:Interpereting Towns|Towns]]
 
 ==== Initial Release Card Data ====
-[[2.Classes|Classes]]
-[[3.Towns|Towns]]
-[[4.Adventures|Adventures]]
-[[4.Adventures:Encounters|Encounters]]
-[[4.Adventures:Treasures|Treasures]]
-[[5.World|World]]
+//2023.v1.3alpha//
+	[[2.Classes|Classes]]
+	[[4.Adventures|Adventures]]
+	[[3.Towns|Towns]]
+	[[4.Adventures:Encounters|Encounters]]
+	[[4.Adventures:Treasures|Treasures]]
+	[[5.World|World]] (Background, adventure motivations)
 
 ==== [[6.Lists|Lists]] ====
 	[[6.Lists:All Items|All Items]]
