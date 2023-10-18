@@ -4,7 +4,8 @@ Creation-Date: 2023-10-16T10:56:27-04:00
 
 ====== Understanding Adventures ======
 Created Monday 16 October 2023
-@help @adventures @cardtype
+@help @adventures @card
+[ [[Interpereting Adventures|Interpreting Adventures]] | [[Understanding Adventures]] | [[4.Adventures|Adventures Card Data]](1.3alpha) ]
 
 ==== Embarking on Epic Adventures: ====
 	Adventures are the heart and soul of your journey, serving as the primary catalyst for the game's progression. Each Adventure Card unfurls a captivating "Dungeon" that demands your unwavering commitment to conquer. It's a thrilling quest that you must see through to its conclusion, except for rare circumstances that offer a unique twist.

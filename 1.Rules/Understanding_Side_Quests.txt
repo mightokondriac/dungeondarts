@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-18T15:44:11-04:00
+
+====== Understanding Side Quests ======
+Created Wednesday 18 October 2023
+
+(Hidden Opportunities): Uncover the hidden opportunities in Astralor's towns as you dive into side quests offered by select merchants and locations. These quests provide a delightful diversion between your grand adventures, offering additional rewards and new avenues to explore the world of Astralor.

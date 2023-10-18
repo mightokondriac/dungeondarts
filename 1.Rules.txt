@@ -40,6 +40,7 @@ Created Thursday 12 October 2023
 		**Stages**: Learn about the key components of turns and rounds. //__including the player round (Regroup, Attack, and Damage) and the enemy round (Minion Damage and Enemy Damage).__//
 		
 		**[[+Understanding Leveling|Understanding Leveling]]**: Discover how your character advances through the game. After defeating each Primary Enemy, your player increases one level and has the potential to gain additional hit points, abilities, and treasure.
+		**[[+Understanding Treasures|Understanding Treasures]]**: Explore the realm of wealth and artifacts, discovering how to acquire and utilize treasures in Astralor. Unlock their hidden potential to enhance your character's abilities and resources as you progress in the game.
 		**[[+Understanding Traveling|Understanding Traveling]]**: Explore when and how you can navigate the world of Astralor using Portals and Tunnels, allowing for strategic movement.
 		**[[+Tracking Progress|Tracking Progress]]**: Learn how to effectively keep track of the changes and developments in your character as you progress through the game. This menu provides a comprehensive and structured approach to understanding the various stages and mechanics of game progression.
 		

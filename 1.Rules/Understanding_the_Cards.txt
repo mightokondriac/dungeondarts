@@ -22,7 +22,7 @@ Created Wednesday 18 October 2023
 				* [[Enemy Natural Ability|Enemy Natural Abilities]]
 				* [[Enemy Triggered Ability|Enemy Triggered Abilities]]
 				* [[Complete Turn Breakdown|Complete Turns]]
-					* Special Dart States
+					* [[Understanding Special States|Special States]]
 					* Status Effects
 			* [[Understanding Portals|Portals]]
 			* **[[Understanding Treasures|Treasures]]**
