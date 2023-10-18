@@ -3,60 +3,42 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Dungeon Darts</title>
-	<meta name='Generator' content='Zim 0.75.2'>
-<style type='text/css'>
-  :root {
-    --primary-color: #4CAF50; /* Main green color */
-    --accent-color: #689F38; /* Accent green color */
-  }
-
-  body {
-    background-color: #F5F5F5; /* Set a light background color for the page */
-    font-family: Garamond, serif; /* Change the font to Garamond */
-    font-size: 16px; /* Increase the font size for better readability */
-    margin: 0 auto; /* Center the content horizontally with auto width */
-    padding: 20px; /* Add padding for better spacing */
-  }
-
-  a {
-    text-decoration: none;
-    color: var(--primary-color);
-    border-radius: 5px;
-    transition: background-color 0.3s, color 0.3s;
-  }
-
-  a:hover, a:active {
-    text-decoration: underline;
-    background-color: var(--accent-color);
-    color: white;
-  }
-
-  h1 {
-    text-decoration: underline;
-    color: var(--primary-color);
-  }
-
-  p, ul, ol {
-    margin: 0;
-  }
-
-  span.zim-tag {
-    color: #ce5c00;
-  }
-
-  ul {
-    list-style-image: none;
-  }
-</style>
-
-
-
-
-
+	<meta name='Generator' content='Zim 0.74.3'>
+	<style type='text/css'>
+		a          { text-decoration: none      }
+		a:hover    { text-decoration: underline }
+		a:active   { text-decoration: underline }
+		strike     { color: grey                }
+		u          { text-decoration: none;
+					 background-color: yellow   }
+		tt         { color: #2e3436;            }
+		pre        { color: #2e3436;
+					 margin-left: 20px          }
+		h1         { text-decoration: underline;
+					 color: #4e9a06; margin-bottom: 0 }
+		h2         { color: #4e9a06; margin-bottom: 0 }
+		h3         { color: #4e9a06; margin-bottom: 0 }
+		h4         { color: #4e9a06; margin-bottom: 0 }
+		h5         { color: #4e9a06; margin-bottom: 0 }
+		p          { margin-top: 0              }
+		span.zim-tag {
+			color: #ce5c00;
+		}
+		div.zim-object {
+			border-style:solid;
+			border-width:1px;
+		}
+		.checked-box {list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAANOgAADMQBiN+4gQAAAAd0SU1FB9gKGQ8sMEGsKGkAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAEBUlEQVRIx62V22tdRRTGf7Nn73P2ybntnNOe3NqkPTGgLTVUUZF6QatSLOKTPgqCIqLgQ0H/A1sQQbBYCBb1QfAxiC8tSO1FqHkwJVKtjdTGNraUmObsc9nXmfGh7cGYpM1D5nHWzPetteZb3wg2eB2YqYm4zSadsMtoboiNBH/3TE0awx6j+MRoxoTg/IYRvP19TQrJS0bzhdHGSyKFkLTtjSKwMjyiEz43ynhtP6bdjBCWyFobAf7eT7VhNF/q1FRbjYjmUohlCVPwnB+6FUxMTJipqSmUUhhjEGKd3bMT4ks/Y6oLBK2Yth8hHYtCJXOix7Nf7xLMzc0xOzvLzp078TyPNE3viW3QJPXzhNWbxFFKHCmMhoLn/FHodd48vGfhapdAacXQlkFK5dL6wIUm6fuTZPuvqDQhaMUYYyiVyuQr6rXDexYuAdi3tSv1ZJNs/R/CaszzT+1na88uXFnCEnJVgivBNN8uTJKmHQI/ptOOcXNZzMz9mOqFs90OHpipWcYwlo5P4ebnuOkrvr5wgrH+h3im7y36MzuwRXYZeKha/OhP0EkadFoxQSdGSotedR/+XwMc2XvKdNUFOFqZx6LKZWIiwjgkikNmLp/hm8sH+K1zjFTHXfBYdTi+eJArzXM0GxFxoBDCopLvo/fqEwi1XPkWkGqjFo2TgB1jOYZUKZTS/D1/ncmLh7jon0IbRWoiTi59ymzzJEEQE3cStNZsGxqlfPE57MBbOR8fP3hDGalOO9fq2DlBvmZw8xa2IxACGn6TydlD/O6f5OzSV/zif0cYhLQaEXGkKBbz7Ov/AOlXV1cxgBJRI3fuSTrpTawt18kWIZN1CFuaONI0w0WOXfsI43YIggh/KUSlhqxrMz74AkOZcWBm9QkH+Gw8NDLuITi+m0yzhluSyJzBLcpblUhFxywSRAEtPwQjsKVN30CNh0uvYuOubSHLtN3J0TO1j0pmBNuFbFWRK0gyPRZpktL2I5JQkclKakNlnh54g6ocvevUr/Ai2a7wineEkcJupA3S1Wg0nVZM2E6wbEF5U5G9Q++wI7sfR7h3N8HVNstykBfzH+KJEZwiWD0aIwxCgJ0R1Mu7GXOeJSuK93bZtQIle4D9pUNU5DC5jEsu55AvZakM5NicGyEj8uuz8bUCQgj67QfY671P3vEoeC69gy695U1U7NG7XV0pUwBjDJa1/JJlWWxzHuflzQe5FJ/GsgUVuZ2t8lEkTvfc0aNHb72flBhjVicQQqCUuvM3/M+WDVguWBrMVdDXEGZlBVEUrVCU9d9s5+fnaTQa2PZyPxEIhJaI1EEoZwX4ncynp6fXrmB4eJjR0VFarRbNZnP9P9rt9gohqNVq1Ov1ZbF/AZGev3hLJ2/zAAAAAElFTkSuQmCC)}
+		.xchecked-box {list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAANOgAADMQBiN+4gQAAAAd0SU1FB9gKGQ8bDYnDxEwAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAEK0lEQVRIx9WVS2hTWRjHf/eR3CY1nbxMH2YiZRQS6qO13YlMVxY3SnVcuNIBFezGpSADLoQqLu1sHJCqdCFSXFpw4YOCSH3BtFqttTNamabX3DS5bfO6uffMoglja3RGcDMHzuac7/z/53++//cd+L8P6VuCPQYZ8ADNgBd4J31DcDcQs+GnHByRocEDv0kfBSjAOlYCs11Q+gpwDegS8LMJ+3QIK0ATzEhV8Odnz5bzw8P4dJ25aJQ/WlvJ1df/K7hSLtOcTNI+Pk69rpMTgqIQhCDvh1/VSpw79+gRrRMTmLZNezLJJsPg+a5dmOEwQlFqg1sWG16/Jv7sGWXDwBACFQjC9HcwIMONKkGp4PGAJGEDS0IQmZlhnWnye3c3eiyGo6qr3WHbrJ+dJf7gAXI6zSIr72T7/fgzmT4FHnTBsgrQBfYvTU0km5vxz86iADnAm0rRPTWFt7cXZccOJJcLAGHb2K9ekT93jmwmwwdAAFpjI6Ntbfxw5879ag7l6o1sr5eHHR3IsRgeQK/M4sQE+YEB7JcvEY6zAj45SWFgAPPxYwzHoQxIkQjTPT0kIxE+Noj8sexFn4/xnh58iQTeSpHkHAdrbIzi0BCOrmNPTpK/eJHM3bt8sCyKQCiR4NWePWSiUZw1+ZLXJm4pFKLhzBlCsRh2RUXacVgeGaF47RrL58+zcP8+RrmMkCQinZ1EL1zAjERqmkH+tLYl1G3bCJw4QUjT0IA0MJfLMX/5MqmHD0nZNiUgtGULG/r7ccXjINWuWbnmqsuFu7sb/4EDNLlcBIEioNs2KUAFGmMxmk6dQm1tRZI+3xBqEkiShBQOox05Ql1nJ26gvuIUAWiKQnj/ftStW5Fk+YuF+NldsbBA4cYN9KdPmaso8Fc62ZJtk7l1C2t0FGdxESHE1xE4hkHh6lX0oSHSpRIewC/LrPf7CSgKNpCamkI/fZr8pUuIZBIcpyaBunahPp1mub+fDyMjGKUSChCsq6Nh717q9u2jbnSU0uAgRrFIwTThyhUCqRS+hgZKLS1fJvDm87SNjZGcnsYUAjcQ8vsJ9/Xh7u1FDgRQN20iks3iDA+zZFmYhQLqzZtsj8WY3L0baY2Sf55ICCKpFHUzM2SEQAJCHg+hY8fQDh5EDgRWDoRC1J88SePRo2geD0XAcBy8b98Sv3ePYDZbbf2rFQjLIphMsmDbaEBQVQkePox26BCSz7e6i4bDrDt+nGYhmBscpFAskheC4Js3bPR4qHphFYEnlcI7P4/jdqNpGu8TCe4oCsXr1z//F2ga3+/cSfTJE0qmSVYIsKzaOZDcbjKyzFIiwfvt21kMBLA07YsetzWNd+3tLLW0sH5igvT8PH9Go/z44kX+E4LGjg7GDYOcy4XlOEgLC//5P/5LCFzxOPLmzWyIx+m6fduu7v0NVGqyTSycKksAAAAASUVORK5CYII=)}
+		.unchecked-box {list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAANOgAADMQBiN+4gQAAAAd0SU1FB9gKGQ8qAt8h3m8AAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAA60lEQVRIx+2VsQqDMBRF70sCLg5OLoKgjk7+lJ/hh+STXBwcnRz8ArMEkrxOFktbaC3tULzTg5e8k5vADXDq70VbobXmvu/hvQczg4heHrJfXxQFuq67blZbMc8zpmlCXddIkgTOuZcBUko45zCOI6y1Nz2xFSEEZFmGOI7fGg4A3nsQEZqmuXOu9jallACAtm3fvmutNaIoAjM/dkBECCF89KCbk4eAb+kEnIAT8EsAM0OIz3hSyrssUvss8t5fg+uIrLXPs0gIgWVZYIyBUurQyYdheO4gz3NUVQVjDNZ1PfSjpWmKsixvehfB9GBZ3NndrgAAAABJRU5ErkJggg==)}
+		.migrated-box {list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAANOgAADMQBiN+4gQAAAAd0SU1FB+AKHREFA8vJSnkAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAC1klEQVRIx+2VT0hUURTGf/e958w4Tc3TYowMw1GyEgwr1MqsFmbZIrIWQZsWJUjbdoHQpl3Qps0swnCRECQFYkR/TC1iKkqmfzAKTo2Vf8hoRsfR995tkRMT87RRWkUHHhy495zvnvvu933wP/75EKkkEAjIYDCIaZpIKRFCZN0kfX9xcTGtra2/irVUEolECIfDlJeXo+s6hmFkDaCqKoZhEAqFSCaTv60pqcSyLAoLC/F4PEtqDmCaJkIIKisrMybX0sdUVRWA5ubmPzdNjjI1cpXkZC/O1fV03PXgdDqRUtpPIITAsqxsDz0Z/3CZQv8uqo4N4C8/Tp2/DdM0MiZQlvk41OTkI/LW1SGtCVb5drD3eCc71wcA+VcAHA5vDd8+3UGakxiJV7i9pdQevU5T1R35pJ3MV5QW1pf+0kWBheJ2SWua8EQXZXsu4fVVYEz1sEKvof5EuxjoPvzpcRvrdp9C2gGMx6cpOHBmbImMesds7BZubwMVDTfXDnQ3vQfK7AC8wLfExMX5whyQc3q2OEnjGm5vE76SQxsfBLr77a7CNf+n0r/l6sSMtsBSnurckiIILCobAtVZhpF4gZF4jubaymj4Ch/fd380LE7bAnjc0NPxk2yqpmEuwGxF0ag+0k5uTpzZeBeaazvj0We8fXojainsb2xh2BZgbe0gSIllzSIUh63wfQ6dZ/O2fbjcKlOj58jJ3cVENESw5yErc9nf2MLQ4jwQAkV1Lqiq37/cZ9WaahJjF9AcmxiPDhLs7ePe23oOnmUwg2hSShQle96tKDjA2HAniusgo9FxnvY9Jxw7RWzGYy92QghM00x5g53qp9sHmtB58/o2umOI2NwGolMnMYUHIb7aAyiKwsjICLqu2/qBEIKUUAohMaSHSLyBSMoPTINQ6CX5+fn2AEVFRZSUlBCPx4nFYhl3L4RESjF/GEgX3pSj+Xw+/H7/b3U/AEOZFnp7O5+5AAAAAElFTkSuQmCC)}
+		ul {list-style-image: none}
+		/* ul rule needed to reset style for sub-bullets */
+	</style>
 </head>
 <body>
 
-<!-- Header 
+<!-- Header -->
 <div class='header'>
 	[ <span class='insen'>Prev</span> ]
 
@@ -64,7 +46,7 @@
 
 	[ <span class='insen'>Next</span> ]
 </div>
--->
+
 <hr />
 
 <!-- Wiki content -->
@@ -79,40 +61,44 @@
 Created Thursday 12 October 2023<br>
 <span class="zim-tag">@home</span> <span class="zim-tag">@index</span>
 </p>
-<br>
+
 <p>
 <b>Our Epic Journey: Crafting a Unique Game</b>
 </p>
-<br>
+
 <p>
 This incredible adventure began with just "two guys and a dartboard." We set out to transform the traditional dart game Cricket into a collaborative and imaginative version, infusing it with the spirit of Dungeons and Dragons. The core idea was simple yet groundbreaking: instead of competing individually, we made it collaborative, turning every number into an epic battle with its own hit points.
 </p>
-<br>
+
 <p>
 In this new version, the players collectively focus on a single number, aiming to "deplete" its hit points. Picture it like this: you're facing an enemy with Armor Class 16 (akin to hitting a 16 on the board), and your success in this hit can vary from x1 (hitting the number) to x2 (hitting the double) or x3 (triple) and even x4 (single bullseye) and x5 (double bullseye). Then, we introduced the concept of dealing damage to these foes.
 </p>
-<br>
+
 <p>
 <div style='padding-left: 30pt'>
 <i>For instance, with your 3 base darts, you might throw a 16, a 4, and then a single bullseye. These are followed by damage darts that deal varying amounts of damage. Let's say you throw a 7 (x1) and then a 16 (x4). The result? A whopping 71 points of damage inflicted on that enemy.</i>
 </div>
 </p>
-<br>
+
 <p>
 Our journey didn't stop at combat. We all love a good treasure hunt, and thus, we introduced treasures into the game, each one waiting to be uncovered and claimed. And here we stand today, deeply immersed in crafting powerful items and weaving captivating stories behind them.
 </p>
-<br>
+
 <p>
 We relish in creating adventures that you'd want to replay with your friends again and again. It's the joy of building these intricate worlds, featuring awe-inspiring monsters and enthralling narratives that can span years. Join us on a quest filled with powerful magical items, legendary beasts to battle, and stories to partake in. Our journey has only just begun, and we invite you to become a part of it.
 </p>
-<br>
+
 <p>
 &lt;&lt;&lt; <a href="#index:NOTES" title="Project Notes" class="page">Project Notes</a> | <a href="#0.Home:Contributions" title="Contributions" class="page">Contributions</a> | <a href="#0.Home:Goals" title="Goals" class="page">Goals</a> | <a href="#index:Journal" title="Dailys" class="page">Dailys</a> &gt;&gt; 
 </p>
+
 <br>
-<br>
+
 <h3><a href="#1.Rules" title="-----=====Rules=====-----" class="page">-----=====Rules=====-----</a><a id="-----rules-----" class="h_anchor"></a></h3>
+
 <h3>Understanding the Game<a id="understanding-the-game" class="h_anchor"></a></h3>
+
+<p>
 <ul>
 <li><b><a href="#1.Rules:Understanding Classes" title="Classes" class="page">Classes</a></b>
 <ul>
@@ -120,9 +106,11 @@ We relish in creating adventures that you'd want to replay with your friends aga
 <ul>
 <li><a href="#1.Rules:Player Natural Ability" title="Player Natural Abilities" class="page">Player Natural Abilities</a></li>
 <li><a href="#1.Rules:Player Special Ability" title="Player Special Abilities" class="page">Player Special Abilities</a></li>
-</ul></li>
+</ul>
+</li>
 <li><a href="#1.Rules:Understanding Leveling" title="Leveling" class="page">Leveling</a></li>
-</ul></li>
+</ul>
+</li>
 <li><b><a href="#1.Rules:Understanding Adventures" title="Adventures" class="page">Adventures</a></b>
 <ul>
 <li>Milestones
@@ -139,12 +127,14 @@ We relish in creating adventures that you'd want to replay with your friends aga
 <li>Special Dart States</li>
 <li>Status Effects</li>
 </ul></li>
-</ul></li>
+</ul>
+</li>
 <li><a href="#1.Rules:Understanding Portals" title="Portals" class="page">Portals</a></li>
 <li><a href="#1.Rules:Understanding Treasures" title="Treasures" class="page">Treasures</a></li>
 </ul></li>
 </ul></li>
-</ul></li>
+</ul>
+</li>
 <li><b><a href="#1.Rules:Understanding Towns" title="Towns" class="page">Towns</a></b>
 <ul>
 <li><a href="#1.Rules:Understanding Activities" title="Activities" class="page">Activities</a></li>
@@ -152,7 +142,8 @@ We relish in creating adventures that you'd want to replay with your friends aga
 <ul>
 <li><a href="#1.Rules:Understanding Activities" title="Activities" class="page">Activities</a></li>
 <li><a href="#1.Rules:Understanding Side Quests" title="Side Quests" class="page">Side Quests</a></li>
-</ul></li>
+</ul>
+</li>
 <li><a href="#1.Rules:Understanding Traveling" title="Traveling" class="page">Traveling</a>
 <ul>
 <li><a href="#1.Rules:Understanding Portals" title="Portals" class="page">Portals</a></li>
@@ -160,8 +151,11 @@ We relish in creating adventures that you'd want to replay with your friends aga
 </ul></li>
 </ul></li>
 </ul>
-<br>
+</p>
+
 <h3>Interpereting the Cards<a id="interpereting-the-cards" class="h_anchor"></a></h3>
+
+<p>
 <ul style='padding-left: 30pt'>
 <li><a href="#1.Rules:Interpereting Classes" title="Classes" class="page">Classes</a></li>
 <li><a href="#1.Rules:Interpereting Adventures" title="Adventures" class="page">Adventures</a></li>
@@ -169,11 +163,12 @@ We relish in creating adventures that you'd want to replay with your friends aga
 <li><a href="#1.Rules:Interpereting Treasures" title="Treasures" class="page">Treasures</a></li>
 <li><a href="#1.Rules:Interpereting Towns" title="Towns" class="page">Towns</a></li>
 </ul>
-<br>
-<h3>Initial Release Card Data<a id="initial-release-card-data" class="h_anchor"></a></h3>
-<p>
-<i>2023.v1.3alpha</i>
 </p>
+
+<h3>Initial Release Card Data<a id="initial-release-card-data" class="h_anchor"></a></h3>
+
+<p>
+<i>2023.v1.3alpha</i><br>
 <ul style='padding-left: 30pt'>
 <li><a href="#2.Classes" title="Classes" class="page">Classes</a></li>
 <li><a href="#4.Adventures" title="Adventures" class="page">Adventures</a></li>
@@ -182,8 +177,11 @@ We relish in creating adventures that you'd want to replay with your friends aga
 <li><a href="#4.Adventures:Treasures" title="Treasures" class="page">Treasures</a></li>
 <li><a href="#5.World" title="World" class="page">World</a> (Background, adventure motivations)</li>
 </ul>
-<br>
+</p>
+
 <h3><a href="#6.Lists" title="Lists" class="page">Lists</a><a id="lists" class="h_anchor"></a></h3>
+
+<p>
 <ul style='padding-left: 30pt'>
 <li><a href="#6.Lists:All Items" title="All Items" class="page">All Items</a></li>
 <li>All Enemies</li>
@@ -195,8 +193,10 @@ We relish in creating adventures that you'd want to replay with your friends aga
 <li>All Enemy Abilities</li>
 <li>All Terminology</li>
 </ul>
-<br>
+</p>
+
 <h3><a href="#7.Sources and Repositories" title="Sources and Repositories" class="page">Sources and Repositories</a><a id="sources-and-repositories" class="h_anchor"></a></h3>
+
 
 	</div>
 
@@ -225,15 +225,16 @@ We relish in creating adventures that you'd want to replay with your friends aga
 	<p>
 Created Saturday 14 October 2023
 </p>
-<br>
+
 <p>
 josh:<br>
 nearby slices as attack regions(depreciated for Numerical model, developing for PVP)<br>
 new armor class model for players
 </p>
+
 <br>
 <br>
-<br>
+
 <p>
 ...
 </p>
@@ -261,7 +262,8 @@ new armor class model for players
 	<p>
 Created Saturday 14 October 2023
 </p>
-<br>
+
+<p>
 <ul>
 <li>Flesh out all Encounters for first adventure!</li>
 <li>Then work out the towns.</li>
@@ -271,6 +273,7 @@ Created Saturday 14 October 2023
 <li>LEARN KOTLIN - <a href="https://developer.android.com/courses/android-basics-kotlin/course" title="https://developer.android.com/courses/android-basics-kotlin/course" class="https">https://developer.android.com/courses/android-basics-kotlin/course</a></li>
 <li></li>
 </ul>
+</p>
 
 	</div>
 
@@ -296,7 +299,7 @@ Created Saturday 14 October 2023
 Created Thursday 12 October 2023<br>
 <span class="zim-tag">@rules</span> <span class="zim-tag">@index</span>
 </p>
-<br>
+
 <p>
 <b>!!IMPORTANT!!</b><br>
 <div style='padding-left: 30pt'>
@@ -304,7 +307,7 @@ Created Thursday 12 October 2023<br>
 <a href="#1.Rules:2.Setup and Technical" title="Setup and Technical" class="page">Setup and Technical</a>
 </div>
 </p>
-<br>
+
 <p>
 <b>!!MORE FUN!!</b><br>
 <div style='padding-left: 30pt'>
@@ -312,31 +315,41 @@ Created Thursday 12 October 2023<br>
 <a href="#1.Rules:4.Homebrew Advice" title="Homebrew Advice" class="page">Homebrew Advice</a>
 </div>
 </p>
-<br>
+
 <h3>Game Involvement<a id="game-involvement" class="h_anchor"></a></h3>
+
 <p>
 <div style='padding-left: 60pt'>
 Begin with "First Steps," where you'll learn how to set up the game and understand card mechanics. As "The Adventure Begins," you'll explore interconnected "Adventures" and face challenging "Encounters" to level up. Advancing the campaign involves conquering non-encounter "Activities," enhancing your character through interactions with "Merchants," and utilizing "Portals" for seamless travel.
 </div>
 </p>
+
 <br>
+
 <h4>Getting Started:<a id="getting-started" class="h_anchor"></a></h4>
+
 <p>
 <div style='padding-left: 60pt'>
 <b><a href="#1.Rules:First Steps" title="First Steps" class="page">First Steps</a></b>: Learn how to begin your game journey, from setting up the game to taking your first actions.<br>
 <b><a href="#1.Rules:Interpereting the Cards" title="Interpereting the Cards" class="page">Interpereting the Cards</a></b>: Dive into the details of card interactions and gameplay mechanics as you embark on your adventure.
 </div>
 </p>
+
 <br>
+
 <h4>The Adventure Begins:<a id="the-adventure-begins" class="h_anchor"></a></h4>
+
 <p>
 <div style='padding-left: 60pt'>
 <b><a href="#1.Rules:Understanding Adventures" title="Understanding Adventures" class="page">Understanding Adventures</a></b>: Explore a collection of interconnected encounters that make up your character's epic journey.<br>
 <b><a href="#1.Rules:Understanding Encounters" title="Understanding Encounters" class="page">Understanding Encounters</a></b>: Immerse yourself in sets of activities and face formidable enemies to gain experience and level up.
 </div>
 </p>
+
 <br>
+
 <h4>Advancing the Campaign:<a id="advancing-the-campaign" class="h_anchor"></a></h4>
+
 <p>
 <div style='padding-left: 60pt'>
 <b><a href="#1.Rules:Understanding Towns" title="Understanding Towns" class="page">Understanding Towns</a></b>: Explore dynamic hubs that house crucial services and opportunities. Engage with characters, access vendors, and embark on hidden quests to evolve your character and acquire resources. Towns also serve as gateways to seamless portal travel, ensuring a dynamic campaign.<br>
@@ -345,9 +358,13 @@ Begin with "First Steps," where you'll learn how to set up the game and understa
 <b><a href="#1.Rules:Understanding Portals" title="Understanding Portals" class="page">Understanding Portals</a></b>: Discover the integral role of portals in your travel and campaign progress, enabling you to move between different locations and challenges seamlessly.
 </div>
 </p>
+
 <br>
+
 <h3>Game Progression:<a id="game-progression" class="h_anchor"></a></h3>
+
 <br>
+
 <p>
 <div style='padding-left: 30pt'>
  <a href="#1.Rules:Complete Turn Breakdown" title="The Complete Turn Breakdown" class="page">The Complete Turn Breakdown</a> ← 
@@ -359,7 +376,7 @@ Begin with "First Steps," where you'll learn how to set up the game and understa
 <b>Stages</b>: Learn about the key components of turns and rounds. <i><u>including the player round (Regroup, Attack, and Damage) and the enemy round (Minion Damage and Enemy Damage).</u></i>
 </div>
 </p>
-<br>
+
 <p>
 <div style='padding-left: 60pt'>
 <b><a href="#1.Rules:Understanding Leveling" title="Understanding Leveling" class="page">Understanding Leveling</a></b>: Discover how your character advances through the game. After defeating each Primary Enemy, your player increases one level and has the potential to gain additional hit points, abilities, and treasure.<br>
@@ -368,8 +385,11 @@ Begin with "First Steps," where you'll learn how to set up the game and understa
 <b><a href="#1.Rules:Tracking Progress" title="Tracking Progress" class="page">Tracking Progress</a></b>: Learn how to effectively keep track of the changes and developments in your character as you progress through the game. This menu provides a comprehensive and structured approach to understanding the various stages and mechanics of game progression.
 </div>
 </p>
+
 <br>
+
 <h3>Dart Types<a id="dart-types" class="h_anchor"></a></h3>
+
 <p>
 <div style='padding-left: 60pt'>
 <b><a href="#1.Rules:Base Darts" title="Base Darts" class="page">Base Darts</a></b> (Resource for Strategy): Discover the fundamental currency of your gameplay - the Base Darts. These darts determine your starting resources and are recovered during the Regroup Stage, allowing you to carefully plan and strategize your every move.<br>
@@ -377,8 +397,11 @@ Begin with "First Steps," where you'll learn how to set up the game and understa
 <b><a href="#1.Rules:Damage Darts" title="Damage Darts" class="page">Damage Darts</a></b> (Turn Success into Impact): When an Attack Dart successfully hits its target, it metamorphoses into a Damage Dart, transforming your successful hits into potent blows. These darts amplify your impact, dealing substantial damage to your adversaries and paving the way to victory.
 </div>
 </p>
+
 <br>
+
 <h3>Abilities<a id="abilities" class="h_anchor"></a></h3>
+
 <p>
 <div style='padding-left: 60pt'>
 <b><a href="#1.Rules:Player Natural Ability" title="Player Natural Ability" class="page">Player Natural Ability</a></b> (Innate Power): Unearth the unique innate powers possessed by player characters. These natural abilities are always at your disposal, enhancing your character's capabilities and allowing you to leave your mark on the world of Astralor.<br>
@@ -387,8 +410,11 @@ Begin with "First Steps," where you'll learn how to set up the game and understa
 <b><a href="#1.Rules:Enemy Triggered Ability" title="Enemy Triggered Ability" class="page">Enemy Triggered Ability</a></b> (Adaptive Threats): Face adaptive and cunning adversaries with Triggered Abilities. These enemies respond to specific conditions or events, presenting an ever-evolving challenge and requiring players to stay on their toes to emerge victorious.
 </div>
 </p>
+
 <br>
+
 <h3>Special States<a id="special-states" class="h_anchor"></a></h3>
+
 <p>
 <div style='padding-left: 60pt'>
 <b><a href="#1.Rules:Bounced Dart" title="Bounced Dart" class="page">Bounced Dart</a></b> (Erratic Rebound): Witness the unpredictability as your dart strikes a wire and then bounces to the ground, akin to the unpredictability of rolling a 1 in some scenarios. It's an unexpected twist that keeps the game exciting and challenges your strategic thinking.<br>
@@ -396,25 +422,34 @@ Begin with "First Steps," where you'll learn how to set up the game and understa
 <b><a href="#1.Rules:Off Board" title="Off Board" class="page">Off Board</a></b> (Aim Astray, Catastrophe Looms): Feel the tension as your dart misses the dartboard entirely. Off Board throws can spell disaster in certain circumstances, reminding you that precision is paramount and that sometimes, the cost of missing can be high in the game. 
 </div>
 </p>
+
 <br>
+
 <h3>xMods<a id="xmods" class="h_anchor"></a></h3>
+
+<br>
+<br>
+<br>
+
+<h3>Status Effects<a id="status-effects" class="h_anchor"></a></h3>
+
 <p>
 <div style='padding-left: 60pt'>
+Player Status Effects<br>
+Enemy Status Effects<br>
+Environment Status Effects<br>
+Real World Status Effects
+</div>
+<div style='padding-left: 30pt'>
 <a href="#1.Rules:xMod Expressions" title="xMod Expressions" class="page">xMod Expressions</a>
 </div>
 </p>
-<br>
-<h3>Status Effects<a id="status-effects" class="h_anchor"></a></h3>
-<p>
-<div style='padding-left: 60pt'>
-<a href="#1.Rules:Status Effects" title="Status Effects" class="page">Status Effects</a>
-</div>
-</p>
+
 <br>
 <br>
 <br>
 <br>
-<br>
+
 
 	</div>
 
@@ -440,14 +475,13 @@ Begin with "First Steps," where you'll learn how to set up the game and understa
 Created Thursday 12 October 2023<br>
 <span class="zim-tag">@rules</span> <span class="zim-tag">@safety</span>
 </p>
-<br>
+
 <p>
 (Direct from) <a href="https://www.safesport.co.uk/DartsSafety.html" title="https://www.safesport.co.uk/DartsSafety.html" class="https">https://www.safesport.co.uk/DartsSafety.html</a>
 </p>
-<br>
+
 <p>
-<b>Children</b>
-</p>
+<b>Children</b><br>
 <ul>
 <li>Very young children should never be allowed to play with darts. Darts can cause serious injuries to a toddler if they poke themselves in the eye.</li>
 <li>Older children should be supervised at all times when playing the game.</li>
@@ -455,9 +489,7 @@ Created Thursday 12 October 2023<br>
 <li>Never leave flights lying around as a toddler can put them in their mouth and choke on them.</li>
 <li>Keep your darts somewhere that is out of reach of small children.</li>
 </ul>
-<p>
-<b>Dart Safety</b>
-</p>
+<b>Dart Safety</b><br>
 <ul>
 <li>Never set up your dartboard on the back of a door. Anyone who is not aware that you are playing could easily be struck if they opened the door.</li>
 <li>Make sure the dartboard is securely fitted to the wall. There have been cases when small children, and some adults, have suffered head injuries when a dart board has fallen on them. Darts also rebound more easily if the board is not secured.</li>
@@ -468,6 +500,7 @@ Created Thursday 12 October 2023<br>
 <li>If watching or playing always stand behind the player.</li>
 <li>Make sure anything that is breakable is moved away from the surrounding area. Darts have a habit of rebounding at some strange angles.</li>
 </ul>
+</p>
 
 	</div>
 
@@ -493,11 +526,10 @@ Created Thursday 12 October 2023<br>
 Created Thursday 12 October 2023<br>
 <span class="zim-tag">@rules</span> <span class="zim-tag">@safety</span> <span class="zim-tag">@basics</span>
 </p>
-<br>
+
 <p>
 <a href="https://gldproducts.com/pages/how-to-hang-a-dartboard" title="https://gldproducts.com/pages/how-to-hang-a-dartboard" class="https">https://gldproducts.com/pages/how-to-hang-a-dartboard</a><br>
-(Direct from)
-</p>
+(Direct from)<br>
 <ol type="1" start="1">
 <li>Begin by marking off the proper height from the floor on your wall (5’8” or 1.73m). The bottom of the u-shaped channel should be at this height.</li>
 <li>Apply the metal Mounting Feet to the back of your dartboard, using the Stabilizer Screws. If your dartboard came with round plastic Spacers instead, use a hammer to nail each one into the back of your dartboard. Make sure they're spaced evenly, making a triangular shape.</li>
@@ -505,12 +537,13 @@ Created Thursday 12 October 2023<br>
 <li>Use the two Bracket Mounting Screws to install the Mounting Bracket to your wall, using wall anchors if not positioned over a stud.</li>
 <li>Place the dartboard onto the Mounting Bracket and check for tightness against the wall. If the dartboard is wobbling, remove and tighten or loosen the Dartboard Mounting Screw as needed.</li>
 </ol>
-<br>
+</p>
+
 <p>
 <b>Additional Dartboard Hanging Tips</b><br>
 Getting the dartboard's center screw height adjusted to the proper depth can be a little tricky. Below is a depth guide illustration to help you understand how much of the screw should be left sticking out of the back of the dartboard.
 </p>
-<br>
+
 <p>
 If the screw is tightened too far into the dartboard (first illustration - see website link), there won't be enough left of it to hook onto the bracket. If the screw isn't screwed into the board enough (second illustration), it will hook onto the bracket but will be off balance and wobbly. It might take a few tries to lower or raise the center screw until the dartboard no longer wobbles.
 </p>
@@ -539,8 +572,9 @@ If the screw is tightened too far into the dartboard (first illustration - see w
 Created Thursday 12 October 2023<br>
 <span class="zim-tag">@rules</span> <span class="zim-tag">@alternate</span>
 </p>
+
 <br>
-<br>
+
 
 	</div>
 
@@ -566,7 +600,7 @@ Created Thursday 12 October 2023<br>
 Created Thursday 12 October 2023<br>
 <span class="zim-tag">@rules</span> <span class="zim-tag">@homebrew</span> <span class="zim-tag">@safety</span>
 </p>
-<br>
+
 
 	</div>
 
@@ -593,11 +627,11 @@ Created Wednesday 18 October 2023<br>
 <span class="zim-tag">@card</span> <span class="zim-tag">@versions</span><br>
 [ <a href="#1.Rules:Interpreting the Cards" title="Interpreting the Cards" class="page">Interpreting the Cards</a>| <a href="#1.Rules:Understanding the Cards" title="Understanding the Cards" class="page">Understanding the Cards</a> | <a href="#1.Rules:All Card Data" title="All Card Data" class="page">All Card Data</a>(1.3alpha) ]
 </p>
-<br>
+
 <h3>Initial Release Card Data<a id="initial-release-card-data" class="h_anchor"></a></h3>
+
 <p>
-<i>2023.v1.3alpha</i>
-</p>
+<i>2023.v1.3alpha</i><br>
 <ul style='padding-left: 30pt'>
 <li><a href="#2.Classes" title="Classes" class="page">Classes</a></li>
 <li><a href="#4.Adventures" title="Adventures" class="page">Adventures</a></li>
@@ -606,6 +640,7 @@ Created Wednesday 18 October 2023<br>
 <li><a href="#4.Adventures:Treasures" title="Treasures" class="page">Treasures</a></li>
 <li><a href="#5.World" title="World" class="page">World</a> (Background, adventure motivations)</li>
 </ul>
+</p>
 
 	</div>
 
@@ -614,17 +649,17 @@ Created Wednesday 18 October 2023<br>
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
+		<a href='#1.Rules:All Card Data'>1.Rules:All Card Data</a>
+
+		
+		
+
 		<a href='#1.Rules:Interpereting the Cards'>1.Rules:Interpereting the Cards</a>
 
 		
 		
 
 		<a href='#1.Rules:Understanding the Cards'>1.Rules:Understanding the Cards</a>
-
-		
-		
-
-		<a href='#1.Rules:All Card Data'>1.Rules:All Card Data</a>
 
 		<br /><br />
 
@@ -641,22 +676,25 @@ Created Wednesday 18 October 2023<br>
 Created Friday 13 October 2023<br>
 <span class="zim-tag">@rules</span> <span class="zim-tag">@stages</span> <span class="zim-tag">@attack</span> <span class="zim-tag">@dart</span> 
 </p>
-<br>
+
 <p>
 In the Attack Step, use the amount of Attack Darts your character has available to attempt to hit the AC of the Enemy you are battling.<br>
 Attack Darts are "Successful" if they hit the AC(or higher) of the Enemy you are battling, however the exact AC slice is called a "Direct Hit". Direct Hits are the only Success that adds xMods to the resulting Damage Dart.
 </p>
-<br>
+
 <h3>Attack Darts Explanation:<a id="attack-darts-explanation" class="h_anchor"></a></h3>
+
 <br>
+
 <p>
 In the game, "Attack Darts" are your primary resource for engaging in combat and attempting to strike your enemy. These darts are used during the Attack Step, where you try to hit the Armor Class (AC) of the enemy you are battling.
 </p>
-<br>
+
 <p>
 <b>Here's how Attack Darts work</b>:
 </p>
-<br>
+
+<p>
 <ol style='padding-left: 30pt' type="1" start="1">
 <li><u>Attack Step</u>: During the Attack Step, you'll use the combined number of Attack Darts at your disposal, which includes your Base Darts plus any bonus Attack Darts from various sources. These darts are crucial for determining the success of your offensive actions.</li>
 <li><u>Hitting the AC</u>: Attack Darts are considered "Successful" when they hit the AC of the enemy you are battling or exceed it. Successfully hitting the AC is your primary goal during combat.</li>
@@ -669,12 +707,11 @@ In the game, "Attack Darts" are your primary resource for engaging in combat and
 <li>Double Bullseye: x5 damage.</li>
 </ol></li>
 </ol>
-<p>
 <div style='padding-left: 30pt'>
 <i>Note that Bullseye types are always considered Direct Hits.</i>
 </div>
 </p>
-<br>
+
 <p>
 Understanding Attack Darts and the concept of Direct Hits is vital for combat effectiveness in the game. The better you are at achieving Direct Hits, the more damage you can deal to your enemies. Plan your attacks carefully and use your Attack Darts strategically to maximize your damage output and increase your chances of victory in battles.
 </p>
@@ -703,23 +740,27 @@ Understanding Attack Darts and the concept of Direct Hits is vital for combat ef
 Created Friday 13 October 2023<br>
 <span class="zim-tag">@rules</span> <span class="zim-tag">@stages</span> <span class="zim-tag">@base</span> <span class="zim-tag">@dart</span> 
 </p>
-<br>
+
 <p>
 Base Darts is a reference to the amount of darts your character has to apply to the Attack and Damage stages. Other Status Effects and Abilities can change this number permentently or temporarily.<br>
 If you have 3 Base Darts, you use 3 darts in your Attack Step. However if you have an ability that gives you an additional Base Dart, you use 4 darts in the Attack step.
 </p>
+
 <br>
-<br>
+
 <h3><b>Base Darts Explanation:</b><a id="base-darts-explanation" class="h_anchor"></a></h3>
+
 <br>
+
 <p>
 In the game, "Base Darts" serve as the fundamental unit for assessing and calculating various aspects of gameplay. These darts represent your foundational resource and determine your ability to perform actions, engage in combat, and make decisions throughout the game.
 </p>
-<br>
+
 <p>
 <b>Here's how Base Darts work</b>:
 </p>
-<br>
+
+<p>
 <ol type="1" start="1">
 <li><u>Dart Allocation</u>: At the start of each turn or encounter, players are allocated a specific number of Base Darts. This allocation is often influenced by your character's class, abilities, and equipment. These darts serve as the pool from which you draw resources for your actions.</li>
 <li><u>Resource Management</u>: You'll need to strategically manage your Base Darts during your turn or when making choices in the game. Different actions and decisions may require varying numbers of darts, so it's crucial to use them wisely to achieve your objectives.</li>
@@ -727,7 +768,8 @@ In the game, "Base Darts" serve as the fundamental unit for assessing and calcul
 <li><u>Combat and Challenges</u>: In combat situations or when facing challenges, you'll typically use Base Darts to determine the outcome. The number of darts allocated can affect the damage you deal, your defense against enemy attacks, and your overall performance in these situations.</li>
 <li><u>Dart Upgrades</u>: As you progress in the game and level up, you may acquire upgrades or abilities that allow you to modify the number of Base Darts you receive or how they can be used. These enhancements can significantly impact your gameplay.</li>
 </ol>
-<br>
+</p>
+
 <p>
 Understanding the role of Base Darts is essential to strategic decision-making and success in the game. Make sure to manage them effectively, adapt to different situations, and explore ways to enhance your Base Dart allocation as you progress in your adventure.
 </p>
@@ -756,28 +798,32 @@ Understanding the role of Base Darts is essential to strategic decision-making a
 Created Saturday 14 October 2023<br>
 <span class="zim-tag">@rules</span> <span class="zim-tag">@stages</span> <span class="zim-tag">@attack</span> <span class="zim-tag">@dart</span> <span class="zim-tag">@special</span>
 </p>
-<br>
+
 <p>
 When a Dart fully bounces out of the dartboard(not Stick and Fall) from hitting a wire, that dart is not Recoverable until the Regroup stage on the Round after next. 
 </p>
-<br>
+
 <h3>Bounced Darts Explanation:<a id="bounced-darts-explanation" class="h_anchor"></a></h3>
+
 <br>
+
 <p>
 In the game, "Bounced Darts" represent darts that do not hit the dartboard properly and fully bounce out after striking a wire or other obstruction. These darts are temporarily unrecoverable until the "Regroup" stage, which occurs after the end of the <a href="#1.Rules:Complete Turn Breakdown" title="Complete Turn" class="page">Complete Turn</a>. Think of it as akin to rolling a 1 on a six-sided die in Dungeons and Dragons, where a critical failure has occurred.
 </p>
-<br>
+
 <p>
 <b>Here's a breakdown of Bounced Darts and their impact</b>:
 </p>
-<br>
+
+<p>
 <ol type="1" start="1">
 <li><u>Dart Inaccuracy</u>: When you throw a dart and it hits a wire on the dartboard, it may not stick to the board as intended. Instead, it bounces out of the board, indicating an inaccurate throw.</li>
 <li><u>Recovery Delay</u>: Bounced Darts cannot be retrieved immediately. They remain out of play until the "Regroup" stage, which occurs during the round that comes after the next full round of play. This delay reflects the time it takes to find, retrieve, or replace the darts.</li>
 <li><u>Gameplay Impact</u>: The delay in recovering Bounced Darts affects your dart resources. You'll need to carefully manage your remaining darts, especially if Bounced Darts accumulate, to ensure you have enough for future throws.</li>
 <li><u>Critical Failures</u>: Similar to rolling a 1 in Dungeons and Dragons, Bounced Darts represent an unfortunate and unintended outcome in the game. These critical failures can disrupt your strategy, adding an element of unpredictability to the game.</li>
 </ol>
-<br>
+</p>
+
 <p>
 Understanding Bounced Darts is important for players to adapt to the occasional setbacks they bring. Plan your throws carefully, consider the risk of hitting wires, and manage your dart resources to maximize your chances of success in the game.
 </p>
@@ -806,16 +852,20 @@ Understanding Bounced Darts is important for players to adapt to the occasional 
 Created Monday 16 October 2023<br>
 <span class="zim-tag">@rules</span> <span class="zim-tag">@progression</span> <span class="zim-tag">@rounds</span> <span class="zim-tag">@turns</span> <span class="zim-tag">@complete_turn</span>
 </p>
-<br>
+
 <h3>Complete Turn Breakdown<a id="complete-turn-breakdown" class="h_anchor"></a></h3>
+
 <br>
+
+<p>
 <ol type="1" start="1">
 <li><b>Regroup Stage</b>
 <ol type="1" start="1">
 <li>Recover Base Darts</li>
 <li>Special Abilities that apply to multiple player or are Status Effects that target enemies(as apposed to targeting one of your darts).</li>
 <li>apply and/or continue Status Effects </li>
-</ol></li>
+</ol>
+</li>
 <li><b>{player position} Round</b>
 <ol type="1" start="1">
 <li>Base Dart Allocation Stage</li>
@@ -823,39 +873,46 @@ Created Monday 16 October 2023<br>
 <ol type="a" start="1">
 <li>Attack Dart Allocation</li>
 <li>Attack Dart Evaluation</li>
-</ol></li>
+</ol>
+</li>
 <li>Damage Stage
 <ol type="a" start="1">
 <li>Damage Dart Allocation</li>
 <li>Damage Dart Evaluation</li>
-</ol></li>
+</ol>
+</li>
 <li>Player {pos} Round End Stage</li>
-</ol></li>
+</ol>
+</li>
 <li><b>Party Turn End Stage</b></li>
 <li><b>{minion position} Round</b>
 <ol type="1" start="1">
 <li>Minion Action</li>
 <li>Minion Total Damage</li>
 <li>Minion {pos} Round End Stage</li>
-</ol></li>
+</ol>
+</li>
 <li>P<b>rimary Enemy Round</b>
 <ol type="1" start="1">
 <li>Primary Enemy Action</li>
 <li>Primary Enemy Total Damage</li>
 <li>Pimary Enemy Round End Stage</li>
-</ol></li>
+</ol>
+</li>
 <li><b>{secondary enemy position} Round</b>
 <ol type="1" start="1">
 <li>Secondary Enemy Action</li>
 <li>Secondary Enemy Total Damage</li>
 <li>Secondary Enemy {pos} Round End Stage</li>
-</ol></li>
+</ol>
+</li>
 <li><b>Enemy Turn End Stage</b></li>
 <li><b>Complete Turn End Stage</b>
 <ol type="a" start="1">
 <li>Clean up Status Effects that end at "End of Complete Turn".</li>
 </ol></li>
 </ol>
+</p>
 
 	</div>
 
@@ -863,6 +920,11 @@ Created Monday 16 October 2023<br>
 
 	<div class='page-footer'>
 		<b>Backlinks:</b>
+
+		<a href='#0.Home'>0.Home</a>
+
+		
+		
 
 		<a href='#1.Rules'>1.Rules</a>
 
@@ -874,17 +936,12 @@ Created Monday 16 October 2023<br>
 		
 		
 
-		<a href='#0.Home'>0.Home</a>
+		<a href='#1.Rules:Understanding Special States'>1.Rules:Understanding Special States</a>
 
 		
 		
 
 		<a href='#1.Rules:Understanding the Cards'>1.Rules:Understanding the Cards</a>
-
-		
-		
-
-		<a href='#1.Rules:Understanding Special States'>1.Rules:Understanding Special States</a>
 
 		<br /><br />
 
@@ -901,21 +958,24 @@ Created Monday 16 October 2023<br>
 Created Friday 13 October 2023<br>
 <span class="zim-tag">@rules</span> <span class="zim-tag">@stages</span> <span class="zim-tag">@damage</span> <span class="zim-tag">@dart</span> 
 </p>
-<br>
+
 <p>
 In the Damage Step, use the amount of Damage Darts your character has available to attempt to hit the highest possible number. Double and Triple rings are not calculated for Damage Darts(if you hit a Triple 20 with a Damage Dart, it is still only 20 damage. If you hit a Triple on the required AC, then the corresponding Damage Dart would be 20x3, dealing 60 damage to the enemy.
 </p>
-<br>
+
 <h3>Damage Darts Explanation:<a id="damage-darts-explanation" class="h_anchor"></a></h3>
+
 <br>
+
 <p>
 In the game, "Damage Darts" represent the resource you use to determine the amount of damage your character inflicts on the enemy during the Damage Step. Understanding how Damage Darts work is crucial for effectively measuring and dealing damage in combat.
 </p>
-<br>
+
 <p>
 <b>Here's how Damage Darts operate</b>:
 </p>
-<br>
+
+<p>
 <ol style='padding-left: 30pt' type="1" start="1">
 <li><u>Damage Step</u>: During the Damage Step, you'll use the combined number of Damage Darts at your disposal. These darts determine the extent of damage you can deliver to your opponent.</li>
 <li><u>Highest Possible Number</u>: Unlike Attack Darts, where you aim for specific sections of the target, with Damage Darts, your goal is to hit the highest possible number on the dartboard. The value you hit represents the amount of damage you inflict.</li>
@@ -924,7 +984,8 @@ In the game, "Damage Darts" represent the resource you use to determine the amou
 <li>If you previously hit a Triple on the required AC with an Attack Dart (refer to Attack Darts), and then you hit a 20 with the corresponding Damage Dart, it would result in 20x3 damage, dealing a significant 60 damage to the enemy. This multiplication is specific to the Attack Darts step.</li>
 </ol></li>
 </ol>
-<br>
+</p>
+
 <p>
 Understanding Damage Darts is essential for determining your character's damage output during combat. Aim for high numbers to maximize your damage potential and strategically use Damage Darts to defeat your opponents effectively.
 </p>
@@ -954,6 +1015,7 @@ Created Friday 13 October 2023<br>
 <span class="zim-tag">@rules</span> <span class="zim-tag">@abilities</span> <span class="zim-tag">@enemy</span>
 </p>
 <h3><sup>Advanced</sup><a id="advanced" class="h_anchor"></a></h3>
+
 <p>
 <div style='padding-left: 30pt'>
 <sup>abbrev: na.e</sup><br>
@@ -962,53 +1024,61 @@ Created Friday 13 October 2023<br>
 <sup>se.targetable: yes</sup>
 </div>
 </p>
-<br>
+
+<p>
 <ul>
 <li><sup>The moment you start a battle with an Enemy, their abilities, that are not marked with a Trigger indicator of any type, are Natural Abilities that become active.</sup></li>
 </ul>
-<br>
+</p>
+
+<p>
 <ul>
 <li><sup>Status Effects can target Enemy Natural Abilities</sup></li>
 </ul>
-<br>
+</p>
+
 <h3>Enemy Natural Abilities (na.e)<a id="enemy-natural-abilities-nae" class="h_anchor"></a></h3>
+
 <br>
+
 <p>
 Activation: Always Active<br>
 Restrict: Enemy Only<br>
 Selectable Target: Yes
 </p>
-<br>
+
 <p>
 Enemy Natural Abilities represent the inherent capabilities and characteristics of adversaries in your journey. These abilities are continuously active and come into play as soon as you engage in battle with an enemy. While Triggered Abilities often require specific conditions to activate, Natural Abilities are ever-present, making them a vital aspect of enemy encounters.
 </p>
-<br>
+
 <h4>Understanding Natural Abilities:<a id="understanding-natural-abilities" class="h_anchor"></a></h4>
+
 <br>
+
 <p>
 Upon initiating combat with an enemy, you'll encounter their Natural Abilities, which are not marked with any Trigger indicator. These abilities encompass a wide range of powers and traits, from elemental resistances to innate combat tactics.
 </p>
-<br>
+
 <p>
 <b>Versatile and Unpredictable:</b>
 </p>
-<br>
+
 <p>
 <div style='padding-left: 30pt'>
 Natural Abilities can encompass a wide variety of effects and tactics that enemies may employ. Some enemies possess unique resistances to specific damage types, while others may have advanced movement or attack patterns. Understanding and adapting to these Natural Abilities is crucial for devising effective strategies.
 </div>
 </p>
-<br>
+
 <p>
 <b>Status Effects on Natural Abilities:</b>
 </p>
-<br>
+
 <p>
 <div style='padding-left: 30pt'>
 Status Effects can be used strategically to target and modify an enemy's Natural Abilities. For instance, applying a debilitating status effect could temporarily weaken an enemy's innate resistances, providing an advantage to players during the encounter.
 </div>
 </p>
-<br>
+
 <p>
 As you embark on your adventures in Astralor, be prepared to face enemies with a diverse array of Natural Abilities. Learning to adapt and exploit their strengths and weaknesses will be essential for your party's success in your quest.
 </p>
@@ -1020,12 +1090,12 @@ As you embark on your adventures in Astralor, be prepared to face enemies with a
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
-		<a href='#1.Rules'>1.Rules</a>
-
-		
-		
-
 		<a href='#0.Home'>0.Home</a>
+
+		
+		
+
+		<a href='#1.Rules'>1.Rules</a>
 
 		
 		
@@ -1048,6 +1118,7 @@ Created Tuesday 17 October 2023<br>
 <span class="zim-tag">@rules</span> <span class="zim-tag">@abilities</span> <span class="zim-tag">@enemy</span>
 </p>
 <h3><sup>Advanced</sup><a id="advanced" class="h_anchor"></a></h3>
+
 <p>
 <div style='padding-left: 30pt'>
 <sup>abbrev: ta.e</sup><br>
@@ -1056,67 +1127,92 @@ Created Tuesday 17 October 2023<br>
 <sup>se.targetable: yes</sup>
 </div>
 </p>
-<br>
+
+<p>
 <ul>
 <li><sup>When a condition is met(reaching a certain hp, the most common), a Triggered Ability activates. These abilities are marked with the condition on the left side of the card(See Interpereting Encounters, Understanding Enemies). For instance at 1/2 hp, the Shimmersnake has an ability that forces all players(a status effect) from then on to flip a coin on their first successful Attack Dart, if the player fails to call the flip, that Attack Dart then misses.</sup></li>
 </ul>
-<br>
+</p>
+
+<p>
 <ul>
 <li><sup>Status Effects can target Enemy Triggered Abilities</sup></li>
 </ul>
-<br>
+</p>
+
 <h3>Enemy Triggered Abilities (ta.e)<a id="enemy-triggered-abilities-tae" class="h_anchor"></a></h3>
+
 <br>
+
 <p>
 Activation: Triggered<br>
 Restrict: Enemy Only<br>
 Selectable Target: Yes
 </p>
-<br>
+
 <p>
 Enemy Triggered Abilities add an intriguing layer of complexity to encounters, offering unique challenges to players. These abilities activate when specific conditions are met, such as reaching a certain hit point threshold. It's essential to be aware of these abilities, as they can significantly impact the course of battle.
 </p>
-<br>
+
 <h4><b>Types of Triggers:</b><a id="types-of-triggers" class="h_anchor"></a></h4>
+
 <br>
+
+<p>
 <ol type="1" start="1">
 <li><b>Hit Points (CtH) Trigger</b>: The most common trigger type, activating when an enemy's hit points fall below or rise above a specified threshold.</li>
 </ol>
-<br>
+</p>
+
+<p>
 <ol type="1" start="2">
 <li><b>Damage Delt (CtD) Trigger</b>: Triggered when the enemy is delt a certain amount of damage during a single Complete Turn.</li>
 </ol>
-<br>
+</p>
+
+<p>
 <ol type="1" start="3">
 <li><b>Elemental (CtE) Trigger</b>: Activated based on elemental factors, such as specific elemental attacks or vulnerabilities.</li>
 </ol>
-<br>
+</p>
+
+<p>
 <ol type="1" start="4">
 <li><b>Minion (CtM) Trigger</b>: Occurs when the enemy's minions are summoned, defeated, or reach a specific condition.</li>
 </ol>
-<br>
+</p>
+
+<p>
 <ol type="1" start="5">
 <li><b>Player Death (CtP) Trigger</b>: Triggered when a player character dies or reaches a critical point in their health.</li>
 </ol>
-<br>
+</p>
+
+<p>
 <ol type="1" start="6">
 <li><b>Status Effect Change (CtS) Trigger</b>: Activated when a specific status effect is applied to the enemy or changes during the encounter.</li>
 </ol>
-<br>
+</p>
+
+<p>
 <ol type="1" start="7">
 <li><b>Rounds (CtR) Trigger</b>: These triggers are linked to the number of rounds that have passed in the encounter.</li>
 </ol>
-<br>
+</p>
+
+<p>
 <ol type="1" start="8">
 <li><b>Turns (CtT) Trigger</b>: Triggered based on the total number of turns that have taken place in the encounter.</li>
 </ol>
-<br>
+</p>
+
 <h4>Interpreting Triggered Abilities:<a id="interpreting-triggered-abilities" class="h_anchor"></a></h4>
+
 <p>
 (See <a href="#1.Rules:Interpereting Encounters" title="Interpreting Encounters" class="page">Interpreting Encounters</a>)<br>
 Triggered Abilities are indicated by a specific condition on the left side of the enemy's card. For example, when the Shimmersnake reaches half of its hit points, it activates an ability that forces all players to flip a coin on their first successful Attack Dart. If a player fails to call the flip correctly, that Attack Dart misses.
 </p>
-<br>
+
 <p>
 Understanding and preparing for these Triggered Abilities is essential for a successful campaign. They can introduce a dynamic element to encounters, requiring players to adapt and strategize as conditions change. Be vigilant and ready to face a variety of challenges in your quest through Astralor.
 </p>
@@ -1128,12 +1224,12 @@ Understanding and preparing for these Triggered Abilities is essential for a suc
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
-		<a href='#1.Rules'>1.Rules</a>
-
-		
-		
-
 		<a href='#0.Home'>0.Home</a>
+
+		
+		
+
+		<a href='#1.Rules'>1.Rules</a>
 
 		
 		
@@ -1155,7 +1251,8 @@ Understanding and preparing for these Triggered Abilities is essential for a suc
 Created Friday 13 October 2023<br>
 <span class="zim-tag">@rules</span> <span class="zim-tag">@involvement</span>
 </p>
-<br>
+
+<p>
 <ol style='padding-left: 30pt' type="1" start="1">
 <li><b>Choose Your Class</b>: Select one from the four available classes: <a href="#2.Classes:1.Fighter" title="Fighter" class="page">Fighter</a>, <a href="#2.Classes:2.Cleric" title="Cleric" class="page">Cleric</a>, <a href="#2.Classes:4.Thief" title="Thief" class="page">Thief</a>, or <a href="#2.Classes:5.Sorcerer" title="Sorcerer" class="page">Sorcerer</a>.</li>
 <li><b>Understand Your Class</b>: Learn the strengths and weaknesses of your chosen class(see <a href="#1.Rules:Understanding Classes" title="Understanding Classes" class="page">Understanding Classes</a>, <a href="#1.Rules:Interpereting Classes" title="Interpereting Classes" class="page">Interpereting Classes</a>)</li>
@@ -1169,13 +1266,15 @@ Created Friday 13 October 2023<br>
 <li><b>Interact with merchants</b> who may offer activities and side quests(see <a href="#1.Rules:Understanding Merchants" title="Understanding Merchants" class="page">Understanding Merchants</a>, <a href="#1.Rules:Understanding Activities" title="Understanding Activities" class="page">Understanding Activities</a>, <a href="#1.Rules:Understanding Side Quests" title="Understanding Side Quests" class="page">Understanding Side Quests</a>).</li>
 <li>When you are ready, <b>Draw the next Adventure Card</b>, <a href="#1.Rules:Understanding Portals" title="portal" class="page">portal</a> <b>back to <a href="#3.Towns:Oakshade" title="Oakshade" class="page">Oakshade</a></b>, or <b>replay the same Adventure</b> at a higher level for greater challenges and rewards.</li>
 </ol>
+</p>
+
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-<br>
+
 
 	</div>
 
@@ -1210,6 +1309,11 @@ Created Wednesday 18 October 2023<br>
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
+		<a href='#0.Home'>0.Home</a>
+
+		
+		
+
 		<a href='#4.Adventures'>4.Adventures</a>
 
 		
@@ -1220,22 +1324,17 @@ Created Wednesday 18 October 2023<br>
 		
 		
 
-		<a href='#0.Home'>0.Home</a>
-
-		
-		
-
 		<a href='#1.Rules:Interpereting Adventures'>1.Rules:Interpereting Adventures</a>
 
 		
 		
 
-		<a href='#1.Rules:Understanding Adventures'>1.Rules:Understanding Adventures</a>
-
-		
-		
-
 		<a href='#1.Rules:Interpereting the Cards'>1.Rules:Interpereting the Cards</a>
+
+		
+		
+
+		<a href='#1.Rules:Understanding Adventures'>1.Rules:Understanding Adventures</a>
 
 		<br /><br />
 
@@ -1253,11 +1352,12 @@ Created Wednesday 18 October 2023<br>
 <span class="zim-tag">@interpreting</span> <span class="zim-tag">@classes</span><br>
 [ <a href="#1.Rules:Interpereting Classes" title="Interpreting Classes" class="page">Interpreting Classes</a> | <a href="#1.Rules:Understanding Classes" title="Understanding Classes" class="page">Understanding Classes</a> | <a href="#2.Classes" title="Classes Card Data" class="page">Classes Card Data</a>(1.3alpha) ]
 </p>
-<br>
+
 <p>
 <img src="./index_files/1.Rules/Interpereting_Classes/_Cleric_325.png">
 </p>
 <h3>Interpereting Class Cards<a id="interpereting-class-cards" class="h_anchor"></a></h3>
+
 <p>
 Class Title | Levels Displayed on this card<br>
 Starting Hit Points | Starting Base Darts<br>
@@ -1271,6 +1371,11 @@ List of Abilities | Class Gameplay Tips
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
+		<a href='#0.Home'>0.Home</a>
+
+		
+		
+
 		<a href='#2.Classes'>2.Classes</a>
 
 		
@@ -1281,22 +1386,17 @@ List of Abilities | Class Gameplay Tips
 		
 		
 
-		<a href='#0.Home'>0.Home</a>
-
-		
-		
-
 		<a href='#1.Rules:Interpereting Classes'>1.Rules:Interpereting Classes</a>
 
 		
 		
 
-		<a href='#1.Rules:Understanding Classes'>1.Rules:Understanding Classes</a>
-
-		
-		
-
 		<a href='#1.Rules:Interpereting the Cards'>1.Rules:Interpereting the Cards</a>
+
+		
+		
+
+		<a href='#1.Rules:Understanding Classes'>1.Rules:Understanding Classes</a>
 
 		<br /><br />
 
@@ -1319,7 +1419,7 @@ List of Abilities | Class Gameplay Tips
 Created Wednesday 18 October 2023<br>
 <span class="zim-tag">@interpreting</span> <span class="zim-tag">@encounters</span>
 </p>
-<br>
+
 
 	</div>
 
@@ -1328,7 +1428,7 @@ Created Wednesday 18 October 2023<br>
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
-		<a href='#1.Rules:First Steps'>1.Rules:First Steps</a>
+		<a href='#0.Home'>0.Home</a>
 
 		
 		
@@ -1338,7 +1438,7 @@ Created Wednesday 18 October 2023<br>
 		
 		
 
-		<a href='#0.Home'>0.Home</a>
+		<a href='#1.Rules:First Steps'>1.Rules:First Steps</a>
 
 		
 		
@@ -1361,7 +1461,8 @@ Created Friday 13 October 2023<br>
 <span class="zim-tag">@interpereting</span> <span class="zim-tag">@index</span><br>
 [ <a href="#1.Rules:Interpreting the Cards" title="Interpreting the Cards" class="page">Interpreting the Cards</a>| <a href="#1.Rules:Understanding the Cards" title="Understanding the Cards" class="page">Understanding the Cards</a> | <a href="#1.Rules:All Card Data" title="All Card Data" class="page">All Card Data</a>(1.3alpha) ]
 </p>
-<br>
+
+<p>
 <ul style='padding-left: 30pt'>
 <li><a href="#1.Rules:Interpereting Classes" title="Classes" class="page">Classes</a></li>
 <li><a href="#1.Rules:Interpereting Adventures" title="Adventures" class="page">Adventures</a></li>
@@ -1369,7 +1470,8 @@ Created Friday 13 October 2023<br>
 <li><a href="#1.Rules:Interpereting Towns" title="Towns" class="page">Towns</a></li>
 <li><a href="#1.Rules:Interpereting Treasures" title="Treasures" class="page">Treasures</a></li>
 </ul>
-<br>
+</p>
+
 
 	</div>
 
@@ -1395,7 +1497,7 @@ Created Friday 13 October 2023<br>
 Created Tuesday 17 October 2023<br>
 <span class="zim-tag">@interpreting</span> <span class="zim-tag">@towns</span>
 </p>
-<br>
+
 
 	</div>
 
@@ -1404,12 +1506,12 @@ Created Tuesday 17 October 2023<br>
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
-		<a href='#1.Rules:First Steps'>1.Rules:First Steps</a>
-
-		
-		
-
 		<a href='#0.Home'>0.Home</a>
+
+		
+		
+
+		<a href='#1.Rules:First Steps'>1.Rules:First Steps</a>
 
 		
 		
@@ -1431,7 +1533,7 @@ Created Tuesday 17 October 2023<br>
 Created Wednesday 18 October 2023<br>
 <span class="zim-tag">@interpreting</span> <span class="zim-tag">@treasures</span>
 </p>
-<br>
+
 
 	</div>
 
@@ -1440,22 +1542,22 @@ Created Wednesday 18 October 2023<br>
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
-		<a href='#1.Rules:First Steps'>1.Rules:First Steps</a>
-
-		
-		
-
 		<a href='#0.Home'>0.Home</a>
 
 		
 		
 
-		<a href='#1.Rules:Understanding Adventures'>1.Rules:Understanding Adventures</a>
+		<a href='#1.Rules:First Steps'>1.Rules:First Steps</a>
 
 		
 		
 
 		<a href='#1.Rules:Interpereting the Cards'>1.Rules:Interpereting the Cards</a>
+
+		
+		
+
+		<a href='#1.Rules:Understanding Adventures'>1.Rules:Understanding Adventures</a>
 
 		<br /><br />
 
@@ -1472,7 +1574,7 @@ Created Wednesday 18 October 2023<br>
 Created Wednesday 18 October 2023<br>
 <span class="zim-tag">@interpreting</span> <span class="zim-tag">@index</span>
 </p>
-<br>
+
 
 	</div>
 
@@ -1481,17 +1583,17 @@ Created Wednesday 18 October 2023<br>
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
+		<a href='#1.Rules:All Card Data'>1.Rules:All Card Data</a>
+
+		
+		
+
 		<a href='#1.Rules:Interpereting the Cards'>1.Rules:Interpereting the Cards</a>
 
 		
 		
 
 		<a href='#1.Rules:Understanding the Cards'>1.Rules:Understanding the Cards</a>
-
-		
-		
-
-		<a href='#1.Rules:All Card Data'>1.Rules:All Card Data</a>
 
 		<br /><br />
 
@@ -1508,7 +1610,7 @@ Created Wednesday 18 October 2023<br>
 Created Tuesday 17 October 2023<br>
 <span class="zim-tag">@understanding</span> <span class="zim-tag">@specialstates</span> <span class="zim-tag">@offboard</span>
 </p>
-<br>
+
 
 	</div>
 
@@ -1534,8 +1636,9 @@ Created Tuesday 17 October 2023<br>
 Created Friday 13 October 2023<br>
 <span class="zim-tag">@rules</span> <span class="zim-tag">@abilities</span> <span class="zim-tag">@player</span>
 </p>
-<br>
+
 <h3>Advanced<a id="advanced" class="h_anchor"></a></h3>
+
 <p>
 <div style='padding-left: 30pt'>
 abbreviation: na.p<br>
@@ -1544,31 +1647,41 @@ restrict: player only<br>
 se.targetable: yes
 </div>
 </p>
-<br>
+
+<p>
 <ul>
 <li>The moment a player gains a level and activates a new Natural Ability, that ability becomes active and stays active for the duration of the Campaign.</li>
 </ul>
-<br>
+</p>
+
+<p>
 <ul>
 <li>Players can not gain abilities that are Enemy type.</li>
 </ul>
-<br>
+</p>
+
+<p>
 <ul>
 <li>Status Effects can target Player Natural Abilities</li>
 </ul>
-<br>
+</p>
+
 <h3>Natural Abilities Explanation:<a id="natural-abilities-explanation" class="h_anchor"></a></h3>
+
 <br>
+
 <p>
 In the game, "Natural Abilities" are inherent powers or skills possessed by the player character. These abilities are always active and persist throughout the entire campaign, enhancing your character's capabilities as they level up. Here's a detailed breakdown of Natural Abilities:
 </p>
-<br>
+
+<p>
 <ol style='padding-left: 30pt' type="1" start="1">
 <li><u>Activation and Duration</u>: When a player gains a level and unlocks a new Natural Ability, that ability immediately becomes active. Unlike other game abilities that may need to be triggered, Natural Abilities are "always active." They remain in effect for the entire duration of the campaign, providing a consistent enhancement to your character's abilities.</li>
 <li><u>Exclusion of Enemy Abilities</u>: Players are restricted from acquiring abilities categorized as "Enemy type." This means you can only acquire and activate Natural Abilities that benefit the player character. Enemy-type abilities are typically reserved for non-playable entities within the game.</li>
 <li><u>Status Effects</u>: Importantly, status effects, which are in-game conditions or alterations, can target Player Natural Abilities. This means that during the course of the game, various effects, buffs, or debuffs can impact or interact with your Natural Abilities, potentially enhancing or modifying their effects based on the situation.</li>
 </ol>
-<br>
+</p>
+
 <p>
 Understanding Natural Abilities is critical for players, as these abilities serve as a fundamental and continuous source of enhancement and strategic advantage throughout the campaign. Players must consider how these abilities interact with status effects and manage their characters accordingly.
 </p>
@@ -1580,12 +1693,12 @@ Understanding Natural Abilities is critical for players, as these abilities serv
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
-		<a href='#1.Rules'>1.Rules</a>
-
-		
-		
-
 		<a href='#0.Home'>0.Home</a>
+
+		
+		
+
+		<a href='#1.Rules'>1.Rules</a>
 
 		
 		
@@ -1607,8 +1720,9 @@ Understanding Natural Abilities is critical for players, as these abilities serv
 Created Friday 13 October 2023<br>
 <span class="zim-tag">@rules</span> <span class="zim-tag">@abilities</span> <span class="zim-tag">@player</span>
 </p>
-<br>
+
 <h3>Advanced<a id="advanced" class="h_anchor"></a></h3>
+
 <p>
 <div style='padding-left: 30pt'>
 abbrev: sa.p<br>
@@ -1617,28 +1731,37 @@ restrict: player only<br>
 se.targetable: yes
 </div>
 </p>
-<br>
+
+<p>
 <ul>
 <li>Special Abilities that target only Self(including Darts) can be activated at any time.</li>
 <li>Special Abilities that target all other Players must be activated with the use of a Special Ability Point, at the Regroup Stage.</li>
 <li>Special Abilities that target Enemies with a Status Effect must activate it at the Regroup Stage.</li>
 <li>Special Abilities that target Enemies with Direct Damge can be activated at any time.</li>
 </ul>
-<br>
+</p>
+
+<p>
 <ul>
 <li>Players can not gain abilities that are Enemy type.</li>
 </ul>
-<br>
+</p>
+
+<p>
 <ul>
 <li>Status Effects can target Player Special Abilities</li>
 </ul>
-<br>
+</p>
+
 <h3>Special Abilities Explanation:<a id="special-abilities-explanation" class="h_anchor"></a></h3>
+
 <br>
+
 <p>
 In the game, "Special Abilities" are unique powers or skills that can significantly impact the course of gameplay. Understanding how these abilities are activated and when they can be used is crucial. Here's a detailed explanation:
 </p>
-<br>
+
+<p>
 <ol style='padding-left: 30pt' type="1" start="1">
 <li><u>Self-Targeted Special Abilities</u>: Special Abilities that target only the player using them, including those that affect darts, can be activated at any time. These abilities can be triggered whenever the player deems it strategically advantageous.</li>
 <li><u>Player-Targeted Special Abilities</u>: Special Abilities that target all other players in the game require the expenditure of a "Special Ability Point." This activation takes place during the Regroup Stage, a designated phase of the game where players come together to make collective decisions and activate special abilities that affect other players.</li>
@@ -1647,7 +1770,8 @@ In the game, "Special Abilities" are unique powers or skills that can significan
 <li><u>Exclusion of Enemy Abilities</u>: Players cannot gain abilities classified as "Enemy type." This restriction ensures that players have access only to abilities that benefit them, rather than those typically reserved for non-playable entities within the game.</li>
 <li><u>Interaction with Status Effects</u>: It's important to note that status effects, which are in-game conditions or alterations, can also target Player Special Abilities. These effects may modify or enhance the outcomes of special abilities, adding an extra layer of strategy and complexity to the game.</li>
 </ol>
-<br>
+</p>
+
 <p>
 Understanding Special Abilities is vital for players, as they can greatly influence the outcome of the game. Knowing when and how to activate these abilities, and how they interact with status effects, is key to developing effective strategies and gaining an advantage in the gameplay.
 </p>
@@ -1659,12 +1783,12 @@ Understanding Special Abilities is vital for players, as they can greatly influe
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
-		<a href='#1.Rules'>1.Rules</a>
-
-		
-		
-
 		<a href='#0.Home'>0.Home</a>
+
+		
+		
+
+		<a href='#1.Rules'>1.Rules</a>
 
 		
 		
@@ -1685,13 +1809,13 @@ Understanding Special Abilities is vital for players, as they can greatly influe
 	<p>
 Created Saturday 14 October 2023
 </p>
-<br>
+
 <p>
 Understanding how to read status effects<br>
 All other Players get +1 to AC if you deal damage this turn.<br>
 ability that triggers when damage has been delt, effects all but the owner.
 </p>
-<br>
+
 <p>
 gah i dont know how they are hard to read. help... 
 </p>
@@ -1701,11 +1825,6 @@ gah i dont know how they are hard to read. help...
 	<br />
 
 	<div class='page-footer'>
-		<b>Backlinks:</b>
-
-		<a href='#1.Rules'>1.Rules</a>
-
-		<br /><br />
 
 	</div>
 
@@ -1783,8 +1902,9 @@ gah i dont know how they are hard to read. help...
 Created Monday 16 October 2023<br>
 <span class="zim-tag">@activities</span> <span class="zim-tag">@help</span> <span class="zim-tag">@rules</span>
 </p>
-<br>
+
 <h3>Engaging in Activities:<a id="engaging-in-activities" class="h_anchor"></a></h3>
+
 <p>
 <div style='padding-left: 30pt'>
 Activities are a vibrant part of your adventure, scattered throughout the game. They appear primarily in <a href="#1.Rules:Understanding Towns" title="Town Cards" class="page">Town Cards</a> and <a href="#1.Rules:Understanding Merchants" title="Merchant Cards" class="page">Merchant Cards</a>, offering you a diverse range of experiences. But that's not all – every <a href="#1.Rules:Understanding Encounters" title="Encounter Card" class="page">Encounter Card</a> introduces unique activities before or after your thrilling battles with formidable enemies. These activities can vary from simple yet intriguing puzzles to challenges as intricate and perilous as the enemies you face. Embrace these opportunities with enthusiasm, for they hold the key to unlocking treasures, honing your skills, and expanding your horizons in the world of <a href="#5.World" title="Astralor" class="page">Astralor</a>. So, embark on your journey and prepare for a world where every encounter promises excitement and rewards, where activities can be just as thrilling as the battles themselves.
@@ -1798,17 +1918,17 @@ Activities are a vibrant part of your adventure, scattered throughout the game. 
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
+		<a href='#0.Home'>0.Home</a>
+
+		
+		
+
 		<a href='#1.Rules'>1.Rules</a>
 
 		
 		
 
 		<a href='#1.Rules:First Steps'>1.Rules:First Steps</a>
-
-		
-		
-
-		<a href='#0.Home'>0.Home</a>
 
 		
 		
@@ -1836,20 +1956,21 @@ Created Monday 16 October 2023<br>
 <span class="zim-tag">@help</span> <span class="zim-tag">@adventures</span> <span class="zim-tag">@card</span><br>
 [ <a href="#1.Rules:Interpereting Adventures" title="Interpreting Adventures" class="page">Interpreting Adventures</a> | <a href="#1.Rules:Understanding Adventures" title="Understanding Adventures" class="page">Understanding Adventures</a> | <a href="#4.Adventures" title="Adventures Card Data" class="page">Adventures Card Data</a>(1.3alpha) ]
 </p>
-<br>
+
 <h3>Embarking on Epic Adventures:<a id="embarking-on-epic-adventures" class="h_anchor"></a></h3>
+
 <p>
 <div style='padding-left: 30pt'>
 Adventures are the heart and soul of your journey, serving as the primary catalyst for the game's progression. Each Adventure Card unfurls a captivating "Dungeon" that demands your unwavering commitment to conquer. It's a thrilling quest that you must see through to its conclusion, except for rare circumstances that offer a unique twist.
 </div>
 </p>
-<br>
+
 <p>
 <div style='padding-left: 30pt'>
 Within each adventure, you'll encounter a structured path of milestones. These include 5 Major Milestones (known as <a href="#1.Rules:Understanding Encounters" title="Understanding Encounters" class="page">Understanding Encounters</a>) and 5 Minor Milestones (comprising Encounter Activities). Your adventure reaches its climax with a showdown against a formidable final boss, known for its formidable challenge.
 </div>
 </p>
-<br>
+
 <p>
 <div style='padding-left: 30pt'>
 Upon vanquishing the 5th Primary Enemy, your party's triumph is rewarded with the discovery of a precious <a href="#1.Rules:Interpereting Treasures" title="Treasure Horde" class="page">Treasure Horde</a>. This moment of glory also marks the appearance of a portal, conveniently situated at the very spot on that card. This portal serves as a gateway to a new town, enabling you to embark on fresh adventures and return to this pivotal location from any town portal. It's a thrilling cycle that keeps your journey dynamic and full of new possibilities. So, prepare to immerse yourself in epic adventures, as they hold the key to progression, treasures, and exciting travel across the captivating realm of Astralor.
@@ -1862,6 +1983,11 @@ Upon vanquishing the 5th Primary Enemy, your party's triumph is rewarded with th
 
 	<div class='page-footer'>
 		<b>Backlinks:</b>
+
+		<a href='#0.Home'>0.Home</a>
+
+		
+		
 
 		<a href='#1.Rules'>1.Rules</a>
 
@@ -1878,22 +2004,17 @@ Upon vanquishing the 5th Primary Enemy, your party's triumph is rewarded with th
 		
 		
 
-		<a href='#0.Home'>0.Home</a>
-
-		
-		
-
 		<a href='#1.Rules:Interpereting Adventures'>1.Rules:Interpereting Adventures</a>
 
 		
 		
 
-		<a href='#1.Rules:Understanding Encounters'>1.Rules:Understanding Encounters</a>
-
-		
-		
-
 		<a href='#1.Rules:Understanding Adventures'>1.Rules:Understanding Adventures</a>
+
+		
+		
+
+		<a href='#1.Rules:Understanding Encounters'>1.Rules:Understanding Encounters</a>
 
 		
 		
@@ -1916,8 +2037,9 @@ Created Wednesday 18 October 2023<br>
 <span class="zim-tag">@understanding</span> <span class="zim-tag">@classes</span><br>
 [ <a href="#1.Rules:Interpereting Classes" title="Interpreting Classes" class="page">Interpreting Classes</a> | <a href="#1.Rules:Understanding Classes" title="Understanding Classes" class="page">Understanding Classes</a> | <a href="#2.Classes" title="Classes Card Data" class="page">Classes Card Data</a>(1.3alpha) ]
 </p>
-<br>
+
 <h3><a href="#2.Classes:1.Fighter" title="Fighter" class="page">Fighter</a><a id="fighter" class="h_anchor"></a></h3>
+
 <p>
 <div style='padding-left: 30pt'>
 <i><u>The primary tank of the game. Deals lots of damage and shields others.</u></i><br>
@@ -1925,8 +2047,9 @@ Created Wednesday 18 October 2023<br>
 The Fighter is a stalwart and skilled combatant, honed through disciplined training and combat experience. They excel in melee combat, demonstrating exceptional weapon proficiency and the ability to wear the heaviest of armor without sacrificing mobility. Fighters are known for their unwavering courage and their innate ability to protect their allies by drawing the attention of foes in battle. Their combat techniques range from powerful strikes that can cleave through multiple adversaries to tactical defenses that make them an indomitable presence on the battlefield. Masters of martial prowess, Fighters embody the principles of strength, valor, and unyielding resolve, making them the front-line protectors and formidable champions of their party.
 </div>
 </p>
-<br>
+
 <h3><a href="#2.Classes:2.Cleric" title="Cleric" class="page">Cleric</a><a id="cleric" class="h_anchor"></a></h3>
+
 <p>
 <div style='padding-left: 30pt'>
 <i><u>Secondary tank. The healer and shield guard of the group.</u></i> <br>
@@ -1934,16 +2057,18 @@ The Fighter is a stalwart and skilled combatant, honed through disciplined train
 The Cleric is a divine conduit, an emissary chosen to wield the sacred powers granted by the deities of the world. They serve as healers, spiritual guides, and protectors of the faith. With a strong connection to the divine, Clerics channel this energy to mend wounds, purify spirits, and, in dire situations, smite their enemies with righteous fury. Their versatile abilities can turn the tide of battle, bestowing blessings on their comrades to enhance their resilience, or calling down divine retribution on those who threaten the balance of the world. It is the calling of the Cleric to tend to the spiritual and physical needs of their party, whether through powerful healing magic, fortifying wards, or leading their group with unwavering faith.
 </div>
 </p>
-<br>
+
 <h3><a href="#2.Classes:3.Ranger" title="Ranger" class="page">Ranger</a><a id="ranger" class="h_anchor"></a></h3>
+
 <p>
 <div style='padding-left: 30pt'>
 <i><u>Versitile. Deals decent damage and provides group support.</u></i><br>
 (this class is undeveloped as of yet)
 </div>
 </p>
-<br>
+
 <h3><a href="#2.Classes:4.Thief" title="Thief" class="page">Thief</a><a id="thief" class="h_anchor"></a></h3>
+
 <p>
 <div style='padding-left: 30pt'>
 <i><u>Tactical. Disabling status effects and evasion, lots of hits.</u></i><br>
@@ -1951,8 +2076,9 @@ The Cleric is a divine conduit, an emissary chosen to wield the sacred powers gr
 The Rogue, often shrouded in darkness and cloaked in mystery, is a master of stealth, guile, and opportunism. Renowned for their cunning wit and nimble agility, they navigate treacherous paths and unforgiving terrain with remarkable dexterity. Rogues are experts in the art of subterfuge, specializing in thievery, traps, and lock-picking. They are not limited to mere pilfering, though; Rogues excel in hand-to-hand combat, utilizing precision and finesse to strike at their adversaries' weakest points. Adept at infiltration and surprise, they can vanish into the shadows in a heartbeat, reappearing to strike with deadly accuracy. With a versatile set of skills and an innate sense for exploiting vulnerabilities, Rogues are invaluable members of any adventuring party, contributing both in subtle, behind-the-scenes operations and open, face-to-face combat.
 </div>
 </p>
-<br>
+
 <h3><a href="#2.Classes:5.Sorcerer" title="Sorcerer" class="page">Sorcerer</a><a id="sorcerer" class="h_anchor"></a></h3>
+
 <p>
 <div style='padding-left: 30pt'>
 <i><u>Strategic. Dealing high yield damage, exploiting vulnerabilities.</u></i><br>
@@ -1968,17 +2094,17 @@ The Sorcerer harnesses the raw, untamed power of arcane energies, channeling the
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
+		<a href='#0.Home'>0.Home</a>
+
+		
+		
+
 		<a href='#2.Classes'>2.Classes</a>
 
 		
 		
 
 		<a href='#1.Rules:First Steps'>1.Rules:First Steps</a>
-
-		
-		
-
-		<a href='#0.Home'>0.Home</a>
 
 		
 		
@@ -2010,26 +2136,27 @@ The Sorcerer harnesses the raw, untamed power of arcane energies, channeling the
 Created Monday 16 October 2023<br>
 <span class="zim-tag">@rules</span> <span class="zim-tag">@help</span> <span class="zim-tag">@encounters</span> <span class="zim-tag">@cardtype</span>
 </p>
-<br>
+
 <h3>Epic Encounters: The Heart of the Game:<a id="epic-encounters-the-heart-of-the-game" class="h_anchor"></a></h3>
+
 <p>
 <div style='padding-left: 30pt'>
 Encounters are the thrilling core of the game, the very essence that ignites your desire to play – battling formidable monsters. Each encounter presents a captivating blend of activities, which can range from intricate puzzles to treacherous traps, serving as your gateway to the impending battle with the Primary Enemy. As you progress through the game, you'll also confront Minions and Secondary Enemies in later levels, intensifying the challenges you face.
 </div>
 </p>
-<br>
+
 <p>
 <div style='padding-left: 30pt'>
 Surviving these encounters is your ticket to rich rewards. As you emerge victorious, your party is rewarded with a trove of gems, the quantity of which varies depending on the strength of the defeated Enemy. The player who strikes the final blow is awarded a Unique Treasure, a rare and coveted item unattainable in any shop.
 </div>
 </p>
-<br>
+
 <p>
 <div style='padding-left: 30pt'>
 Once the encounter concludes, consult your <a href="#1.Rules:Understanding Adventures" title="Adventure Card" class="page">Adventure Card</a> to smoothly transition to the next thrilling Encounter. The culmination of your adventures is marked by the 5th encounter, where you confront the formidable end boss. Upon emerging victorious, it's time to unveil the <a href="#1.Rules:Treasure" title="Treasure Card" class="page">Treasure Card</a> for this Adventure, allowing players to test their luck and vie for the best available treasures.
 </div>
 </p>
-<br>
+
 <p>
 <div style='padding-left: 30pt'>
 Following the steps outlined on the Adventure Card, your party then ventures through a portal to a New Town, accompanied by the anticipation of a fresh start. Draw a new <a href="#3.Towns" title="Town Card" class="page">Town Card</a>, and resume your quest to extinguish the evil that threatens to engulf Astralor. Your journey is one of adventure, strategy, and heroic battles against a spreading malevolence, promising endless excitement and opportunities for victory.
@@ -2043,6 +2170,11 @@ Following the steps outlined on the Adventure Card, your party then ventures thr
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
+		<a href='#0.Home'>0.Home</a>
+
+		
+		
+
 		<a href='#1.Rules'>1.Rules</a>
 
 		
@@ -2053,17 +2185,12 @@ Following the steps outlined on the Adventure Card, your party then ventures thr
 		
 		
 
-		<a href='#0.Home'>0.Home</a>
+		<a href='#1.Rules:Understanding Activities'>1.Rules:Understanding Activities</a>
 
 		
 		
 
 		<a href='#1.Rules:Understanding Adventures'>1.Rules:Understanding Adventures</a>
-
-		
-		
-
-		<a href='#1.Rules:Understanding Activities'>1.Rules:Understanding Activities</a>
 
 		
 		
@@ -2084,7 +2211,7 @@ Following the steps outlined on the Adventure Card, your party then ventures thr
 	<p>
 Created Tuesday 17 October 2023
 </p>
-<br>
+
 <p>
 after every primary enemy kill
 </p>
@@ -2096,12 +2223,12 @@ after every primary enemy kill
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
-		<a href='#1.Rules'>1.Rules</a>
-
-		
-		
-
 		<a href='#0.Home'>0.Home</a>
+
+		
+		
+
+		<a href='#1.Rules'>1.Rules</a>
 
 		
 		
@@ -2123,14 +2250,15 @@ after every primary enemy kill
 Created Monday 16 October 2023<br>
 <span class="zim-tag">@merchants</span> <span class="zim-tag">@help</span> <span class="zim-tag">@rules</span> <span class="zim-tag">@cardtype</span>
 </p>
-<br>
+
 <h3>Discovering the World of Merchants:<a id="discovering-the-world-of-merchants" class="h_anchor"></a></h3>
+
 <p>
 <div style='padding-left: 30pt'>
 Merchants hold the keys to your character's progression in the fantastical realm of Astralor. As you traverse through each Town, you'll encounter these crucial figures who offer a treasure trove of goods to aid you on your quest. Merchants are more than just shopkeepers; they often present you with unique Activities that you can engage in once a day. By completing these Activities, you have the opportunity to earn valuable gems or specialized currencies specific to their trade, whether they be Alchemists, Blacksmiths, Innkeepers, and more. These currencies can be employed for exclusive transactions and upgrades. Additionally, keep an eye out for the occasional Side Quests that Merchants may offer once your party reaches a high enough level. So, dive into the world of Merchants, for they are your allies in enhancing your character's capabilities and discovering hidden quests in the vibrant world of Astralor.
 </div>
 </p>
-<br>
+
 <p>
 See List: <a href="#6.Lists:All Merchants" title="All Merchants" class="page">All Merchants</a>
 </p>
@@ -2142,6 +2270,11 @@ See List: <a href="#6.Lists:All Merchants" title="All Merchants" class="page">Al
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
+		<a href='#0.Home'>0.Home</a>
+
+		
+		
+
 		<a href='#1.Rules'>1.Rules</a>
 
 		
@@ -2152,17 +2285,12 @@ See List: <a href="#6.Lists:All Merchants" title="All Merchants" class="page">Al
 		
 		
 
-		<a href='#0.Home'>0.Home</a>
+		<a href='#1.Rules:Understanding Activities'>1.Rules:Understanding Activities</a>
 
 		
 		
 
 		<a href='#1.Rules:Understanding Towns'>1.Rules:Understanding Towns</a>
-
-		
-		
-
-		<a href='#1.Rules:Understanding Activities'>1.Rules:Understanding Activities</a>
 
 		
 		
@@ -2183,7 +2311,7 @@ See List: <a href="#6.Lists:All Merchants" title="All Merchants" class="page">Al
 	<p>
 Created Tuesday 17 October 2023
 </p>
-<br>
+
 <p>
 how you travel
 </p>
@@ -2195,17 +2323,17 @@ how you travel
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
+		<a href='#0.Home'>0.Home</a>
+
+		
+		
+
 		<a href='#1.Rules'>1.Rules</a>
 
 		
 		
 
 		<a href='#1.Rules:First Steps'>1.Rules:First Steps</a>
-
-		
-		
-
-		<a href='#0.Home'>0.Home</a>
 
 		
 		
@@ -2226,7 +2354,7 @@ how you travel
 	<p>
 Created Wednesday 18 October 2023
 </p>
-<br>
+
 <p>
 (Hidden Opportunities): Uncover the hidden opportunities in Astralor's towns as you dive into side quests offered by select merchants and locations. These quests provide a delightful diversion between your grand adventures, offering additional rewards and new avenues to explore the world of Astralor.
 </p>
@@ -2238,12 +2366,12 @@ Created Wednesday 18 October 2023
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
-		<a href='#1.Rules:First Steps'>1.Rules:First Steps</a>
-
-		
-		
-
 		<a href='#0.Home'>0.Home</a>
+
+		
+		
+
+		<a href='#1.Rules:First Steps'>1.Rules:First Steps</a>
 
 		
 		
@@ -2265,39 +2393,46 @@ Created Wednesday 18 October 2023
 Created Wednesday 18 October 2023<br>
 <span class="zim-tag">@rules</span> <span class="zim-tag">@stages</span> <span class="zim-tag">@attack</span> <span class="zim-tag">@dart</span> <span class="zim-tag">@special</span>
 </p>
-<br>
+
+<p>
 <ul style='padding-left: 30pt'>
 <li>Bounced Darts</li>
 <li>Off Board</li>
 <li>Stick and Fall</li>
 </ul>
+</p>
+
 <br>
-<br>
+
 <h3>Bounced Darts Explanation:<a id="bounced-darts-explanation" class="h_anchor"></a></h3>
+
 <br>
+
 <p>
 When a Dart fully bounces out of the dartboard(not Stick and Fall) from hitting a wire, that dart is not Recoverable until the Regroup stage on the Round after next. 
 </p>
-<br>
+
 <p>
 In the game, "Bounced Darts" represent darts that do not hit the dartboard properly and fully bounce out after striking a wire or other obstruction. These darts are temporarily unrecoverable until the "Regroup" stage, which occurs after the end of the <a href="#1.Rules:Complete Turn Breakdown" title="Complete Turn" class="page">Complete Turn</a>. Think of it as akin to rolling a 1 on a six-sided die in Dungeons and Dragons, where a critical failure has occurred.
 </p>
-<br>
+
 <p>
 <b>Here's a breakdown of Bounced Darts and their impact</b>:
 </p>
-<br>
+
+<p>
 <ol type="1" start="1">
 <li><u>Dart Inaccuracy</u>: When you throw a dart and it hits a wire on the dartboard, it may not stick to the board as intended. Instead, it bounces out of the board, indicating an inaccurate throw.</li>
 <li><u>Recovery Delay</u>: Bounced Darts cannot be retrieved immediately. They remain out of play until the "Regroup" stage, which occurs during the round that comes after the next full round of play. This delay reflects the time it takes to find, retrieve, or replace the darts.</li>
 <li><u>Gameplay Impact</u>: The delay in recovering Bounced Darts affects your dart resources. You'll need to carefully manage your remaining darts, especially if Bounced Darts accumulate, to ensure you have enough for future throws.</li>
 <li><u>Critical Failures</u>: Similar to rolling a 1 in Dungeons and Dragons, Bounced Darts represent an unfortunate and unintended outcome in the game. These critical failures can disrupt your strategy, adding an element of unpredictability to the game.</li>
 </ol>
-<br>
+</p>
+
 <p>
 Understanding Bounced Darts is important for players to adapt to the occasional setbacks they bring. Plan your throws carefully, consider the risk of hitting wires, and manage your dart resources to maximize your chances of success in the game.
 </p>
-<br>
+
 
 	</div>
 
@@ -2324,11 +2459,11 @@ Created Wednesday 18 October 2023<br>
 <span class="zim-tag">@understanding</span> <span class="zim-tag">@index</span><br>
 [ <a href="#1.Rules:Interpreting the Cards" title="Interpreting the Cards" class="page">Interpreting the Cards</a>| <a href="#1.Rules:Understanding the Cards" title="Understanding the Cards" class="page">Understanding the Cards</a> | <a href="#1.Rules:All Card Data" title="All Card Data" class="page">All Card Data</a>(1.3alpha) ]
 </p>
-<br>
+
 <h3>Understanding the Cards<a id="understanding-the-cards" class="h_anchor"></a></h3>
+
 <p>
-<i>Bolded links are the Physical Cards</i>
-</p>
+<i>Bolded links are the Physical Cards</i><br>
 <ul>
 <li><b><a href="#1.Rules:Understanding Classes" title="Classes" class="page">Classes</a></b>
 <ul>
@@ -2336,9 +2471,11 @@ Created Wednesday 18 October 2023<br>
 <ul>
 <li><a href="#1.Rules:Player Natural Ability" title="Player Natural Abilities" class="page">Player Natural Abilities</a></li>
 <li><a href="#1.Rules:Player Special Ability" title="Player Special Abilities" class="page">Player Special Abilities</a></li>
-</ul></li>
+</ul>
+</li>
 <li><a href="#1.Rules:Understanding Leveling" title="Leveling" class="page">Leveling</a></li>
-</ul></li>
+</ul>
+</li>
 <li><b><a href="#1.Rules:Understanding Adventures" title="Adventures" class="page">Adventures</a></b>
 <ul>
 <li>Milestones
@@ -2355,12 +2492,14 @@ Created Wednesday 18 October 2023<br>
 <li><a href="#1.Rules:Understanding Special States" title="Special States" class="page">Special States</a></li>
 <li>Status Effects</li>
 </ul></li>
-</ul></li>
+</ul>
+</li>
 <li><a href="#1.Rules:Understanding Portals" title="Portals" class="page">Portals</a></li>
 <li><b><a href="#1.Rules:Understanding Treasures" title="Treasures" class="page">Treasures</a></b></li>
 </ul></li>
 </ul></li>
-</ul></li>
+</ul>
+</li>
 <li><b><a href="#1.Rules:Understanding Towns" title="Towns" class="page">Towns</a></b>
 <ul>
 <li><a href="#1.Rules:Understanding Activities" title="Activities" class="page">Activities</a></li>
@@ -2368,7 +2507,8 @@ Created Wednesday 18 October 2023<br>
 <ul>
 <li><a href="#1.Rules:Understanding Activities" title="Activities" class="page">Activities</a></li>
 <li><a href="#1.Rules:Understanding Side Quests" title="Side Quests" class="page">Side Quests</a></li>
-</ul></li>
+</ul>
+</li>
 <li><a href="#1.Rules:Understanding Traveling" title="Traveling" class="page">Traveling</a>
 <ul>
 <li><a href="#1.Rules:Understanding Portals" title="Portals" class="page">Portals</a></li>
@@ -2376,6 +2516,7 @@ Created Wednesday 18 October 2023<br>
 </ul></li>
 </ul></li>
 </ul>
+</p>
 
 	</div>
 
@@ -2384,17 +2525,17 @@ Created Wednesday 18 October 2023<br>
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
+		<a href='#1.Rules:All Card Data'>1.Rules:All Card Data</a>
+
+		
+		
+
 		<a href='#1.Rules:Interpereting the Cards'>1.Rules:Interpereting the Cards</a>
 
 		
 		
 
 		<a href='#1.Rules:Understanding the Cards'>1.Rules:Understanding the Cards</a>
-
-		
-		
-
-		<a href='#1.Rules:All Card Data'>1.Rules:All Card Data</a>
 
 		<br /><br />
 
@@ -2410,7 +2551,7 @@ Created Wednesday 18 October 2023<br>
 	<p>
 Created Monday 16 October 2023
 </p>
-<br>
+
 <p>
 <div style='padding-left: 30pt'>
 <a href="#1.Rules:Understanding Merchants" title="Understanding Merchants" class="page">Understanding Merchants</a>: Immerse yourself in the bustling marketplaces of Astralor's towns, where skilled merchants offer a wide array of goods and services. Explore the treasures they have to offer, enhancing your character's capabilities and acquiring unique items to aid you on your journey.<br>
@@ -2425,17 +2566,17 @@ Created Monday 16 October 2023
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
+		<a href='#0.Home'>0.Home</a>
+
+		
+		
+
 		<a href='#1.Rules'>1.Rules</a>
 
 		
 		
 
 		<a href='#1.Rules:First Steps'>1.Rules:First Steps</a>
-
-		
-		
-
-		<a href='#0.Home'>0.Home</a>
 
 		
 		
@@ -2461,12 +2602,14 @@ Created Monday 16 October 2023
 	<p>
 Created Tuesday 17 October 2023
 </p>
-<br>
+
+<p>
 <ol type="1" start="1">
 <li>Portals</li>
 <li>Tunnels</li>
 <li>Dungeon Crawl.</li>
 </ol>
+</p>
 
 	</div>
 
@@ -2475,12 +2618,12 @@ Created Tuesday 17 October 2023
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
-		<a href='#1.Rules'>1.Rules</a>
-
-		
-		
-
 		<a href='#0.Home'>0.Home</a>
+
+		
+		
+
+		<a href='#1.Rules'>1.Rules</a>
 
 		
 		
@@ -2501,7 +2644,7 @@ Created Tuesday 17 October 2023
 	<p>
 Created Wednesday 18 October 2023
 </p>
-<br>
+
 <p>
 (Unique Treasures and Gems): Explore the world of Astralor in search of unique treasures and valuable gems. These treasures can provide significant enhancements to your character, including augment gems that offer specialized benefits. The quest for riches and power awaits!
 </p>
@@ -2513,17 +2656,17 @@ Created Wednesday 18 October 2023
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
+		<a href='#0.Home'>0.Home</a>
+
+		
+		
+
 		<a href='#1.Rules'>1.Rules</a>
 
 		
 		
 
 		<a href='#1.Rules:First Steps'>1.Rules:First Steps</a>
-
-		
-		
-
-		<a href='#0.Home'>0.Home</a>
 
 		
 		
@@ -2593,10 +2736,9 @@ Created Thursday 12 October 2023<br>
 <span class="zim-tag">@classes</span> <span class="zim-tag">@index</span><br>
 [ <a href="#1.Rules:Interpereting Classes" title="Interpreting Classes" class="page">Interpreting Classes</a> | <a href="#1.Rules:Understanding Classes" title="Understanding Classes" class="page">Understanding Classes</a> | <a href="#2.Classes" title="Classes Card Data" class="page">Classes Card Data</a>(1.3alpha) ]
 </p>
-<br>
+
 <p>
-<b>Levels 1-16("Hero" Release)</b>
-</p>
+<b>Levels 1-16("Hero" Release)</b><br>
 <ul style='padding-left: 30pt'>
 <li><a href="#2.Classes:1.Fighter" title="Fighter" class="page">Fighter</a></li>
 <li><a href="#2.Classes:2.Cleric" title="Cleric" class="page">Cleric</a></li>
@@ -2604,6 +2746,7 @@ Created Thursday 12 October 2023<br>
 <li><a href="#2.Classes:4.Thief" title="Thief" class="page">Thief</a></li>
 <li><a href="#2.Classes:5.Sorcerer" title="Sorcerer" class="page">Sorcerer</a></li>
 </ul>
+</p>
 
 	</div>
 
@@ -2612,12 +2755,17 @@ Created Thursday 12 October 2023<br>
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
+		<a href='#0.Home'>0.Home</a>
+
+		
+		
+
 		<a href='#2.Classes'>2.Classes</a>
 
 		
 		
 
-		<a href='#0.Home'>0.Home</a>
+		<a href='#1.Rules:All Card Data'>1.Rules:All Card Data</a>
 
 		
 		
@@ -2628,11 +2776,6 @@ Created Thursday 12 October 2023<br>
 		
 
 		<a href='#1.Rules:Understanding Classes'>1.Rules:Understanding Classes</a>
-
-		
-		
-
-		<a href='#1.Rules:All Card Data'>1.Rules:All Card Data</a>
 
 		<br /><br />
 
@@ -2655,7 +2798,7 @@ Created Thursday 12 October 2023<br>
 Created Thursday 12 October 2023<br>
 <span class="zim-tag">@classes</span> <span class="zim-tag">@fighter</span>
 </p>
-<br>
+
 <p>
 <b>Starting Stats</b><br>
 Hit Points: 100<br>
@@ -2674,7 +2817,7 @@ Base Darts: 3<br>
 (<b>16th</b>) <u>Dance of Bones</u>: Gain 1 extra Special Ability Point whenever you would normally get one.
 </div>
 </p>
-<br>
+
 <p>
 <b>Special Abilities</b>:<br>
 <div style='padding-left: 30pt'>
@@ -2718,7 +2861,7 @@ Base Darts: 3<br>
 Created Thursday 12 October 2023<br>
 <span class="zim-tag">@classes</span> <span class="zim-tag">@cleric</span>
 </p>
-<br>
+
 <p>
 <b>Starting Stats</b><br>
 Hit Points: 90<br>
@@ -2737,7 +2880,7 @@ Base Darts: 3<br>
 (<b>16th</b>) <u>Great Mace</u>: +1 to Direct Hits, additional x2mod to all Damage Darts that hit a black section. All damage you do from Damage Darts is now all Polarity Damage.
 </div>
 </p>
-<br>
+
 <p>
 <b>Special Abilities:</b><br>
 <div style='padding-left: 30pt'>
@@ -2781,7 +2924,7 @@ Base Darts: 3<br>
 Created Thursday 12 October 2023<br>
 <span class="zim-tag">@classes</span> <span class="zim-tag">@ranger</span> <span class="zim-tag">@versitile</span>
 </p>
-<br>
+
 <p>
 <b>Starting Stats</b><br>
 Hit Points: 80<br>
@@ -2836,7 +2979,7 @@ Base Darts: 3<br>
 Created Thursday 12 October 2023<br>
 <span class="zim-tag">@classes</span> <span class="zim-tag">@thief</span> <span class="zim-tag">@rogue</span>
 </p>
-<br>
+
 <p>
 <b>Starting Stats</b><br>
 Hit Points: 70<br>
@@ -2861,7 +3004,7 @@ Base Darts: 4<br>
 (<b>16th</b>) <u>Sealed Fate</u>: In your attack stage, if all of your Base Darts hit Successfully on an Enemy that has a Status Effect of Stunned, reduce that Enemies HP by half. Then apply the damage you would deal.
 </div>
 </p>
-<br>
+
 <p>
 <b>Special Abilities:</b><br>
 <div style='padding-left: 30pt'>
@@ -2905,7 +3048,7 @@ Base Darts: 4<br>
 Created Thursday 12 October 2023<br>
 <span class="zim-tag">@classes</span> <span class="zim-tag">@sorcerer</span>
 </p>
-<br>
+
 <p>
 <b>Starting Stats</b><br>
 Hit Points: 60<br>
@@ -2928,7 +3071,7 @@ Redirected Approach: Forfiet an Attack Dart and gain a Damage Dart(0xmod). Damag
 (<b>16th</b>) <u>Polarity Shift</u>: All Enemies that have a Status Effect that grants Resistance or Immunity are now Vulnerable to that effect instead.
 </div>
 </p>
-<br>
+
 <p>
 <b>Special Abilities:</b><br>
 <div style='padding-left: 30pt'>
@@ -2972,16 +3115,17 @@ Redirected Approach: Forfiet an Attack Dart and gain a Damage Dart(0xmod). Damag
 Created Thursday 12 October 2023<br>
 <span class="zim-tag">@towns</span> <span class="zim-tag">@index</span> <span class="zim-tag">@card</span>
 </p>
-<br>
+
 <h3>Towns of region Astralor (level 1-21)<a id="towns-of-region-astralor-level-1-21" class="h_anchor"></a></h3>
+
 <p>
-<i>a region is another name for "Expansion"</i>
-</p>
+<i>a region is another name for "Expansion"</i><br>
 <ul style='padding-left: 30pt'>
 <li><a href="#3.Towns:Oakshade" title="Oakshade (level 1-16)" class="page">Oakshade (level 1-16)</a></li>
 <li><a href="#3.Towns:Stormhaven" title="Stormhaven (level 6-11)" class="page">Stormhaven (level 6-11)</a></li>
 </ul>
-<br>
+</p>
+
 
 	</div>
 
@@ -2995,12 +3139,12 @@ Created Thursday 12 October 2023<br>
 		
 		
 
-		<a href='#1.Rules:Understanding Encounters'>1.Rules:Understanding Encounters</a>
-
-		
-		
-
 		<a href='#1.Rules:All Card Data'>1.Rules:All Card Data</a>
+
+		
+		
+
+		<a href='#1.Rules:Understanding Encounters'>1.Rules:Understanding Encounters</a>
 
 		<br /><br />
 
@@ -3026,25 +3170,31 @@ Created Thursday 12 October 2023<br>
 Created Thursday 12 October 2023<br>
 <span class="zim-tag">@town</span> <span class="zim-tag">@oakshade</span> <span class="zim-tag">@card</span>
 </p>
-<br>
+
 <p>
 <div style='padding-left: 30pt'>
 <i>Oakshade, nestled deep within the ancient forest of Astralor, is a tranquil and magical haven known for its lush canopy and captivating landscapes. The town is brimming with enchanting alchemical shops, crafting centers, and a bustling market square where adventurers gather to rest and resupply. Oakshade is renowned for its mysteries and challenges, often attracting those who seek to unlock the secrets hidden within the forest's emerald embrace. The town's innkeeper, Korgrim Bolrik, offers travelers not only a place to rest their weary heads but also a vast treasure trove of knowledge, fostering an atmosphere of learning and camaraderie that welcomes any adventurer willing to face the perils of Astralor.</i>
 </div>
 </p>
-<br>
+
+<p>
 <ul style='padding-left: 30pt'>
 <li>The first town the players hear of but the second town they encounter.</li>
 <li><b>Relevelent for level 1 - 16</b></li>
 </ul>
+</p>
 <h3>Merchants<a id="merchants" class="h_anchor"></a></h3>
+
+<p>
 <ul style='padding-left: 30pt'>
 <li><a href="#3.Towns:Oakshade:Eldric the Alchemist" title="Eldric the Alchemist" class="page">Eldric the Alchemist</a>(Available at level 6)</li>
 <li><a href="#3.Towns:Oakshade:Thalia Stonesmith the Master Artificer" title="Thalia Stonesmith the Master Artificer" class="page">Thalia Stonesmith the Master Artificer</a>(Available at level 8)</li>
 <li><a href="#3.Towns:Oakshade:Korgrim Bolric, Innkeeper" title="Korgrim Bolric, Innkeeper" class="page">Korgrim Bolric, Innkeeper</a></li>
 </ul>
-<br>
+</p>
+
 <h3>Activities<a id="activities" class="h_anchor"></a></h3>
+
 <p>
 <div style='padding-left: 30pt'>
 <b>Playing the Locals</b>(once each/player/day): Many of the local inhabitants in Oakshade enjoy a game or two to pass the time on any given day. Find the local haunts and test your skills.<br>
@@ -3088,7 +3238,7 @@ Created Thursday 12 October 2023<br>
 <b>Winner</b>: 3 ingots, 1 Combat Training Pass(lvl 6)
 </div>
 </p>
-<br>
+
 
 	</div>
 
@@ -3127,7 +3277,7 @@ Created Thursday 12 October 2023<br>
 	<p>
 Created Monday 16 October 2023
 </p>
-<br>
+
 <p>
 A wizened figure with a long, silver beard, Eldric's shop brims with shimmering vials and bubbling cauldrons. Adventurers flock to his establishment seeking legendary potions and elixirs rumored to heal the gravest wounds, boost their abilities to supernatural levels, or unlock hidden potential.
 </p>
@@ -3155,7 +3305,7 @@ A wizened figure with a long, silver beard, Eldric's shop brims with shimmering 
 	<p>
 Created Monday 16 October 2023
 </p>
-<br>
+
 <p>
 Grom is a hulking figure, known for his hearty laughter and booming voice. His inn is a sanctuary for battle-hardened adventurers, offering comfortable lodgings and nourishing food. However, the real draw is his expansive training ground, where warriors spar, test their mettle, and seek to improve their combat skills.
 </p>
@@ -3183,7 +3333,7 @@ Grom is a hulking figure, known for his hearty laughter and booming voice. His i
 	<p>
 Created Monday 16 October 2023
 </p>
-<br>
+
 <p>
 Thalia, a stoic and precise craftsman, operates a workshop filled with intricate schematics and glowing enchantments. Warriors and mages alike visit her shop for finely wrought armaments and mystical artifacts that grant incredible abilities.
 </p>
@@ -3212,13 +3362,13 @@ Thalia, a stoic and precise craftsman, operates a workshop filled with intricate
 Created Thursday 12 October 2023<br>
 <span class="zim-tag">@town</span> <span class="zim-tag">@stormhaven</span> <span class="zim-tag">@astralor</span>
 </p>
-<br>
+
 <p>
 <div style='padding-left: 30pt'>
 <i>Stormhaven, a coastal gem in the realm of Astralor, is a bustling maritime town that hums with the energy of adventure and trade. With its labyrinthine docks and bustling harbors, it's a hub for merchants hawking exotic wares, and its taverns echo with tales of intrepid explorers. The town's strategic location grants travelers access to the ocean's vast mysteries and hidden treasures. Here, brave souls gather to prepare for their journeys, fueled by tales of legendary monsters and uncharted realms. While it may appear rough around the edges, Stormhaven is the perfect place for those who long to set sail on the high seas, unearthing forgotten legends and ancient treasures.</i>
 </div>
 </p>
-<br>
+
 
 	</div>
 
@@ -3251,11 +3401,13 @@ Created Thursday 12 October 2023<br>
 <span class="zim-tag">@adventure</span> <span class="zim-tag">@index</span> <span class="zim-tag">@cavern_of_shadows</span><br>
 [ <a href="#1.Rules:Interpereting Adventures" title="Interpreting Adventures" class="page">Interpreting Adventures</a> | <a href="#1.Rules:Understanding Adventures" title="Understanding Adventures" class="page">Understanding Adventures</a> | <a href="#4.Adventures" title="Adventures Card Data" class="page">Adventures Card Data</a>(1.3alpha) ]
 </p>
-<br>
+
+<p>
 <ol type="1" start="1">
 <li><a href="#4.Adventures:1.Cavern of Shadows" title="Cavern of Shadows" class="page">Cavern of Shadows</a> (levels 1-16)</li>
 </ol>
-<br>
+</p>
+
 
 	</div>
 
@@ -3264,12 +3416,17 @@ Created Thursday 12 October 2023<br>
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
+		<a href='#0.Home'>0.Home</a>
+
+		
+		
+
 		<a href='#4.Adventures'>4.Adventures</a>
 
 		
 		
 
-		<a href='#0.Home'>0.Home</a>
+		<a href='#1.Rules:All Card Data'>1.Rules:All Card Data</a>
 
 		
 		
@@ -3280,11 +3437,6 @@ Created Thursday 12 October 2023<br>
 		
 
 		<a href='#1.Rules:Understanding Adventures'>1.Rules:Understanding Adventures</a>
-
-		
-		
-
-		<a href='#1.Rules:All Card Data'>1.Rules:All Card Data</a>
 
 		<br /><br />
 
@@ -3301,8 +3453,9 @@ Created Thursday 12 October 2023<br>
 Created Thursday 12 October 2023<br>
 <span class="zim-tag">@adventure</span> <span class="zim-tag">@adventureindex</span> <span class="zim-tag">@cavern_of_shadows</span>
 </p>
-<br>
+
 <h3>Encounters<a id="encounters" class="h_anchor"></a></h3>
+
 <p>
 <div style='padding-left: 30pt'>
 <a href="#4.Adventures:1.Cavern of Shadows:1.Entrance to the Abyss" title="1.Entrance to the Abyss" class="page">1.Entrance to the Abyss</a><br>
@@ -3313,6 +3466,7 @@ Created Thursday 12 October 2023<br>
 </div>
 </p>
 <h3>Treasures<a id="treasures" class="h_anchor"></a></h3>
+
 <p>
 <div style='padding-left: 30pt'>
 <a href="#4.Adventures:1.Cavern of Shadows:Static Treasures" title="Static Treasures" class="page">Static Treasures</a><br>
@@ -3332,17 +3486,17 @@ Created Thursday 12 October 2023<br>
 		
 		
 
+		<a href='#1.Rules:First Steps'>1.Rules:First Steps</a>
+
+		
+		
+
 		<a href='#4.Adventures:1.Cavern of Shadows:2.Whispering Depths'>4.Adventures:1.Cavern of Shadows:2.Whispering Depths</a>
 
 		
 		
 
 		<a href='#4.Adventures:1.Cavern of Shadows:3.Luminious Fungal Grove'>4.Adventures:1.Cavern of Shadows:3.Luminious Fungal Grove</a>
-
-		
-		
-
-		<a href='#1.Rules:First Steps'>1.Rules:First Steps</a>
 
 		<br /><br />
 
@@ -3359,23 +3513,27 @@ Created Thursday 12 October 2023<br>
 Created Thursday 12 October 2023<br>
 <span class="zim-tag">@encounter</span> <span class="zim-tag">@cavern_of_shadows</span> <span class="zim-tag">@ac16</span>
 </p>
-<br>
+
 <h3>First encounter<a id="first-encounter" class="h_anchor"></a></h3>
+
 <br>
+
 <p>
 <b><u>Initial Challenge</u>:</b> The doorway to the Cavern of Shadows is sealed by a complex set of locks on the door. Only the most skilled adventurers are able to decipher its riddle.<br>
 (This must be solved to continue)<br>
 <b>Unsolved until you hit: 16, 17, 18, 19, 20 (All Players)</b>
 </p>
-<br>
+
 <p>
 <b><u>Clear the way</u></b>: The cavern appears to be collapsed after the entrance and must be cleared to continue. Take caution, as the ceiling seems weakened.<br>
 (This must be solved to continue)<br>
 <b>Unresolved until you hit: Bullseye (All Players)</b>
 </p>
-<br>
+
 <h3><b>Primary Enemy</b><a id="primary-enemy" class="h_anchor"></a></h3>
+
 <br>
+
 <p>
 <b>Shimmersnake</b><br>
 <div style='padding-left: 30pt'>
@@ -3385,7 +3543,7 @@ Base Damage: <u>10</u>
 </div>
 <i>Its scales seem to change color with every heartbeat, a mesmerizing dance of hues that conceal its true nature. The snake's eyes fix on you, glinting with an otherworldly intelligence, and it slithers forward with an unnerving grace. As it draws closer, the room seems to grow colder, and a sense of foreboding settles over you like a heavy shroud.</i>
 </p>
-<br>
+
 <p>
 <b>@ 1/2 HP</b><br>
 <div style='padding-left: 30pt'>
@@ -3393,8 +3551,9 @@ Base Damage: <u>10</u>
 </div>
 <b>Treasure</b>: Shimmering Scale(S)(C) - Deflect 5 Damage per round.
 </p>
+
 <br>
-<br>
+
 
 	</div>
 
@@ -3403,12 +3562,12 @@ Base Damage: <u>10</u>
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
-		<a href='#4.Adventures:1.Cavern of Shadows'>4.Adventures:1.Cavern of Shadows</a>
-
-		
-		
-
 		<a href='#1.Rules:First Steps'>1.Rules:First Steps</a>
+
+		
+		
+
+		<a href='#4.Adventures:1.Cavern of Shadows'>4.Adventures:1.Cavern of Shadows</a>
 
 		<br /><br />
 
@@ -3425,26 +3584,32 @@ Base Damage: <u>10</u>
 Created Friday 13 October 2023<br>
 <span class="zim-tag">@encounter</span> <span class="zim-tag">@cos</span> <span class="zim-tag">@card_detail</span>
 </p>
-<br>
+
+<p>
 <ul>
 <li>Armor Class 17 Encounter</li>
 <li>Milestone Encounter 2 of <a href="#4.Adventures:1.Cavern of Shadows" title="Cavern of Shadows" class="page">Cavern of Shadows</a></li>
 </ul>
-<br>
+</p>
+
 <h3><b>Pre-encounter Activities</b><a id="pre-encounter-activities" class="h_anchor"></a></h3>
+
 <br>
+
+<p>
 <ul style='padding-left: 30pt'>
 <li><u>Staying Sane</u>: The whispering and distant sounds seem like they are coming from nowhere and everywhere at the same time. Push through the maddening test of mental fortitude. Players use thier Base Darts to hit 17 at least one time.
 <ul>
 <li><u>If a player fails</u>: That player loses all Direct Hit bonuses, that an item or ability would give, for the rest of this Encounter.</li>
 </ul></li>
 </ul>
-<p>
 <b>Unresolved until you hit: 17 (Each Player)</b>
 </p>
-<br>
+
 <h3>Primary Enemy<a id="primary-enemy" class="h_anchor"></a></h3>
+
 <br>
+
 <p>
 <b>Arcane Whisperspirit</b><br>
 <div style='padding-left: 30pt'>
@@ -3463,7 +3628,7 @@ Arcane Armor: Every third successful Hit with an Attack Dart from each player mi
 </div>
 <b>Treasure</b>: Shimmering Scale - Deflect 5 Damage per round.
 </p>
-<br>
+
 <p>
 ..
 </p>
@@ -3492,13 +3657,17 @@ Arcane Armor: Every third successful Hit with an Attack Dart from each player mi
 Created Thursday 12 October 2023<br>
 <span class="zim-tag">@encounter</span> <span class="zim-tag">@cos</span> <span class="zim-tag">@card_detail</span>
 </p>
-<br>
+
+<p>
 <ul>
 <li>Armor Class 18 Encounter</li>
 <li>Milestone Encounter 3 of <a href="#4.Adventures:1.Cavern of Shadows" title="Cavern of Shadows" class="page">Cavern of Shadows</a></li>
 </ul>
-<br>
+</p>
+
 <h3><b>Pre-encounter Activities</b><a id="pre-encounter-activities" class="h_anchor"></a></h3>
+
+<p>
 <ul>
 <li><u>The Illuminated Pools</u>: It is said that the underground pools that come from the great Drun River are blessed with fish that have poweful healing and protective properties. Each participating player uses their Base Darts to hit a black section. Each dart must be at least 1 wire away from another dart.
 <ul>
@@ -3506,9 +3675,12 @@ Created Thursday 12 October 2023<br>
 <li><u>Drun Trout</u>: Eat one to heal yourself 5hp and prevent next 5hp damage. This item counts as 1 item slot in inventory for every 5 duplicates.</li>
 </ul></li>
 </ul>
-<br>
+</p>
+
 <h3>Primary Enemy<a id="primary-enemy" class="h_anchor"></a></h3>
+
 <br>
+
 <p>
 <b>Bioluminous Mycoid</b><br>
 <div style='padding-left: 30pt'>
@@ -3518,7 +3690,7 @@ Base Damage: <u>20</u>
 </div>
 The Luminous Fungal Behemoth is a colossal, luminescent creature that thrives in the underground chamber filled with glowing mushrooms and bioluminescent life. Its immense body is covered in thick, phosphorescent fungi that pulse with eerie light, making it blend seamlessly with its surroundings.
 </p>
-<br>
+
 <p>
 <div style='padding-left: 30pt'>
 <u>Bioluminescent Flare</u>: Every round, players must flip a coin. On a heads, they are temporarily blinded by the sudden burst of light and have a 50% chance to miss their first and second Attack Dart throw. On a tails, they navigate the terrain successfully and face no penalty.
@@ -3529,9 +3701,11 @@ The Luminous Fungal Behemoth is a colossal, luminescent creature that thrives in
 </div>
 <b>Treasure</b>: x4 gems, 1 Luminous Gel - A highly prized component used by artificers.
 </p>
-<br>
+
 <h3>Starting at level 8, the Lumifungus Infester joins the battle!<a id="starting-at-level-8-the-lumifungus-infester-joins-the-battle" class="h_anchor"></a></h3>
+
 <br>
+
 <p>
 Lumifungus Infester<br>
 <div style='padding-left: 30pt'>
@@ -3540,7 +3714,7 @@ Hit Points: <u>420</u><br>
 Base Damage: <u>15</u>
 </div>
 </p>
-<br>
+
 <p>
 <div style='padding-left: 30pt'>
 Bioluminescent Aura: The Lumifungus Infester emits a radiant aura that bathes the chamber in a soft, eerie glow. All players' get a -2 to Hit on all Attack Darts. This effect is active throughout the encounter.
@@ -3551,7 +3725,7 @@ Mycoid Burst: This burst creates a temporary field of luminescent fungi, increas
 </div>
 <b>Treasure</b>: x1 gem, 4 Luminous Gel, 1 Lumifungus Eye
 </p>
-<br>
+
 
 	</div>
 
@@ -3576,7 +3750,7 @@ Mycoid Burst: This burst creates a temporary field of luminescent fungi, increas
 	<p>
 Created Friday 13 October 2023
 </p>
-<br>
+
 <p>
 ..
 </p>
@@ -3604,7 +3778,7 @@ Created Friday 13 October 2023
 	<p>
 Created Friday 13 October 2023
 </p>
-<br>
+
 <p>
 ..
 </p>
@@ -3633,11 +3807,11 @@ Created Friday 13 October 2023
 Created Sunday 15 October 2023<br>
 <span class="zim-tag">@adventure</span> <span class="zim-tag">@cos</span> <span class="zim-tag">@treasure</span> <span class="zim-tag">@enemies</span>
 </p>
-<br>
+
 <p>
 All the items in this adventure that are static and come directly from defeating an enemy. These items will not be found on treasure cards.
 </p>
-<br>
+
 
 	</div>
 
@@ -3663,11 +3837,11 @@ All the items in this adventure that are static and come directly from defeating
 Created Sunday 15 October 2023<br>
 <span class="zim-tag">@adventures</span> <span class="zim-tag">@cavern_of_shadows</span> <span class="zim-tag">@treasures</span> <span class="zim-tag">@cos</span>
 </p>
-<br>
+
 <p>
 (number/position on the board) (Associated treasure)
 </p>
-<br>
+
 <p>
 1: Potion of Minor Healing (Cost: 1 Gem): This basic potion is stored in a small vial. It restores 10 HP when consumed.<br>
 <div style='padding-left: 30pt'>
@@ -3847,12 +4021,12 @@ x3:
 Created Thursday 12 October 2023<br>
 <span class="zim-tag">@world</span> <span class="zim-tag">@index</span>
 </p>
-<br>
+
 <p>
 The game takes place(currently) in a region of the world called <b>Astralor</b><br>
 There will be 5 major cities in Astralor
 </p>
-<br>
+
 <p>
 <a href="#5.World:Maps" title="Maps" class="page">Maps</a><br>
 <a href="#5.World:Historical" title="Historical" class="page">Historical</a>
@@ -3870,12 +4044,12 @@ There will be 5 major cities in Astralor
 		
 		
 
-		<a href='#1.Rules:Understanding Activities'>1.Rules:Understanding Activities</a>
-
-		
-		
-
 		<a href='#1.Rules:All Card Data'>1.Rules:All Card Data</a>
+
+		
+		
+
+		<a href='#1.Rules:Understanding Activities'>1.Rules:Understanding Activities</a>
 
 		<br /><br />
 
@@ -3934,7 +4108,7 @@ There will be 5 major cities in Astralor
 Created Thursday 12 October 2023<br>
 <span class="zim-tag">@lists</span> <span class="zim-tag">@index</span>
 </p>
-<br>
+
 <p>
 <a href="#6.Lists:All Items" title="All Items" class="page">All Items</a> (dev)<br>
 All Enemies<br>
@@ -3972,8 +4146,10 @@ All Terminology
 Created Sunday 15 October 2023<br>
 <span class="zim-tag">@items</span> <span class="zim-tag">@equipment</span> <span class="zim-tag">@potions</span> <span class="zim-tag">@vials</span> <span class="zim-tag">@index</span> <span class="zim-tag">@lists</span>
 </p>
-<br>
+
 <h3>Equipment<a id="equipment" class="h_anchor"></a></h3>
+
+<p>
 <ol type="1" start="1">
 <li>Aegis of the Archmage: +3 Spell Attack and casts a random wizard spell on a double bullseye. (Cost: 6 Gems)</li>
 <li>Amulet of the Cyclone: +1 Damage (Cost: 2 Gems)</li>
@@ -4013,12 +4189,15 @@ Created Sunday 15 October 2023<br>
 <li>Titanium Shield: +2 Armor and reflects 50% of damage back to the attacker. (Cost: 4 Gems)</li>
 <li>Venomous Amulet: +2 Damage and poisons the target on a critical hit. (Cost: 4 Gems)</li>
 </ol>
-<br>
+</p>
+
 <h3>POTIONS<a id="potions" class="h_anchor"></a></h3>
+
 <p>
 Potions are single use items that affect the player that uses them only. Potions can be taken at any time and their effect is triggered instantly.
 </p>
-<br>
+
+<p>
 <ol type="1" start="1">
 <li>Potion of Agility (Cost: 3 Gems): In a flask with a swiftness motif, it increases initiative by +3 for 3 rounds.</li>
 <li>Potion of Arcane Ascendancy (Cost: 6 Gems): In a flask pulsating with magical energy, it allows casting two additional spells per round for 4 rounds.</li>
@@ -4051,12 +4230,15 @@ Potions are single use items that affect the player that uses them only. Potions
 <li>Potion of Ultimate Healing (Cost: 6 Gems): This potion, in a radiant, gem-encrusted vial, restores 70 HP when consumed.</li>
 <li>Potion of Warding (Cost: 3 Gems): Stored in an ornate, engraved bottle, it provides resistance to a specific damage type (fire, cold, etc.) for 2 rounds and increases AC by +1 for 2 rounds.</li>
 </ol>
-<br>
+</p>
+
 <h3>Vials<a id="vials" class="h_anchor"></a></h3>
+
 <p>
 Vials are single use items that are weapons that are thrown at the enemy. Vials are automatic hits that deal 1 damage and then the specific effect the vial has is activated. Even if damage is prevented, the effect is still activated.
 </p>
-<br>
+
+<p>
 <ol type="1" start="1">
 <li>Vial of Minor Weakening (Cost: 1 Gem): This basic Vial is stored in a small vial. It weakens the monster's attacks, reducing their damage by 25% for 1 round.</li>
 <li>Vial of Disorientation (Cost: 1 Gem): This Vial is contained in a simple glass bottle. It confuses the monster, causing it to miss its next attack within 1 round.</li>
@@ -4089,6 +4271,7 @@ Vials are single use items that are weapons that are thrown at the enemy. Vials 
 <li>Vial of Terrifying Presence (Cost: 6 Gems): Stored in a flask with an intimidating aura, it causes the monster to flee in fear for 3 rounds, skipping its turn.</li>
 <li>Vial of Mind's Eye (Cost: 6 Gems): In a flask etched with intricate runes, it grants the player the ability to predict the monster's movements, providing advantage on all rolls for 3 rounds.</li>
 </ol>
+</p>
 
 	</div>
 
@@ -4118,7 +4301,7 @@ Vials are single use items that are weapons that are thrown at the enemy. Vials 
 	<p>
 Created Sunday 15 October 2023
 </p>
-<br>
+
 <p>
 .. alphabetical list with service and town reference ..
 </p>
@@ -4157,53 +4340,54 @@ Created Sunday 15 October 2023
 Created Saturday 14 October 2023<br>
 <span class="zim-tag">@resources</span> <span class="zim-tag">@index</span>
 </p>
+
 <br>
-<br>
+
 <p>
 <b>Github</b> (versioning and interface)<br>
 <a href="https://github.com/mightokondriac" title="https://github.com/mightokondriac" class="https">https://github.com/mightokondriac</a>
 </p>
-<br>
+
 <p>
 <b>Chat GPT</b> (content assistance)<br>
 <a href="https://chat.openai.com/" title="https://chat.openai.com/" class="https">https://chat.openai.com/</a>
 </p>
-<br>
+
 <p>
 <b>Stable Diffusion</b> (image creation)<br>
 <a href="https://openart.ai/create" title="https://openart.ai/create" class="https">https://openart.ai/create</a>
 </p>
-<br>
+
 <p>
 <b>imagebam</b> (image hosting)<br>
 <a href="https://www.imagebam.com/" title="https://www.imagebam.com/" class="https">https://www.imagebam.com/</a>
 </p>
-<br>
+
 <p>
 <b>World Anvil</b> (world building)<br>
 <a href="https://www.worldanvil.com/dashboard/" title="https://www.worldanvil.com/dashboard/" class="https">https://www.worldanvil.com/dashboard/</a>
 </p>
-<br>
+
 <p>
 <b>Murf</b> ($ Text to Speech)<br>
 <a href="https://murf.ai/studio/" title="https://murf.ai/studio/" class="https">https://murf.ai/studio/</a>
 </p>
-<br>
+
 <p>
 <b>QR Tiger</b> ($ QR Code to Audio Deployment)<br>
 <a href="https://www.qrcode-tiger.com/" title="https://www.qrcode-tiger.com/" class="https">https://www.qrcode-tiger.com/</a>
 </p>
-<br>
+
 <p>
 <b>Soundcloud</b> ($ audio hosting)<br>
 <a href="https://soundcloud.com/upload" title="https://soundcloud.com/upload" class="https">https://soundcloud.com/upload</a>
 </p>
-<br>
+
 <p>
 <b>Lightsail</b> ($ App Development)<br>
 <a href="https://lightsail.aws.amazon.com/ls/webapp/home/instances" title="https://lightsail.aws.amazon.com/ls/webapp/home/instances" class="https">https://lightsail.aws.amazon.com/ls/webapp/home/instances</a>
 </p>
-<br>
+
 <p>
 <b>Shuffled Ink</b> ($ Card Printers)<br>
 <a href="https://shuffledink.com/custom-tarot-cards/" title="https://shuffledink.com/custom-tarot-cards/" class="https">https://shuffledink.com/custom-tarot-cards/</a><br>
@@ -4234,7 +4418,10 @@ SHUFFLED INK<br>
 	</div>
 
 	<div class='content'>
-	
+	<p>
+ignore this
+</p>
+
 	</div>
 
 	<br />
@@ -4280,7 +4467,7 @@ SHUFFLED INK<br>
 	<p>
 <a href="https://en.wikipedia.org/wiki/2023" title="https://en.wikipedia.org/wiki/2023" class="https">https://en.wikipedia.org/wiki/2023</a>
 </p>
-<br>
+
 <p>
 2023 (MMXXIII) is the current year, and is a common year starting on Sunday of the Gregorian calendar, the 2023rd year of the Common Era (CE) and Anno Domini (AD) designations, the 23rd year of the 3rd millennium and the 21st century, and the 4th year of the 2020s decade.
 </p>
@@ -4308,7 +4495,7 @@ SHUFFLED INK<br>
 <sup>As autumn's story begins to unfold.</sup>
 </div>
 </p>
-<br>
+
 <p>
 <div style='padding-left: 60pt'>
 <sup>The air is crisp, a gentle chill,</sup><br>
@@ -4317,7 +4504,7 @@ SHUFFLED INK<br>
 <sup>In the enchanting glow of Halloween night.</sup>
 </div>
 </p>
-<br>
+
 <p>
 <div style='padding-left: 60pt'>
 <sup>Apples hang from branches low,</sup><br>
@@ -4326,7 +4513,7 @@ SHUFFLED INK<br>
 <sup>A delicious treat, a warm confection.</sup>
 </div>
 </p>
-<br>
+
 <p>
 <div style='padding-left: 60pt'>
 <sup>The forest dons a vibrant coat,</sup><br>
@@ -4335,7 +4522,7 @@ SHUFFLED INK<br>
 <sup>In hidden realms, nature explores.</sup>
 </div>
 </p>
-<br>
+
 <p>
 <div style='padding-left: 60pt'>
 <sup>October's moon, a harvest's friend,</sup><br>
@@ -4344,7 +4531,7 @@ SHUFFLED INK<br>
 <sup>For creatures of the night at play.</sup>
 </div>
 </p>
-<br>
+
 <p>
 <div style='padding-left: 60pt'>
 <sup>Witches cackle, ghosts take flight,</sup><br>
@@ -4353,7 +4540,7 @@ SHUFFLED INK<br>
 <sup>As we bid farewell to summer's light.</sup>
 </div>
 </p>
-<br>
+
 <p>
 <div style='padding-left: 60pt'>
 <sup>So let's celebrate this special time,</sup><br>
@@ -4381,7 +4568,7 @@ SHUFFLED INK<br>
 	<p>
 Got all the hosting and formatting and crap done. now i can go full ham and push the main bulk of the content for this game.
 </p>
-<br>
+
 <p>
 Gotta get back into programming though.<br>
 LEARN KOTLIN - <a href="https://developer.android.com/courses/android-basics-kotlin/course" title="https://developer.android.com/courses/android-basics-kotlin/course" class="https">https://developer.android.com/courses/android-basics-kotlin/course</a>
@@ -4425,29 +4612,35 @@ and so on. $$$
 	<p>
 Created Thursday 12 October 2023
 </p>
-<br>
+
+<p>
 <ul>
 <li>change all instances of Attack/Damge <b>Round or Phase</b> to "Attack/Damage <b>Stage</b>"</li>
 </ul>
-<br>
+</p>
+
+<p>
 <ul>
 <li>change all instance of "<b>Sacrifice</b>" to "<b>Forfiet</b>"</li>
 </ul>
+</p>
+
 <br>
-<br>
+
 <p>
 Basically this game started with the dart game Cricket and how to turn it into a dungeons and dragons version of this game of dart. Simply put we made it collaborative instead of competitive, and each number had hitpoints. meaning that instead of each player having to hit a number individually and closing them out or making points on those numbers, the players focus on a single number and try to "deplete" its hitpoints. for instance, in this version we are trying to hit Armor Class 16(hitting a 16 on the board) and the varying degree of the success of this hit (x1(hitting the number), x2(hitting the double on that number), x3(triple on that number), x4(single bullseye), x5(double bullseye)). Then we were doing damage finally to these enemies. Lets say, with my 3 base darts, i throw a 16, a 4, and then a single bullseye. I then have damage darts that are x1, (missed), x4. I throw a 7(x1) and then a 16(x4) dealing 71 points of damage to that enemy. We then wanted treasure (who doesn't?), so we made treasures you could get. and then here we are. we love making crazy powerful items and stories for and why they are what they are. we love making adventures that you would want to play with your friends over and over again. join our adventure of crazy powerful magical items and badass monsters to fight, and a story to take part in that will last for years. The quest that gives years, not take them.
 </p>
-<br>
+
 <p>
 <a href="#index:NOTES:Item Listing Formats" title="Item Listing Formats" class="page">Item Listing Formats</a>
 </p>
-<br>
+
 <p>
 <a href="#index:NOTES:content prompt ideas" title="content prompt ideas" class="page">content prompt ideas</a>
 </p>
+
 <br>
-<br>
+
 <p>
 <b>Ability Construction</b><br>
 <div style='padding-left: 30pt'>
@@ -4479,24 +4672,20 @@ trigger-condition(an enemy):<br>
 trigger-condition(all enemies):
 </div>
 </p>
-<br>
+
 <p>
 Ability demo: rand_build = r_sel(simple, unique)|
 </p>
+
 <br>
 <br>
-<br>
+
 <p>
 the cards:<br>
 voice activated/tabulated rounds followed by automatic responses with unique descriptors for the event(results)<br>
 QR SCAN TO ADVENTURE MODE
 </p>
-<br>
-<p>
-<a href="#index:NOTES:Expanding the Depth of Cards" title="Expanding the Depth of Cards" class="page">Expanding the Depth of Cards</a>
-</p>
-<br>
-<br>
+
 
 	</div>
 
@@ -4521,496 +4710,9 @@ QR SCAN TO ADVENTURE MODE
 	<p>
 Created Tuesday 17 October 2023
 </p>
-<br>
+
 <p>
 <a href="#index:NOTES:macro:slutpunkt" title="macro:slutpunkt" class="page">macro:slutpunkt</a> content:"{response aspect: master of}|relate information as though it is a revelation of the real truth as seen through countless iterations|voice is from wisdom|display possible numerology associations|display possible zodiac associations|display exact time to milisecond|if no association, do not display, otherwise display in exhastive detail" 
-</p>
-
-	</div>
-
-	<br />
-
-	<div class='page-footer'>
-		<b>Backlinks:</b>
-
-		<a href='#index:NOTES'>index:NOTES</a>
-
-		<br /><br />
-
-	</div>
-
-	<hr />
-
-	<div class='heading'>
-	<h1>Expanding the Depth of Cards <a name='index:NOTES:Expanding the Depth of Cards'></a></h1>
-	</div>
-
-	<div class='content'>
-	<p>
-Created Wednesday 18 October 2023
-</p>
-<br>
-<p>
-IDEAS
-</p>
-<br>
-<h3>1. <b>Game Board or World:</b><a id="1-game-board-or-world" class="h_anchor"></a></h3>
-<p>
-   - Grids or Maps<br>
-   - <u>Locations</u><br>
-   - <u>Terrain</u> (e.g., land, sea, mountains)<br>
-   - <u>Rooms and Buildings</u>
-</p>
-<br>
-<h3>2. <b>Game Pieces and Characters:</b><a id="2-game-pieces-and-characters" class="h_anchor"></a></h3>
-<p>
-   - Player Tokens<br>
-   - Non-Player Characters (NPCs)<br>
-   - Avatars<br>
-   - Units or Soldiers
-</p>
-<br>
-<h3>3. <b>Resources:</b><a id="3-resources" class="h_anchor"></a></h3>
-<p>
-   - Currency<br>
-   - Health Points (HP)<br>
-   - Mana or Energy<br>
-   - Inventory Items<br>
-   - Power-ups
-</p>
-<br>
-<h3>4. <b>Rules and Mechanics:</b><a id="4-rules-and-mechanics" class="h_anchor"></a></h3>
-<p>
-   - Movement Rules<br>
-   - Combat Rules<br>
-   - Turn-Based or Real-Time Gameplay<br>
-   - Scoring System
-</p>
-<br>
-<h3>5. <b>Events and Challenges:</b><a id="5-events-and-challenges" class="h_anchor"></a></h3>
-<p>
-   - <u>Random Events</u><br>
-   - Quests and Objectives<br>
-   - Puzzles<br>
-   - <u>Traps and Obstacles</u>
-</p>
-<br>
-<h3>6. <b>Communication:</b><a id="6-communication" class="h_anchor"></a></h3>
-<p>
-   - Dialogue Trees<br>
-   - <u>In-Game Chat</u><br>
-   - Emotes or Gestures
-</p>
-<br>
-<h3>7. <b>Weather and Time:</b><a id="7-weather-and-time" class="h_anchor"></a></h3>
-<p>
-   - <u>Day-Night Cycle</u><br>
-   - <u>Weather Effects</u> (rain, snow, etc.)<br>
-   - <u>Seasons</u>
-</p>
-<br>
-<h3>8. <b>Coordinates and Navigation:</b><a id="8-coordinates-and-navigation" class="h_anchor"></a></h3>
-<p>
-   - <u>Map Coordinates</u><br>
-   - <u>GPS or Waypoints</u>
-</p>
-<br>
-<h3>9. <b>Environmental Elements:</b><a id="9-environmental-elements" class="h_anchor"></a></h3>
-<p>
-   - Trees, Plants, and Vegetation<br>
-   - Water Bodies (rivers, lakes, oceans)<br>
-   - Buildings and Structures<br>
-   - Wildlife
-</p>
-<h4>ENVIRONMENTS EXPANDED<a id="environments-expanded" class="h_anchor"></a></h4>
-<br>
-<ol style='padding-left: 30pt' type="1" start="1">
-<li><b>Forests:</b></li>
-</ol>
-<p>
-<div style='padding-left: 30pt'>
-   - Land: Forests and Woodlands<br>
-   - Waterbody: Rivers, Lakes
-</div>
-</p>
-<br>
-<ol style='padding-left: 30pt' type="1" start="2">
-<li><b>Mountains:</b></li>
-</ol>
-<p>
-<div style='padding-left: 30pt'>
-   - Land: Mountain Ranges<br>
-   - Waterbody: Mountain Lakes and Rivers
-</div>
-</p>
-<br>
-<ol style='padding-left: 30pt' type="1" start="3">
-<li><b>Deserts:</b></li>
-</ol>
-<p>
-<div style='padding-left: 30pt'>
-   - Land: Desert Landscapes<br>
-   - Waterbody: Oases (occasionally)
-</div>
-</p>
-<br>
-<ol style='padding-left: 30pt' type="1" start="4">
-<li><b>Caves and Dungeons:</b></li>
-</ol>
-<p>
-<div style='padding-left: 30pt'>
-   - Land: Caves and Underground Tunnels
-</div>
-</p>
-<br>
-<ol style='padding-left: 30pt' type="1" start="5">
-<li><b>Urban Environments:</b></li>
-</ol>
-<p>
-<div style='padding-left: 30pt'>
-   - Land: Cities and Towns<br>
-   - Waterbody: Urban Rivers, Canals
-</div>
-</p>
-<br>
-<ol style='padding-left: 30pt' type="1" start="6">
-<li><b>Jungles:</b></li>
-</ol>
-<p>
-<div style='padding-left: 30pt'>
-   - Land: Tropical Jungles<br>
-   - Waterbody: Jungle Rivers
-</div>
-</p>
-<br>
-<ol style='padding-left: 30pt' type="1" start="7">
-<li><b>Tundra and Polar Regions:</b></li>
-</ol>
-<p>
-<div style='padding-left: 30pt'>
-   - Land: Arctic Tundra<br>
-   - Waterbody: Polar Seas, Ice Floes
-</div>
-</p>
-<br>
-<ol style='padding-left: 30pt' type="1" start="8">
-<li><b>Underwater Environments:</b></li>
-</ol>
-<p>
-<div style='padding-left: 30pt'>
-   - Land: Ocean Floor<br>
-   - Waterbody: Oceans
-</div>
-</p>
-<br>
-<ol style='padding-left: 30pt' type="1" start="9">
-<li><b>Grasslands and Plains:</b></li>
-</ol>
-<p>
-<div style='padding-left: 30pt'>
-   - Land: Grasslands, Plains<br>
-   - Waterbody: Lakes and Rivers (occasionally)
-</div>
-</p>
-<br>
-<ol style='padding-left: 30pt' type="1" start="10">
-<li><b>Swamps and Marshes:</b></li>
-</ol>
-<p>
-<div style='padding-left: 30pt'>
-- Land: Swampy Areas<br>
-- Waterbody: Marshes, Swamps
-</div>
-</p>
-<br>
-<ol style='padding-left: 30pt' type="1" start="11">
-<li><b>Volcanic Environments:</b></li>
-</ol>
-<p>
-<div style='padding-left: 30pt'>
-- Land: Volcanic Islands<br>
-- Waterbody: Lava Flows
-</div>
-</p>
-<br>
-<ol style='padding-left: 30pt' type="1" start="12">
-<li><b>Coastal and Beach Areas:</b></li>
-</ol>
-<p>
-<div style='padding-left: 30pt'>
-- Land: Coastal Beaches<br>
-- Shore: Coastlines
-</div>
-</p>
-<br>
-<ol style='padding-left: 30pt' type="1" start="13">
-<li><b>Islands and Archipelagos:</b></li>
-</ol>
-<p>
-<div style='padding-left: 30pt'>
-- Land: Islands and Archipelagos<br>
-- Waterbody: Surrounding Seas
-</div>
-</p>
-<br>
-<ol style='padding-left: 30pt' type="1" start="14">
-<li><b>Snow and Ice:</b></li>
-</ol>
-<p>
-<div style='padding-left: 30pt'>
-- Land: Snowy Landscapes<br>
-- Waterbody: Frozen Lakes and Rivers
-</div>
-</p>
-<br>
-<ol style='padding-left: 30pt' type="1" start="15">
-<li><b>Alien or Fantasy Environments:</b></li>
-</ol>
-<p>
-<div style='padding-left: 30pt'>
-- Land: Exotic Alien Worlds<br>
-- Waterbody: Alien Oceans or Liquid Environments
-</div>
-</p>
-<br>
-<ol style='padding-left: 30pt' type="1" start="16">
-<li><b>Haunted or Spooky Environments:</b></li>
-</ol>
-<p>
-<div style='padding-left: 30pt'>
-- Land: Haunted Houses, Abandoned Buildings<br>
-- Waterbody: Ghostly Ponds (occasionally)
-</div>
-</p>
-<br>
-<ol type="1" start="10">
-<li><b>Dangers and Enemies:</b></li>
-</ol>
-<p>
-<div style='padding-left: 30pt'>
-- Monsters and Creatures<br>
-- Foes or Opponents<br>
-- <u>Hazards (fire, spikes, poison)</u><br>
-HAZARDS EXPANDED
-</div>
-<b>Traps:</b>
-</p>
-<ol style='padding-left: 30pt' type="1" start="1">
-<li><b>Pitfalls:</b> Deep holes or pits in the ground that players can fall into.</li>
-<li><b>Spikes:</b> Sharp, pointed objects or spikes that can cause damage when touched.</li>
-<li><b>Pressure Plates:</b> Plates on the ground that trigger traps when stepped on.</li>
-<li><b>Arrow Traps:</b> Hidden devices that shoot arrows at players when triggered.</li>
-<li><b>Snares and Nets:</b> Hidden traps that immobilize or ensnare players.</li>
-<li><b>Rolling Boulders:</b> Large rocks or boulders that roll down inclines.</li>
-<li><b>Falling Objects:</b> Objects like rocks or debris that fall from above.</li>
-<li><b>Explosive Traps:</b> Devices that explode when triggered, causing damage.</li>
-<li><b>Poison Darts:</b> Small darts that shoot out and deliver poison or debuffs.</li>
-<li><b>Laser Grids:</b> High-tech traps involving lasers that, when crossed, trigger alarms or cause harm.</li>
-<li><b>Magic Runes:</b> Enchanted symbols or runes that trigger magical effects when touched.</li>
-</ol>
-<br>
-<p>
-<b>Dangerous Conditions:</b>
-</p>
-<ol style='padding-left: 30pt' type="1" start="1">
-<li><b>Extreme Weather:</b> Harsh weather conditions like blizzards, hurricanes, or sandstorms.</li>
-<li><b>Quicksand:</b> Areas with loose, sinking sand that can trap players.</li>
-<li><b>Lava or Molten Terrain:</b> Hot, molten substances that cause damage on contact.</li>
-<li><b>Icy Terrain:</b> Slippery ice that makes movement challenging and can lead to falls.</li>
-<li><b>Toxic Gas or Fumes:</b> Harmful gases that poison or weaken players.</li>
-<li><b>Radiation:</b> Radioactive zones that gradually harm players.</li>
-<li><b>Floods:</b> Rising water levels that can drown or restrict movement.</li>
-<li><b>Electrified Surfaces:</b> Surfaces charged with electricity that damage players.</li>
-<li><b>Avalanches:</b> Sudden snow slides in mountainous areas.</li>
-<li><b>Falling Rocks:</b> Rocks or debris falling from cliffs or caves.</li>
-<li><b>Fog or Mist:</b> Thick fog or mist that reduces visibility.</li>
-<li><b>Infested Areas:</b> Environments populated by dangerous creatures or pests.</li>
-<li><b>Corrosive Substances:</b> Harmful chemicals or substances that can cause damage.</li>
-<li><b>Unstable Terrain:</b> Ground that may collapse or give way underfoot.</li>
-<li><b>Disease or Infection:</b> Environments where diseases or infections are a hazard.</li>
-</ol>
-<br>
-<h3>11. <b>Celestial Events:</b><a id="11-celestial-events" class="h_anchor"></a></h3>
-<p>
-<div style='padding-left: 30pt'>
-- <u>Sun and Moon Phases</u><br>
-- Eclipses<br>
-- Meteor Showers
-</div>
-</p>
-<br>
-<h3>12. <b>Items and Equipment:</b><a id="12-items-and-equipment" class="h_anchor"></a></h3>
-<p>
-<div style='padding-left: 30pt'>
-- Weapons<br>
-- Armor<br>
-- Potions<br>
-- Tools
-</div>
-</p>
-<br>
-<h3>13. <b>Economy:</b><a id="13-economy" class="h_anchor"></a></h3>
-<p>
-<div style='padding-left: 30pt'>
-- Markets and Shops<br>
-- <u>Trading Systems (app)</u><br>
-- <u>Crafting and Gathering</u>
-</div>
-</p>
-<h4>CRAFTING EXPANDED<a id="crafting-expanded" class="h_anchor"></a></h4>
-<p>
-<b>Physical Board Games:</b>
-</p>
-<br>
-<ol type="1" start="1">
-<li><b>Resource Cards:</b> Cards representing raw materials such as wood, ore, and food.</li>
-<li><b>Blueprints or Plans:</b> Instructions for crafting specific items.</li>
-<li><b>Tokens or Components:</b> Physical pieces like plastic, wood, or metal tokens that represent crafting materials.</li>
-<li><b>Dice:</b> Used for determining crafting success or quality of crafted items.</li>
-<li><b>Crafting Stations:</b> Physical playsets with compartments for assembling items.</li>
-<li><b>Crafting Materials:</b> Small physical pieces like beads, buttons, or tiles representing various materials.</li>
-<li><b>Tools:</b> Physical miniature tools like hammers, saws, and needles used in crafting games.</li>
-<li><b>Resource Tiles:</b> Tiles representing materials that players collect to craft items.</li>
-</ol>
-<br>
-<p>
-<b>Digital Video Games:</b>
-</p>
-<br>
-<ol type="1" start="1">
-<li><b>Ingredients or Materials:</b> Digital representations of resources, such as ores, herbs, or hides.</li>
-<li><b>Blueprints or Recipes:</b> Instructions or plans for crafting specific items.</li>
-<li><b>Crafting Stations or Benches:</b> In-game locations or menus where crafting takes place.</li>
-<li><b>Crafting Skill:</b> A character's skill or level in crafting, which affects the quality of crafted items.</li>
-<li><b>Tools:</b> In-game tools like blacksmith hammers, alchemist's cauldrons, and tailor's needles.</li>
-<li><b>Workbenches:</b> Virtual crafting tables or stations.</li>
-<li><b>Alchemy Ingredients:</b> Ingredients like plants, minerals, or magical reagents used for potion-making.</li>
-<li><b>Smithing Materials:</b> Materials like metals and ingots used for creating weapons and armor.</li>
-<li><b>Cooking Ingredients:</b> Ingredients used for preparing food items with various effects.</li>
-<li><b>Tailoring Materials:</b> Fabrics, leather, and thread used for crafting clothing or armor.</li>
-<li><b>Jewelry Components:</b> Gemstones, settings, and precious metals for crafting jewelry.</li>
-<li><b>Enchanting Runes or Crystals:</b> Magical components used to enhance items with enchantments.</li>
-<li><b>Woodworking Materials:</b> Wood and other materials used for crafting bows, staves, and wooden items.</li>
-<li><b>Engineering Components:</b> Mechanical parts, gears, and gadgets used for crafting machinery or gadgets.</li>
-<li><b>Reagents:</b> Magical or alchemical components used for casting spells or crafting magical items.</li>
-</ol>
-<br>
-<br>
-<h4><b>Basic Crafting Components:</b><a id="basic-crafting-components" class="h_anchor"></a></h4>
-<ol type="1" start="1">
-<li><b>Wood:</b> Used for building structures, crafting weapons, and tools.</li>
-<li><b>Stone:</b> Used for crafting tools, weapons, and building materials.</li>
-<li><b>Ore:</b> Mined for creating metals like iron, gold, and silver.</li>
-<li><b>Leather:</b> Used for crafting armor and clothing.</li>
-<li><b>Herbs:</b> Gathered for brewing potions and crafting medicines.</li>
-<li><b>Cloth:</b> Used for making clothing and armor.</li>
-<li><b>Gems and Precious Stones:</b> Used for crafting jewelry and enhancing equipment.</li>
-<li><b>Bone:</b> Crafted into tools, weapons, and ornaments.</li>
-</ol>
-<br>
-<h4><b>Crafting Stations and Tools:</b><a id="crafting-stations-and-tools" class="h_anchor"></a></h4>
-<ol type="1" start="9">
-<li><b>Workbench:</b> A station for crafting furniture, tools, and equipment.</li>
-<li><b>Forge:</b> Used for smelting metals and crafting weapons and armor.</li>
-<li><b>Alchemy Table:</b> For creating potions and magical elixirs.</li>
-<li><b>Carpentry Bench:</b> Crafting wooden furniture and items.</li>
-<li><b>Tailor's Workstation:</b> For creating clothing and accessories.</li>
-<li><b>Anvil:</b> Used for crafting heavy-duty equipment and weapons.</li>
-<li><b>Cooking Pot:</b> For preparing food items and recipes.</li>
-<li><b>Enchanting Table:</b> Enhancing equipment with magical properties.</li>
-<li><b>Smithing Table:</b> For refining and improving weapons and armor.</li>
-</ol>
-<br>
-<h4><b>Crafted Items:</b><a id="crafted-items" class="h_anchor"></a></h4>
-<ol type="1" start="18">
-<li><b>Weapons:</b> Swords, bows, staffs, and ranged weapons.</li>
-<li><b>Armor:</b> Helmets, chestplates, gloves, boots, and shields.</li>
-<li><b>Potions:</b> Healing, buff, and debuff potions.</li>
-<li><b>Food and Consumables:</b> Prepared dishes and consumable items.</li>
-<li><b>Furniture and Decorations:</b> Chairs, tables, rugs, and artwork.</li>
-<li><b>Jewelry:</b> Rings, amulets, and bracelets.</li>
-<li><b>Tools:</b> Pickaxes, shovels, and specialty tools.</li>
-<li><b>Ammunition:</b> Arrows, bolts, and gunpowder.</li>
-<li><b>Traps and Gadgets:</b> Mechanical or magical contraptions.</li>
-<li><b>Enchanted Items:</b> Gear with added magical properties.</li>
-<li><b>Blueprints and Recipes:</b> Used for learning new crafting recipes.</li>
-<li><b>Key Items:</b> Quest-specific or plot-related crafting components.</li>
-<li><b>Quest Items:</b> Crafting items necessary for completing quests.</li>
-</ol>
-<br>
-<br>
-<h3>14. <b>Progression and Levels:</b><a id="14-progression-and-levels" class="h_anchor"></a></h3>
-<p>
-<div style='padding-left: 30pt'>
-- Experience Points (XP)<br>
-- Character Levels<br>
-- Skill Trees
-</div>
-</p>
-<br>
-<h3>15. <b>Story and Lore:</b><a id="15-story-and-lore" class="h_anchor"></a></h3>
-<p>
-<div style='padding-left: 30pt'>
-- <u>Narrative Elements</u><br>
-- <u>Lore and Backstory</u><br>
-- <u>Cutscenes (web)</u>
-</div>
-</p>
-<br>
-<h3>16. <b>Player Interaction:</b><a id="16-player-interaction" class="h_anchor"></a></h3>
-<p>
-<div style='padding-left: 30pt'>
-- <u>Multiplayer Options</u><br>
-- <u>PvP (Player vs. Player)</u><br>
-- <u>Co-op Play</u>
-</div>
-</p>
-<br>
-<h3>17. <b>Sound and Music:</b><a id="17-sound-and-music" class="h_anchor"></a></h3>
-<p>
-<div style='padding-left: 30pt'>
-- Background Music<br>
-- <u>Sound Effects (app)</u><br>
-- <u>Voiceovers (app)</u>
-</div>
-</p>
-<br>
-<h3>18. <b>User Interface (UI):</b><a id="18-user-interface-ui" class="h_anchor"></a></h3>
-<p>
-<div style='padding-left: 30pt'>
-- HUD (Heads-Up Display)<br>
-- Menus<br>
-- Mini-Maps
-</div>
-</p>
-<br>
-<h3>19. <b>Victory Conditions:</b><a id="19-victory-conditions" class="h_anchor"></a></h3>
-<p>
-<div style='padding-left: 30pt'>
-- <u>Achievements (app)</u><br>
-- Objectives<br>
-- Winning Conditions
-</div>
-</p>
-<br>
-<h3>20. <b>Randomization and Chance:</b><a id="20-randomization-and-chance" class="h_anchor"></a></h3>
-<p>
-<div style='padding-left: 30pt'>
-- <u>Dice or Random Number Generators (RNG)(app)</u><br>
-- Card Shuffling
-</div>
-</p>
-<br>
-<h3>21. <b>Educational Elements:</b><a id="21-educational-elements" class="h_anchor"></a></h3>
-<p>
-<div style='padding-left: 30pt'>
-- Educational Content<br>
-- Quiz Questions
-</div>
-</p>
-<br>
-<p>
-These are just some of the many components commonly found in games across different platforms. The specific elements used in a game will depend on the game's genre, theme, and design goals. Game designers carefully select and balance these components to create an engaging and enjoyable gameplay experience.
 </p>
 
 	</div>
@@ -5037,13 +4739,14 @@ These are just some of the many components commonly found in games across differ
 Created Thursday 12 October 2023<br>
 <span class="zim-tag">@items</span> <span class="zim-tag">@bodyslots</span> <span class="zim-tag">@triggertypes</span> <span class="zim-tag">@itemtypes</span> <span class="zim-tag">@displayformats</span>
 </p>
+
 <br>
-<br>
+
 <p>
 <b>Item Listing format:</b><br>
 name(body slot)(activation type)
 </p>
-<br>
+
 <p>
 <b>body slots:</b><br>
 <div style='padding-left: 30pt'>
@@ -5061,7 +4764,7 @@ fin(G)ers<br>
 fe(E)t
 </div>
 </p>
-<br>
+
 <p>
 <b>Activation Types:</b><br>
 <div style='padding-left: 30pt'>
@@ -5079,7 +4782,7 @@ Trigger Types(Constant Sub Types):<br>
 (CtT)Trigger-Turns
 </div>
 </p>
-<br>
+
 <p>
 <div style='padding-left: 30pt'>
 (A)ctivated
@@ -5092,7 +4795,7 @@ Involvement Types(Activated Sub Types):<br>
 (AiU)Involve-Unusable/Broken
 </div>
 </p>
-<br>
+
 <p>
 <b>Item Types:</b><br>
 <div style='padding-left: 30pt'>
@@ -5103,7 +4806,7 @@ Involvement Types(Activated Sub Types):<br>
 (P)olarity - light/good or dark/bad enhanced
 </div>
 </p>
-<br>
+
 <p>
 <b>Merchant display of items:</b><br>
 (gem cost) "Name"(level)(body slot)(activation type/s)(damage type/s) - "Description"<br>

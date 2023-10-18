@@ -17,20 +17,24 @@ Created Thursday 12 October 2023
 ==== Game Involvement ====
 		Begin with "First Steps," where you'll learn how to set up the game and understand card mechanics. As "The Adventure Begins," you'll explore interconnected "Adventures" and face challenging "Encounters" to level up. Advancing the campaign involves conquering non-encounter "Activities," enhancing your character through interactions with "Merchants," and utilizing "Portals" for seamless travel.
 		
+
 === Getting Started: ===
 		**[[+First Steps|First Steps]]**: Learn how to begin your game journey, from setting up the game to taking your first actions.
 		**[[+Interpereting the Cards|Interpereting the Cards]]**: Dive into the details of card interactions and gameplay mechanics as you embark on your adventure.
 		
+
 === The Adventure Begins: ===
 		**[[+Understanding Adventures|Understanding Adventures]]**: Explore a collection of interconnected encounters that make up your character's epic journey.
 		**[[+Understanding Encounters|Understanding Encounters]]**: Immerse yourself in sets of activities and face formidable enemies to gain experience and level up.
 		
+
 === Advancing the Campaign: ===
 		**[[+Understanding Towns|Understanding Towns]]**: Explore dynamic hubs that house crucial services and opportunities. Engage with characters, access vendors, and embark on hidden quests to evolve your character and acquire resources. Towns also serve as gateways to seamless portal travel, ensuring a dynamic campaign.
 		**[[+Understanding Activities|Understanding Activities]]**: Conquer non-encounter dart challenges that test your skills and strategic thinking.
 		**[[+Understanding Merchants|Understanding Merchants]]**: Acquire goods and services from various vendors to enhance your character's abilities and resources.
 		**[[+Understanding Portals|Understanding Portals]]**: Discover the integral role of portals in your travel and campaign progress, enabling you to move between different locations and challenges seamlessly.
 	
+
 ==== Game Progression: ====
 
 	 [[+Complete Turn Breakdown|The Complete Turn Breakdown]] ← 
@@ -44,27 +48,36 @@ Created Thursday 12 October 2023
 		**[[+Understanding Traveling|Understanding Traveling]]**: Explore when and how you can navigate the world of Astralor using Portals and Tunnels, allowing for strategic movement.
 		**[[+Tracking Progress|Tracking Progress]]**: Learn how to effectively keep track of the changes and developments in your character as you progress through the game. This menu provides a comprehensive and structured approach to understanding the various stages and mechanics of game progression.
 		
+
 ==== Dart Types ====
 		**[[1.Rules:Base Darts|Base Darts]]** (Resource for Strategy): Discover the fundamental currency of your gameplay - the Base Darts. These darts determine your starting resources and are recovered during the Regroup Stage, allowing you to carefully plan and strategize your every move.
 		**[[1.Rules:Attack Darts|Attack Darts]]** (Unleash Your Offense): Witness the transformation of a Base Dart into a mighty Attack Dart during the Attack Stage. These darts are your weapon of choice as you unleash your offensive prowess and aim to overcome enemies and challenges.
 		**[[1.Rules:Damage Darts|Damage Darts]]** (Turn Success into Impact): When an Attack Dart successfully hits its target, it metamorphoses into a Damage Dart, transforming your successful hits into potent blows. These darts amplify your impact, dealing substantial damage to your adversaries and paving the way to victory.
 		
+
 ==== Abilities ====
 		**[[1.Rules:Player Natural Ability|Player Natural Ability]]** (Innate Power): Unearth the unique innate powers possessed by player characters. These natural abilities are always at your disposal, enhancing your character's capabilities and allowing you to leave your mark on the world of Astralor.
 		**[[1.Rules:Player Special Ability|Player Special Ability]]** (Unique Techniques): Explore the realm of unique and specialized techniques available to players. These special abilities enable you to perform extraordinary feats, shaping your strategy and providing a distinct advantage in critical moments.
 		**[[1.Rules:Enemy Natural Ability|Enemy Natural Ability]]** (Inherent Strengths): Delve into the world of formidable foes and their inherent strengths. Enemy Natural Abilities challenge players and add depth to encounters, ensuring that every battle in Astralor presents a unique and engaging test of your skills.
 		**[[1.Rules:Enemy Triggered Ability|Enemy Triggered Ability]]** (Adaptive Threats): Face adaptive and cunning adversaries with Triggered Abilities. These enemies respond to specific conditions or events, presenting an ever-evolving challenge and requiring players to stay on their toes to emerge victorious.
 		
+
 ==== Special States ====
 		**[[1.Rules:Bounced Dart|Bounced Dart]]** (Erratic Rebound): Witness the unpredictability as your dart strikes a wire and then bounces to the ground, akin to the unpredictability of rolling a 1 in some scenarios. It's an unexpected twist that keeps the game exciting and challenges your strategic thinking.
 		**[[1.Rules:Stick and Fall|Stick and Fall]]** (Fleeting Victory, Frustrating Defeat): Experience a moment of triumph as your dart makes contact with the dartboard, only to stick for a mere instant before tumbling to the ground. While it technically hits, it doesn't always count, creating scenarios where success can be fleeting and frustration may creep in.
 		**[[1.Rules:Off Board|Off Board]]** (Aim Astray, Catastrophe Looms): Feel the tension as your dart misses the dartboard entirely. Off Board throws can spell disaster in certain circumstances, reminding you that precision is paramount and that sometimes, the cost of missing can be high in the game. 
 		
+
 ==== xMods ====
-		[[+xMod Expressions|xMod Expressions]]
+
 		
+
 ==== Status Effects ====
-		[[+Status Effects|Status Effects]]
+		Player Status Effects
+		Enemy Status Effects
+		Environment Status Effects
+		Real World Status Effects
+	[[+xMod Expressions|xMod Expressions]]
 
 		
 	
