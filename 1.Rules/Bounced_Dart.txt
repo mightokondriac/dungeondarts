@@ -4,13 +4,13 @@ Creation-Date: 2023-10-14T22:19:09-04:00
 
 ====== Bounced Dart ======
 Created Saturday 14 October 2023
-@rules @specialstates @help
+@rules @stages @attack @dart @special
 
 When a Dart fully bounces out of the dartboard(not Stick and Fall) from hitting a wire, that dart is not Recoverable until the Regroup stage on the Round after next. 
 
 ==== Bounced Darts Explanation: ====
 
-In the game, "Bounced Darts" represent darts that do not hit the dartboard properly and fully bounce out after striking a wire or other obstruction. These darts are temporarily unrecoverable until the "Regroup" stage, which occurs during the round that follows the next round. Think of it as akin to rolling a 1 on a six-sided die in Dungeons and Dragons, where a critical failure has occurred.
+In the game, "Bounced Darts" represent darts that do not hit the dartboard properly and fully bounce out after striking a wire or other obstruction. These darts are temporarily unrecoverable until the "Regroup" stage, which occurs after the end of the [[Complete Turn Breakdown|Complete Turn]]. Think of it as akin to rolling a 1 on a six-sided die in Dungeons and Dragons, where a critical failure has occurred.
 
 **Here's a breakdown of Bounced Darts and their impact**:
 

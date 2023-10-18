@@ -1,0 +1,48 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-18T15:02:07-04:00
+
+====== Enemy Triggered Ability ======
+Created Tuesday 17 October 2023
+@rules @abilities @enemy
+==== ^{Advanced} ====
+	^{abbrev: ta.e}
+	^{activation: triggered}
+	^{restrict: enemy only}
+	^{se.targetable: yes}
+
+* ^{When a condition is met(reaching a certain hp, the most common), a Triggered Ability activates. These abilities are marked with the condition on the left side of the card(See Interpereting Encounters, Understanding Enemies). For instance at 1/2 hp, the Shimmersnake has an ability that forces all players(a status effect) from then on to flip a coin on their first successful Attack Dart, if the player fails to call the flip, that Attack Dart then misses.}
+
+* ^{Status Effects can target Enemy Triggered Abilities}
+
+==== Enemy Triggered Abilities (ta.e) ====
+
+Activation: Triggered
+Restrict: Enemy Only
+Selectable Target: Yes
+
+Enemy Triggered Abilities add an intriguing layer of complexity to encounters, offering unique challenges to players. These abilities activate when specific conditions are met, such as reaching a certain hit point threshold. It's essential to be aware of these abilities, as they can significantly impact the course of battle.
+
+=== **Types of Triggers:** ===
+
+1. **Hit Points (CtH) Trigger**: The most common trigger type, activating when an enemy's hit points fall below or rise above a specified threshold.
+
+2. **Damage Delt (CtD) Trigger**: Triggered when the enemy is delt a certain amount of damage during a single Complete Turn.
+
+3. **Elemental (CtE) Trigger**: Activated based on elemental factors, such as specific elemental attacks or vulnerabilities.
+
+4. **Minion (CtM) Trigger**: Occurs when the enemy's minions are summoned, defeated, or reach a specific condition.
+
+5. **Player Death (CtP) Trigger**: Triggered when a player character dies or reaches a critical point in their health.
+
+6. **Status Effect Change (CtS) Trigger**: Activated when a specific status effect is applied to the enemy or changes during the encounter.
+
+7. **Rounds (CtR) Trigger**: These triggers are linked to the number of rounds that have passed in the encounter.
+
+8. **Turns (CtT) Trigger**: Triggered based on the total number of turns that have taken place in the encounter.
+
+=== Interpreting Triggered Abilities: ===
+(See [[Interpereting Encounters|Interpreting Encounters]])
+Triggered Abilities are indicated by a specific condition on the left side of the enemy's card. For example, when the Shimmersnake reaches half of its hit points, it activates an ability that forces all players to flip a coin on their first successful Attack Dart. If a player fails to call the flip correctly, that Attack Dart misses.
+
+Understanding and preparing for these Triggered Abilities is essential for a successful campaign. They can introduce a dynamic element to encounters, requiring players to adapt and strategize as conditions change. Be vigilant and ready to face a variety of challenges in your quest through Astralor.

@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-18T14:36:15-04:00
+
+====== Understanding the Cards ======
+Created Wednesday 18 October 2023
+@understanding @index
+[ [[Interpreting the Cards]]| [[Understanding the Cards]] | [[All Card Data]](1.3alpha) ]
+
+==== Understanding the Cards ====
+//Bolded links are the Physical Cards//
+* **[[Understanding Classes|Classes]]**
+	* Abilities
+		* [[Player Natural Ability|Player Natural Abilities]]
+		* [[Player Special Ability|Player Special Abilities]]
+	* [[Understanding Leveling|Leveling]]
+* **[[Understanding Adventures|Adventures]]**
+	* Milestones
+		* **[[Understanding Encounters|Encounters]]**
+			* [[Understanding Activities|Activities]]
+			* Enemies
+				* [[Enemy Natural Ability|Enemy Natural Abilities]]
+				* [[Enemy Triggered Ability|Enemy Triggered Abilities]]
+				* [[Complete Turn Breakdown|Complete Turns]]
+					* Special Dart States
+					* Status Effects
+			* [[Understanding Portals|Portals]]
+			* **[[Understanding Treasures|Treasures]]**
+* **[[Understanding Towns|Towns]]**
+	* [[Understanding Activities|Activities]]
+	* [[Understanding Merchants|Merchants]]
+		* [[Understanding Activities|Activities]]
+		* [[Understanding Side Quests|Side Quests]]
+	* [[Understanding Traveling|Traveling]]
+		* [[Understanding Portals|Portals]]
+		* [[Understanding Tunnels|Tunnels]]

@@ -19,7 +19,7 @@ Created Thursday 12 October 2023
 		
 === Getting Started: ===
 		**[[+First Steps|First Steps]]**: Learn how to begin your game journey, from setting up the game to taking your first actions.
-		**[[+Reading The Cards|Reading The Cards]]**: Dive into the details of card interactions and gameplay mechanics as you embark on your adventure.
+		**[[+Interpereting the Cards|Interpereting the Cards]]**: Dive into the details of card interactions and gameplay mechanics as you embark on your adventure.
 		
 === The Adventure Begins: ===
 		**[[+Understanding Adventures|Understanding Adventures]]**: Explore a collection of interconnected encounters that make up your character's epic journey.

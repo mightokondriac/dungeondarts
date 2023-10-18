@@ -4,7 +4,9 @@ Creation-Date: 2023-10-18T14:17:37-04:00
 
 ====== Understanding Classes ======
 Created Wednesday 18 October 2023
-[ [[Interpereting Classes|Interpreting Classes]] | Understanding Classes | Classes Card Data(1.3alpha) ]
+@understanding @classes
+[ [[Interpereting Classes|Interpreting Classes]] | [[Understanding Classes]] | [[2.Classes|Classes Card Data]](1.3alpha) ]
+
 ==== [[2.Classes:1.Fighter|Fighter]] ====
 	//__The primary tank of the game. Deals lots of damage and shields others.__//
 	**Description:**

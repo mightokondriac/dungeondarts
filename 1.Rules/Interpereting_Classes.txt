@@ -4,6 +4,8 @@ Creation-Date: 2023-10-18T14:15:39-04:00
 
 ====== Interpereting Classes ======
 Created Wednesday 18 October 2023
+@interpreting @classes
+[ [[Interpereting Classes|Interpreting Classes]] | [[Understanding Classes]] | [[2.Classes|Classes Card Data]](1.3alpha) ]
 
 {{.\_Cleric_325.png}}
 ==== Interpereting Class Cards ====

@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-18T14:33:54-04:00
+
+====== All Card Data ======
+Created Wednesday 18 October 2023
+@card @versions
+[ [[Interpreting the Cards]]| [[Understanding the Cards]] | [[All Card Data]](1.3alpha) ]
+
+==== Initial Release Card Data ====
+//2023.v1.3alpha//
+	* [[2.Classes|Classes]]
+	* [[4.Adventures|Adventures]]
+	* [[3.Towns|Towns]]
+	* [[4.Adventures:Encounters|Encounters]]
+	* [[4.Adventures:Treasures|Treasures]]
+	* [[5.World|World]] (Background, adventure motivations)

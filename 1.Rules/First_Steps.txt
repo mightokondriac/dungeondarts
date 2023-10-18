@@ -15,7 +15,7 @@ Created Friday 13 October 2023
 	7. **Advance and Grow**: As you defeat each enemy, level up and gain new abilities(see Leveling).
 	8. **Complete the Adventure**: Repeat steps 3 to 6 for all five encounters in the Adventure.
 	9. **Draw a new Town Card:** Transport your party to a new town(see [[Understanding Towns]], [[Interpereting Towns]]).
-	10. **Interact with merchants** who may offer activities and side quests(see [[Understanding Merchants]], [[Understanding Side Quests]]).
+	10. **Interact with merchants** who may offer activities and side quests(see [[Understanding Merchants]], [[Understanding Activities]], [[Understanding Side Quests]]).
 	11. When you are ready, **Draw the next Adventure Card**, [[Understanding Portals|portal]] **back to [[3.Towns:Oakshade|Oakshade]]**, or **replay the same Adventure** at a higher level for greater challenges and rewards.
 
 

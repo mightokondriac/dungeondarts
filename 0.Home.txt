@@ -50,30 +50,30 @@ We relish in creating adventures that you'd want to replay with your friends aga
 		* [[1.Rules:Understanding Tunnels|Tunnels]]
 
 ==== Interpereting the Cards ====
-	[[1.Rules:Interpereting Classes|Classes]]
-	[[1.Rules:Interpereting Adventures|Adventures]]
-	[[1.Rules:Interpereting Encounters|Encounters]]
-	[[1.Rules:Interpereting Treasures|Treasures]]
-	[[1.Rules:Interpereting Towns|Towns]]
+	* [[1.Rules:Interpereting Classes|Classes]]
+	* [[1.Rules:Interpereting Adventures|Adventures]]
+	* [[1.Rules:Interpereting Encounters|Encounters]]
+	* [[1.Rules:Interpereting Treasures|Treasures]]
+	* [[1.Rules:Interpereting Towns|Towns]]
 
 ==== Initial Release Card Data ====
 //2023.v1.3alpha//
-	[[2.Classes|Classes]]
-	[[4.Adventures|Adventures]]
-	[[3.Towns|Towns]]
-	[[4.Adventures:Encounters|Encounters]]
-	[[4.Adventures:Treasures|Treasures]]
-	[[5.World|World]] (Background, adventure motivations)
+	* [[2.Classes|Classes]]
+	* [[4.Adventures|Adventures]]
+	* [[3.Towns|Towns]]
+	* [[4.Adventures:Encounters|Encounters]]
+	* [[4.Adventures:Treasures|Treasures]]
+	* [[5.World|World]] (Background, adventure motivations)
 
 ==== [[6.Lists|Lists]] ====
-	[[6.Lists:All Items|All Items]]
-	All Enemies
-	[[6.Lists:All Merchants|All Merchants]]
-	All Activities
-	All Encounters
-	All Side Quests
-	All Class Abilities
-	All Enemy Abilities
-	All Terminology
+	* [[6.Lists:All Items|All Items]]
+	* All Enemies
+	* [[6.Lists:All Merchants|All Merchants]]
+	* All Activities
+	* All Encounters
+	* All Side Quests
+	* All Class Abilities
+	* All Enemy Abilities
+	* All Terminology
 
 ==== [[7.Sources and Repositories|Sources and Repositories]] ====

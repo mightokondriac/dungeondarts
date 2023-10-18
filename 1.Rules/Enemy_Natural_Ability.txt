@@ -5,13 +5,34 @@ Creation-Date: 2023-10-13T13:27:01-04:00
 ====== Enemy Natural Ability ======
 Created Friday 13 October 2023
 @rules @abilities @enemy
+==== ^{Advanced} ====
+	^{abbrev: na.e}
+	^{activation: always active}
+	^{restrict: enemy only}
+	^{se.targetable: yes}
 
-==== Advanced ====
-	abbrev: na.e
-	activation: always active
-	restrict: enemy only
-	se.targetable: yes
+* ^{The moment you start a battle with an Enemy, their abilities, that are not marked with a Trigger indicator of any type, are Natural Abilities that become active.}
 
-* The moment you start a battle with an Enemy, their abilities, that are not marked with a HP-Trigger amount, are Natural Abilities that become active.
+* ^{Status Effects can target Enemy Natural Abilities}
 
-* Status Effects can target Enemy Natural Abilities
+==== Enemy Natural Abilities (na.e) ====
+
+Activation: Always Active
+Restrict: Enemy Only
+Selectable Target: Yes
+
+Enemy Natural Abilities represent the inherent capabilities and characteristics of adversaries in your journey. These abilities are continuously active and come into play as soon as you engage in battle with an enemy. While Triggered Abilities often require specific conditions to activate, Natural Abilities are ever-present, making them a vital aspect of enemy encounters.
+
+=== Understanding Natural Abilities: ===
+
+Upon initiating combat with an enemy, you'll encounter their Natural Abilities, which are not marked with any Trigger indicator. These abilities encompass a wide range of powers and traits, from elemental resistances to innate combat tactics.
+
+**Versatile and Unpredictable:**
+
+	Natural Abilities can encompass a wide variety of effects and tactics that enemies may employ. Some enemies possess unique resistances to specific damage types, while others may have advanced movement or attack patterns. Understanding and adapting to these Natural Abilities is crucial for devising effective strategies.
+
+**Status Effects on Natural Abilities:**
+
+	Status Effects can be used strategically to target and modify an enemy's Natural Abilities. For instance, applying a debilitating status effect could temporarily weaken an enemy's innate resistances, providing an advantage to players during the encounter.
+
+As you embark on your adventures in Astralor, be prepared to face enemies with a diverse array of Natural Abilities. Learning to adapt and exploit their strengths and weaknesses will be essential for your party's success in your quest.
