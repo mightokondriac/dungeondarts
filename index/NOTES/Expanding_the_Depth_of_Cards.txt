@@ -1,0 +1,281 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-18T16:26:28-04:00
+
+====== Expanding the Depth of Cards ======
+Created Wednesday 18 October 2023
+
+IDEAS
+
+==== 1. **Game Board or World:** ====
+   - Grids or Maps
+   - __Locations__
+   - __Terrain__ (e.g., land, sea, mountains)
+   - __Rooms and Buildings__
+
+==== 2. **Game Pieces and Characters:** ====
+   - Player Tokens
+   - Non-Player Characters (NPCs)
+   - Avatars
+   - Units or Soldiers
+
+==== 3. **Resources:** ====
+   - Currency
+   - Health Points (HP)
+   - Mana or Energy
+   - Inventory Items
+   - Power-ups
+
+==== 4. **Rules and Mechanics:** ====
+   - Movement Rules
+   - Combat Rules
+   - Turn-Based or Real-Time Gameplay
+   - Scoring System
+
+==== 5. **Events and Challenges:** ====
+   - __Random Events__
+   - Quests and Objectives
+   - Puzzles
+   - __Traps and Obstacles__
+
+==== 6. **Communication:** ====
+   - Dialogue Trees
+   - __In-Game Chat__
+   - Emotes or Gestures
+
+==== 7. **Weather and Time:** ====
+   - __Day-Night Cycle__
+   - __Weather Effects__ (rain, snow, etc.)
+   - __Seasons__
+
+==== 8. **Coordinates and Navigation:** ====
+   - __Map Coordinates__
+   - __GPS or Waypoints__
+
+==== 9. **Environmental Elements:** ====
+   - Trees, Plants, and Vegetation
+   - Water Bodies (rivers, lakes, oceans)
+   - Buildings and Structures
+   - Wildlife
+=== ENVIRONMENTS EXPANDED ===
+
+	1. **Forests:**
+	   - Land: Forests and Woodlands
+	   - Waterbody: Rivers, Lakes
+
+	2. **Mountains:**
+	   - Land: Mountain Ranges
+	   - Waterbody: Mountain Lakes and Rivers
+
+	3. **Deserts:**
+	   - Land: Desert Landscapes
+	   - Waterbody: Oases (occasionally)
+
+	4. **Caves and Dungeons:**
+	   - Land: Caves and Underground Tunnels
+
+	5. **Urban Environments:**
+	   - Land: Cities and Towns
+	   - Waterbody: Urban Rivers, Canals
+
+	6. **Jungles:**
+	   - Land: Tropical Jungles
+	   - Waterbody: Jungle Rivers
+
+	7. **Tundra and Polar Regions:**
+	   - Land: Arctic Tundra
+	   - Waterbody: Polar Seas, Ice Floes
+
+	8. **Underwater Environments:**
+	   - Land: Ocean Floor
+	   - Waterbody: Oceans
+
+	9. **Grasslands and Plains:**
+	   - Land: Grasslands, Plains
+	   - Waterbody: Lakes and Rivers (occasionally)
+
+	10. **Swamps and Marshes:**
+	- Land: Swampy Areas
+	- Waterbody: Marshes, Swamps
+
+	11. **Volcanic Environments:**
+	- Land: Volcanic Islands
+	- Waterbody: Lava Flows
+
+	12. **Coastal and Beach Areas:**
+	- Land: Coastal Beaches
+	- Shore: Coastlines
+
+	13. **Islands and Archipelagos:**
+	- Land: Islands and Archipelagos
+	- Waterbody: Surrounding Seas
+
+	14. **Snow and Ice:**
+	- Land: Snowy Landscapes
+	- Waterbody: Frozen Lakes and Rivers
+
+	15. **Alien or Fantasy Environments:**
+	- Land: Exotic Alien Worlds
+	- Waterbody: Alien Oceans or Liquid Environments
+
+	16. **Haunted or Spooky Environments:**
+	- Land: Haunted Houses, Abandoned Buildings
+	- Waterbody: Ghostly Ponds (occasionally)
+
+10. **Dangers and Enemies:**
+	- Monsters and Creatures
+	- Foes or Opponents
+	- __Hazards (fire, spikes, poison)__
+	HAZARDS EXPANDED
+**Traps:**
+	1. **Pitfalls:** Deep holes or pits in the ground that players can fall into.
+	2. **Spikes:** Sharp, pointed objects or spikes that can cause damage when touched.
+	3. **Pressure Plates:** Plates on the ground that trigger traps when stepped on.
+	4. **Arrow Traps:** Hidden devices that shoot arrows at players when triggered.
+	5. **Snares and Nets:** Hidden traps that immobilize or ensnare players.
+	6. **Rolling Boulders:** Large rocks or boulders that roll down inclines.
+	7. **Falling Objects:** Objects like rocks or debris that fall from above.
+	8. **Explosive Traps:** Devices that explode when triggered, causing damage.
+	9. **Poison Darts:** Small darts that shoot out and deliver poison or debuffs.
+	10. **Laser Grids:** High-tech traps involving lasers that, when crossed, trigger alarms or cause harm.
+	11. **Magic Runes:** Enchanted symbols or runes that trigger magical effects when touched.
+
+**Dangerous Conditions:**
+	1. **Extreme Weather:** Harsh weather conditions like blizzards, hurricanes, or sandstorms.
+	2. **Quicksand:** Areas with loose, sinking sand that can trap players.
+	3. **Lava or Molten Terrain:** Hot, molten substances that cause damage on contact.
+	4. **Icy Terrain:** Slippery ice that makes movement challenging and can lead to falls.
+	5. **Toxic Gas or Fumes:** Harmful gases that poison or weaken players.
+	6. **Radiation:** Radioactive zones that gradually harm players.
+	7. **Floods:** Rising water levels that can drown or restrict movement.
+	8. **Electrified Surfaces:** Surfaces charged with electricity that damage players.
+	9. **Avalanches:** Sudden snow slides in mountainous areas.
+	10. **Falling Rocks:** Rocks or debris falling from cliffs or caves.
+	11. **Fog or Mist:** Thick fog or mist that reduces visibility.
+	12. **Infested Areas:** Environments populated by dangerous creatures or pests.
+	13. **Corrosive Substances:** Harmful chemicals or substances that can cause damage.
+	14. **Unstable Terrain:** Ground that may collapse or give way underfoot.
+	15. **Disease or Infection:** Environments where diseases or infections are a hazard.
+
+==== 11. **Celestial Events:** ====
+	- __Sun and Moon Phases__
+	- Eclipses
+	- Meteor Showers
+
+==== 12. **Items and Equipment:** ====
+	- Weapons
+	- Armor
+	- Potions
+	- Tools
+
+==== 13. **Economy:** ====
+	- Markets and Shops
+	- __Trading Systems (app)__
+	- __Crafting and Gathering__
+=== CRAFTING EXPANDED ===
+**Physical Board Games:**
+
+1. **Resource Cards:** Cards representing raw materials such as wood, ore, and food.
+2. **Blueprints or Plans:** Instructions for crafting specific items.
+3. **Tokens or Components:** Physical pieces like plastic, wood, or metal tokens that represent crafting materials.
+4. **Dice:** Used for determining crafting success or quality of crafted items.
+5. **Crafting Stations:** Physical playsets with compartments for assembling items.
+6. **Crafting Materials:** Small physical pieces like beads, buttons, or tiles representing various materials.
+7. **Tools:** Physical miniature tools like hammers, saws, and needles used in crafting games.
+8. **Resource Tiles:** Tiles representing materials that players collect to craft items.
+
+**Digital Video Games:**
+
+1. **Ingredients or Materials:** Digital representations of resources, such as ores, herbs, or hides.
+2. **Blueprints or Recipes:** Instructions or plans for crafting specific items.
+3. **Crafting Stations or Benches:** In-game locations or menus where crafting takes place.
+4. **Crafting Skill:** A character's skill or level in crafting, which affects the quality of crafted items.
+5. **Tools:** In-game tools like blacksmith hammers, alchemist's cauldrons, and tailor's needles.
+6. **Workbenches:** Virtual crafting tables or stations.
+7. **Alchemy Ingredients:** Ingredients like plants, minerals, or magical reagents used for potion-making.
+8. **Smithing Materials:** Materials like metals and ingots used for creating weapons and armor.
+9. **Cooking Ingredients:** Ingredients used for preparing food items with various effects.
+10. **Tailoring Materials:** Fabrics, leather, and thread used for crafting clothing or armor.
+11. **Jewelry Components:** Gemstones, settings, and precious metals for crafting jewelry.
+12. **Enchanting Runes or Crystals:** Magical components used to enhance items with enchantments.
+13. **Woodworking Materials:** Wood and other materials used for crafting bows, staves, and wooden items.
+14. **Engineering Components:** Mechanical parts, gears, and gadgets used for crafting machinery or gadgets.
+15. **Reagents:** Magical or alchemical components used for casting spells or crafting magical items.
+
+
+=== **Basic Crafting Components:** ===
+1. **Wood:** Used for building structures, crafting weapons, and tools.
+2. **Stone:** Used for crafting tools, weapons, and building materials.
+3. **Ore:** Mined for creating metals like iron, gold, and silver.
+4. **Leather:** Used for crafting armor and clothing.
+5. **Herbs:** Gathered for brewing potions and crafting medicines.
+6. **Cloth:** Used for making clothing and armor.
+7. **Gems and Precious Stones:** Used for crafting jewelry and enhancing equipment.
+8. **Bone:** Crafted into tools, weapons, and ornaments.
+
+=== **Crafting Stations and Tools:** ===
+9. **Workbench:** A station for crafting furniture, tools, and equipment.
+10. **Forge:** Used for smelting metals and crafting weapons and armor.
+11. **Alchemy Table:** For creating potions and magical elixirs.
+12. **Carpentry Bench:** Crafting wooden furniture and items.
+13. **Tailor's Workstation:** For creating clothing and accessories.
+14. **Anvil:** Used for crafting heavy-duty equipment and weapons.
+15. **Cooking Pot:** For preparing food items and recipes.
+16. **Enchanting Table:** Enhancing equipment with magical properties.
+17. **Smithing Table:** For refining and improving weapons and armor.
+
+=== **Crafted Items:** ===
+18. **Weapons:** Swords, bows, staffs, and ranged weapons.
+19. **Armor:** Helmets, chestplates, gloves, boots, and shields.
+20. **Potions:** Healing, buff, and debuff potions.
+21. **Food and Consumables:** Prepared dishes and consumable items.
+22. **Furniture and Decorations:** Chairs, tables, rugs, and artwork.
+23. **Jewelry:** Rings, amulets, and bracelets.
+24. **Tools:** Pickaxes, shovels, and specialty tools.
+25. **Ammunition:** Arrows, bolts, and gunpowder.
+26. **Traps and Gadgets:** Mechanical or magical contraptions.
+27. **Enchanted Items:** Gear with added magical properties.
+28. **Blueprints and Recipes:** Used for learning new crafting recipes.
+29. **Key Items:** Quest-specific or plot-related crafting components.
+30. **Quest Items:** Crafting items necessary for completing quests.
+
+
+==== 14. **Progression and Levels:** ====
+	- Experience Points (XP)
+	- Character Levels
+	- Skill Trees
+
+==== 15. **Story and Lore:** ====
+	- __Narrative Elements__
+	- __Lore and Backstory__
+	- __Cutscenes (web)__
+
+==== 16. **Player Interaction:** ====
+	- __Multiplayer Options__
+	- __PvP (Player vs. Player)__
+	- __Co-op Play__
+
+==== 17. **Sound and Music:** ====
+	- Background Music
+	- __Sound Effects (app)__
+	- __Voiceovers (app)__
+
+==== 18. **User Interface (UI):** ====
+	- HUD (Heads-Up Display)
+	- Menus
+	- Mini-Maps
+
+==== 19. **Victory Conditions:** ====
+	- __Achievements (app)__
+	- Objectives
+	- Winning Conditions
+
+==== 20. **Randomization and Chance:** ====
+	- __Dice or Random Number Generators (RNG)(app)__
+	- Card Shuffling
+
+==== 21. **Educational Elements:** ====
+	- Educational Content
+	- Quiz Questions
+
+These are just some of the many components commonly found in games across different platforms. The specific elements used in a game will depend on the game's genre, theme, and design goals. Game designers carefully select and balance these components to create an engaging and enjoyable gameplay experience.
