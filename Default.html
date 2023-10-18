@@ -1,0 +1,127 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>[% title %]</title>
+	<meta name='Generator' content='[% generator.name %]'>
+<style type='text/css'>
+  :root {
+    --primary-color: #4CAF50; /* Main green color */
+    --accent-color: #689F38; /* Accent green color */
+  }
+
+  body {
+    background-color: #F5F5F5; /* Set a light background color for the page */
+    font-family: Garamond, serif; /* Change the font to Garamond */
+    font-size: 16px; /* Increase the font size for better readability */
+    margin: 0 auto; /* Center the content horizontally with auto width */
+    padding: 20px; /* Add padding for better spacing */
+  }
+
+  a {
+    text-decoration: none;
+    color: var(--primary-color);
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+  }
+
+  a:hover, a:active {
+    text-decoration: underline;
+    background-color: var(--accent-color);
+    color: white;
+  }
+
+  h1 {
+    text-decoration: underline;
+    color: var(--primary-color);
+  }
+
+  p, ul, ol {
+    margin: 0;
+  }
+
+  span.zim-tag {
+    color: #ce5c00;
+  }
+
+  ul {
+    list-style-image: none;
+  }
+</style>
+
+
+
+
+
+</head>
+<body>
+
+[% options.empty_lines = "default" %]
+
+<!-- Header 
+<div class='header'>
+[% IF navigation.prev %]
+	[ <a href='[% uri(navigation.prev) %]'>[% gettext("Prev") %]</a> ]
+[% ELSE %]
+	[ <span class='insen'>[% gettext("Prev") %]</span> ]
+[% END %]
+
+[% IF links.get("index") %]
+	[ <a href='[% uri(links.get("index")) %]'>[% gettext("Index") %]</a> ]
+[% ELSE %]
+	[ <span class='insen'>[% gettext("Index") %]</span> ]
+[% END %]
+
+[% IF navigation.next %]
+	[ <a href='[% uri(navigation.next) %]'>[% gettext("Next") %]</a> ]
+[% ELSE %]
+	[ <span class='insen'>[% gettext("Next") %]</span> ]
+[% END %]
+</div>
+-->
+<hr />
+
+<!-- Wiki content -->
+
+<div class='pages'>
+<!--[% FOR page IN pages %]-->
+	<div class='heading'>
+	<h1>[% page.title %] <a name='[% anchor(page) %]'></a></h1>
+	</div>
+
+	<div class='content'>
+	[% page.body %]
+	</div>
+
+	<br />
+
+	<div class='page-footer'>
+	<!--[% FOR link IN page.backlinks %]-->
+		[% IF loop.first %]<b>[% gettext("Backlinks:") %]</b>[% END %]
+
+		<a href='[% uri(link) %]'>[% link.name %]</a>
+
+		[% IF loop.last %]<br /><br />[% END %]
+	<!--[% END %]-->
+
+	<!--[% FOR file IN page.attachments %]-->
+		[% IF loop.first %]
+			<b>[% gettext("Attachments:") %]</b>
+			<table>
+		[% END %]
+
+			<tr><td><a href='[% uri(file) %]'>[% file.basename %]</a></td><td>&nbsp;</td><td>[% file.size %]</td></tr>
+
+		[% IF loop.last %]
+			</table>
+		[% END %]
+	<!--[% END %]-->
+	</div>
+
+	[% IF not loop.last %]<hr />[% END %]
+
+<!--[% END %]-->
+</div>
+
+</body>
+</html>
