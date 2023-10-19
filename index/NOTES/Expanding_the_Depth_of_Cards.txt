@@ -164,67 +164,87 @@ IDEAS
 	- __Zodiac Influences__
 === ZODIAC EXPANDED ===
 
-1. **Pyrophenix (Firebird):**
-   - Theme: Passion and Rebirth.
+1. **Pyrophenix (Firebird)**
+	a. [[+Legend of the Firebird|Legend of the Firebird]]
+   - Theme: Passion and Rebirth
+   - Description: The Firebird is a magnificent and mythical bird with feathers that appear to be aflame. It has vibrant, fiery plumage in shades of red, orange, and gold. It is a large and regal bird with a graceful appearance.
 
-2. **Gloomscale (Shadowdrake):**
-   - Theme: Mystery and Secrets.
+2. **Gloomscale (Shadowdrake)**
+	a. [[+Legend of the Shadowdrake|Legend of the Shadowdrake]]
+   - Theme: Mystery and Secrets
+   - Description: The Shadowdrake is a dark and enigmatic creature. It resembles a dragon with sleek, obsidian-black scales that seem to absorb light. It has piercing, intelligent eyes and a long, sinuous body.
 
-3. **Aeroquill (Skyrider):**
-   - Theme: Freedom and Adventure.
+3. **Aeroquill (Skyrider)**
+   - Theme: Freedom and Adventure
+   - Description: The Skyrider is an elegant and airborne being, akin to a majestic winged creature. It has sleek feathers in shades of blue and white, with large wings designed for soaring through the skies.
 
-4. **Aquamara (Sirensong):**
-   - Theme: Emotions and Serenity.
+4. **Aquamara (Sirensong)**
+   - Theme: Emotions and Serenity
+   - Description: The Sirensong is a sea-dwelling creature, reminiscent of a mermaid or siren. It has long, flowing aquatic hair, iridescent scales, and enchanting eyes that captivate all who gaze upon it.
 
-5. **Terrathorn (Stoneheart):**
-   - Theme: Stability and Endurance.
+5. **Terrathorn (Stoneheart)**
+   - Theme: Stability and Endurance
+   - Description: The Stoneheart is a symbol of strength and stability. It resembles a creature with rock-like skin, sturdy limbs, and a determined expression, symbolizing its grounded and enduring nature.
 
-6. **Floralith (Blossombloom):**
-   - Theme: Growth and Harmony.
+6. **Floralith (Blossombloom)**
+   - Theme: Growth and Harmony
+   - Description: The Blossombloom is a celebration of nature's beauty and growth. It is adorned with colorful and delicate petals, representing the harmony and rejuvenation found in the natural world.
 
-7. **Lumispire (Starcaster):**
-   - Theme: Illumination and Guidance.
+7. **Lumispire (Starcaster)**
+   - Theme: Illumination and Guidance
+   - Description: The Starcaster is radiant and luminous, with a starry visage. It has a celestial glow, shimmering with the light of distant stars. Its presence is a beacon of illumination and guidance.
 
-8. **Dracoshade (Nightstalker):**
-   - Theme: Cunning and Stealth.
+8. **Dracoshade (Nightstalker)**
+   - Theme: Cunning and Stealth
+   - Description: The Nightstalker embodies the shadows and stealth. It is a dark, elusive creature with sharp, cunning eyes and a sly demeanor, often concealed within the cover of darkness.
 
-9. **Aerowind (Zephyrblade):**
-   - Theme: Swiftness and Agility.
+9. **Aerowind (Zephyrblade)**
+   - Theme: Swiftness and Agility
+   - Description: The Zephyrblade is swift and agile, resembling a being of the wind. It is light and ethereal, with airy, translucent wings that allow it to move with incredible swiftness.
 
-10. **Hydroveil (Mistweaver):**
-	- Theme: Adaptability and Resilience.
+10. **Hydroveil (Mistweaver)**
+	- Theme: Adaptability and Resilience
+	- Description: The Mistweaver is adaptable and resilient, much like a being of water. It has a fluid, ever-changing form, shrouded in mist and misty veils, representing its adaptability.
 
-11. **Geoloom (Terraforge):**
-	- Theme: Creation and Earthly Power.
+11. **Geoloom (Terraforge)**
+	- Theme: Creation and Earthly Power
+	- Description: The Terraforge is a symbol of earthly power. It appears as a sturdy figure with the essence of stone, resembling a sculptor or blacksmith, reflecting its connection to creation and the earth.
 
-12. **Botanarbor (Greenwarden):**
-	- Theme: Nature and Rejuvenation.
+12. **Botanarbor (Greenwarden)**
+	- Theme: Nature and Rejuvenation
+	- Description: The Greenwarden is a guardian of nature. It embodies lush, greenery and is often depicted with leaves and vines intertwined, symbolizing its deep connection to the natural world.
 
-13. **Luminova (Stellarglow):**
-	- Theme: Hope and Dreams.
+13. **Luminova (Stellarglow)**
+	- Theme: Hope and Dreams
+	- Description: The Stellarglow emanates hope and dreams. It has a celestial appearance with a radiant aura, akin to a dreamweaver, inspiring those who gaze upon it with visions of a bright future.
 
-14. **Umbralisk (Eclipseshadow):**
-	- Theme: Transformation and Balance.
+14. **Umbralisk (Eclipseshadow)**
+	- Theme: Transformation and Balance
+	- Description: The Eclipseshadow is a being of transformation and balance. It appears as a creature with two distinct sides, one representing light and the other shadow, symbolizing its pursuit of equilibrium.
 
-15. **Wingsoar (Skydancer):**
-	- Theme: Grace and Elegance.
+15. **Wingsoar (Skydancer)**
+	- Theme: Grace and Elegance
+	- Description: The Skydancer embodies grace and elegance. It is a being with graceful wings, moving with fluidity and charm, symbolizing the art of graceful movement and expression.
 
-16. **Coralight (Seasong):**
-	- Theme: Exploration and Mystery.
+16. **Coralight (Seasong)**
+	- Theme: Exploration and Mystery
+	- Description: The Seasong is a symbol of exploration and mystery. It appears as an aquatic entity, adorned with intricate patterns and vibrant colors, often seen as a guardian of the depths.
 
-17. **Cragheart (Earthshaper):**
-	- Theme: Resilience and Solidarity.
+17. **Cragheart (Earthshaper)**
+	- Theme: Resilience and Solidarity
+	- Description: The Earthshaper exudes resilience and solidarity. It is a stout and strong figure, resembling a guardian of the land, with features made of stone, symbolizing its solid foundation.
 
-18. **Florawisp (Blossomsong):**
-	- Theme: Beauty and Connection.
+18. **Florawisp (Blossomsong)**
+	- Theme: Beauty and Connection
+	- Description: The Blossomsong is a symbol of beauty and connection. It is adorned with delicate and colorful blossoms, representing its connection to the beauty of the natural world and its ability to forge connections.
 
-19. **Novaflare (Starblaze):**
-	- Theme: Inspiration and Radiance.
+19. **Novaflare (Starblaze)**
+	- Theme: Inspiration and Radiance
+	- Description: The Starblaze radiates inspiration and radiance. It is a being with a glowing and radiant appearance, akin to a celestial messenger, inspiring others with its radiant presence.
 
-20. **Nyxthorn (Nightthistle):**
-	- Theme: Mischief and Enchantment.
-
-	These unique zodiac names and themes can add depth and flavor to your game world, allowing players to choose or be assigned zodiac signs that resonate with their characters' traits and destinies.
+20. **Nyxthorn (Nightthistle)**
+	- Theme: Mischief and Enchantment
+	- Description: The Nightthistle is mischievous and enchanting. It appears as a creature with dark, enchanted thorns and a playful demeanor, symbolizing its affinity for mischief and enchantment.
 
 ==== 12. **Items and Equipment:** ====
 	- Weapons
