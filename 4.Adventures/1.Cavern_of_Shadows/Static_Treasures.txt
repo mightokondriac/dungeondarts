@@ -8,3 +8,5 @@ Created Sunday 15 October 2023
 
 All the items in this adventure that are static and come directly from defeating an enemy. These items will not be found on treasure cards.
 
+Shimmersnake (AC 16)
+**Treasure**: Shimmering Scale(S)(C) - Deflect 5 Damage per round.

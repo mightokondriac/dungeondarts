@@ -161,6 +161,70 @@ IDEAS
 	- __Sun and Moon Phases__
 	- Eclipses
 	- Meteor Showers
+	- __Zodiac Influences__
+=== ZODIAC EXPANDED ===
+
+1. **Pyrophenix (Firebird):**
+   - Theme: Passion and Rebirth.
+
+2. **Gloomscale (Shadowdrake):**
+   - Theme: Mystery and Secrets.
+
+3. **Aeroquill (Skyrider):**
+   - Theme: Freedom and Adventure.
+
+4. **Aquamara (Sirensong):**
+   - Theme: Emotions and Serenity.
+
+5. **Terrathorn (Stoneheart):**
+   - Theme: Stability and Endurance.
+
+6. **Floralith (Blossombloom):**
+   - Theme: Growth and Harmony.
+
+7. **Lumispire (Starcaster):**
+   - Theme: Illumination and Guidance.
+
+8. **Dracoshade (Nightstalker):**
+   - Theme: Cunning and Stealth.
+
+9. **Aerowind (Zephyrblade):**
+   - Theme: Swiftness and Agility.
+
+10. **Hydroveil (Mistweaver):**
+	- Theme: Adaptability and Resilience.
+
+11. **Geoloom (Terraforge):**
+	- Theme: Creation and Earthly Power.
+
+12. **Botanarbor (Greenwarden):**
+	- Theme: Nature and Rejuvenation.
+
+13. **Luminova (Stellarglow):**
+	- Theme: Hope and Dreams.
+
+14. **Umbralisk (Eclipseshadow):**
+	- Theme: Transformation and Balance.
+
+15. **Wingsoar (Skydancer):**
+	- Theme: Grace and Elegance.
+
+16. **Coralight (Seasong):**
+	- Theme: Exploration and Mystery.
+
+17. **Cragheart (Earthshaper):**
+	- Theme: Resilience and Solidarity.
+
+18. **Florawisp (Blossomsong):**
+	- Theme: Beauty and Connection.
+
+19. **Novaflare (Starblaze):**
+	- Theme: Inspiration and Radiance.
+
+20. **Nyxthorn (Nightthistle):**
+	- Theme: Mischief and Enchantment.
+
+	These unique zodiac names and themes can add depth and flavor to your game world, allowing players to choose or be assigned zodiac signs that resonate with their characters' traits and destinies.
 
 ==== 12. **Items and Equipment:** ====
 	- Weapons
