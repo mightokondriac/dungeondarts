@@ -7,11 +7,12 @@ Created Thursday 12 October 2023
 @classes @cleric
 
 **Starting Stats**
-Hit Points: 90
-Armor Class: 4
-Base Darts: 3
+	Hit Points: 90
+	Armor Class: 4
+	Base Darts: 3
 **Natural Abilities:**(by level achived)
-	(**1st**) __Combat Medic__: Sacrifice 1 Base Dart. Darts sacrificed this way can be used in the damage phase to heal any other player by the amount thrown.
+	(**1st) (Starting Ability)**
+			__Combat Medic__: Sacrifice 1 Base Dart. Darts sacrificed this way can be used in the damage phase to heal any other player by the amount thrown.
 	(**2nd**) __Smite__: Additional x1mod on any Attack Dart that hits a black section.
 	(**4th**) __Divine Aura__: Heal 5hp at Regroup phase each round.
 	(**6th**) __Divine Presense__: All players get +1 to attack on all Base Darts.
@@ -22,6 +23,7 @@ Base Darts: 3
 	(**16th**) __Great Mace__: +1 to Direct Hits, additional x2mod to all Damage Darts that hit a black section. All damage you do from Damage Darts is now all Polarity Damage.
 
 **Special Abilities:**
-	(**1st**) __Bless__: Prevent all damage to all players for 2 rounds.
+	(**1st) (Starting Ability)**
+			__Bless__: Prevent all damage to all players for 2 rounds.
 	(**5th**) __Celestial Fire__: Skip one turn. The next regroup phase, sacrifice a Base Dart. A Dart sacrificed in this way has a x10mod in the damage phase and cannot be used again for the rest of the encounter.
 	(**10th**) __Recall__: Instantly transport the whole party to the last town you were in. Heal all players to full Hit Points. (1/Day)

@@ -8,36 +8,36 @@ Created Sunday 15 October 2023
 
 (number/position on the board) (Associated treasure)
 
-1: Potion of Minor Healing (Cost: 1 Gem): This basic potion is stored in a small vial. It restores 10 HP when consumed.
-	x2: Potion of Major Healing (Cost: 4 Gems): This potion, in a substantial crystal vial, restores 40 HP when consumed
-	x3: Potion of Greater Healing (Cost: 10 Gems): This potion, in a larger vial, restores 80 HP when consumed.
-2:
-	x2:
-	x3:
-3:
-	x2:
-	x3:
+1: **Potion of Minor Healing** (Cost: 1 Gem): This basic potion is stored in a small vial. It restores 10 HP when consumed.
+	1x2: **Potion of Major Healing** (Cost: 4 Gems): This potion, in a substantial crystal vial, restores 40 HP when consumed
+	1x3: **Potion of Greater Healing** (Cost: 10 Gems): This potion, in a larger vial, restores 80 HP when consumed.
+2: **Potion of Elemental Burst** (Cost: 4 Gems): Sealed in an ornate, gem-encrusted flask, it adds potent elemental damage (+5) to each dart thrown for 3 rounds.
+	2x2: **Potion of Elemental Cataclysm** (Cost: 6 Gems): Sealed in a flask adorned with swirling elemental patterns, it adds cataclysmic elemental damage (+10) to each dart thrown for 4 rounds.
+	2x3: **Potion of Elemental Mastery** (Cost: 3 Gems): Sealed in an intricately designed flask, it adds powerful elemental control(//negate elemental resistance and immunity//) and damage (//All damage is Elemental Damage, plus an additional +10 damage//) to each dart thrown for 3 rounds.
+3: **Potion of Shadowstep (Cost: 14 Gems):** Stored in a dark, obsidian vial. You are untargetable(1 round).
+	3x2: **Greater Potion of Shadowstep (Cost: 28 Gems):** This enhanced elixir, contained in a deep black vial with silver accents, offers advanced mobility. You are Untargetable. Gain an additional Attack Stage after your first one(1 round).
+	3x3: **Potion of Shadow Mastery (Cost: 122 Gems):** This extraordinary elixir is a rare find, presented in a vial with intricate, swirling shadows. Forfeit all of your base darts. Throw your forfeited base darts as Damage Darts and add the result to your AC(lasts 3 rounds). These darts do no damage. You gain an additional Attack Stage after this.
 4:
-	x2:
-	x3:
+	4x2:
+	4x3:
 5:
-	x2:
-	x3:
+	5x2:
+	5x3:
 6:
-	x2:
-	x3:
+	6x2:
+	6x3:
 7:
-	x2:
-	x3:
+	7x2:
+	7x3:
 8:
-	x2:
-	x3:
+	8x2:
+	8x3:
 9:
-	x2:
-	x3:
+	9x2:
+	9x3:
 10:
-	x2:
-	x3:
+	10x2:
+	10x3:
 11:
 	x2:
 	x3:

@@ -7,5 +7,5 @@ Created Thursday 12 October 2023
 @adventure @index @cavern_of_shadows
 [ [[1.Rules:Interpereting Adventures|Interpreting Adventures]] | [[1.Rules:Understanding Adventures|Understanding Adventures]] | [[4.Adventures|Adventures Card Data]](1.3alpha) ]
 
-1. [[+1.Cavern of Shadows|Cavern of Shadows]] (levels 1-16)
+1. [[+1.Cavern of Shadows|Cavern of Shadows]] (levels 1-11)
 

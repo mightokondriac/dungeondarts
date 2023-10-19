@@ -7,12 +7,13 @@ Created Thursday 12 October 2023
 @classes @sorcerer
 
 **Starting Stats**
-Hit Points: 60
-Armor Class: 1
-Base Darts: 2
+	Hit Points: 60
+	Armor Class: 1
+	Base Darts: 2
 **Natural Abilities:**(by level achived)
-	(**1st**) __Ghost Strike__: Move one Attack Dart over 1 wire(No Bullseye Types).
-		Redirected Approach: Forfiet an Attack Dart and gain a Damage Dart(0xmod). Damage delt this way is dealt instead by a player of your choice. 
+	(**1st) (Starting Abilities)**
+			__Ghost Strike__: Move one Attack Dart over 1 wire(No Bullseye Types).
+			__Redirected Approach__: Forfiet an Attack Dart and gain a Damage Dart(0xmod). Damage delt this way is dealt instead by a player of your choice. 
 	(**2nd**) __Piercing Shot__: Move the Damage Dart over 1 wire for any Attack Dart that hits a Bullseye Type.
 	(**4th**) __Aura of Power__: All players gain a bonus to AC equal to your level.
 	(**6th**) __Ghost Strike__: Move one Attack Dart over 2 wires(no Double Bull).
@@ -22,6 +23,7 @@ Base Darts: 2
 	(**16th**) __Polarity Shift__: All Enemies that have a Status Effect that grants Resistance or Immunity are now Vulnerable to that effect instead.
 
 **Special Abilities:**
-	(**1st**) __Ravens Eye Strike__: All players may move any 1 Attack Dart over 1 wire(No Double Bullseye)(1 round).
+	(**1st) (Starting Ability)**
+			__Ravens Eye Strike__: All players may move any 1 Attack Dart over 1 wire(No Double Bullseye)(1 round).
 	(**5th**) __Ball Lightning__: Every first of 2 Damage Darts does an additional 30hp of damage/round for 3 rounds.
 	(**10th**) __Eagles Eye Strike__: All players may move any 2 Attack Darts over 2 wires(No Bullseye Types)(1 round).
