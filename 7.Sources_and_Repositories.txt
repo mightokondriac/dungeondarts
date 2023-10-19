@@ -6,6 +6,8 @@ Creation-Date: 2023-10-14T17:46:40-04:00
 Created Saturday 14 October 2023
 @resources @index
 
+**TINYURL**
+https://tinyurl.com/dungeondarts
 
 **Github** (versioning and interface)
 https://github.com/mightokondriac
