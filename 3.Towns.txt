@@ -5,6 +5,7 @@ Creation-Date: 2023-10-12T11:32:02-04:00
 ====== Towns ======
 Created Thursday 12 October 2023
 @towns @index @card
+[ [[1.Rules:Interpereting Towns|Interpreting Towns]] | [[1.Rules:Understanding Towns|Understanding Towns]] | [[3.Towns|Town Card Data]](1.3alpha) ]
 
 ==== Towns of region Astralor (level 1-21) ====
 //a region is another name for "Expansion"//
