@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-21T02:03:26-04:00
+
+====== Traps ======
+Created Saturday 21 October 2023
+
+
+
+==== Trap 1 ====
+As your characters cautiously make their way through the dimly lit catacombs beneath the City of Whispers, they come upon a narrow, musty corridor. Cobwebs hang like shrouds from the cracked, ancient stonework. As you proceed, you begin to notice that the path ahead seems more precarious than you first thought. Your eyes catch something glinting in the dim light, and as you draw nearer, a sense of danger takes hold.
+
+Before you, partially hidden amidst the shadows and rubble, you discern a peculiar contraption. A mechanism, intricate yet ancient, seems to be embedded within the cold stone floor. The mechanism consists of a series of tightly wound gears and springs, all intricately designed to serve one sinister purpose.
+
+Closer inspection reveals a crude, makeshift tripwire strung across the corridor. Beyond it, an eerily quiet chamber stretches out with walls lined with the solemn, carved faces of the departed. A musty chill pervades the air. The silence in the chamber is disrupted only by the faint echoes of your own breath and footfalls.
+
+Upon the ceiling, cunningly concealed, is a dark recess from which the trap lies in wait. At its core, a shaft descends from the shadows, with a sharpened steel tip glinting wickedly at the end. It's a spear trap, a weapon of old, carefully aimed at an angle to strike down intruders from above.
+
+The potential consequences of setting off this trap are clear: a swift, deadly projectile, aimed with uncanny precision, will be released. The steel-tipped spear hurtles towards its target with unerring accuracy.
+
+You know that to disarm this devious contraption, you must exercise caution and precision. The Search DC to locate this trap amidst the dimly lit corridor is 20. Disarming the trap requires an intricate touch and knowledge of its inner workings, with a Disable Device DC of 20. Proceed with care, and remember that your movements can be the difference between life and death in these ancient, echoing catacombs.
+
+
+
+
+
