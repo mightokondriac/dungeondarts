@@ -12,7 +12,7 @@ Created Sunday 15 October 2023
 	1**x2**: **Potion of Major Healing** (Cost: 4 Gems): This potion, in a substantial crystal vial, restores 40 HP when consumed
 	1**x3**: **Potion of Greater Healing** (Cost: 10 Gems): This potion, in a larger vial, restores 80 HP when consumed.
 	
-2: **Potion of Elemental Burst** (Cost: 4 Gems): Sealed in an ornate, gem-encrusted flask, it adds potent elemental damage (+5) to each dart thrown for 3 rounds.
+2: **Potion of Elemental Burst** (Cost: 4 Gems): Sealed in an ornate, gem-encrusted flask, it adds potent elemental damage (+5) to each of your Damage Darts thrown for 3 rounds.
 	2**x2**: **Potion of Elemental Cataclysm** (Cost: 6 Gems): Sealed in a flask adorned with swirling elemental patterns, it adds cataclysmic elemental damage (+10) to each dart thrown for 4 rounds.
 	2**x3**: **Potion of Elemental Mastery** (Cost: 3 Gems): Sealed in an intricately designed flask, it adds powerful elemental control(//negate elemental resistance and immunity//) and damage (//All damage is Elemental Damage, plus an additional +10 damage//) to each dart thrown for 3 rounds.
 	
@@ -39,18 +39,21 @@ Created Sunday 15 October 2023
 	8**x2**: **Vial of Muted Powers** (Cost: 112 Gems): Contained within a gleaming platinum vial, this elixir enhances the silence effect. It prohibits the monster from using special abilities for 3 rounds. Additionally, it slightly lowers the monster's Agility for a short duration, making it more vulnerable to attacks during this silenced state.
 	8**x3**: **Vial of Eternal Hush** (Cost: 214 Gems): The Vial of Eternal Hush is an extraordinary elixir presented in a vial adorned with arcane symbols. When thrown at a monster, it imposes a profound silence, preventing the use of special abilities for 4 rounds. Furthermore, it extends the silence to affect the monster's natural abilities as well. During this period, the monster's Armor Class is reduced, making it easier to land successful attacks while it remains in silence.
 	
-9: **Potion of Evasion** (Cost: 2 Gems): This potion, contained in a swirling, green liquid, grants a +2 bonus to AC for 2 rounds.
-	9**x2**: **Potion of Nimble Deflection** (Cost: 6 Gems): This enhanced elixir is stored in an emerald vial and significantly improves the user's agility. It bestows a +3 bonus to Armor Class for 3 rounds. Additionally, it slightly enhances the player's Speed, allowing them to reposition more effectively during combat.
-	9**x3**: **Potion of Ethereal Dodge** (Cost: 12 Gems): The Potion of Ethereal Dodge is an extraordinary elixir presented in a vial adorned with mystical engravings. When consumed, it grants the user an otherworldly grace, providing a +4 bonus to Armor Class for 4 rounds. Moreover, it instills an aura of spectral speed, allowing the player to perform an additional attack stage during the duration of the potion's effect, making them even more formidable in battle.
-10:
-	10x2:
-	10x3:
-11:
-	x2:
-	x3:
-12:
-	x2:
-	x3:
+9: **Potion of Evasion** (Cost: 8 Gems): This potion, contained in a swirling, green liquid, grants a +5 bonus to AC for 2 rounds.
+	9**x2**: **Potion of Nimble Deflection** (Cost: 66 Gems): This enhanced elixir is stored in an emerald vial and significantly improves the user's agility. It bestows a +13 bonus to Armor Class for 3 rounds. Additionally, it slightly enhances the player's Speed, allowing them to reposition more effectively during combat.
+	9**x3**: **Potion of Ethereal Dodge** (Cost: 212 Gems): The Potion of Ethereal Dodge is an extraordinary elixir presented in a vial adorned with mystical engravings. When consumed, it grants the user an otherworldly grace, providing a +24 bonus to Armor Class for 4 rounds. Moreover, it instills an aura of spectral speed, allowing the player to perform an additional attack stage on each of your rounds for the duration of the potion's effect, making them even more formidable in battle.
+	
+10: **Potion of Invisibility** (Cost: 3 Gems): This potion is contained in a shimmering, emerald vial. It renders the player invisible for 1 round, making them immune to enemy attacks.
+	10**x2**: **Potion of Elusive Concealment** (Cost: 9 Gems): This enhanced elixir, stored in an iridescent vial, significantly prolongs the effect of invisibility. It makes the player invisible for 2 rounds, making them immune to enemy attacks. Additionally, it increasing the players AC by +10 for the rest of the day.
+	10**x3**: **Potion of Phantom Veil** (Cost: 188 Gems): The Potion of Phantom Veil is an extraordinary elixir presented in a vial adorned with intricate, arcane patterns. When consumed, it grants the player an extended invisibility, making them invisible for 3 rounds, rendering them immune to enemy attacks. Furthermore, it cloaks the player in an ethereal shroud, making the player immune to Negative Status Effects and grants a +10 to AC for the rest of the Encounter.
+	
+11: **Potion of Reflection** (Cost: 7 Gems): This potion, stored in a flask adorned with intricate reflective patterns, reflects 10 damage taken back to the attacker for 2 rounds.
+	11x2: **Potion of Deflecting Shadows** (Cost: 112 Gems): This enhanced elixir, contained in a gleaming obsidian vial, significantly increases its damage reflection effect. It reflects 20 damage taken back to the attacker for 3 rounds. Additionally, it slightly enhances the player's Evasion, allowing them to avoid some enemy attacks during the reflection period(for each time you are attacked by an enemy, flip a coin, if you win the call negate all damage that would be done to you from that attack).
+	11x3: **Potion of Mirage Ward** (Cost: 280 Gems): The Potion of Mirage Ward is an extraordinary elixir presented in a vial with mesmerizing, swirling designs. When consumed, it greatly amplifies the damage reflection effect. It reflects 30 damage taken back to the attacker for 4 rounds. Moreover, it projects an illusory barrier that not only reflects damage but also offers the player resistance to a variety of elemental attacks, reducing incoming elemental damage by 50% for the rest of the Encounter.
+	
+12: **Potion of Luck** (Cost: 5 Gems): This potion, stored in a small, golden vial, provides +2 to Attack for 1 round.
+	12**x2**: **Potion of Fortune's Favor** (Cost: 18 Gems): This enhanced elixir, encased in a radiant vial adorned with celestial motifs, significantly enhances its effects. It grants the player +6 to Attack for 2 rounds. Additionally, it imbues the player with a touch of fortune, granting them a chance to score a critical hit on their successful Attack Darts during the potion's duration(if you hit a x2 or x3 on an Attack Dart that is not a direct hit, flip a coin: if you win the call, treat that attack as a Direct Hit).
+	12**x3**: **Potion of Destiny's Embrace** (Cost: 42 Gems): The Potion of Destiny's Embrace is an extraordinary elixir presented in a vial adorned with intricate, otherworldly symbols. When consumed, it greatly amplifies its benefits. It grants the player +12 to Attack for 3 rounds. Moreover, it bestows the player with destiny's favor, granting every 
 13:
 	x2:
 	x3:
