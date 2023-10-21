@@ -52,14 +52,14 @@ Created Sunday 15 October 2023
 	11x3: **Potion of Mirage Ward** (Cost: 280 Gems): The Potion of Mirage Ward is an extraordinary elixir presented in a vial with mesmerizing, swirling designs. When consumed, it greatly amplifies the damage reflection effect. It reflects 30 damage taken back to the attacker for 4 rounds. Moreover, it projects an illusory barrier that not only reflects damage but also offers the player resistance to a variety of elemental attacks, reducing incoming elemental damage by 50% for the rest of the Encounter.
 	
 12: **Potion of Luck** (Cost: 5 Gems): This potion, stored in a small, golden vial, provides +2 to Attack for 1 round.
-	12**x2**: **Potion of Fortune's Favor** (Cost: 18 Gems): This enhanced elixir, encased in a radiant vial adorned with celestial motifs, significantly enhances its effects. It grants the player +6 to Attack for 2 rounds. Additionally, it imbues the player with a touch of fortune, granting them a chance to score a critical hit on their successful Attack Darts during the potion's duration(if you hit a x2 or x3 on an Attack Dart that is not a direct hit, flip a coin: if you win the call, treat that attack as a Direct Hit).
-	12**x3**: **Potion of Destiny's Embrace** (Cost: 42 Gems): The Potion of Destiny's Embrace is an extraordinary elixir presented in a vial adorned with intricate, otherworldly symbols. When consumed, it greatly amplifies its benefits. It grants the player +12 to Attack for 3 rounds. Moreover, it bestows the player with destiny's favor, granting every 
-13:
-	x2:
-	x3:
-14:
-	x2:
-	x3:
+	12**x2**: **Potion of Fortune's Favor** (Cost: 38 Gems): This enhanced elixir, encased in a radiant vial adorned with celestial motifs, significantly enhances its effects. It grants the player +6 to Attack for 2 rounds. Additionally, it imbues the player with a touch of fortune, granting them a chance to score a critical hit on their successful Attack Darts during the potion's duration(if you hit a x2 or x3 on an Attack Dart that is not a direct hit, flip a coin: if you win the call, treat that attack as a Direct Hit).
+	12**x3**: **Potion of Destiny's Embrace** (Cost: 142 Gems): The Potion of Destiny's Embrace is an extraordinary brew presented in a bottle adorned with intricate, otherworldly symbols. When consumed, it greatly amplifies its benefits. It grants the player +10 to Attack for 3 rounds. Moreover, it bestows the player with Destiny's Favor, allowing all x2 and x3 sections on the board to be Direct hits in your Attack Stage, while the effects of this potion last.
+13: **Potion of Reckless Assault** (Cost: 9 Gems): This potion, stored in a bottle with a fiery fist symbol, adds +10 damage to all Primary Enemies for 2 rounds.
+	13**x2**: **Elixir of Rampant Destruction** (Cost: 27 Gems): This enhanced elixir, contained in a bottle with raging elemental patterns, significantly amplifies its damage effects. It adds +20 damage to all Primary Enemies for 3 rounds and provides a chance to inflict burning damage over time.
+	13**x3**: **Elixir of Apocalypse** (Cost: 108 Gems): The Elixir of Apocalypse is an extraordinary elixir presented in a vial adorned with intricate, cataclysmic symbols. When consumed, it adds +30 damage to all Primary Enemies for 4 rounds, inflicts burning damage over time, and ensures critical hits on weakened Primary Enemies.
+14: **Potion of Cataclysmic Fury** (Cost: 10 Gems): This potion, sealed in a vial with a thunderbolt emblem, adds +20 damage to all Enemies for 2 rounds.
+	14**x2**: **Elixir of Unstoppable Wrath** (Cost: 130 Gems): This enhanced elixir, stored in a vial with electrifying, pulsating patterns, significantly amplifies its damage effects. It adds +40 damage to all Enemies for 3 rounds and provides a chance to shock enemies, reducing their damage output.
+	14**x3**: **Elixir of Divine Retribution** (Cost: 320 Gems): The Elixir of Divine Retribution is an extraordinary elixir presented in a vial adorned with intricate, divine radiance symbols. When consumed, it greatly amplifies its effects. It adds +60 damage to all Enemies for 4 rounds, shocks enemies to reduce their damage output, and ensures critical hits on weakened Enemies.
 15:
 	x2:
 	x3:
