@@ -11,31 +11,37 @@ Created Sunday 15 October 2023
 1: **Potion of Minor Healing** (Cost: 1 Gem): This basic potion is stored in a small vial. It restores 10 HP when consumed.
 	1**x2**: **Potion of Major Healing** (Cost: 4 Gems): This potion, in a substantial crystal vial, restores 40 HP when consumed
 	1**x3**: **Potion of Greater Healing** (Cost: 10 Gems): This potion, in a larger vial, restores 80 HP when consumed.
+	
 2: **Potion of Elemental Burst** (Cost: 4 Gems): Sealed in an ornate, gem-encrusted flask, it adds potent elemental damage (+5) to each dart thrown for 3 rounds.
 	2**x2**: **Potion of Elemental Cataclysm** (Cost: 6 Gems): Sealed in a flask adorned with swirling elemental patterns, it adds cataclysmic elemental damage (+10) to each dart thrown for 4 rounds.
 	2**x3**: **Potion of Elemental Mastery** (Cost: 3 Gems): Sealed in an intricately designed flask, it adds powerful elemental control(//negate elemental resistance and immunity//) and damage (//All damage is Elemental Damage, plus an additional +10 damage//) to each dart thrown for 3 rounds.
+	
 3: **Potion of Shadowstep (Cost: 14 Gems):** Stored in a dark, obsidian vial. You are untargetable(1 round).
 	3**x2**: **Greater Potion of Shadowstep (Cost: 28 Gems):** This enhanced elixir, contained in a deep black vial with silver accents, offers advanced mobility. You are Untargetable. Gain an additional Attack Stage after your first one(1 round).
 	3**x3**: **Potion of Shadow Mastery (Cost: 122 Gems):** This extraordinary elixir is a rare find, presented in a vial with intricate, swirling shadows. Forfeit all of your base darts. Throw your forfeited base darts as Damage Darts and add the result to your AC(lasts 3 rounds). These darts do no damage. You gain an additional Attack Stage after this.
 
-	4: **Potion of Elemental Warding (Cost: 24 Gems):** This potion, stored in a sapphire vial, offers the player enhanced resistance to elemental damage. When consumed, it reduces the damage taken from elemental attacks by 50% for 3 rounds.
-		4**x2**: **Potion of Arcane Empowerment (Cost: 48 Gems):** This potion enhances the player's magical protection. When consumed, it grants immunity to Status Effects for 2 rounds.
-		4**x3: Potion of Astral Protection (Cost: 200 Gems):** The Potion of Astral Protection creates a protective barrier around the player. When consumed, it grants temporary invulnerability, rendering the player immune to all attacks and Staus Effects for 3 rounds.
-5:
-	5x2:
-	5x3:
-6:
-	6x2:
-	6x3:
-7:
-	7x2:
-	7x3:
-8:
-	8x2:
-	8x3:
-9:
-	9x2:
-	9x3:
+4: **Potion of Elemental Warding (Cost: 24 Gems):** This potion, stored in a sapphire vial, offers the player enhanced resistance to elemental damage. When consumed, it reduces the damage taken from elemental attacks by 50% for 3 rounds.
+	4**x2**: **Potion of Arcane Empowerment (Cost: 48 Gems):** This potion enhances the player's magical protection. When consumed, it grants immunity to Status Effects for 2 rounds.
+	4**x3: Potion of Astral Protection (Cost: 200 Gems):** The Potion of Astral Protection creates a protective barrier around the player. When consumed, it grants temporary invulnerability, rendering the player immune to all attacks and Staus Effects for 3 rounds.
+	
+5: **Vial of Minor Paralysis** (Cost: 12 Gems): This Vial, in a plain glass vial, paralyzes the monster, preventing any action for 1 round.
+	5**x2**: **Vial of Lingering Paralysis** (Cost: 64 Gems): Contained in a sleek, sapphire vial, this elixir induces paralysis in the target, rendering it immobile for 2 rounds. Additionally, it slightly reduces the target's agility, making it easier to land successful attacks during the period of paralysis.
+	5**x3**: **Vial of Eternal Paralysis** (Cost: 112 Gems): The Vial of Eternal Paralysis is a potent elixir, stored in a vial with mystical engravings. When thrown at a monster, it induces a deep and prolonged paralysis, completely immobilizing the target for 3 rounds. Additionally, it inflicts a temporary vulnerability to the target, causing any damage dealt to it during the paralysis to be amplified.
+	
+6: **Vial of Minor Confusion** (Cost: 12 Gems): Sealed in a flask with swirling patterns, this elixir causes the monster to attack randomly, including itself, for 1 round.
+	6**x2**: **Vial of Bewildering Confusion** (Cost: 64 Gems): This elixir, contained in a vivid amethyst vial, plunges the target into a deeper state of confusion. For 2 rounds, the monster attacks randomly, including itself, and may occasionally stumble, providing a minor opportunity for an additional attack or status effect from the player.
+	6**x3**: **Vial of Chaotic Confusion** (Cost: 122 Gems): The Vial of Chaotic Confusion, presented in a vial adorned with intricate engravings, invokes profound disarray in the target. When thrown, it causes the monster to attack randomly for 3 rounds, including the possibility of attacking itself. Additionally, it creates an aura of disruption, slightly lowering the target's Armor Class, making it more susceptible to incoming attacks during this chaotic period.
+	
+7: **Vial of Fear** (Cost: 3 Gems): Stored in a flask with a chilling design, it makes the monster flee in fear for 1 round, skipping its turn.
+	7**x2**: **Vial of Terrifying Dread** (Cost: 9 Gems): Housed in a sinister onyx vial, this elixir intensifies the feeling of fear within the target. For 2 rounds, it compels the monster to flee in terror, skipping its turn. Additionally, it slightly reduces the target's accuracy when it returns to combat, making it easier to evade its attacks.
+	7**x3**: **Vial of Absolute Terror** (Cost: 18 Gems): The Vial of Absolute Terror is a potent elixir contained in a vial adorned with eerie etchings. When thrown at a monster, it plunges the target into a state of absolute dread, forcing it to flee in terror for 3 rounds, skipping its turn. Additionally, it instills a lasting aura of fear, causing the monster's Attack Dart damage to be reduced when it eventually returns to combat, rendering it less effective in battle.
+8: **Vial of Silence** (Cost: 14 Gems): Stored in a silver flask, it prevents the monster from using any special abilities for 2 rounds.
+	8**x2**: **Vial of Muted Powers** (Cost: 112 Gems): Contained within a gleaming platinum vial, this elixir enhances the silence effect. It prohibits the monster from using special abilities for 3 rounds. Additionally, it slightly lowers the monster's Agility for a short duration, making it more vulnerable to attacks during this silenced state.
+	8**x3**: **Vial of Eternal Hush** (Cost: 214 Gems): The Vial of Eternal Hush is an extraordinary elixir presented in a vial adorned with arcane symbols. When thrown at a monster, it imposes a profound silence, preventing the use of special abilities for 4 rounds. Furthermore, it extends the silence to affect the monster's natural abilities as well. During this period, the monster's Armor Class is reduced, making it easier to land successful attacks while it remains in silence.
+	
+9: **Potion of Evasion** (Cost: 2 Gems): This potion, contained in a swirling, green liquid, grants a +2 bonus to AC for 2 rounds.
+	9**x2**: **Potion of Nimble Deflection** (Cost: 6 Gems): This enhanced elixir is stored in an emerald vial and significantly improves the user's agility. It bestows a +3 bonus to Armor Class for 3 rounds. Additionally, it slightly enhances the player's Speed, allowing them to reposition more effectively during combat.
+	9**x3**: **Potion of Ethereal Dodge** (Cost: 12 Gems): The Potion of Ethereal Dodge is an extraordinary elixir presented in a vial adorned with mystical engravings. When consumed, it grants the user an otherworldly grace, providing a +4 bonus to Armor Class for 4 rounds. Moreover, it instills an aura of spectral speed, allowing the player to perform an additional attack stage during the duration of the potion's effect, making them even more formidable in battle.
 10:
 	10x2:
 	10x3:
