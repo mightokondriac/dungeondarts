@@ -8,7 +8,7 @@ Created Saturday 14 October 2023
 josh:
 nearby slices as attack regions(depreciated for Numerical model, developing for PVP)
 new armor class model for players
-
+inside first(easier), then ouside sections of the board for difficulty calculations
 
 
 ...

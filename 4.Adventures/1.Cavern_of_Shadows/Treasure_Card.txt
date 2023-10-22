@@ -59,7 +59,7 @@ Created Sunday 15 October 2023
 	13**x3**: **Elixir of Apocalypse** (Cost: 108 Gems): The Elixir of Apocalypse is an extraordinary elixir presented in a vial adorned with intricate, cataclysmic symbols. When consumed, it adds +30 damage to all Primary Enemies for 4 rounds, inflicts burning damage over time, and ensures critical hits on weakened Primary Enemies.
 14: **Potion of Cataclysmic Fury** (Cost: 10 Gems): This potion, sealed in a vial with a thunderbolt emblem, adds +20 damage to all Enemies for 2 rounds.
 	14**x2**: **Elixir of Unstoppable Wrath** (Cost: 130 Gems): This enhanced elixir, stored in a vial with electrifying, pulsating patterns, significantly amplifies its damage effects. It adds +40 damage to all Enemies for 3 rounds and provides a chance to shock enemies, reducing their damage output.
-	14**x3**: **Elixir of Divine Retribution** (Cost: 320 Gems): The Elixir of Divine Retribution is an extraordinary elixir presented in a vial adorned with intricate, divine radiance symbols. When consumed, it greatly amplifies its effects. It adds +60 damage to all Enemies for 4 rounds, shocks enemies to reduce their damage output, and ensures critical hits on weakened Enemies.
+	14**x3**: **Elixir of Divine `Retribution** (Cost: 320 Gems): The Elixir of Divine Retribution is an extraordinary elixir presented in a vial adorned with intricate, divine radiance symbols. When consumed, it greatly amplifies its effects. It adds +60 damage to all Enemies for 4 rounds, shocks enemies to reduce their damage output, and ensures critical hits on weakened Enemies.
 15:
 	x2:
 	x3:
