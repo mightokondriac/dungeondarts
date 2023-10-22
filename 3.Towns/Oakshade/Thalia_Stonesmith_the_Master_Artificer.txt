@@ -7,22 +7,22 @@ Created Monday 16 October 2023
 
 Thalia, a stoic and precise craftsman, operates a workshop filled with intricate schematics and glowing enchantments. Warriors and mages alike visit her shop for finely wrought armaments and mystical artifacts that grant incredible abilities.
 
-Chronomancer's Hourglass (Neck, Level 8) - An amulet that allows the wearer to briefly reverse time and undo an action once per encounter.
-
-Emberforged Gauntlets (Hands, Level 10) - These gloves channel the power of fire, allowing the wearer to add fire damage to their attacks for a limited duration.
-
-Aegis of the Arcane (Back, Level 12) - A shield that can temporarily absorb enemy spells and release them as a powerful magical projectile.
-
-Viper's Fang Necklace (Neck, Level 14) - This necklace grants the ability to apply poison to ranged attacks, causing damage over time.
-
-Bracelet of the Astral Walker (Wrist, Level 16) - A bracelet that grants the wearer limited teleportation, allowing them to instantly switch places with a nearby ally.
-
-Cursed Chalice (Hands, Level 8) - A chalice that, when filled with the blood of enemies, grants increased strength and speed for a short time.
-
-Mantle of the Guardian (Shoulders, Level 10) - A shoulder mantle that provides resistance to critical hits and grants the wearer a chance to block incoming attacks.
-
-Elixir of Echoes (Neck, Level 12) - When consumed, this elixir duplicates the wearer's next ability usage for a single round.
-
-Runebound Sabatons (Feet, Level 14) - These boots allow the wearer to call upon elemental powers for added attack damage.
-
-Glyphmaster's Ring (Fingers, Level 16) - A ring etched with ancient glyphs, which grants the ability to control and manipulate the battlefield's terrain temporarily.
+	**Chronomancer's Hourglass** (Neck, Level 8) - An amulet that allows the wearer to briefly reverse time and undo an action once per encounter.
+	
+	**Emberforged Gauntlets** (Hands, Level 10) - These gloves channel the power of fire, allowing the wearer to add fire damage to their attacks for a limited duration.
+	
+	**Aegis of the Arcane** (Back, Level 12) - A shield that can temporarily absorb enemy spells and release them as a powerful magical projectile.
+	
+	**Viper's Fang Necklace** (Neck, Level 14) - This necklace grants the ability to apply poison to ranged attacks, causing damage over time.
+	
+	**Bracelet of the Astral Walker** (Wrist, Level 16) - A bracelet that grants the wearer limited teleportation, allowing them to instantly switch places with a nearby ally.
+	
+	**Cursed Chalice** (Hands, Level 8) - A chalice that, when filled with the blood of enemies, grants increased strength and speed for a short time.
+	
+	**Mantle of the Guardian** (Shoulders, Level 10) - A shoulder mantle that provides resistance to critical hits and grants the wearer a chance to block incoming attacks.
+	
+	**Perl of Echoes** (Neck, Level 12) - While worn this necklace doubles the duration of the first Special Ability used(1/Encounter).
+	
+	**Runebound Sabatons** (Feet, Level 14) - These boots allow the wearer to call upon elemental powers for +12 damage for each Damage Dart that is dealing Elemental Damage.
+	
+	**Glyphmaster's Ring** (Fingers, Level 16) - A ring etched with ancient glyphs, which grants the ability to control and manipulate the battlefield's momentum temporarily. Once per Encounter, you may use any other player's Special Abilities thay they have access to, and for what it would cost that, or those, player(s).

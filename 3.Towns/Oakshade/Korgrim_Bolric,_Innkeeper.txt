@@ -5,4 +5,82 @@ Creation-Date: 2023-10-16T01:18:38-04:00
 ====== Korgrim Bolric, Innkeeper ======
 Created Monday 16 October 2023
 
-Grom is a hulking figure, known for his hearty laughter and booming voice. His inn is a sanctuary for battle-hardened adventurers, offering comfortable lodgings and nourishing food. However, the real draw is his expansive training ground, where warriors spar, test their mettle, and seek to improve their combat skills.
+Korgrim is a hulking figure, known for his hearty laughter and booming voice. His inn is a sanctuary for battle-hardened adventurers, offering comfortable lodgings and nourishing food. However, the real draw is his expansive training ground, where warriors spar, test their mettle, and seek to improve their combat skills.
+
+**Korgrim Bolric, Innkeeper**
+
+Korgrim Bolric is not just an innkeeper, but a prominent figure in the realm of warriors and adventurers. His hearty laughter and booming voice are well-known in Astralor, and his inn serves as a sanctuary for battle-hardened heroes. Here, adventurers find not only comfortable lodgings and nourishing food but also the opportunity to enhance their combat skills.
+
+**Innkeeper's Shop:**
+
+Korgrim's shop offers a variety of standard equipment for adventurers, but it also includes a few unique and specialized items. Here are some of the distinctive items available:
+
+1. *Korgrim's Grin (Face)* (Level 12) - This enchanted amulet brings a smile to your face, increasing your charisma and persuasiveness.
+
+2. *Mug of the Giant (Hand)* (Level 10) - When drinking from this massive tankard, your character's voice becomes louder, more commanding, and impossible to ignore. Gain a bonus to intimidation and diplomacy.
+
+3. *Innkeeper's Blade (Wrist)* (Level 14) - A wristband with a hidden blade. Can be used for a surprise attack, dealing extra damage when drawn.
+
+4. *Oaken Shield (Arm)* (Level 8) - A simple but sturdy armguard that grants a bonus to AC. Made from wood, it carries the essence of the inn's strong foundation.
+
+5. *Bolric's Battle Brew (Potion)* - A unique elixir prepared by Korgrim himself. This brew grants a random temporary bonus to AC, Attack, or Damage for the next encounter.
+
+**Training Grounds:**
+
+Korgrim Bolric's training ground is where aspiring warriors come to hone their combat skills. He offers both basic upgrades and advanced training:
+
+1. *Sparring Practice (Level 10, 100 Gems)* - This basic training improves your combat prowess, granting +5 AC and +10 HP for the next encounter.
+
+2. *Master's Guidance (Level 14, 300 Gems)* - Korgrim imparts his wisdom. Gain an understanding of the Forms, unlocking complex and unique attack types that combine damage and status effects for devastating results.
+
+3. *Warrior's Focus (Level 16, 1,000 Gems)* - You learn to merge your attacks, creating powerful strikes that combine attacks and damage throws into one. These focused attacks deliver devastating blows to your enemies.
+
+Korgrim Bolric's inn offers more than just respite and refreshments; it's a place of growth and camaraderie for adventurers seeking to become true heroes.
+
+**Forms Taught by Korgrim Bolric (Master's Guidance Training):**
+
+1. *Galestrike Form* - This form focuses on agility and swiftness. Your attacks become faster, and you can land critical hits more easily, delivering swift and powerful blows.
+
+2. *Stoneheart Form* - This form enhances your defensive capabilities. Your AC increases significantly, and you become resistant to critical strikes, making you a formidable fortress on the battlefield.
+
+3. *Flamebrand Form* - Embracing the power of fire, this form adds an elemental aspect to your attacks. Your attacks now deal additional fire damage, and they can ignite your enemies, causing damage over time.
+
+4. *Shadowstep Form* - This form allows you to disappear and reappear at will. You gain a special ability to teleport, making you difficult to hit and able to reposition strategically during battles.
+
+5. *Tidecrusher Form* - With this form, you harness the power of water. Your attacks gain the ability to slow down enemies, reducing their movement and reaction time, leaving them vulnerable to follow-up strikes.
+
+6. *Thunderclap Form* - Mastering the art of thunder, your attacks become electrified, causing both physical and electrical damage. Enemies struck may also experience a temporary loss of hearing, affecting their ability to react.
+
+7. *Boulderstrike Form* - This form focuses on brute strength. Your attacks gain immense damage and can break through enemy defenses, ignoring a portion of their AC.
+
+8. *Illusionstep Form* - With this form, you can create illusory decoys that distract and confuse enemies. This can make you harder to target, and your enemies may inadvertently attack the illusions, causing them to waste their turns.
+
+9. *Venomfang Form* - Embracing poison, your attacks now have a chance to apply poison to your enemies, causing damage over time and reducing their effectiveness in combat.
+
+10. *Lifedrain Form* - This form allows you to siphon the life force of your enemies with your attacks, healing yourself for a portion of the damage dealt.
+
+These Forms, under the guidance of Korgrim Bolric, offer a range of playstyle options, allowing adventurers to develop unique combat techniques to better suit their character and strategy.
+
+**Warrior's Focus Skills:**
+
+1. *Single Strike Mastery* (Attack Focus): With this skill, you can combine the power of multiple Attack Darts into a single, devastating strike. The attack dart's damage multiplier is increased, causing it to deal even more damage.
+
+2. *Elemental Fusion* (Damage Focus): You master the art of elemental manipulation. All your damage darts now carry an elemental charge, allowing you to deal elemental damage in addition to physical damage, potentially exploiting elemental vulnerabilities.
+
+3. *Polarity Burst* (Damage Focus): Embracing the principles of polarity, your attacks now carry a positive or negative charge. These charges interact with enemy weaknesses and resistances, making your attacks more effective against specific types of enemies.
+
+4. *Unstoppable Force* (Attack Focus): Your powerful strikes cannot be prevented. If your attack damages an enemy, it carries over any excess damage to the next enemy in line, continuing until all damage has been allocated.
+
+5. *Concentrated Barrage* (Attack Focus): With this skill, you learn to focus all your Attack Darts into a single, supercharged dart. The combined Attack Dart becomes your most potent weapon, providing a significant bonus to your attack roll.
+
+6. *Piercing Precision* (Attack Focus): Master the art of precision and gain the ability to bypass enemy defenses. Your supercharged Attack Dart can ignore a portion of an enemy's AC, increasing your chances of hitting and causing significant damage.
+
+7. *Soul Drinker* (Damage Focus): Your attacks are infused with the power of life. Damage you deal to enemies returns as healing for you, allowing you to recover some of your lost hit points.
+
+8. *Onslaught Overload* (Attack Focus): Unleash a relentless onslaught of attacks with unparalleled ferocity. Your supercharged Attack Dart carries the power of many blows, dealing massive damage to your target.
+
+9. *Chain Reaction* (Attack Focus): Your supercharged Attack Dart has the potential to trigger a chain reaction. When it hits an enemy, it can cause damage to multiple enemies in its path, hitting and damaging each in sequence.
+
+10. *Permeating Strike* (Damage Focus): Your attacks are so potent that they bypass enemy resistances. Your supercharged Damage Dart is capable of penetrating resistances and directly affecting an enemy's hit points.
+
+Warrior's Focus Skills provide warriors with a versatile set of combat techniques, enhancing their strategic capabilities and allowing them to adapt to various situations on the battlefield.
