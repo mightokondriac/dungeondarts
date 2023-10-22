@@ -60,15 +60,18 @@ Created Sunday 15 October 2023
 14: **Potion of Cataclysmic Fury** (Cost: 10 Gems): This potion, sealed in a vial with a thunderbolt emblem, adds +20 damage to all Enemies for 2 rounds.
 	14**x2**: **Elixir of Unstoppable Wrath** (Cost: 130 Gems): This enhanced elixir, stored in a vial with electrifying, pulsating patterns, significantly amplifies its damage effects. It adds +40 damage to all Enemies for 3 rounds and provides a chance to shock enemies, reducing their damage output.
 	14**x3**: **Elixir of Divine `Retribution** (Cost: 320 Gems): The Elixir of Divine Retribution is an extraordinary elixir presented in a vial adorned with intricate, divine radiance symbols. When consumed, it greatly amplifies its effects. It adds +60 damage to all Enemies for 4 rounds, shocks enemies to reduce their damage output, and ensures critical hits on weakened Enemies.
-15:
-	x2:
-	x3:
-16:
-	x2:
-	x3:
-17:
-	x2:
-	x3:
+15: **Amulet of Luminance** (Cost: 4 Gems): This amulet glows with a radiant light. It grants the wearer +2 to AC. Additionally, a +1/10(1 damage for every 10 done) bonus damage per Damage Dart when facing undead enemies.
+	15**x2**: **Ring of Vitality** (Cost: 95 Gems): A shimmering ring that enhances the wearer's HP by +20 and provides a +15 AC resistance to poison and disease status effects.
+	15**x3**: **Earrings of the Harmonious Song** (Cost: 333 Gems): These earrings evoke a melodious aura, granting all other players a +4 to attack on all Base Darts(1/Encounter/Day). Additionally these earrings allow the wearer to target Ethereal and Invisible creatures.
+16: **Amulet of the Tempest** (Cost: 16 Gems): This amulet harnesses the power of the storm. It provides a +4 bonus to AC and grants the wearer the ability to cast a lightning bolt spell(1 additional Damage Dart, it is elemental damage) once per encounter.
+	16**x2**: **Ring of the Inferno** (Cost: 37 Gems): A fiery ring that bestows +15 damage to the second Damage Dart per round. +5 AC vs Elemental damage.
+	16**x3**: **Earrings of Aquatic Harmony** (Cost: 5 Gems): These shimmering earrings grant the wearer the ability to cross any distance //underwater// without needing resources. +10 AC vs Elemental damage. 
+	
+17:**Amulet of Timeless Wisdom** (Cost: 50 Gems): This amulet bestows ancient wisdom. It provides a +1 bonus to Direct Hit to each Attack Dart. This priceless amulet all bestows the ability to see glimpses of the past and future, offering insights into puzzles and riddles. You automatically solve One Riddle or Puzzle of your choice(1/day).
+	17**x2**: **Ring of Arcane Mastery** (Cost: 182 Gems): A mysterious ring that enhances magical abilities. It grants +20 damage to each Damage Dart(applies only to Spells). The player may use the ring to cast an Arcane Missile Spell(10 damage to any enemy) once per encounter.
+	17**x3**: **Earrings of Celestial Resonance** (Cost: 1030 Gems): These celestial earrings emit a harmonious aura, providing +4 AC to all players. They allow the wearer to communicate with celestial beings, gaining allies and valuable information.
+		6th level: **Gain Intel:** You may look at the next encounter card(and explain it to the party if desired, but the absolutely not show the other players the card). Use this ability any time you draw an encounter card during an Adventure.
+		16th level: **Gain Control**: If you deliver the Killing Blow to a Primary Enemy, instead of killing that enemy you gain control of that creature as your Minion for the next encounter in an Adventure(Can't be done on the last enemy of an Adventure). This minion has 1/2 of its original HP and only has what were its natural abilities. This minion always blocks for you. No treasure is gained from this enemy at any point, all other normal [[Leveling]] bonuses and/or changes happen as normal.
 18:
 	x2:
 	x3:
