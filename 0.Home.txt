@@ -5,7 +5,7 @@ Creation-Date: 2023-10-14T17:02:07-04:00
 ====== Home ======
 Created Thursday 12 October 2023
 @home @index
-
+{{.\handbook_cover.png}}
 **Our Epic Journey: Crafting a Unique Game**
 
 This incredible adventure began with just "two guys and a dartboard." We set out to transform the traditional dart game Cricket into a collaborative and imaginative version, infusing it with the spirit of Dungeons and Dragons. The core idea was simple yet groundbreaking: instead of competing individually, we made it collaborative, turning every number into an epic battle with its own hit points.
