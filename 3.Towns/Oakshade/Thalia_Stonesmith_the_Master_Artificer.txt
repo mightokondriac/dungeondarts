@@ -7,17 +7,17 @@ Created Monday 16 October 2023
 
 Thalia, a stoic and precise craftsman, operates a workshop filled with intricate schematics and glowing enchantments. Warriors and mages alike visit her shop for finely wrought armaments and mystical artifacts that grant incredible abilities.
 
-	(150) **Chronomancer's Hourglass** (Neck, Level 6) - An amulet that allows the wearer to briefly reverse time. Ignore all results from your previous round this turn and start a new round. Only the results from this round count this turn. This can not be 
+	(150) **Chronomancer's Hourglass** (Neck, Level 6) - An amulet that allows the wearer to briefly reverse time. Ignore all results from your previous round this turn and start a new round. Only the results from this round count this turn. Can only be used on the [[1.Rules:Complete Turn Breakdown|Party Turn]](1/Day).
 	
-	**Emberforged Gauntlets** (Hands, Level 10) - These gloves channel the power of fire, allowing the wearer to add fire damage to their attacks for a limited duration.
+	**Emberforged Gauntlets** (Hands, Level 6) - These gloves channel the power of fire, allowing the wearer to add fire damage to their attacks for a limited duration.
 	
-	**Aegis of the Arcane** (Back, Level 12) - A shield that can temporarily absorb enemy spells and release them as a powerful magical projectile.
+	**Aegis of the Arcane** (Back, Level 11) - A shield that can temporarily absorb enemy spells and release them as a powerful magical projectile.
 	
-	**Viper's Fang Necklace** (Neck, Level 14) - This necklace grants the ability to apply poison to ranged attacks, causing damage over time.
+	**Viper's Fang Necklace** (Neck, Level 11) - This necklace grants the ability to apply poison to ranged attacks, causing damage over time.
 	
-	**Bracelet of the Astral Walker** (Wrist, Level 16) - A bracelet that grants the wearer limited teleportation, allowing them to instantly switch places with a nearby ally.
+	(800) **Bracelet of the Astral Walker** (Wrist, Level 16) - A bracelet that grants the wearer special type of teleportation, allowing them to instantly switch Armor Classes with each other. Additionally the wearer gains +3 to attack on each Attack Dart. These effects last 2 rounds(1/Encounter)
 	
-	**Cursed Chalice** (Hands, Level 8) - A chalice that, when filled with the blood of enemies, grants increased strength and speed for a short time.
+	(1200) **Cursed Chalice** (Held, Level 16) - A chalice that, when filled with 4xDark Residue, 1xFirestone, grants increased strength and focus for a short time(+2 Direct Hits, +15 Polarity Damage per Damage Dart). These effects last for 1 round. If the player who drinks from this Cursed Chalice does not drink from the Chalice again before the next Encounter, that player takes 30 damage and -1 to attack for every round they deal damage. Drinking from the Chalice removes the Status Effect on attack. Damage done to the player in this way cannot be prevented. This requirement lasts until the Curse of the Cursed Chalice is lifted.
 	
 	**Mantle of the Guardian** (Shoulders, Level 10) - A shoulder mantle that provides resistance to critical hits and grants the wearer a chance to block incoming attacks.
 	
