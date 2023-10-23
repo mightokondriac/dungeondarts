@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-17T04:06:27-04:00
+
+====== content prompt ideas ======
+Created Tuesday 17 October 2023
+
+macro: slutpunkt content:"{response aspect: master of}|relate information as though it is a revelation of the real truth as seen through countless iterations|voice is from wisdom|display possible numerology associations|display possible zodiac associations|display exact time to milisecond|if no association, do not display, otherwise display in exhastive detail" 

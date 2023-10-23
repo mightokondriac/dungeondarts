@@ -9,55 +9,27 @@ Created Thursday 12 October 2023
 
 * change all instance of "**Sacrifice**" to "**Forfiet**"
 
+* **Complete Turn** into "**Becket**" meaning "//a loop of metal or rope//" and other things: https://www.merriam-webster.com/dictionary/becket
+
+
+==== original stream of thought: ====
 
 Basically this game started with the dart game Cricket and how to turn it into a dungeons and dragons version of this game of dart. Simply put we made it collaborative instead of competitive, and each number had hitpoints. meaning that instead of each player having to hit a number individually and closing them out or making points on those numbers, the players focus on a single number and try to "deplete" its hitpoints. for instance, in this version we are trying to hit Armor Class 16(hitting a 16 on the board) and the varying degree of the success of this hit (x1(hitting the number), x2(hitting the double on that number), x3(triple on that number), x4(single bullseye), x5(double bullseye)). Then we were doing damage finally to these enemies. Lets say, with my 3 base darts, i throw a 16, a 4, and then a single bullseye. I then have damage darts that are x1, (missed), x4. I throw a 7(x1) and then a 16(x4) dealing 71 points of damage to that enemy. We then wanted treasure (who doesn't?), so we made treasures you could get. and then here we are. we love making crazy powerful items and stories for and why they are what they are. we love making adventures that you would want to play with your friends over and over again. join our adventure of crazy powerful magical items and badass monsters to fight, and a story to take part in that will last for years. The quest that gives years, not take them.
 
-[[+Item Listing Formats|Item Listing Formats]]
+==== [[+Item Listing Formats|Item Listing Formats]] ====
 
-[[+content prompt ideas|content prompt ideas]]
-
-
-**Ability Construction**
-	TYPES:
-	Passive(examples:
-	+{1 to 150, select randomly) to ac,
-	+{10 to 1500}, increments of 10, select randomly) to hp,
-	+{1 to 3, select randomly} base darts,
-	+{1 to 50 select randomly} to attack per dart,
-	+{5 to 100, increments of 5, select randomly} to total damage({1 to 3 or All, select randomly) Damage Dart),
-	)
-	Trigger(examples:
-	whenever a player deals over 100 damage,
-	whenever you take damge,
-	whenever an enemy uses an Evasive Status Effect,
-	the first time you use a Special Ability Point this Encounter,
-	the second time you flip a coin this round,
-	whenever 
-	etc...)
-	Activated(examples: forfeit a Base Dart, forfeit all Attack Darts,  
-	operator: -, +, x
-	numbers: 1-150
-	player stats: hp, ac, base darts, attack darts, damage darts, to attack per attack dart, to damage per damage dart, to attack[1 dart], to damage[1 dart]
-	trigger: whenever(you, a player, another player, an enemy, all enemies),  the (first, second, third) time(you, a player, an enemy)
-	trigger-condition(you): 
-	trigger-condition(a player): 
-	trigger-condition(another player): 
-	trigger-condition(an enemy):
-	trigger-condition(all enemies):
-  
-Ability demo: rand_build = r_sel(simple, unique)|
-
-
+==== [[+Ability Construction|Ability Construction]] ====
 	
 the cards:
 voice activated/tabulated rounds followed by automatic responses with unique descriptors for the event(results)
 QR SCAN TO ADVENTURE MODE
 
-[[+Expanding the Depth of Cards|Expanding the Depth of Cards]]
+==== [[+Expanding the Depth of Cards|Expanding the Depth of Cards]] ====
+=== [[+Expanding the Depth of Cards:content prompt ideas|content prompt ideas]] ===
 
-[[+New Adventures|New Adventures]]
+==== [[+New Adventures|New Adventures]] ====
 
-[[+Traps|Traps]]
+==== [[+Traps|Traps]] ====
 
-Crest Story Arc
-There are about 112 massive trees on this world, known as Astralor. These trees are living entities that live and love and remember and regret. These trees, if you can call them that, are absolutely collosall. several small villages can easily sit in its roots and amongtst its branches. the main story takes place after a century of the locals discoving 3 journals written by a woman named Valearian Trorav'sh. She had delved into the long abandoned, ancient [[TreeHomes]] that had been corrupted in the later days, when the children moved from thier homes and the Houryam itself began to decay: there she found monsters of shadow and power she could barely explain. she was quick and keen and kept her wits and was able to make her way through the levels. After a few of her entries on the various monsters and the treasures that were spoken of, the party set on their way to the first location called The Cavern of Shadows, near Oakshade. 
+==== [[+Crest Story Arc|Crest Story Arc]] ====
+

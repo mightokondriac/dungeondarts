@@ -7,7 +7,7 @@ Created Monday 16 October 2023
 
 Thalia, a stoic and precise craftsman, operates a workshop filled with intricate schematics and glowing enchantments. Warriors and mages alike visit her shop for finely wrought armaments and mystical artifacts that grant incredible abilities.
 
-	**Chronomancer's Hourglass** (Neck, Level 8) - An amulet that allows the wearer to briefly reverse time and undo an action once per encounter.
+	(150) **Chronomancer's Hourglass** (Neck, Level 6) - An amulet that allows the wearer to briefly reverse time. Ignore all results from your previous round this turn and start a new round. Only the results from this round count this turn. This can not be 
 	
 	**Emberforged Gauntlets** (Hands, Level 10) - These gloves channel the power of fire, allowing the wearer to add fire damage to their attacks for a limited duration.
 	
