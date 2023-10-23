@@ -8,3 +8,15 @@ Created Thursday 12 October 2023
 
 	//Stormhaven, a coastal gem in the realm of Astralor, is a bustling maritime town that hums with the energy of adventure and trade. With its labyrinthine docks and bustling harbors, it's a hub for merchants hawking exotic wares, and its taverns echo with tales of intrepid explorers. The town's strategic location grants travelers access to the ocean's vast mysteries and hidden treasures. Here, brave souls gather to prepare for their journeys, fueled by tales of legendary monsters and uncharted realms. While it may appear rough around the edges, Stormhaven is the perfect place for those who long to set sail on the high seas, unearthing forgotten legends and ancient treasures.//
 
+	* The second town the players encounter.
+	* **Relevelent for level 6 - 21**
+==== Merchants ====
+	* Faldric Ironforge - Armorer
+Adventurers visit him not only for the protection but also for the exquisite craftsmanship that makes his wares highly sought after.
+	* Grimm Keeneye - Artificer
+Travelers come to Grimm not only for his quirky inventions but also for his ability to modify and customize their gear.
+	* Elara Moonshadow - Enchanter
+(Level 7+ required to enter)
+Adventurers seek her out to enhance their equipment with potent magical effects.
+	
+==== Activities ====
