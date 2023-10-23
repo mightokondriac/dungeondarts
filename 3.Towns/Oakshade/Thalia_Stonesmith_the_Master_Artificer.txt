@@ -9,20 +9,20 @@ Thalia, a stoic and precise craftsman, operates a workshop filled with intricate
 
 	(150) **Chronomancer's Hourglass** (Neck, Level 6) - An amulet that allows the wearer to briefly reverse time. Ignore all results from your previous round this turn and start a new round. Only the results from this round count this turn. Can only be used on the [[1.Rules:Complete Turn Breakdown|Party Turn]](1/Day).
 	
-	**Emberforged Gauntlets** (Hands, Level 6) - These gloves channel the power of fire, allowing the wearer to add fire damage to their attacks for a limited duration.
+	(  65) **Emberforged Gauntlets** (Hands, Level 6) - These gloves channel the power of fire, allowing the wearer to add +10 Elemental Fire damage to total damage done on each of the wearer's rounds.
 	
-	**Aegis of the Arcane** (Back, Level 11) - A shield that can temporarily absorb enemy spells and release them as a powerful magical projectile.
+	( 140) **Aegis of the Arcane** (Back, Level 11) - A shield that can temporarily absorb enemy spells and release them as a powerful magical projectile(reflect 25 damage from Magical Attacks each Becket).
 	
-	**Viper's Fang Necklace** (Neck, Level 11) - This necklace grants the ability to apply poison to ranged attacks, causing damage over time.
+	( 310) **Viper's Fang Necklace** (Neck, Level 11) - This necklace grants the ability to apply +10 poison to 1 Damage Dart, inflicting +10 additional Poison damage to that enemy on the wearer's next Damage Stage.
 	
-	(800) **Bracelet of the Astral Walker** (Wrist, Level 16) - A bracelet that grants the wearer special type of teleportation, allowing them to instantly switch Armor Classes with each other. Additionally the wearer gains +3 to attack on each Attack Dart. These effects last 2 rounds(1/Encounter)
+	( 800) **Bracelet of the Astral Walker** (Wrist, Level 16) - A bracelet that grants the wearer special type of teleportation, allowing them to instantly switch Armor Classes with each other. Additionally the wearer gains +3 to attack on each Attack Dart. These effects last 2 rounds(1/Encounter)
 	
 	(1200) **Cursed Chalice** (Held, Level 16) - A chalice that, when filled with 4xDark Residue, 1xFirestone, grants increased strength and focus for a short time(+2 Direct Hits, +15 Polarity Damage per Damage Dart). These effects last for 1 round. If the player who drinks from this Cursed Chalice does not drink from the Chalice again before the next Encounter, that player takes 30 damage and -1 to attack for every round they deal damage. Drinking from the Chalice removes the Status Effect on attack. Damage done to the player in this way cannot be prevented. This requirement lasts until the Curse of the Cursed Chalice is lifted.
 	
-	**Mantle of the Guardian** (Shoulders, Level 10) - A shoulder mantle that provides resistance to critical hits and grants the wearer a chance to block incoming attacks.
+	( 600) **Mantle of the Guardian** (Shoulders, Level 11) - A shoulder mantle that provides resistance to status effects and grants the wearer a chance to block incoming attacks(Ignore Status Effects from 1/2-HP Triggered Abilities for the first 3 rounds. Additionally the wearer cannot be targeted unless the player fails a coin flip when targeted).
 	
-	**Perl of Echoes** (Neck, Level 12) - While worn this necklace doubles the duration of the first Special Ability used(1/Encounter).
+	( 250) **Perl of Echoes** (Neck, Level 6) - While worn this necklace doubles the duration of the first Special Ability used this encounter(1/Encounter).
 	
-	**Runebound Sabatons** (Feet, Level 14) - These boots allow the wearer to call upon elemental powers for +12 damage for each Damage Dart that is dealing Elemental Damage.
+	( 175) **Runebound Sabatons** (Feet, Level 6) - These boots allow the wearer to call upon elemental powers for +12 damage for each Damage Dart that is dealing Elemental Damage.
 	
-	**Glyphmaster's Ring** (Fingers, Level 16) - A ring etched with ancient glyphs, which grants the ability to control and manipulate the battlefield's momentum temporarily. Once per Encounter, you may use any other player's Special Abilities thay they have access to, and for what it would cost that, or those, player(s).
+	(4500) **Glyphmaster's Ring** (Fingers, Level 16) - A ring etched with ancient glyphs, which grants the ability to control and manipulate the battlefield's momentum temporarily. Once per Encounter, you may use any number of other player's Special Abilities thay they have access to, and for what it would cost that, or those, player(s).

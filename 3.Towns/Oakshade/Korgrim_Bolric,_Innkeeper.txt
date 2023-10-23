@@ -5,8 +5,6 @@ Creation-Date: 2023-10-16T01:18:38-04:00
 ====== Korgrim Bolric, Innkeeper ======
 Created Monday 16 October 2023
 
-Korgrim is a hulking figure, known for his hearty laughter and booming voice. His inn is a sanctuary for battle-hardened adventurers, offering comfortable lodgings and nourishing food. However, the real draw is his expansive training ground, where warriors spar, test their mettle, and seek to improve their combat skills.
-
 **Korgrim Bolric, Innkeeper**
 
 Korgrim Bolric is not just an innkeeper, but a prominent figure in the realm of warriors and adventurers. His hearty laughter and booming voice are well-known in Astralor, and his inn serves as a sanctuary for battle-hardened heroes. Here, adventurers find not only comfortable lodgings and nourishing food but also the opportunity to enhance their combat skills.
@@ -15,49 +13,49 @@ Korgrim Bolric is not just an innkeeper, but a prominent figure in the realm of 
 
 Korgrim's shop offers a variety of standard equipment for adventurers, but it also includes a few unique and specialized items. Here are some of the distinctive items available:
 
-1. *Korgrim's Grin (Face)* (Level 12) - This enchanted amulet brings a smile to your face, increasing your charisma and persuasiveness.
+( 190) **Korgrim's Grin** (Neck) (Level 11) - This enchanted amulet brings a smile to your face, increasing your charisma and persuasiveness(+4 to Direct Hits for Persuasion Challenges).
 
-2. *Mug of the Giant (Hand)* (Level 10) - When drinking from this massive tankard, your character's voice becomes louder, more commanding, and impossible to ignore. Gain a bonus to intimidation and diplomacy.
+(  50) **Mug of the Giant** (Held) (Level 6) - When drinking from this massive tankard, your character's voice becomes louder, more commanding, and impossible to ignore. Gain a bonus Damage Dart in addition to Intimidation's effects(Fighter).
 
-3. *Innkeeper's Blade (Wrist)* (Level 14) - A wristband with a hidden blade. Can be used for a surprise attack, dealing extra damage when drawn.
+( 220) **Innkeeper's Blade** (Wrist) (Level 11) - A wristband with a hidden blade. Can be used for a surprise attack, dealing extra damage when drawn(gain 1 additional Attack Dart, if a Damage Dart is gained from this, that Damage Dart gains a 2xmod).
 
-4. *Oaken Shield (Arm)* (Level 8) - A simple but sturdy armguard that grants a bonus to AC. Made from wood, it carries the essence of the inn's strong foundation.
+(  100) **Oaken Shield** (Arm) (Level 6) - A simple but sturdy armguard that grants a +10 bonus to AC. Made from wood, it carries the essence of the inn's strong foundation.
 
-5. *Bolric's Battle Brew (Potion)* - A unique elixir prepared by Korgrim himself. This brew grants a random temporary bonus to AC, Attack, or Damage for the next encounter.
+(  25) **Bolric's Battle Brew** (Potion) - A unique elixir prepared by Korgrim himself. This brew grants a random temporary +4 bonus to AC, Attack, or Damage for the duration of the that player's next encounter(roll a 1d6 die, 1-2=AC, 3-4=Attack, 5-6=Damage).
 
 **Training Grounds:**
 
 Korgrim Bolric's training ground is where aspiring warriors come to hone their combat skills. He offers both basic upgrades and advanced training:
 
-1. *Sparring Practice (Level 10, 100 Gems)* - This basic training improves your combat prowess, granting +5 AC and +10 HP for the next encounter.
+1. **Sparring Practice** (Level 6, 600 Gems) - This basic training improves your combat prowess, granting +5 AC and +10 HP permanently.
 
-2. *Master's Guidance (Level 14, 300 Gems)* - Korgrim imparts his wisdom. Gain an understanding of the Forms, unlocking complex and unique attack types that combine damage and status effects for devastating results.
+2. **Master's Guidance** (Level 6, 1300 Gems) - Korgrim imparts his wisdom. Gain an understanding of the **Forms**, unlocking complex and unique attack types that combine damage and status effects for devastating results. //Forms will be available to you now//.
 
-3. *Warrior's Focus (Level 16, 1,000 Gems)* - You learn to merge your attacks, creating powerful strikes that combine attacks and damage throws into one. These focused attacks deliver devastating blows to your enemies.
+3. **Warrior's Focus** (Level 11, 12,000 Gems) - You learn to merge your attacks, creating powerful strikes that combine attacks and damage throws into one. These focused attacks deliver devastating blows to your enemies(combine all Attack Darts into one, adding all of their collective bonuses together into one large bonus –or set of bonuses, for 1 Attack Dart. If this dart Hits successfully, the Damage Dart gained gets an additional xmod equivilent to the attack darts merged together -1).
 
 Korgrim Bolric's inn offers more than just respite and refreshments; it's a place of growth and camaraderie for adventurers seeking to become true heroes.
 
 **Forms Taught by Korgrim Bolric (Master's Guidance Training):**
 
-1. *Galestrike Form* - This form focuses on agility and swiftness. Your attacks become faster, and you can land critical hits more easily, delivering swift and powerful blows.
+1. **Galestrike Form** - This form focuses on agility and swiftness. Your attacks become faster, and you can land critical hits more easily, delivering swift and powerful blows.
 
-2. *Stoneheart Form* - This form enhances your defensive capabilities. Your AC increases significantly, and you become resistant to critical strikes, making you a formidable fortress on the battlefield.
+2. **Stoneheart Form** - This form enhances your defensive capabilities. Your AC increases significantly, and you become resistant to critical strikes, making you a formidable fortress on the battlefield.
 
-3. *Flamebrand Form* - Embracing the power of fire, this form adds an elemental aspect to your attacks. Your attacks now deal additional fire damage, and they can ignite your enemies, causing damage over time.
+3. **Flamebrand Form** - Embracing the power of fire, this form adds an elemental aspect to your attacks. Your attacks now deal additional fire damage, and they can ignite your enemies, causing damage over time.
 
-4. *Shadowstep Form* - This form allows you to disappear and reappear at will. You gain a special ability to teleport, making you difficult to hit and able to reposition strategically during battles.
+4. **Shadowstep Form** - This form allows you to disappear and reappear at will. You gain a special ability to teleport, making you difficult to hit and able to reposition strategically during battles.
 
-5. *Tidecrusher Form* - With this form, you harness the power of water. Your attacks gain the ability to slow down enemies, reducing their movement and reaction time, leaving them vulnerable to follow-up strikes.
+5.**Tidecrusher Form** - With this form, you harness the power of water. Your attacks gain the ability to slow down enemies, reducing their movement and reaction time, leaving them vulnerable to follow-up strikes.
 
-6. *Thunderclap Form* - Mastering the art of thunder, your attacks become electrified, causing both physical and electrical damage. Enemies struck may also experience a temporary loss of hearing, affecting their ability to react.
+6. **Thunderclap Form** - Mastering the art of thunder, your attacks become electrified, causing both physical and electrical damage. Enemies struck may also experience a temporary loss of hearing, affecting their ability to react.
 
-7. *Boulderstrike Form* - This form focuses on brute strength. Your attacks gain immense damage and can break through enemy defenses, ignoring a portion of their AC.
+7. **Boulderstrike Form** - This form focuses on brute strength. Your attacks gain immense damage and can break through enemy defenses, ignoring a portion of their AC.
 
-8. *Illusionstep Form* - With this form, you can create illusory decoys that distract and confuse enemies. This can make you harder to target, and your enemies may inadvertently attack the illusions, causing them to waste their turns.
+8. **Illusionstep Form** - With this form, you can create illusory decoys that distract and confuse enemies. This can make you harder to target, and your enemies may inadvertently attack the illusions, causing them to waste their turns.
 
-9. *Venomfang Form* - Embracing poison, your attacks now have a chance to apply poison to your enemies, causing damage over time and reducing their effectiveness in combat.
+9. **Venomfang Form** - Embracing poison, your attacks now have a chance to apply poison to your enemies, causing damage over time and reducing their effectiveness in combat.
 
-10. *Lifedrain Form* - This form allows you to siphon the life force of your enemies with your attacks, healing yourself for a portion of the damage dealt.
+10. **Lifedrain Form** - This form allows you to siphon the life force of your enemies with your attacks, healing yourself for a portion of the damage dealt.
 
 These Forms, under the guidance of Korgrim Bolric, offer a range of playstyle options, allowing adventurers to develop unique combat techniques to better suit their character and strategy.
 

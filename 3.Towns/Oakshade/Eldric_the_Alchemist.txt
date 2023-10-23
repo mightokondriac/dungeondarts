@@ -20,22 +20,25 @@ A wizened figure with a long, silver beard, Eldric's shop brims with shimmering 
 (  10) **Sonic Shatter Vial**: Creates a sonic shockwave, stunning the target enemy. All enemies take +10dmg / Enemy HP Trigger abilities do not activate on thier turn.(1 round)
 //**(Only available until level 7.)**//
 	(    1) **Minor Healing Potion**: Restores 10 HP to the drinker.
-	(    5)(6) **Burst of Speed Potion**: +1 Base Darts for 2 rounds.
+	(    5)(**6**) **Burst of Speed Potion**: +1 Base Darts for 2 rounds.
 	(    1) **Caring Touch Elixir**: Grants +10hp to any other player.
 	(    4) **Aura of Light Elixir**: Reduce incoming damage by +10 HP for all players(This effect lasts until the damage reduction has been exhausted).
 	(    7) **Shared Strength Elixir**: Enhances a party member's next attack, adding 25 damage to their next Damage Dart.
 
 
 ==== Services ====
-(  30)(6) **Mystical Cleanse**: Eldric brews a special elixir that removes all negative status effects from the drinker when consumed.
-(550)(6) **Elemental Attunement**: Eldric crafts an elixir that temporarily grants the drinker control of  elemental damage for one day. Each time the player would be damaged by elemental damage, they may choose to 1) Take the damage 2) Convert damage to a heal of the same value 3) Reflect the damage back at the enemy.
+(  30)(**6**) **Mystical Cleanse**: Eldric brews a special elixir that removes all negative status effects from the drinker when consumed.
+(550)(**6**) **Elemental Attunement**: Eldric crafts an elixir that temporarily grants the drinker control of  elemental damage for one day. Each time the player would be damaged by elemental damage, they may choose to 1) Take the damage 2) Convert damage to a heal of the same value 3) Reflect the damage back at the enemy.
 
 ==== Recipes ====
 (2250) **Dark Venom Preparation**: Eldric instructs on the creation of a vial of Dark Venom, which has the following Status Effects: +10 Poison damage per Damage Dart for 3 rounds.
 //Ingredients//: 1xVenom, 2xDark Residue
+
 (2400) **Ironhide Potion Concoction**: Eldric imparts the formula for crafting Ironhide Potions. +20 bonus to AC for 60hp when consumed.
 Ingredients: 1x+4 armor, 1xDark Residue, 1 Augment gem
+
 (3350) **Eclipse Brew Formulation**: Eldric teaches adventurers how to create Eclipse Brews, which can cast a shadowy shroud over an area, obscuring vision and providing cover. All players cannot be targeted. Additionally, all polarity damage from players and enemies is reduced by 50%. These effects last 1 round/5 levels of the brewer.
 Ingredients: 1xDark Residue, 1xMoon Petal
+
 (3400) **Umbral Sight Draught Crafting**: Eldric shares the formula for brewing Umbral Sight Draughts, granting the user the ability to see hidden or invisible enemies(11 rounds). Additionally the player who imbibes this draught must have another within 7 days or suffer a temporary -10hp/5 levels per day until the Draught is consumed again(all temporary hp loss is negated). This requirement lasts until the Curse of Umbral Sight is lifted.
 Ingredients: 1xUmbrameldrisk Eye, 1xDark Residue
