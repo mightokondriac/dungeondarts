@@ -31,7 +31,10 @@ QR SCAN TO ADVENTURE MODE
 
 ==== [[+Traps|Traps]] ====
 
-==== [[+Crest Story Arc|Crest Story Arc]] ====
+====== [[+Crest Story Arc|Crest Story Arc]] ======
 
+
+
+seperate beckets
 The challenge/puzzle stage is a seperate Complete Round(Becket). If 1 or more players skip this stage somehow, those players may start a battle with the enemy or enemies in that space than the players still in the challenge/puzzle. As players complete the puzzle they enter into the Battle Becket in the Regroup Stage.
 

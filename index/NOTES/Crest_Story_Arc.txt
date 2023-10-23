@@ -5,4 +5,37 @@ Creation-Date: 2023-10-22T23:39:28-04:00
 ====== Crest Story Arc ======
 Created Sunday 22 October 2023
 
-There are about 112 massive trees on this world, known as Astralor. These trees are living entities that live and love and remember and regret. These trees, if you can call them that, are absolutely collosall. several small villages can easily sit in its roots and amongtst its branches. the main story takes place after a century of the locals discoving 3 journals written by a woman named Valearian Trorav'sh. She had delved into the long abandoned, ancient TreeHomes that had been corrupted in the later days, when the children moved from thier homes and the Houryam itself began to decay: there she found monsters of shadow and power she could barely explain. she was quick and keen and kept her wits and was able to make her way through the levels. After a few of her entries on the various monsters and the treasures that were spoken of, the party set on their way to the first location called The Cavern of Shadows, near Oakshade. 
+^{There are about 112 massive trees on this world, known as Astralor. These trees are living entities that live and love and remember and regret. These trees, if you can call them that, are absolutely collosall. several small villages can easily sit in its roots and amongtst its branches. the main story takes place after a century of the locals discoving 3 journals written by a woman named Valearian Trorav'sh. She had delved into the long abandoned, ancient TreeHomes that had been corrupted in the later days, when the children moved from thier homes and the Houryam itself began to decay: there she found monsters of shadow and power she could barely explain. she was quick and keen and kept her wits and was able to make her way through the levels. After a few of her entries on the various monsters and the treasures that were spoken of, the party set on their way to the first location called The Cavern of Shadows, near Oakshade.} 
+
+--------------------
+In the world of Astralor, a vast and ancient realm, 112 colossal trees stand as living, sentient entities. Each of these immense arboreal giants has stood for millennia, their roots digging deep into the earth, their branches reaching high into the sky. These aren't just trees; they are the Tree Gods of Astralor, and their presence has shaped the fate of the world.
+
+These [[+Tree Gods|Tree Gods]] are more than mere plants; they have memories, emotions, and the wisdom of ages. They've witnessed the rise and fall of civilizations, the changing of the seasons, and the dance of life in their shadowy groves. These majestic trees have long been the sanctuaries and homes of the [[+Dwellers|Dwellers]], the people of the forests and fields. Entire villages have found refuge within the embrace of their colossal roots, while countless creatures have sought shelter amid their sprawling branches.
+
+But, like any living entity, these ancient tree beings can suffer and wither. In recent times, a creeping blight has taken root, infecting these venerable Tree Gods. It's as if a malevolent force is corrupting the very life essence of Astralor itself. Some believe it to be dark and twisted magic, while others see it as a natural transition, signaling the end of the Age of the Tree Gods, making way for the Dwellers to reclaim the forests.
+
+Yet, there are whispers of a darker truth. Rumors abound that some of the Tree Gods themselves have succumbed to the allure of the shadows, willingly embracing the corruption that now threatens their kin. It is this inner turmoil among the Lords of the Treehome that may hold the key to understanding the origins of the blight.
+
+The answer to this enigma lies shrouded in myth and mystery, hidden within the depths of the [[+Treehomes|Treehomes]] themselves. And so, the fate of Astralor is at stake. An ancient prophecy speaks of a group of heroes who will embark on a quest, guided by the winds of destiny, seeking out the truth within the very heart of these colossal beings.
+
+In the village of [[3.Towns:Oakshade|Oakshade]], an old and wise sage will guide the adventurers on their perilous journey. They will learn of a secret cave, a place where ancient knowledge has been preserved, which may hold the key to understanding the evil that is consuming Astralor. Their journey will be fraught with peril, but their quest is nothing short of epic, as they strive to unravel the secrets of the Tree Gods and free them from the encroaching darkness.
+
+As they venture deeper into the Treehomes, the party will face challenges of both body and spirit. They will encounter monsters of shadow and power beyond imagination, delve into long-forgotten chambers, and uncover the treasures and knowledge that hold the fate of their world in the balance. The [[4.Adventures:1.Cavern of Shadows|Cavern of Shadows]] is the first stop on their journey, and the true depths of their quest are yet to be revealed.
+
+The world of Astralor is at a crossroads, and the heroes will need to summon all their strength, courage, and wits to navigate the treacherous path that lies ahead. Theirs is a tale of epic proportions, a story of redemption, courage, and the enduring power of the natural world. Will they rise to the challenge and save their beloved Tree Gods, or will they become lost in the shadows of Astralor's history? Only time will tell.
+
+--------------------
+
+As the heroes set out from the village of Oakshade, they are faced with the enormity of their task. The ancient journals of [[+Valearian Trorav'sh|Valearian Trorav'sh]], a bold explorer who dared to venture into the once-abandoned Treehomes, provide cryptic clues and chilling tales of what lies within. They speak of darkened chambers where monstrous shadows writhe, and of treasures that can only be whispered about.
+
+Their journey is fraught with both wonder and danger. The Treehomes, while immense and magnificent, have become darkened by the insidious blight that corrupts them. Shadows seem to linger even in the daylight, and the air is thick with tension.
+
+The first destination on their quest is the Cavern of Shadows, a place of dread and secrets hidden near the village of Oakshade. It is in this cavern that they hope to find the first thread of truth unraveling the mystery of the blight. However, this cavern is shrouded in darkness, where even the bravest hearts may tremble.
+
+The Cavern of Shadows is not simply a gloomy abyss; it is a gateway to an ancient and forbidden realm. Here, the adventurers will face the unknown. The whispered echoes of the cavern walls will be their only companions as they venture into the abyss, each step bringing them closer to the heart of darkness.
+
+Within the Cavern of Shadows, they will confront malevolent creatures and unearth sinister artifacts. Their every move will be guided by the hope of discovering a fragment of knowledge, a piece of Valearian Trorav'sh's legacy that will illuminate the path ahead.
+
+The prophecy speaks of challenges and revelations, of dangers and triumphs. The world of Astralor is in turmoil, and the Tree Gods need champions to confront the darkness that threatens to consume them. The heroes' destiny is bound to the living heart of the world, and their journey is a testament to the enduring spirit of Astralor.
+
+Their quest to save the Tree Gods, the Dwellers, and the very essence of their world is a tale that will be etched into the annals of history. And with each step they take in the Cavern of Shadows, they come closer to understanding the ancient curse that has befallen Astralor and discovering the path to salvation.

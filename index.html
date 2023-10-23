@@ -242,9 +242,9 @@ Created Saturday 14 October 2023
 <p>
 josh:<br>
 nearby slices as attack regions(depreciated for Numerical model, developing for PVP)<br>
-new armor class model for players
+new armor class model for players<br>
+inside first(easier), then ouside sections of the board for difficulty calculations
 </p>
-<br>
 <br>
 <br>
 <p>
@@ -848,6 +848,7 @@ Created Monday 16 October 2023<br>
 <ol type="1" start="1">
 <li><b>Regroup Stage</b>
 <ol type="1" start="1">
+<li>Beginning of "<i><b>Party Turn</b></i>")</li>
 <li>Recover Base Darts</li>
 <li>Special Abilities that apply to multiple player or are Status Effects that target enemies(as apposed to targeting one of your darts).</li>
 <li>apply and/or continue Status Effects </li>
@@ -865,26 +866,29 @@ Created Monday 16 October 2023<br>
 <li>Damage Dart Allocation</li>
 <li>Damage Dart Evaluation</li>
 </ol></li>
-<li>Player {pos} Round End Stage</li>
+<li><b>Player {pos} Round End Stage</b></li>
 </ol></li>
-<li><b>Party Turn End Stage</b></li>
+<li><b>Party Turn End Stage</b>
+<ol type="a" start="1">
+<li>Beginning of "<i><b>Enemy Turn</b></i>"</li>
+</ol></li>
 <li><b>{minion position} Round</b>
 <ol type="1" start="1">
 <li>Minion Action</li>
 <li>Minion Total Damage</li>
-<li>Minion {pos} Round End Stage</li>
+<li><b>Minion {pos} Round End Stage</b></li>
 </ol></li>
 <li>P<b>rimary Enemy Round</b>
 <ol type="1" start="1">
 <li>Primary Enemy Action</li>
 <li>Primary Enemy Total Damage</li>
-<li>Pimary Enemy Round End Stage</li>
+<li><b>Pimary Enemy Round End Stage</b></li>
 </ol></li>
 <li><b>{secondary enemy position} Round</b>
 <ol type="1" start="1">
 <li>Secondary Enemy Action</li>
 <li>Secondary Enemy Total Damage</li>
-<li>Secondary Enemy {pos} Round End Stage</li>
+<li><b>Secondary Enemy {pos} Round End Stage</b></li>
 </ol></li>
 <li><b>Enemy Turn End Stage</b></li>
 <li><b>Complete Turn End Stage</b>
@@ -911,6 +915,11 @@ Created Monday 16 October 2023<br>
 		
 
 		<a href='#0.Home'>0.Home</a>
+
+		
+		
+
+		<a href='#3.Towns:Oakshade:Thalia Stonesmith the Master Artificer'>3.Towns:Oakshade:Thalia Stonesmith the Master Artificer</a>
 
 		
 		
@@ -3281,6 +3290,11 @@ Created Thursday 12 October 2023<br>
 
 		<a href='#1.Rules:First Steps'>1.Rules:First Steps</a>
 
+		
+		
+
+		<a href='#index:NOTES:Crest Story Arc'>index:NOTES:Crest Story Arc</a>
+
 		<br /><br />
 
 			<b>Attachments:</b>
@@ -3311,96 +3325,42 @@ A wizened figure with a long, silver beard, Eldric's shop brims with shimmering 
 <br>
 <br>
 <p>
-(  50) <b>Shadowstep Potion</b>: Grants the user the ability to briefly traverse the Shadow Plane. Player cannot be targeted(1 round).
-</p>
-<br>
-<p>
-(  80) <b>Spectral Shield Potion</b>: Provides a +10 bonus to AC for 50hp total when consumed.
-</p>
-<br>
-<p>
-(  90) <b>Umbral Sight Potion</b>: Grants the user the ability to see hidden or invisible creatures(1 round).
-</p>
-<br>
-<p>
-(100) <b>Eclipse Brew</b>: Casts a shadowy shroud over an area, obscuring vision and providing cover. All players cannot be targeted(2 rounds)
-</p>
-<br>
-<p>
-(120) <b>Phoenix Elixir</b>: Can revive a fallen player, that is at 0hp, back to 50% of their maximum HP, allowing them to rejoin the battle.
-</p>
-<br>
-<p>
-(  70) <b>Viper Venom Vial</b>: Can be thrown at a target to release a potent venom that inflicts damage over time, dealing 30 damage over three rounds.
-</p>
-<br>
-<p>
-(200) <b>Ironhide Potion</b>: Temporarily enhances the user's armor with a +40 bonus to AC for 120hp when consumed.
-</p>
-<br>
-<p>
-(  25) <b>Potion of Elemental Resistance</b>: Grants resistance to elemental damage(+20AC vs elemental damage) for one round.
-</p>
-<br>
-<p>
-(200) <b>Shadowstrike Elixir</b>: Allows the user to teleport behind an enemy and execute a surprise attack. Player cannot be targeted, x3 Total damage on first Damage Dart (1 round)
-</p>
-<br>
-<p>
-(    1) <b>Minor Healing Potion</b>: Restores 10 HP to the drinker.
-</p>
-<br>
-<p>
-(    5)(6) <b>Burst of Speed Potion</b>: +1 Base Darts for 2 rounds.
-</p>
-<br>
-<p>
-(    1) <b>Caring Touch Elixir</b>: Grants +10hp to any other player.
-</p>
-<br>
-<p>
-(    4) <b>Aura of Light Elixir</b>: Reduce incoming damage by +10 HP for all players(This effect lasts until the damage reduction has been exhausted).
-</p>
-<br>
-<p>
+(  50) <b>Shadowstep Potion</b>: Grants the user the ability to briefly traverse the Shadow Plane. Player cannot be targeted(1 round).<br>
+(  80) <b>Spectral Shield Potion</b>: Provides a +10 bonus to AC for 50hp total when consumed.<br>
+(  90) <b>Umbral Sight Potion</b>: Grants the user the ability to see hidden or invisible creatures(1 round).<br>
+(100) <b>Eclipse Brew</b>: Casts a shadowy shroud over an area, obscuring vision and providing cover. All players cannot be targeted(2 rounds)<br>
+(120) <b>Phoenix Elixir</b>: Can revive a fallen player, that is at 0hp, back to 50% of their maximum HP, allowing them to rejoin the battle.<br>
+(  70) <b>Viper Venom Vial</b>: Can be thrown at a target to release a potent venom that inflicts damage over time, dealing 30 damage over three rounds.<br>
+(200) <b>Ironhide Potion</b>: Temporarily enhances the user's armor with a +40 bonus to AC for 120hp when consumed.<br>
+(  25) <b>Potion of Elemental Resistance</b>: Grants resistance to elemental damage(+20AC vs elemental damage) for one round.<br>
+(200) <b>Shadowstrike Elixir</b>: Allows the user to teleport behind an enemy and execute a surprise attack. Player cannot be targeted, x3 Total damage on first Damage Dart (1 round)<br>
+(  10) <b>Sonic Shatter Vial</b>: Creates a sonic shockwave, stunning the target enemy. All enemies take +10dmg / Enemy HP Trigger abilities do not activate on thier turn.(1 round)<br>
+<i><b>(Only available until level 7.)</b></i><br>
+<div style='padding-left: 30pt'>
+(    1) <b>Minor Healing Potion</b>: Restores 10 HP to the drinker.<br>
+(    5)(6) <b>Burst of Speed Potion</b>: +1 Base Darts for 2 rounds.<br>
+(    1) <b>Caring Touch Elixir</b>: Grants +10hp to any other player.<br>
+(    4) <b>Aura of Light Elixir</b>: Reduce incoming damage by +10 HP for all players(This effect lasts until the damage reduction has been exhausted).<br>
 (    7) <b>Shared Strength Elixir</b>: Enhances a party member's next attack, adding 25 damage to their next Damage Dart.
+</div>
 </p>
 <br>
-<p>
-(  10) <b>Sonic Shatter Vial</b>: Creates a sonic shockwave, stunning the target enemy. All enemies take +10dmg / Enemy HP Trigger abilities do not activate on thier turn.(1 round)
-</p>
 <br>
 <h3>Services<a id="services" class="h_anchor"></a></h3>
 <p>
-(  30)(6) <b>Mystical Cleanse</b>: Eldric brews a special elixir that removes all negative status effects from the drinker when consumed.
-</p>
-<br>
-<p>
+(  30)(6) <b>Mystical Cleanse</b>: Eldric brews a special elixir that removes all negative status effects from the drinker when consumed.<br>
 (550)(6) <b>Elemental Attunement</b>: Eldric crafts an elixir that temporarily grants the drinker control of  elemental damage for one day. Each time the player would be damaged by elemental damage, they may choose to 1) Take the damage 2) Convert damage to a heal of the same value 3) Reflect the damage back at the enemy.
 </p>
 <br>
 <h3>Recipes<a id="recipes" class="h_anchor"></a></h3>
 <p>
-(100) <b>Phoenix Elixir Recipe</b>: Eldric reveals the recipe for crafting Phoenix Elixirs, which can revive a fallen player with 50% of their maximum HP, allowing them to rejoin the battle.
-</p>
-<br>
-<p>
-(250) <b>Dark Venom Preparation</b>: Eldric instructs on the creation of a vial of Dark Venom, which has the following Status Effects: +10 Dmg/round(3), Dart Effect(1)<br>
-Ingredients: 1xVenom, 2xDark Residue
-</p>
-<br>
-<p>
-(400) <b>Ironhide Potion Concoction</b>: Eldric imparts the formula for crafting Ironhide Potions. +20 bonus to AC for 60hp when consumed.<br>
-Ingredients: 1x+4 armor, 1xDark Residue, 1 Augment gem
-</p>
-<br>
-<p>
-(350) <b>Eclipse Brew Formulation</b>: Eldric teaches adventurers how to create Eclipse Brews, which can cast a shadowy shroud over an area, obscuring vision and providing cover. All players cannot be targeted(1 round).<br>
-Ingredients: 1xDark Residue, 1xMoon Petal
-</p>
-<br>
-<p>
-(300) <b>Umbral Sight Draught Crafting</b>: Eldric shares the formula for brewing Umbral Sight Draughts, granting the user the ability to see hidden or invisible creatures(1 round).<br>
+(2250) <b>Dark Venom Preparation</b>: Eldric instructs on the creation of a vial of Dark Venom, which has the following Status Effects: +10 Poison damage per Damage Dart for 3 rounds.<br>
+<i>Ingredients</i>: 1xVenom, 2xDark Residue<br>
+(2400) <b>Ironhide Potion Concoction</b>: Eldric imparts the formula for crafting Ironhide Potions. +20 bonus to AC for 60hp when consumed.<br>
+Ingredients: 1x+4 armor, 1xDark Residue, 1 Augment gem<br>
+(3350) <b>Eclipse Brew Formulation</b>: Eldric teaches adventurers how to create Eclipse Brews, which can cast a shadowy shroud over an area, obscuring vision and providing cover. All players cannot be targeted. Additionally, all polarity damage from players and enemies is reduced by 50%. These effects last 1 round/5 levels of the brewer.<br>
+Ingredients: 1xDark Residue, 1xMoon Petal<br>
+(3400) <b>Umbral Sight Draught Crafting</b>: Eldric shares the formula for brewing Umbral Sight Draughts, granting the user the ability to see hidden or invisible enemies(11 rounds). Additionally the player who imbibes this draught must have another within 7 days or suffer a temporary -10hp/5 levels per day until the Draught is consumed again(all temporary hp loss is negated). This requirement lasts until the Curse of Umbral Sight is lifted.<br>
 Ingredients: 1xUmbrameldrisk Eye, 1xDark Residue
 </p>
 
@@ -3618,37 +3578,37 @@ Thalia, a stoic and precise craftsman, operates a workshop filled with intricate
 <br>
 <p>
 <div style='padding-left: 30pt'>
-<b>Chronomancer's Hourglass</b> (Neck, Level 8) - An amulet that allows the wearer to briefly reverse time and undo an action once per encounter.
+(150) <b>Chronomancer's Hourglass</b> (Neck, Level 6) - An amulet that allows the wearer to briefly reverse time. Ignore all results from your previous round this turn and start a new round. Only the results from this round count this turn. Can only be used on the <a href="#1.Rules:Complete Turn Breakdown" title="Party Turn" class="page">Party Turn</a>(1/Day).
 </div>
 </p>
 <br>
 <p>
 <div style='padding-left: 30pt'>
-<b>Emberforged Gauntlets</b> (Hands, Level 10) - These gloves channel the power of fire, allowing the wearer to add fire damage to their attacks for a limited duration.
+<b>Emberforged Gauntlets</b> (Hands, Level 6) - These gloves channel the power of fire, allowing the wearer to add fire damage to their attacks for a limited duration.
 </div>
 </p>
 <br>
 <p>
 <div style='padding-left: 30pt'>
-<b>Aegis of the Arcane</b> (Back, Level 12) - A shield that can temporarily absorb enemy spells and release them as a powerful magical projectile.
+<b>Aegis of the Arcane</b> (Back, Level 11) - A shield that can temporarily absorb enemy spells and release them as a powerful magical projectile.
 </div>
 </p>
 <br>
 <p>
 <div style='padding-left: 30pt'>
-<b>Viper's Fang Necklace</b> (Neck, Level 14) - This necklace grants the ability to apply poison to ranged attacks, causing damage over time.
+<b>Viper's Fang Necklace</b> (Neck, Level 11) - This necklace grants the ability to apply poison to ranged attacks, causing damage over time.
 </div>
 </p>
 <br>
 <p>
 <div style='padding-left: 30pt'>
-<b>Bracelet of the Astral Walker</b> (Wrist, Level 16) - A bracelet that grants the wearer limited teleportation, allowing them to instantly switch places with a nearby ally.
+(800) <b>Bracelet of the Astral Walker</b> (Wrist, Level 16) - A bracelet that grants the wearer special type of teleportation, allowing them to instantly switch Armor Classes with each other. Additionally the wearer gains +3 to attack on each Attack Dart. These effects last 2 rounds(1/Encounter)
 </div>
 </p>
 <br>
 <p>
 <div style='padding-left: 30pt'>
-<b>Cursed Chalice</b> (Hands, Level 8) - A chalice that, when filled with the blood of enemies, grants increased strength and speed for a short time.
+(1200) <b>Cursed Chalice</b> (Held, Level 16) - A chalice that, when filled with 4xDark Residue, 1xFirestone, grants increased strength and focus for a short time(+2 Direct Hits, +15 Polarity Damage per Damage Dart). These effects last for 1 round. If the player who drinks from this Cursed Chalice does not drink from the Chalice again before the next Encounter, that player takes 30 damage and -1 to attack for every round they deal damage. Drinking from the Chalice removes the Status Effect on attack. Damage done to the player in this way cannot be prevented. This requirement lasts until the Curse of the Cursed Chalice is lifted.
 </div>
 </p>
 <br>
@@ -3832,6 +3792,11 @@ Created Thursday 12 October 2023<br>
 		
 
 		<a href='#1.Rules:First Steps'>1.Rules:First Steps</a>
+
+		
+		
+
+		<a href='#index:NOTES:Crest Story Arc'>index:NOTES:Crest Story Arc</a>
 
 		<br /><br />
 
@@ -4204,16 +4169,16 @@ Created Sunday 15 October 2023<br>
 <p>
 6: <b>Vial of Minor Confusion</b> (Cost: 12 Gems): Sealed in a flask with swirling patterns, this elixir causes the monster to attack randomly, including itself, for 1 round.<br>
 <div style='padding-left: 30pt'>
-6<b>x2</b>: <b>Vial of Bewildering Confusion</b> (Cost: 64 Gems): This elixir, contained in a vivid amethyst vial, plunges the target into a deeper state of confusion. For 2 rounds, the monster attacks randomly, including itself, and may occasionally stumble, providing a minor opportunity for an additional attack or status effect from the player.<br>
-6<b>x3</b>: <b>Vial of Chaotic Confusion</b> (Cost: 122 Gems): The Vial of Chaotic Confusion, presented in a vial adorned with intricate engravings, invokes profound disarray in the target. When thrown, it causes the monster to attack randomly for 3 rounds, including the possibility of attacking itself. Additionally, it creates an aura of disruption, slightly lowering the target's Armor Class, making it more susceptible to incoming attacks during this chaotic period.
+6<b>x2</b>: <b>Vial of Bewildering Confusion</b> (Cost: 164 Gems): This elixir, contained in a vivid amethyst vial, plunges the target into a deeper state of confusion. For 1 round, the monster attacks randomly, including itself(it will target minions first, then itself), and then stumbles, providing a Attack Opportunity(each player has a special attack/damage round during the enemy's turn. Each player can only use 1 Base Dart for these special rounds).<br>
+6<b>x3</b>: <b>Vial of Chaotic Confusion</b> (Cost: 422 Gems): The Vial of Chaotic Confusion, presented in a vial adorned with intricate engravings, invokes profound disarray in the target. When thrown, it causes all Enemies to attack each other(minions attack Primary, Secondary(each) attacks Primary, then Primary attacks Secondary(first)). If there is only one enemy left, it attacks itself. Additionally, it creates an aura of disruption, slightly lowering the Primary's Armor Class by 1(2nd Regroup after use), making it more susceptible to incoming attacks during this chaotic period.
 </div>
 </p>
 <br>
 <p>
 7: <b>Vial of Fear</b> (Cost: 3 Gems): Stored in a flask with a chilling design, it makes the monster flee in fear for 1 round, skipping its turn.<br>
 <div style='padding-left: 30pt'>
-7<b>x2</b>: <b>Vial of Terrifying Dread</b> (Cost: 9 Gems): Housed in a sinister onyx vial, this elixir intensifies the feeling of fear within the target. For 2 rounds, it compels the monster to flee in terror, skipping its turn. Additionally, it slightly reduces the target's accuracy when it returns to combat, making it easier to evade its attacks.<br>
-7<b>x3</b>: <b>Vial of Absolute Terror</b> (Cost: 18 Gems): The Vial of Absolute Terror is a potent elixir contained in a vial adorned with eerie etchings. When thrown at a monster, it plunges the target into a state of absolute dread, forcing it to flee in terror for 3 rounds, skipping its turn. Additionally, it instills a lasting aura of fear, causing the monster's Attack Dart damage to be reduced when it eventually returns to combat, rendering it less effective in battle.
+7<b>x2</b>: <b>Vial of Terrifying Dread</b> (Cost: 19 Gems): Housed in a sinister onyx vial, this elixir intensifies the feeling of fear within the target. For 2 rounds, it compels the monster to flee in terror, skipping its turns. Additionally, it slightly reduces the target's accuracy when it returns to combat(-10dmg for 1 round).<br>
+7<b>x3</b>: <b>Vial of Absolute Terror</b> (Cost: 68 Gems): The Vial of Absolute Terror is a potent elixir contained in a vial adorned with eerie etchings. When thrown at an enemy, it plunges the target into a state of absolute dread, forcing it to flee in terror for 3 rounds, skipping its turns. Additionally, it instills a lasting aura of fear, causing the enemy's Primary Damage to be reduced when it eventually returns to combat(-35dmg, for 1 round), rendering it less effective in battle.
 </div>
 8: <b>Vial of Silence</b> (Cost: 14 Gems): Stored in a silver flask, it prevents the monster from using any special abilities for 2 rounds.<br>
 <div style='padding-left: 30pt'>
@@ -4252,47 +4217,91 @@ Created Sunday 15 October 2023<br>
 12<b>x2</b>: <b>Potion of Fortune's Favor</b> (Cost: 38 Gems): This enhanced elixir, encased in a radiant vial adorned with celestial motifs, significantly enhances its effects. It grants the player +6 to Attack for 2 rounds. Additionally, it imbues the player with a touch of fortune, granting them a chance to score a critical hit on their successful Attack Darts during the potion's duration(if you hit a x2 or x3 on an Attack Dart that is not a direct hit, flip a coin: if you win the call, treat that attack as a Direct Hit).<br>
 12<b>x3</b>: <b>Potion of Destiny's Embrace</b> (Cost: 142 Gems): The Potion of Destiny's Embrace is an extraordinary brew presented in a bottle adorned with intricate, otherworldly symbols. When consumed, it greatly amplifies its benefits. It grants the player +10 to Attack for 3 rounds. Moreover, it bestows the player with Destiny's Favor, allowing all x2 and x3 sections on the board to be Direct hits in your Attack Stage, while the effects of this potion last.
 </div>
-13: <b>Potion of Reckless Assault</b> (Cost: 9 Gems): This potion, stored in a bottle with a fiery fist symbol, adds +10 damage to all Primary Enemies for 2 rounds.<br>
+</p>
+<br>
+<p>
+13: <b>Potion of Reckless Assault</b> (Cost: 19 Gems): This potion, stored in a bottle with a fiery fist symbol, adds +10 damage to all attacks against the Primary Enemy<br>
+ for 2 rounds.<br>
 <div style='padding-left: 30pt'>
-13<b>x2</b>: <b>Elixir of Rampant Destruction</b> (Cost: 27 Gems): This enhanced elixir, contained in a bottle with raging elemental patterns, significantly amplifies its damage effects. It adds +20 damage to all Primary Enemies for 3 rounds and provides a chance to inflict burning damage over time.<br>
-13<b>x3</b>: <b>Elixir of Apocalypse</b> (Cost: 108 Gems): The Elixir of Apocalypse is an extraordinary elixir presented in a vial adorned with intricate, cataclysmic symbols. When consumed, it adds +30 damage to all Primary Enemies for 4 rounds, inflicts burning damage over time, and ensures critical hits on weakened Primary Enemies.
+13<b>x2</b>: <b>Elixir of Rampant Destruction</b> (Cost: 227 Gems): This enhanced elixir, contained in a bottle with raging elemental patterns. It adds +20 damage to all attacks on the Primary Enemy and inflicts +10 burning damage each round for 3 rounds.<br>
+13<b>x3</b>: <b>Elixir of Apocalypse</b> (Cost: 608 Gems): The Elixir of Apocalypse is an extraordinary elixir presented in a vial adorned with intricate, cataclysmic symbols. When consumed, it adds +30 damage to all attacks on the Primary Enemy for 4 rounds and inflicts +20 burning damage each round for 4 rounds.
 </div>
+</p>
+<br>
+<p>
 14: <b>Potion of Cataclysmic Fury</b> (Cost: 10 Gems): This potion, sealed in a vial with a thunderbolt emblem, adds +20 damage to all Enemies for 2 rounds.<br>
 <div style='padding-left: 30pt'>
 14<b>x2</b>: <b>Elixir of Unstoppable Wrath</b> (Cost: 130 Gems): This enhanced elixir, stored in a vial with electrifying, pulsating patterns, significantly amplifies its damage effects. It adds +40 damage to all Enemies for 3 rounds and provides a chance to shock enemies, reducing their damage output.<br>
-14<b>x3</b>: <b>Elixir of Divine Retribution</b> (Cost: 320 Gems): The Elixir of Divine Retribution is an extraordinary elixir presented in a vial adorned with intricate, divine radiance symbols. When consumed, it greatly amplifies its effects. It adds +60 damage to all Enemies for 4 rounds, shocks enemies to reduce their damage output, and ensures critical hits on weakened Enemies.
-</div>
-15:<br>
-<div style='padding-left: 30pt'>
-x2:<br>
-x3:
-</div>
-16:<br>
-<div style='padding-left: 30pt'>
-x2:<br>
-x3:
-</div>
-17:<br>
-<div style='padding-left: 30pt'>
-x2:<br>
-x3:
-</div>
-18:<br>
-<div style='padding-left: 30pt'>
-x2:<br>
-x3:
-</div>
-19:<br>
-<div style='padding-left: 30pt'>
-x2:<br>
-x3:
-</div>
-20:<br>
-<div style='padding-left: 30pt'>
-x2:<br>
-x3:
+14<b>x3</b>: <b>Elixir of Divine `Retribution</b> (Cost: 320 Gems): The Elixir of Divine Retribution is an extraordinary elixir presented in a vial adorned with intricate, divine radiance symbols. When consumed, it greatly amplifies its effects. It adds +60 damage to all Enemies for 4 rounds, shocks enemies to reduce their damage output, and ensures critical hits on weakened Enemies.
 </div>
 </p>
+<br>
+<p>
+15: <b>Amulet of Luminance</b> (Cost: 4 Gems): This amulet glows with a radiant light. It grants the wearer +2 to AC. Additionally, a +1/10(1 damage for every 10 done) bonus damage per Damage Dart when facing undead enemies.<br>
+<div style='padding-left: 30pt'>
+15<b>x2</b>: <b>Ring of Vitality</b> (Cost: 95 Gems): A shimmering ring that enhances the wearer's HP by +20 and provides a +15 AC resistance to poison and disease status effects.<br>
+15<b>x3</b>: <b>Earrings of the Harmonious Song</b> (Cost: 333 Gems): These earrings evoke a melodious aura, granting all other players a +4 to attack on all Base Darts(1/Encounter/Day). Additionally these earrings allow the wearer to target Ethereal and Invisible creatures.
+</div>
+</p>
+<br>
+<p>
+16: <b>Amulet of the Tempest</b> (Cost: 16 Gems): This amulet harnesses the power of the storm. It provides a +4 bonus to AC and grants the wearer the ability to cast a lightning bolt spell(1 additional Damage Dart, it is elemental damage) once per encounter.<br>
+<div style='padding-left: 30pt'>
+16<b>x2</b>: <b>Ring of the Inferno</b> (Cost: 37 Gems): A fiery ring that bestows +15 damage to the second Damage Dart per round. +5 AC vs Elemental damage.<br>
+16<b>x3</b>: <b>Earrings of Aquatic Harmony</b> (Cost: 5 Gems): These shimmering earrings grant the wearer the ability to cross any distance <i>underwater</i> without needing resources. +10 AC vs Elemental damage. 
+</div>
+</p>
+<br>
+<p>
+17:<b>Amulet of Timeless Wisdom</b> (Cost: 50 Gems): This amulet bestows ancient wisdom. It provides a +1 bonus to Direct Hit to each Attack Dart. This priceless amulet all bestows the ability to see glimpses of the past and future, offering insights into puzzles and riddles. You automatically solve One Riddle or Puzzle of your choice(1/day).<br>
+<div style='padding-left: 30pt'>
+17<b>x2</b>: <b>Ring of Arcane Mastery</b> (Cost: 182 Gems): A mysterious ring that enhances magical abilities. It grants +20 damage to each Damage Dart(applies only to Spells). The player may use the ring to cast an Arcane Missile Spell(10 damage to any enemy) once per encounter.<br>
+17<b>x3</b>: <b>Earrings of Celestial Resonance</b> (Cost: 1030 Gems): These celestial earrings emit a harmonious aura, providing +4 AC to all players. They allow the wearer to communicate with celestial beings, gaining allies and valuable information.
+</div>
+<div style='padding-left: 60pt'>
+6th level: <b>Gain Intel:</b> You may look at the next encounter card(and explain it to the party if desired, but the absolutely not show the other players the card). Use this ability any time you draw an encounter card during an Adventure.<br>
+16th level: <b>Gain Control</b>: If you deliver the Killing Blow to a Primary Enemy, instead of killing that enemy you gain control of that creature as your Minion for the next encounter in an Adventure(Can't be done on the last enemy of an Adventure). This minion has 1/2 of its original HP and only has what were its natural abilities. This minion always blocks for you. Any instance of the word "Player" in the card text is now "Enemy". No treasure is gained from this enemy at any point by any player, all other normal Leveling bonuses and/or changes happen as normal. These effects only trigger when the Minion version of the enemy dies.
+</div>
+</p>
+<br>
+<p>
+18: <b>Amulet of Infernal Flames</b> (Cost: 20 Gems): This amulet channels the power of fire. It provides the wearer immunity to elemental damage(2 rounds) and grants +30 bonus elemental damage to the next Damage Dart(1/day).<br>
+<div style='padding-left: 30pt'>
+18<b>x2</b>: <b>Ring of Aquatic Mastery</b> (Cost: 122 Gems): A ring that bestows mastery over water. It allows the wearer to breathe underwater, swim with ease, and grants +10 bonus damage to all elemental-enhanced Damage Darts.<br>
+18<b>x3</b>: <b>Earrings of Earthen Resilience</b> (Cost: 318 Gems): These earthy earrings enhance resilience. They grant the wearer immunity to status effects that target all players. Additionally the wearer gains a +10 to AC.
+</div>
+</p>
+<br>
+<p>
+19: <b>Quiver of Endless Arrows</b> (Cost: 28 Gems): This magical quiver is always brimming with arrows, eliminating the need to restock. It grants an additional Attack Dart.<br>
+<div style='padding-left: 30pt'>
+19x2: <b>Masterwork Quiver</b> (Cost: 422 Gems): This finely crafted quiver is a mark of exceptional craftsmanship. It's magically replenished with ammunition, eliminating the need to restock. It grants an additional Attack Dart for each Base Dart the wearer has and a +2 bonus to attack for 2 rounds(1/Encounter).<br>
+19x3: <b>Quiver of the Infinite Hand</b> (Cost: 1112 Gems): This extraordinary quiver is enchanted with boundless ammunition, never needing to be restocked. It grants an additional 2 Attack Darts each round. Additionally, each time one of the wearers Attack Darts hits a Direct Hit, gain an additional Attack Dart this round.
+</div>
+</p>
+<br>
+<p>
+20: <b>Elixir of Empowerment</b> (Cost: 10 Gems): This potent elixir boosts your party's morale, granting a +2 bonus to attack for 2 rounds.<br>
+<div style='padding-left: 30pt'>
+20<b>x2</b>: <b>Amulet of Resplendent Might</b> (Cost: 175 Gems): Wearing this amulet empowers your party with resplendent might. It grants a +8 bonus to attack for 4 rounds and a +13 bonus to AC for 3 rounds(1/day).<br>
+20<b>x3</b>: <b>Vial of Radiant Supremacy</b> (Cost: 400 Gems): This vial contains a liquid of radiant supremacy. When thrown at an enemy, it inflicts radiant damage equal to 6 times your party's level (min 60 damage). Affected enemies are blinded for 2 rounds and take double damage(each Damage Dart, after xmods) for 3 rounds.
+</div>
+</p>
+<br>
+<p>
+<b>Single Bullseye</b> - <b>Potion of Unerring Focus</b> (Cost: 88 Gems): This potion, contained in an ornate vial with an eye emblem, enhances the player's focus and precision for 3 rounds. It provides a +20 bonus to Attack, and all Attack Darts gain "Flip a coin, on a successful call, ignore enemy Armor Class(this does not effect Direct Hits rule)".<br>
+<div style='padding-left: 30pt'>
+SB<b>x2:</b> <b>Potion of Elemental Harmony</b> (Cost: 30 Gems): Housed in a radiant crystal vial, this enchanting potion grants the player harmonious synergy with all elements. For 3 rounds, the player deals bonus elemental damage(+20/Complete Turn) and absorbs a portion of elemental damage taken, turning it into healing.<br>
+SB<b>x3: Elixir of Phantasmal Finesse</b> (Cost: 35 Gems): This elusive elixir is contained within a vial that shimmers with otherworldly illusions. Upon consumption, the player becomes a master of misdirection and evasion. For 4 rounds, the player's attacks become nearly impossible to dodge, and they have a high chance of dealing critical damage.
+</div>
+</p>
+<br>
+<p>
+<b>Double Bullseye</b> - <b>Vial of Celestial Annihilation</b> (Cost: 1100 Gems): Sealed in an elaborate vial adorned with celestial symbols, this vial harnesses otherworldly power. When thrown, it triggers a cataclysmic explosion that deals 150 damage to all enemies and imposes a random negative status effect (Stun, Paralize, Elemental/Polarity/Poison Damage(20/round), Silence) for 2 rounds. Additionally, it grants a +30 bonus to Attack and AC for 2 rounds, making the player impervious to damage from enemies during this time. This vial can only be used once per encounter.
+</p>
+<br>
+<br>
+<br>
 
 	</div>
 
@@ -4961,22 +4970,69 @@ Created Thursday 12 October 2023
 <li>change all instance of "<b>Sacrifice</b>" to "<b>Forfiet</b>"</li>
 </ul>
 <br>
+<ul>
+<li><b>Complete Turn</b> into "<b>Becket</b>" meaning "<i>a loop of metal or rope</i>" and other things: <a href="https://www.merriam-webster.com/dictionary/becket" title="https://www.merriam-webster.com/dictionary/becket" class="https">https://www.merriam-webster.com/dictionary/becket</a></li>
+</ul>
+<br>
+<br>
+<h3>original stream of thought:<a id="original-stream-of-thought" class="h_anchor"></a></h3>
 <br>
 <p>
 Basically this game started with the dart game Cricket and how to turn it into a dungeons and dragons version of this game of dart. Simply put we made it collaborative instead of competitive, and each number had hitpoints. meaning that instead of each player having to hit a number individually and closing them out or making points on those numbers, the players focus on a single number and try to "deplete" its hitpoints. for instance, in this version we are trying to hit Armor Class 16(hitting a 16 on the board) and the varying degree of the success of this hit (x1(hitting the number), x2(hitting the double on that number), x3(triple on that number), x4(single bullseye), x5(double bullseye)). Then we were doing damage finally to these enemies. Lets say, with my 3 base darts, i throw a 16, a 4, and then a single bullseye. I then have damage darts that are x1, (missed), x4. I throw a 7(x1) and then a 16(x4) dealing 71 points of damage to that enemy. We then wanted treasure (who doesn't?), so we made treasures you could get. and then here we are. we love making crazy powerful items and stories for and why they are what they are. we love making adventures that you would want to play with your friends over and over again. join our adventure of crazy powerful magical items and badass monsters to fight, and a story to take part in that will last for years. The quest that gives years, not take them.
 </p>
 <br>
+<h3><a href="#index:NOTES:Item Listing Formats" title="Item Listing Formats" class="page">Item Listing Formats</a><a id="item-listing-formats" class="h_anchor"></a></h3>
+<br>
+<h3><a href="#index:NOTES:Ability Construction" title="Ability Construction" class="page">Ability Construction</a><a id="ability-construction" class="h_anchor"></a></h3>
+<br>
 <p>
-<a href="#index:NOTES:Item Listing Formats" title="Item Listing Formats" class="page">Item Listing Formats</a>
+the cards:<br>
+voice activated/tabulated rounds followed by automatic responses with unique descriptors for the event(results)<br>
+QR SCAN TO ADVENTURE MODE
+</p>
+<br>
+<h3><a href="#index:NOTES:Expanding the Depth of Cards" title="Expanding the Depth of Cards" class="page">Expanding the Depth of Cards</a><a id="expanding-the-depth-of-cards" class="h_anchor"></a></h3>
+<h4><a href="#index:NOTES:Expanding the Depth of Cards:content prompt ideas" title="content prompt ideas" class="page">content prompt ideas</a><a id="content-prompt-ideas" class="h_anchor"></a></h4>
+<br>
+<h3><a href="#index:NOTES:New Adventures" title="New Adventures" class="page">New Adventures</a><a id="new-adventures" class="h_anchor"></a></h3>
+<br>
+<h3><a href="#index:NOTES:Traps" title="Traps" class="page">Traps</a><a id="traps" class="h_anchor"></a></h3>
+<br>
+<h1><a href="#index:NOTES:Crest Story Arc" title="Crest Story Arc" class="page">Crest Story Arc</a><a id="crest-story-arc" class="h_anchor"></a></h1>
+<br>
+<br>
+<br>
+<p>
+seperate beckets<br>
+The challenge/puzzle stage is a seperate Complete Round(Becket). If 1 or more players skip this stage somehow, those players may start a battle with the enemy or enemies in that space than the players still in the challenge/puzzle. As players complete the puzzle they enter into the Battle Becket in the Regroup Stage.
+</p>
+<br>
+
+	</div>
+
+	<br />
+
+	<div class='page-footer'>
+		<b>Backlinks:</b>
+
+		<a href='#0.Home'>0.Home</a>
+
+		<br /><br />
+
+	</div>
+
+	<hr />
+
+	<div class='heading'>
+	<h1>Ability Construction <a name='index:NOTES:Ability Construction'></a></h1>
+	</div>
+
+	<div class='content'>
+	<p>
+Created Sunday 22 October 2023
 </p>
 <br>
 <p>
-<a href="#index:NOTES:content prompt ideas" title="content prompt ideas" class="page">content prompt ideas</a>
-</p>
-<br>
-<br>
-<p>
-<b>Ability Construction</b><br>
 <div style='padding-left: 30pt'>
 TYPES:<br>
 Passive(examples:<br>
@@ -5011,30 +5067,6 @@ trigger-condition(all enemies):
 Ability demo: rand_build = r_sel(simple, unique)|
 </p>
 <br>
-<br>
-<br>
-<p>
-the cards:<br>
-voice activated/tabulated rounds followed by automatic responses with unique descriptors for the event(results)<br>
-QR SCAN TO ADVENTURE MODE
-</p>
-<br>
-<p>
-<a href="#index:NOTES:Expanding the Depth of Cards" title="Expanding the Depth of Cards" class="page">Expanding the Depth of Cards</a>
-</p>
-<br>
-<p>
-<a href="#index:NOTES:New Adventures" title="New Adventures" class="page">New Adventures</a>
-</p>
-<br>
-<p>
-<a href="#index:NOTES:Traps" title="Traps" class="page">Traps</a>
-</p>
-<br>
-<p>
-Crest Story Arc<br>
-There are about 112 massive trees on this world, known as Astralor. These trees are living entities that live and love and remember and regret. These trees, if you can call them that, are absolutely collosall. several small villages can easily sit in its roots and amongtst its branches. the main story takes place after a century of the locals discoving 3 journals written by a woman named Valearian Trorav'sh. She had delved into the long abandoned, ancient <a href="#index:TreeHomes" title="TreeHomes" class="page">TreeHomes</a> that had been corrupted in the later days, when the children moved from thier homes and the Houryam itself began to decay: there she found monsters of shadow and power she could barely explain. she was quick and keen and kept her wits and was able to make her way through the levels. After a few of her entries on the various monsters and the treasures that were spoken of, the party set on their way to the first location called The Cavern of Shadows, near Oakshade. 
-</p>
 
 	</div>
 
@@ -5043,7 +5075,7 @@ There are about 112 massive trees on this world, known as Astralor. These trees 
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
-		<a href='#0.Home'>0.Home</a>
+		<a href='#index:NOTES'>index:NOTES</a>
 
 		<br /><br />
 
@@ -5052,16 +5084,81 @@ There are about 112 massive trees on this world, known as Astralor. These trees 
 	<hr />
 
 	<div class='heading'>
-	<h1>content prompt ideas <a name='index:NOTES:content prompt ideas'></a></h1>
+	<h1>Crest Story Arc <a name='index:NOTES:Crest Story Arc'></a></h1>
 	</div>
 
 	<div class='content'>
 	<p>
-Created Tuesday 17 October 2023
+Created Sunday 22 October 2023
 </p>
 <br>
 <p>
-<a href="#index:NOTES:macro:slutpunkt" title="macro:slutpunkt" class="page">macro:slutpunkt</a> content:"{response aspect: master of}|relate information as though it is a revelation of the real truth as seen through countless iterations|voice is from wisdom|display possible numerology associations|display possible zodiac associations|display exact time to milisecond|if no association, do not display, otherwise display in exhastive detail" 
+<sup>There are about 112 massive trees on this world, known as Astralor. These trees are living entities that live and love and remember and regret. These trees, if you can call them that, are absolutely collosall. several small villages can easily sit in its roots and amongtst its branches. the main story takes place after a century of the locals discoving 3 journals written by a woman named Valearian Trorav'sh. She had delved into the long abandoned, ancient TreeHomes that had been corrupted in the later days, when the children moved from thier homes and the Houryam itself began to decay: there she found monsters of shadow and power she could barely explain. she was quick and keen and kept her wits and was able to make her way through the levels. After a few of her entries on the various monsters and the treasures that were spoken of, the party set on their way to the first location called The Cavern of Shadows, near Oakshade.</sup> 
+</p>
+<br>
+
+<hr>
+<p>
+In the world of Astralor, a vast and ancient realm, 112 colossal trees stand as living, sentient entities. Each of these immense arboreal giants has stood for millennia, their roots digging deep into the earth, their branches reaching high into the sky. These aren't just trees; they are the Tree Gods of Astralor, and their presence has shaped the fate of the world.
+</p>
+<br>
+<p>
+These <a href="#index:NOTES:Crest Story Arc:Tree Gods" title="Tree Gods" class="page">Tree Gods</a> are more than mere plants; they have memories, emotions, and the wisdom of ages. They've witnessed the rise and fall of civilizations, the changing of the seasons, and the dance of life in their shadowy groves. These majestic trees have long been the sanctuaries and homes of the <a href="#index:NOTES:Crest Story Arc:Dwellers" title="Dwellers" class="page">Dwellers</a>, the people of the forests and fields. Entire villages have found refuge within the embrace of their colossal roots, while countless creatures have sought shelter amid their sprawling branches.
+</p>
+<br>
+<p>
+But, like any living entity, these ancient tree beings can suffer and wither. In recent times, a creeping blight has taken root, infecting these venerable Tree Gods. It's as if a malevolent force is corrupting the very life essence of Astralor itself. Some believe it to be dark and twisted magic, while others see it as a natural transition, signaling the end of the Age of the Tree Gods, making way for the Dwellers to reclaim the forests.
+</p>
+<br>
+<p>
+Yet, there are whispers of a darker truth. Rumors abound that some of the Tree Gods themselves have succumbed to the allure of the shadows, willingly embracing the corruption that now threatens their kin. It is this inner turmoil among the Lords of the Treehome that may hold the key to understanding the origins of the blight.
+</p>
+<br>
+<p>
+The answer to this enigma lies shrouded in myth and mystery, hidden within the depths of the <a href="#index:NOTES:Crest Story Arc:Treehomes" title="Treehomes" class="page">Treehomes</a> themselves. And so, the fate of Astralor is at stake. An ancient prophecy speaks of a group of heroes who will embark on a quest, guided by the winds of destiny, seeking out the truth within the very heart of these colossal beings.
+</p>
+<br>
+<p>
+In the village of <a href="#3.Towns:Oakshade" title="Oakshade" class="page">Oakshade</a>, an old and wise sage will guide the adventurers on their perilous journey. They will learn of a secret cave, a place where ancient knowledge has been preserved, which may hold the key to understanding the evil that is consuming Astralor. Their journey will be fraught with peril, but their quest is nothing short of epic, as they strive to unravel the secrets of the Tree Gods and free them from the encroaching darkness.
+</p>
+<br>
+<p>
+As they venture deeper into the Treehomes, the party will face challenges of both body and spirit. They will encounter monsters of shadow and power beyond imagination, delve into long-forgotten chambers, and uncover the treasures and knowledge that hold the fate of their world in the balance. The <a href="#4.Adventures:1.Cavern of Shadows" title="Cavern of Shadows" class="page">Cavern of Shadows</a> is the first stop on their journey, and the true depths of their quest are yet to be revealed.
+</p>
+<br>
+<p>
+The world of Astralor is at a crossroads, and the heroes will need to summon all their strength, courage, and wits to navigate the treacherous path that lies ahead. Theirs is a tale of epic proportions, a story of redemption, courage, and the enduring power of the natural world. Will they rise to the challenge and save their beloved Tree Gods, or will they become lost in the shadows of Astralor's history? Only time will tell.
+</p>
+<br>
+
+<hr>
+<br>
+<p>
+As the heroes set out from the village of Oakshade, they are faced with the enormity of their task. The ancient journals of <a href="#index:NOTES:Crest Story Arc:Valearian Trorav'sh" title="Valearian Trorav'sh" class="page">Valearian Trorav'sh</a>, a bold explorer who dared to venture into the once-abandoned Treehomes, provide cryptic clues and chilling tales of what lies within. They speak of darkened chambers where monstrous shadows writhe, and of treasures that can only be whispered about.
+</p>
+<br>
+<p>
+Their journey is fraught with both wonder and danger. The Treehomes, while immense and magnificent, have become darkened by the insidious blight that corrupts them. Shadows seem to linger even in the daylight, and the air is thick with tension.
+</p>
+<br>
+<p>
+The first destination on their quest is the Cavern of Shadows, a place of dread and secrets hidden near the village of Oakshade. It is in this cavern that they hope to find the first thread of truth unraveling the mystery of the blight. However, this cavern is shrouded in darkness, where even the bravest hearts may tremble.
+</p>
+<br>
+<p>
+The Cavern of Shadows is not simply a gloomy abyss; it is a gateway to an ancient and forbidden realm. Here, the adventurers will face the unknown. The whispered echoes of the cavern walls will be their only companions as they venture into the abyss, each step bringing them closer to the heart of darkness.
+</p>
+<br>
+<p>
+Within the Cavern of Shadows, they will confront malevolent creatures and unearth sinister artifacts. Their every move will be guided by the hope of discovering a fragment of knowledge, a piece of Valearian Trorav'sh's legacy that will illuminate the path ahead.
+</p>
+<br>
+<p>
+The prophecy speaks of challenges and revelations, of dangers and triumphs. The world of Astralor is in turmoil, and the Tree Gods need champions to confront the darkness that threatens to consume them. The heroes' destiny is bound to the living heart of the world, and their journey is a testament to the enduring spirit of Astralor.
+</p>
+<br>
+<p>
+Their quest to save the Tree Gods, the Dwellers, and the very essence of their world is a tale that will be etched into the annals of history. And with each step they take in the Cavern of Shadows, they come closer to understanding the ancient curse that has befallen Astralor and discovering the path to salvation.
 </p>
 
 	</div>
@@ -5072,6 +5169,116 @@ Created Tuesday 17 October 2023
 		<b>Backlinks:</b>
 
 		<a href='#index:NOTES'>index:NOTES</a>
+
+		<br /><br />
+
+	</div>
+
+	<hr />
+
+	<div class='heading'>
+	<h1>Dwellers <a name='index:NOTES:Crest Story Arc:Dwellers'></a></h1>
+	</div>
+
+	<div class='content'>
+	
+	</div>
+
+	<br />
+
+	<div class='page-footer'>
+		<b>Backlinks:</b>
+
+		<a href='#index:NOTES:Crest Story Arc'>index:NOTES:Crest Story Arc</a>
+
+		<br /><br />
+
+	</div>
+
+	<hr />
+
+	<div class='heading'>
+	<h1>Tree Gods <a name='index:NOTES:Crest Story Arc:Tree Gods'></a></h1>
+	</div>
+
+	<div class='content'>
+	<p>
+Created Monday 23 October 2023
+</p>
+<br>
+<p>
+<img src="./index_files/index/NOTES/Crest_Story_Arc/Tree_Gods/image_214AwT6O_1697762113795_raw.jpg">
+</p>
+
+	</div>
+
+	<br />
+
+	<div class='page-footer'>
+		<b>Backlinks:</b>
+
+		<a href='#index:NOTES:Crest Story Arc'>index:NOTES:Crest Story Arc</a>
+
+		<br /><br />
+
+			<b>Attachments:</b>
+			<table>
+
+			<tr><td><a href='./index_files/index/NOTES/Crest_Story_Arc/Tree_Gods/image_214AwT6O_1697762113795_raw.jpg'>image_214AwT6O_1697762113795_raw.jpg</a></td><td>&nbsp;</td><td>574kb</td></tr>
+
+			</table>
+	</div>
+
+	<hr />
+
+	<div class='heading'>
+	<h1>Treehomes <a name='index:NOTES:Crest Story Arc:Treehomes'></a></h1>
+	</div>
+
+	<div class='content'>
+	<p>
+Created Monday 23 October 2023
+</p>
+<br>
+<p>
+<img src="./index_files/index/NOTES/Crest_Story_Arc/Treehomes/image_6_36mu6X_1698016956937_raw.jpg">
+</p>
+
+	</div>
+
+	<br />
+
+	<div class='page-footer'>
+		<b>Backlinks:</b>
+
+		<a href='#index:NOTES:Crest Story Arc'>index:NOTES:Crest Story Arc</a>
+
+		<br /><br />
+
+			<b>Attachments:</b>
+			<table>
+
+			<tr><td><a href='./index_files/index/NOTES/Crest_Story_Arc/Treehomes/image_6_36mu6X_1698016956937_raw.jpg'>image_6_36mu6X_1698016956937_raw.jpg</a></td><td>&nbsp;</td><td>864kb</td></tr>
+
+			</table>
+	</div>
+
+	<hr />
+
+	<div class='heading'>
+	<h1>Valearian Trorav'sh <a name='index:NOTES:Crest Story Arc:Valearian Trorav'sh'></a></h1>
+	</div>
+
+	<div class='content'>
+	
+	</div>
+
+	<br />
+
+	<div class='page-footer'>
+		<b>Backlinks:</b>
+
+		<a href='#index:NOTES:Crest Story Arc'>index:NOTES:Crest Story Arc</a>
 
 		<br /><br />
 
@@ -5757,6 +5964,34 @@ These are just some of the many components commonly found in games across differ
 	<hr />
 
 	<div class='heading'>
+	<h1>content prompt ideas <a name='index:NOTES:Expanding the Depth of Cards:content prompt ideas'></a></h1>
+	</div>
+
+	<div class='content'>
+	<p>
+Created Tuesday 17 October 2023
+</p>
+<br>
+<p>
+macro: slutpunkt content:"{response aspect: master of}|relate information as though it is a revelation of the real truth as seen through countless iterations|voice is from wisdom|display possible numerology associations|display possible zodiac associations|display exact time to milisecond|if no association, do not display, otherwise display in exhastive detail" 
+</p>
+
+	</div>
+
+	<br />
+
+	<div class='page-footer'>
+		<b>Backlinks:</b>
+
+		<a href='#index:NOTES'>index:NOTES</a>
+
+		<br /><br />
+
+	</div>
+
+	<hr />
+
+	<div class='heading'>
 	<h1>Legend of the Firebird <a name='index:NOTES:Expanding the Depth of Cards:Legend of the Firebird'></a></h1>
 	</div>
 
@@ -5967,43 +6202,6 @@ Involvement Types(Activated Sub Types):<br>
 		<b>Backlinks:</b>
 
 		<a href='#index:NOTES'>index:NOTES</a>
-
-		<br /><br />
-
-	</div>
-
-	<hr />
-
-	<div class='heading'>
-	<h1>macro <a name='index:NOTES:macro'></a></h1>
-	</div>
-
-	<div class='content'>
-	
-	</div>
-
-	<br />
-
-	<div class='page-footer'>
-
-	</div>
-
-	<hr />
-
-	<div class='heading'>
-	<h1>slutpunkt <a name='index:NOTES:macro:slutpunkt'></a></h1>
-	</div>
-
-	<div class='content'>
-	
-	</div>
-
-	<br />
-
-	<div class='page-footer'>
-		<b>Backlinks:</b>
-
-		<a href='#index:NOTES:content prompt ideas'>index:NOTES:content prompt ideas</a>
 
 		<br /><br />
 
@@ -6283,27 +6481,6 @@ You know that to disarm this devious contraption, you must exercise caution and 
 <br>
 <br>
 
-	</div>
-
-	<br />
-
-	<div class='page-footer'>
-		<b>Backlinks:</b>
-
-		<a href='#index:NOTES'>index:NOTES</a>
-
-		<br /><br />
-
-	</div>
-
-	<hr />
-
-	<div class='heading'>
-	<h1>TreeHomes <a name='index:TreeHomes'></a></h1>
-	</div>
-
-	<div class='content'>
-	
 	</div>
 
 	<br />
