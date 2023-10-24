@@ -11,12 +11,24 @@ Created Thursday 12 October 2023
 	* The second town the players encounter.
 	* **Relevelent for level 6 - 21**
 ==== Merchants ====
-	* Faldric Ironforge - Armorer
-Adventurers visit him not only for the protection but also for the exquisite craftsmanship that makes his wares highly sought after.
-	* Grimm Keeneye - Artificer
-Travelers come to Grimm not only for his quirky inventions but also for his ability to modify and customize their gear.
-	* Elara Moonshadow - Enchanter
-(Level 7+ required to enter)
-Adventurers seek her out to enhance their equipment with potent magical effects.
+	* [[+Faldric Ironforge|Faldric Ironforge]] - Armorer
+	Adventurers visit him not only for the protection but also for the exquisite craftsmanship that makes his wares highly sought after.
+	* [[+Grimm Keeneye|Grimm Keeneye]] - Artificer
+	Travelers come to Grimm not only for his quirky inventions but also for his ability to modify and customize their gear.
+	* [[+Elara Moonshadow|Elara Moonshadow]] - Enchanter **(Level 7+ required to enter)**
+	Adventurers seek her out to enhance their equipment with potent magical effects.
 	
 ==== Activities ====
+**Skip the Drun**(once/player/day)
+	Join a local competition to see who can get the most skips with a stone down the Drun River. Every coin flip that is successfully called is a "Skip". See how many Skips you can get in 60 seconds.
+		**Rewards**
+			5 Skips: 1 Gem
+			10 Skips: 3 Gems
+			15 Skips: 5 Gems
+
+**Blessing Tree**(once/player/day)
+The most ancient Oak tree that anyone in Stormhaven has ever known. It is said that if you land an acorn directly in a hole in the trunk you will be blessed for the day.
+	Each partifipating player has 3 chances to hit a Bullseye Type. Successes do not stack. Take highest value throw.
+	**Single Bullseye**: Prevent 10 dmg per attack on you.
+	**Double Bullseye**: Prevent 15 dmg per attack on you.
+	(//These effects lasts for one day.//)

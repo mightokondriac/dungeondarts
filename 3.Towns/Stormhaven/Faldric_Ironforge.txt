@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-10-24T11:43:09-04:00
+
+====== Faldric Ironforge ======
+Created Tuesday 24 October 2023
+
+Faldric specializes in crafting and selling high-quality armor. His shop is filled with an array of protective gear, including Dragonhide Armor, Frostforged Plate, and the Wyrmhide Vest. Adventurers visit him not only for the protection but also for the exquisite craftsmanship that makes his wares highly sought after.
+
+(   16) **Dragonhide Armor (Chest)**
+Offers superior protection with a +4 bonus to armor class.
+
+(    12) **Frostforged Plate (Chest)**
+Resistant to Elemental Cold damage(5dmg/rnd) and provides a +3 bonus to armor class.
+
+(1412)(**12**) **Shadowmail (Chest)**
+Shadowy armor that reduces incoming damage by half each round. Offers unparalleled protection and grants a +4 bonus to armor class/per 5 levels.
+
+(    18) **Diamondweave Tunic (Chest)**
+Adds +15 to maximum hit points and provides a +1 bonus to armor class.
+
+(  194)(**7**) **Wyrmhide Vest (Chest)**
+Absorbs 20 Elemental Fire damage per round and grants a +2 bonus to armor class/per 5 levels.
+
+(2127)(**16**) **Phoenix Feather Robe (Shoulders)**
+A robe woven from the feathers of a phoenix. Reflects up to 100 damage back to attackers per round and grants a +1 bonus to armor class/per level. If a player's hitpoints would be reduced to 0 while wearing this robe, that player is immediatly resurected and restored to 1/2 original Hit Points, and the Pheonix Feather Robe is destroyed.
