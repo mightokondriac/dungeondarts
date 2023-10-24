@@ -7,26 +7,26 @@ Created Tuesday 24 October 2023
 
 Travelers come to Grimm not only for his quirky inventions but also for his ability to modify and customize their gear.
 
-(  700) Masterwork Bracers of Precision (Arms):
+(  470) Masterwork Bracers of Precision (Arms):
 Grimm fuses these bracers with precision enchantments, granting a +6 bonus to Attack for the wearer. These bracers are ideal for warriors and archers seeking increased accuracy.
 
 (  100) Stalwart Leg Guards (Legs):
 These heavy metal leg guards are infused with resilience. Grimm adds his expertise, providing a permanent +6 bonus to Armor Class to the wearer. They're perfect for frontline fighters who need extra protection.
 
-Grimm's Gadget Gauntlets (Arms):
+(  300) Grimm's Gadget Gauntlets (Arms):
 These gauntlets come with a unique twist. Grimm equips them with a set of concealed tools and gadgets that can be used in various situations. The wearer gains access to 2 charges can be activated to instantly solve any Lock or Lock Trap.
 
-Duelist's Blade (Held Item):
-Grimm's mastery over held items results in a beautifully balanced dueling blade. When wielded in combat, this blade provides a +3 bonus to Attack and Damage rolls, making it a perfect weapon for precision-based combatants.
+(  250) Duelist's Blades (Held Item):
+Grimm's mastery of blade design results in a beautifully balanced dueling blade. When wielded in combat, this blade provides a +3 bonus to Attack and Damage on all Base , making it a perfect weapon for precision-based combatants.
 
-Legionnaire's Greaves (Legs):
-The Legionnaire's Greaves are reinforced with masterwork craftsmanship. Grimm imparts a permanent +3 bonus to Attack per round when equipped, allowing those who wear them to become more formidable as the battle rages on.
+( 175) Legionnaire's Greaves (Legs):
+The Legionnaire's Greaves are reinforced with masterwork craftsmanship. These greaves imparts a +3 bonus to Attack for each Attack Dart and an additional +10 AC when equipped, allowing those who wear them to become more formidable as the battle rages on.
 
-Inferno Wristguard (Arms):
-These wristguards are enchanted with the essence of fire. Grimm's expertise ensures they emit a continuous aura of flames, dealing an additional 3d4 fire damage to every successful melee attack made by the wearer.
+( 340)Inferno Wristguard (Arms):
+These wristguards are enchanted with the essence of fire. Grimm's expertise ensures they emit a continuous aura of flames, dealing an additional +14 Elemental Fire damage per Damage Dart.
 
-Electro-Shock Gauntlets (Arms):
-These gauntlets are electrifying. Grimm installs a shocking mechanism that, upon a critical hit, discharges a bolt of lightning, dealing an extra 4d6 lightning damage to the target.
+( 550) Electro-Shock Gauntlets (Arms):
+These gauntlets are electrifying. Grimm installs a shocking mechanism that, upon a critical hit with an Attack Dart, discharges a bolt of lightning, dealing an extra +10 Elemental damage for each multiplier in the xmod beyond x1(on that Damage Dart): x2mod=+10dmg, x3mod+20dmg, x4mod+30dmg, x5mod+40dmg.
 
-Grimm's Arcane Attuner (Held Item):
-The Arcane Attuner is Grimm's masterpiece, a device that attaches to any held item. This attuner allows the wielder to cast a spell of their choice, up to 7th level, once per day without expending spell slots.
+( 700) Grimm's Arcane Attuner (Device/Held):
+The Arcane Attuner is Grimm's masterpiece, a device that attaches to any held item. This attuner allows the wielder to absobe any spell directed at them. This spell is canceled, and a single copy(single charge) of that spell is stored in the Attuner Device. The wielder may cast this spell whenever they would normally be able to, at which point the single usage is expended. (1/day)
