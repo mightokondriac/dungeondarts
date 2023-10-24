@@ -5,5 +5,28 @@ Creation-Date: 2023-10-24T11:43:28-04:00
 ====== Grimm Keeneye ======
 Created Tuesday 24 October 2023
 
-Grimm Keeneye - Artificer
 Travelers come to Grimm not only for his quirky inventions but also for his ability to modify and customize their gear.
+
+(  700) Masterwork Bracers of Precision (Arms):
+Grimm fuses these bracers with precision enchantments, granting a +6 bonus to Attack for the wearer. These bracers are ideal for warriors and archers seeking increased accuracy.
+
+(  100) Stalwart Leg Guards (Legs):
+These heavy metal leg guards are infused with resilience. Grimm adds his expertise, providing a permanent +6 bonus to Armor Class to the wearer. They're perfect for frontline fighters who need extra protection.
+
+Grimm's Gadget Gauntlets (Arms):
+These gauntlets come with a unique twist. Grimm equips them with a set of concealed tools and gadgets that can be used in various situations. The wearer gains access to 2 charges can be activated to instantly solve any Lock or Lock Trap.
+
+Duelist's Blade (Held Item):
+Grimm's mastery over held items results in a beautifully balanced dueling blade. When wielded in combat, this blade provides a +3 bonus to Attack and Damage rolls, making it a perfect weapon for precision-based combatants.
+
+Legionnaire's Greaves (Legs):
+The Legionnaire's Greaves are reinforced with masterwork craftsmanship. Grimm imparts a permanent +3 bonus to Attack per round when equipped, allowing those who wear them to become more formidable as the battle rages on.
+
+Inferno Wristguard (Arms):
+These wristguards are enchanted with the essence of fire. Grimm's expertise ensures they emit a continuous aura of flames, dealing an additional 3d4 fire damage to every successful melee attack made by the wearer.
+
+Electro-Shock Gauntlets (Arms):
+These gauntlets are electrifying. Grimm installs a shocking mechanism that, upon a critical hit, discharges a bolt of lightning, dealing an extra 4d6 lightning damage to the target.
+
+Grimm's Arcane Attuner (Held Item):
+The Arcane Attuner is Grimm's masterpiece, a device that attaches to any held item. This attuner allows the wielder to cast a spell of their choice, up to 7th level, once per day without expending spell slots.
