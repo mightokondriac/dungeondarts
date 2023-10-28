@@ -72,30 +72,6 @@
         <!-- Navigation will be inserted here by JavaScript -->
 </nav>
 
-  <script>
-        function createNavigation() {
-            const h1Elements = document.querySelectorAll('h1');
-            const navigation = document.getElementById('site-navigation');
-            const ul = document.createElement('ul');
-
-            h1Elements.forEach((h1, index) => {
-                const li = document.createElement('li');
-                const a = document.createElement('a');
-                a.textContent = h1.textContent;
-                a.href = `#section${index}`;
-                li.appendChild(a);
-                ul.appendChild(li);
-                h1.id = `section${index}`;
-            });
-
-            navigation.appendChild(ul);
-        }
-
-        // Call the function to create the navigation
-        createNavigation();
-    </script>
-
-
 
 <!-- Header
 <div class='header'>
@@ -6752,6 +6728,28 @@ You know that to disarm this devious contraption, you must exercise caution and 
 	
 
 </div>
+  <script>
+        function createNavigation() {
+            const h1Elements = document.querySelectorAll('h1');
+            const navigation = document.getElementById('site-navigation');
+            const ul = document.createElement('ul');
+
+            h1Elements.forEach((h1, index) => {
+                const li = document.createElement('li');
+                const a = document.createElement('a');
+                a.textContent = h1.textContent;
+                a.href = `#section${index}`;
+                li.appendChild(a);
+                ul.appendChild(li);
+                h1.id = `section${index}`;
+            });
+
+            navigation.appendChild(ul);
+        }
+
+        // Call the function to create the navigation
+        createNavigation();
+    </script>
 
 </body>
 </html>
