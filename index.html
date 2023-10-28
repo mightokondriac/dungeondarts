@@ -6728,14 +6728,27 @@ You know that to disarm this devious contraption, you must exercise caution and 
 	
 
 </div>
- <script>
+   <script>
         function createNavigation() {
             const h1Elements = document.querySelectorAll('h1');
             const navigation = document.getElementById('site-navigation');
-            const navText = Array.from(h1Elements).map(h1 => h1.textContent).join(' | ');
-            navigation.textContent = navText;
             
             h1Elements.forEach((h1, index) => {
+                const a = document.createElement('a');
+                a.textContent = h1.textContent;
+                a.href = `#section${index}`;
+                a.addEventListener('click', () => {
+                    h1.scrollIntoView({ behavior: 'smooth' });
+                });
+                navigation.appendChild(a);
+                
+                // Add a vertical bar (|) after each navigation item except the last one
+                if (index < h1Elements.length - 1) {
+                    const separator = document.createElement('span');
+                    separator.textContent = ' | ';
+                    navigation.appendChild(separator);
+                }
+
                 h1.id = `section${index}`;
             });
         }
