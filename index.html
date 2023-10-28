@@ -6728,30 +6728,16 @@ You know that to disarm this devious contraption, you must exercise caution and 
 	
 
 </div>
-  <script>
+ <script>
         function createNavigation() {
             const h1Elements = document.querySelectorAll('h1');
             const navigation = document.getElementById('site-navigation');
-            const ul = document.createElement('ul');
+            const navText = Array.from(h1Elements).map(h1 => h1.textContent).join(' | ');
+            navigation.textContent = navText;
             
             h1Elements.forEach((h1, index) => {
-                const li = document.createElement('li');
-                const a = document.createElement('a');
-                a.textContent = h1.textContent;
-                a.href = `#section${index}`;
-                li.appendChild(a);
-                ul.appendChild(li);
                 h1.id = `section${index}`;
-                
-                // Add a vertical bar (|) after each navigation item except the last one
-                if (index < h1Elements.length - 1) {
-                    const separator = document.createElement('span');
-                    separator.textContent = ' | ';
-                    ul.appendChild(separator);
-                }
             });
-
-            navigation.appendChild(ul);
         }
 
         // Call the function to create the navigation
